@@ -1,16 +1,20 @@
 {
+  "slug": "toros-arikan",
+  "display": "Toros Arikan",
   "query_name": "Toros Arikan",
   "openalex_id": "https://openalex.org/A5066250773",
-  "display_name": "Toros Arikan",
+  "openalex_name": "Toros Arikan",
   "affiliation": "Rice University",
   "works_count": 15,
   "cited_by_count": 76,
+  "photo": "assets/faculty/toros-arikan.jpg",
   "num_works_fetched": 15,
   "works": [
     {
       "id": "https://openalex.org/W4285371564",
       "title": "A Semi-Blind Method for Localization of Underwater Acoustic Sources",
       "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5081331925",
@@ -42,6 +46,7 @@
       "id": "https://openalex.org/W2292957225",
       "title": "Experimental results with HF underwater acoustic modem for high bandwidth applications",
       "year": 2015,
+      "date": "2015-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006258193",
@@ -73,6 +78,7 @@
       "id": "https://openalex.org/W3119897449",
       "title": "Receiver Designs for Low-Latency HF Communications",
       "year": 2020,
+      "date": "2020-12-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -88,6 +94,7 @@
       "id": "https://openalex.org/W1523298302",
       "title": "Comparison of OFDM and single-carrier schemes for Doppler Tolerant Acoustic Communications",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -111,6 +118,7 @@
       "id": "https://openalex.org/W4312451640",
       "title": "Direct Localization in Underwater Acoustics Via Convolutional Neural Networks: A Data-Driven Approach",
       "year": 2022,
+      "date": "2022-08-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5081331925",
@@ -130,6 +138,7 @@
       "id": "https://openalex.org/W4318220080",
       "title": "An architecture for passive joint localization and structure learning in reverberant environments",
       "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -161,6 +170,7 @@
       "id": "https://openalex.org/W4372259844",
       "title": "Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network",
       "year": 2023,
+      "date": "2023-05-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -192,6 +202,7 @@
       "id": "https://openalex.org/W4400204880",
       "title": "A deep learning method for reflective boundary estimation",
       "year": 2024,
+      "date": "2024-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -223,6 +234,7 @@
       "id": "https://openalex.org/W2792840817",
       "title": "Minimum-delay HF communications",
       "year": 2017,
+      "date": "2017-04-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -234,6 +246,7 @@
       "id": "https://openalex.org/W2799983563",
       "title": "Doppler-Based Ultrasonic Blood Velocity Estimation",
       "year": 2014,
+      "date": "2014-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -245,6 +258,7 @@
       "id": "https://openalex.org/W4286750823",
       "title": "Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach",
       "year": 2022,
+      "date": "2022-07-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5081331925",
@@ -264,6 +278,7 @@
       "id": "https://openalex.org/W4367145685",
       "title": "An architecture for passive joint localization and environment learning in shallow-water underwater acoustic settings",
       "year": 2023,
+      "date": "2023-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -295,6 +310,7 @@
       "id": "https://openalex.org/W4404307497",
       "title": "MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees",
       "year": 2024,
+      "date": "2024-10-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -310,6 +326,7 @@
       "id": "https://openalex.org/W4404356229",
       "title": "Estimating the Number and Locations of Boundaries in Reverberant Environments with Deep Learning",
       "year": 2024,
+      "date": "2024-11-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -345,6 +362,7 @@
       "id": "https://openalex.org/W4408355088",
       "title": "Estimating the Number and Locations of Boundaries in Reverberant Environments with Deep Learning",
       "year": 2025,
+      "date": "2025-03-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",

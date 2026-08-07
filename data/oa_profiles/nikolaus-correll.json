@@ -1,16 +1,20 @@
 {
+  "slug": "nikolaus-correll",
+  "display": "Nikolaus Correll",
   "query_name": "Nikolaus Correll",
   "openalex_id": "https://openalex.org/A5047458039",
-  "display_name": "Nikolaus Correll",
+  "openalex_name": "Nikolaus Correll",
   "affiliation": null,
   "works_count": 174,
   "cited_by_count": 6186,
+  "photo": "assets/faculty/nikolaus-correll.jpg",
   "num_works_fetched": 174,
   "works": [
     {
       "id": "https://openalex.org/W2618733545",
       "title": "Soft Robotics: Review of Fluid\u2010Driven Intrinsically Soft Devices; Manufacturing, Sensing, Control, and Applications in Human\u2010Robot Interaction",
       "year": 2017,
+      "date": "2017-05-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039441236",
@@ -54,6 +58,7 @@
       "id": "https://openalex.org/W2029953460",
       "title": "Materials that couple sensing, actuation, computation, and communication",
       "year": 2015,
+      "date": "2015-03-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111377884",
@@ -69,6 +74,7 @@
       "id": "https://openalex.org/W1964750332",
       "title": "Social Integration of Robots into Groups of Cockroaches to Control Self-Organized Choices",
       "year": 2007,
+      "date": "2007-11-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5001500450",
@@ -140,6 +146,7 @@
       "id": "https://openalex.org/W2529170537",
       "title": "Analysis and Observations From the First Amazon Picking Challenge",
       "year": 2016,
+      "date": "2016-10-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -187,6 +194,7 @@
       "id": "https://openalex.org/W2099604484",
       "title": "SwisTrack - A Flexible Open Source Tracking Software for Multi-Agent Systems",
       "year": 2008,
+      "date": "2008-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000789756",
@@ -218,6 +226,7 @@
       "id": "https://openalex.org/W2170389705",
       "title": "Organizing the Aggregate",
       "year": 2012,
+      "date": "2012-09-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020446837",
@@ -245,6 +254,7 @@
       "id": "https://openalex.org/W2789884309",
       "title": "A Robotic Skin for Collision Avoidance and Affective Touch Recognition",
       "year": 2018,
+      "date": "2018-01-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -264,6 +274,7 @@
       "id": "https://openalex.org/W2211031842",
       "title": "Soft Autonomous Materials\u2014Using Active Elasticity and Embedded Distributed Computation",
       "year": 2013,
+      "date": "2013-08-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -291,6 +302,7 @@
       "id": "https://openalex.org/W2964083861",
       "title": "Reducing the Barrier to Entry of Complex Robotic Software: a MoveIt! Case Study",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108932755",
@@ -314,6 +326,7 @@
       "id": "https://openalex.org/W4385424581",
       "title": "A multifunctional soft robotic shape display with high-speed actuation, sensing, and control",
       "year": 2023,
+      "date": "2023-07-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5027505300",
@@ -369,6 +382,7 @@
       "id": "https://openalex.org/W2216138881",
       "title": "A soft pneumatic actuator that can sense grasp and touch",
       "year": 2015,
+      "date": "2015-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014641617",
@@ -384,6 +398,7 @@
       "id": "https://openalex.org/W3143860396",
       "title": "Distributed Autonomous Robotic Systems",
       "year": 2012,
+      "date": "2012-09-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080713076",
@@ -423,6 +438,7 @@
       "id": "https://openalex.org/W2066918959",
       "title": "C-FOREST: Parallel Shortest Path Planning With Superlinear Speedup",
       "year": 2013,
+      "date": "2013-01-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037325300",
@@ -438,6 +454,7 @@
       "id": "https://openalex.org/W2054583192",
       "title": "Thermoplastic variable stiffness composites with embedded, networked sensing, actuation, and control",
       "year": 2014,
+      "date": "2014-03-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111377884",
@@ -453,6 +470,7 @@
       "id": "https://openalex.org/W1485661534",
       "title": "Experience-based planning with sparse roadmap spanners",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108932755",
@@ -480,6 +498,7 @@
       "id": "https://openalex.org/W1978171206",
       "title": "Modeling and designing self-organized aggregation in a swarm of miniature robots",
       "year": 2011,
+      "date": "2011-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -495,6 +514,7 @@
       "id": "https://openalex.org/W2143128937",
       "title": "SwisTrack: A Tracking Tool for Multi-Unit Robotic and Biological Systems",
       "year": 2006,
+      "date": "2006-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -526,6 +546,7 @@
       "id": "https://openalex.org/W1982707864",
       "title": "Multirobot inspection of industrial machinery",
       "year": 2009,
+      "date": "2009-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -541,6 +562,7 @@
       "id": "https://openalex.org/W2063637049",
       "title": "A One-Year Introductory Robotics Curriculum for Computer Science Upperclassmen",
       "year": 2012,
+      "date": "2012-10-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -560,6 +582,7 @@
       "id": "https://openalex.org/W1880957851",
       "title": "Texture recognition and localization in amorphous robotic skin",
       "year": 2015,
+      "date": "2015-09-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -575,6 +598,7 @@
       "id": "https://openalex.org/W2343765183",
       "title": "Modeling multi-robot task allocation with limited information as global game",
       "year": 2016,
+      "date": "2016-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5015163336",
@@ -594,6 +618,7 @@
       "id": "https://openalex.org/W2117881755",
       "title": "Building a distributed robot garden",
       "year": 2009,
+      "date": "2009-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -673,6 +698,7 @@
       "id": "https://openalex.org/W2023510972",
       "title": "Multi-level spatial modeling for stochastic distributed robotic systems",
       "year": 2011,
+      "date": "2011-02-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066624177",
@@ -692,6 +718,7 @@
       "id": "https://openalex.org/W2169944694",
       "title": "Ad-hoc wireless network coverage with networked robots that cannot localize",
       "year": 2009,
+      "date": "2009-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -711,6 +738,7 @@
       "id": "https://openalex.org/W2799692011",
       "title": "Integrated proximity, contact and force sensing using elastomer-embedded commodity proximity sensors",
       "year": 2018,
+      "date": "2018-04-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022614297",
@@ -730,6 +758,7 @@
       "id": "https://openalex.org/W1888497568",
       "title": "Distributed Autonomous Robotic Systems",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -749,6 +778,7 @@
       "id": "https://openalex.org/W2114953575",
       "title": "Decentralized self-repair to maintain connectivity and coverage in networked multi-robot systems",
       "year": 2011,
+      "date": "2011-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042622845",
@@ -768,6 +798,7 @@
       "id": "https://openalex.org/W2076171213",
       "title": "A stick-slip omnidirectional powertrain for low-cost swarm robotics: Mechanism, calibration, and control",
       "year": 2014,
+      "date": "2014-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5009742991",
@@ -795,6 +826,7 @@
       "id": "https://openalex.org/W2139610651",
       "title": "Parameter estimation and optimal control of swarm-robotic systems: A case study in distributed task allocation",
       "year": 2008,
+      "date": "2008-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -806,6 +838,7 @@
       "id": "https://openalex.org/W2112718380",
       "title": "Indoor robot gardening: design and implementation",
       "year": 2010,
+      "date": "2010-08-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -885,6 +918,7 @@
       "id": "https://openalex.org/W2409616265",
       "title": "Integrated force and distance sensing using elastomer-embedded commodity proximity sensors",
       "year": 2016,
+      "date": "2016-06-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022614297",
@@ -900,6 +934,7 @@
       "id": "https://openalex.org/W3012297501",
       "title": "Identification and Control of a Nonlinear Soft Actuator and Sensor System",
       "year": 2020,
+      "date": "2020-03-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5027505300",
@@ -943,6 +978,7 @@
       "id": "https://openalex.org/W2769044080",
       "title": "Will robots be bodies with brains or brains with bodies?",
       "year": 2017,
+      "date": "2017-11-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005135113",
@@ -966,6 +1002,7 @@
       "id": "https://openalex.org/W2163173276",
       "title": "Miniature six-channel range and bearing system: Algorithm, analysis and experimental validation",
       "year": 2014,
+      "date": "2014-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014641617",
@@ -989,6 +1026,7 @@
       "id": "https://openalex.org/W2398344989",
       "title": "Shape Change Through Programmable Stiffness",
       "year": 2015,
+      "date": "2015-11-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111377884",
@@ -1004,6 +1042,7 @@
       "id": "https://openalex.org/W2997649102",
       "title": "Robots assembling machines: learning from the World Robot Summit 2018 Assembly Challenge",
       "year": 2019,
+      "date": "2019-12-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5009765043",
@@ -1043,6 +1082,7 @@
       "id": "https://openalex.org/W2180025243",
       "title": "Detecting and Identifying Tactile Gestures using Deep Autoencoders, Geometric Moments and Gesture Level Features",
       "year": 2015,
+      "date": "2015-11-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -1066,6 +1106,7 @@
       "id": "https://openalex.org/W2410928708",
       "title": "Distributed Autonomous Robotic Systems: The 10th International Symposium",
       "year": 2012,
+      "date": "2012-09-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080713076",
@@ -1105,6 +1146,7 @@
       "id": "https://openalex.org/W4285268956",
       "title": "Electro-Hydraulic Rolling Soft Wheel: Design, Hybrid Dynamic Modeling, and Model Predictive Control",
       "year": 2022,
+      "date": "2022-05-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040368638",
@@ -1136,6 +1178,7 @@
       "id": "https://openalex.org/W2793674688",
       "title": "Wireless Robotic Materials",
       "year": 2017,
+      "date": "2017-11-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1159,6 +1202,7 @@
       "id": "https://openalex.org/W2294621665",
       "title": "Precise assembly of 3D truss structures using MLE-based error prediction and correction",
       "year": 2015,
+      "date": "2015-10-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091048049",
@@ -1174,6 +1218,7 @@
       "id": "https://openalex.org/W4295036252",
       "title": "Embedded Magnetic Sensing for Feedback Control of Soft HASEL Actuators",
       "year": 2022,
+      "date": "2022-09-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5043334100",
@@ -1213,6 +1258,7 @@
       "id": "https://openalex.org/W2187299683",
       "title": "Architectures and Control of Networked Robotic Systems",
       "year": 2013,
+      "date": "2013-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1228,6 +1274,7 @@
       "id": "https://openalex.org/W2109587741",
       "title": "Collective Inspection of Regular Structures using a Swarm of Miniature Robots",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1243,6 +1290,7 @@
       "id": "https://openalex.org/W2148992977",
       "title": "Collaborative coverage using a swarm of networked miniature robots",
       "year": 2008,
+      "date": "2008-11-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005796321",
@@ -1262,6 +1310,7 @@
       "id": "https://openalex.org/W1581919048",
       "title": "Social Control of Herd Animals by Integration of Artificially Controlled Congeners",
       "year": 2008,
+      "date": "2008-08-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1281,6 +1330,7 @@
       "id": "https://openalex.org/W2152360806",
       "title": "Robust Distributed Coverage using a Swarm of Miniature Robots",
       "year": 2007,
+      "date": "2007-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1296,6 +1346,7 @@
       "id": "https://openalex.org/W1810559892",
       "title": "Modeling Self-Organized Aggregation in a Swarm of Miniature Robots",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1311,6 +1362,7 @@
       "id": "https://openalex.org/W2043088471",
       "title": "An Efficient and Versatile Means for Assembling and Manufacturing Systems in Space",
       "year": 2012,
+      "date": "2012-09-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111805662",
@@ -1342,6 +1394,7 @@
       "id": "https://openalex.org/W2157559538",
       "title": "Distributed boundary coverage with a team of networked miniature robots using a robust market-based algorithm",
       "year": 2008,
+      "date": "2008-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5034978799",
@@ -1361,6 +1414,7 @@
       "id": "https://openalex.org/W2240328051",
       "title": "Modeling and Optimization of a Swarm-Intelligent Inspection System",
       "year": 2008,
+      "date": "2008-01-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1376,6 +1430,7 @@
       "id": "https://openalex.org/W2028658459",
       "title": "Flutter",
       "year": 2015,
+      "date": "2015-01-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5013647146",
@@ -1395,6 +1450,7 @@
       "id": "https://openalex.org/W2738751727",
       "title": "Recognizing social touch gestures using recurrent and convolutional neural networks",
       "year": 2017,
+      "date": "2017-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -1414,6 +1470,7 @@
       "id": "https://openalex.org/W2941842768",
       "title": "Multi-modal prosthetic fingertip sensor with proximity, contact, and force localization capabilities",
       "year": 2019,
+      "date": "2019-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5079006320",
@@ -1441,6 +1498,7 @@
       "id": "https://openalex.org/W2405120882",
       "title": "A Response Threshold Sigmoid Function Model for Swarm Robot Collaboration",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5015163336",
@@ -1460,6 +1518,7 @@
       "id": "https://openalex.org/W2978569040",
       "title": "Fault-tolerant Covariance Intersection for localizing robot swarms",
       "year": 2019,
+      "date": "2019-10-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5009742991",
@@ -1479,6 +1538,7 @@
       "id": "https://openalex.org/W1567556022",
       "title": "Simultaneous localization, mapping, and manipulation for unsupervised object discovery",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100525779",
@@ -1506,6 +1566,7 @@
       "id": "https://openalex.org/W2091994837",
       "title": "Assembly path planning for stable robotic construction",
       "year": 2014,
+      "date": "2014-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111377884",
@@ -1525,6 +1586,7 @@
       "id": "https://openalex.org/W2128635427",
       "title": "Any-Com Multi-robot Path-Planning: Maximizing Collaboration for Variable Bandwidth",
       "year": 2012,
+      "date": "2012-09-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010568864",
@@ -1540,6 +1602,7 @@
       "id": "https://openalex.org/W1448371888",
       "title": "Probabilistic Modeling of Swarming Systems",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1555,6 +1618,7 @@
       "id": "https://openalex.org/W2081456158",
       "title": "A soft, amorphous skin that can sense and localize textures",
       "year": 2014,
+      "date": "2014-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -1570,6 +1634,7 @@
       "id": "https://openalex.org/W2963705825",
       "title": "Materials that make robots smart",
       "year": 2019,
+      "date": "2019-06-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -1589,6 +1654,7 @@
       "id": "https://openalex.org/W3136513942",
       "title": "Mobile Manipulation Hackathon: Moving into Real World Applications",
       "year": 2021,
+      "date": "2021-03-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048087019",
@@ -1640,6 +1706,7 @@
       "id": "https://openalex.org/W2736506837",
       "title": "Functionalized textiles for interactive soft robotics",
       "year": 2017,
+      "date": "2017-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014641617",
@@ -1659,6 +1726,7 @@
       "id": "https://openalex.org/W2909573358",
       "title": "System Identification and Closed-Loop Control of a Hydraulically Amplified Self-Healing Electrostatic (HASEL) Actuator",
       "year": 2018,
+      "date": "2018-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5029096734",
@@ -1698,6 +1766,7 @@
       "id": "https://openalex.org/W185570188",
       "title": "A One-Hour Curriculum to Engage Middle School Students in Robotics and Computer Science Using Cubelets",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1717,6 +1786,7 @@
       "id": "https://openalex.org/W2896753023",
       "title": "Shape-Changing Materials Using Variable Stiffness and Distributed Control",
       "year": 2018,
+      "date": "2018-10-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111377884",
@@ -1732,6 +1802,7 @@
       "id": "https://openalex.org/W2953015979",
       "title": "Consensus or Deadlock? Consequences of Simple Behavioral Rules for Coordination in Group Decisions",
       "year": 2016,
+      "date": "2016-09-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5055446391",
@@ -1755,6 +1826,7 @@
       "id": "https://openalex.org/W2580807697",
       "title": "Intelligent RF-Based Gesture Input Devices Implemented Using e-Textiles",
       "year": 2017,
+      "date": "2017-01-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -1778,6 +1850,7 @@
       "id": "https://openalex.org/W2141517821",
       "title": "Any-com multi-robot path planning",
       "year": 2011,
+      "date": "2011-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1793,6 +1866,7 @@
       "id": "https://openalex.org/W2524922126",
       "title": "Distributed Inverse Kinematics for Shape-changing Robotic Materials",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111377884",
@@ -1808,6 +1882,7 @@
       "id": "https://openalex.org/W2056697427",
       "title": "Establishing Multi-cast Groups in Computational Robotic Materials",
       "year": 2012,
+      "date": "2012-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020369494",
@@ -1835,6 +1910,7 @@
       "id": "https://openalex.org/W4300594564",
       "title": "Toward smart composites: Small-scale, untethered prediction and control for soft sensor/actuator systems",
       "year": 2022,
+      "date": "2022-10-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046880071",
@@ -1870,6 +1946,7 @@
       "id": "https://openalex.org/W2989914320",
       "title": "Augmented reality for human\u2013swarm interaction in a swarm-robotic chemistry simulation",
       "year": 2022,
+      "date": "2022-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037626146",
@@ -1889,6 +1966,7 @@
       "id": "https://openalex.org/W4238428990",
       "title": "Precise truss assembly using commodity parts and low precision welding",
       "year": 2013,
+      "date": "2013-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091048049",
@@ -1908,6 +1986,7 @@
       "id": "https://openalex.org/W2149902396",
       "title": "System Identification of Self-Organizing Robotic Swarms",
       "year": 2007,
+      "date": "2007-06-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1923,6 +2002,7 @@
       "id": "https://openalex.org/W113921806",
       "title": "Any-Com Multi-robot Path-Planning with Dynamic Teams: Multi-robot Coordination under Communication Constraints",
       "year": 2013,
+      "date": "2013-08-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010568864",
@@ -1938,6 +2018,7 @@
       "id": "https://openalex.org/W2062077211",
       "title": "Truss assembly and welding by Intelligent Precision Jigging Robots",
       "year": 2014,
+      "date": "2014-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091048049",
@@ -1961,6 +2042,7 @@
       "id": "https://openalex.org/W2116604920",
       "title": "Self-assembly of modular robots from finite number of modules using graph grammars",
       "year": 2011,
+      "date": "2011-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5043279516",
@@ -1980,6 +2062,7 @@
       "id": "https://openalex.org/W2164998884",
       "title": "Behavior Modes for Randomized Robotic Coverage",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020446837",
@@ -2003,6 +2086,7 @@
       "id": "https://openalex.org/W2580057948",
       "title": "Improving Grasp Performance Using In-Hand Proximity and Contact Sensing",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022614297",
@@ -2026,6 +2110,7 @@
       "id": "https://openalex.org/W2025039669",
       "title": "Trinocular visual odometry for divergent views with minimal overlap",
       "year": 2013,
+      "date": "2013-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101550276",
@@ -2045,6 +2130,7 @@
       "id": "https://openalex.org/W2886057219",
       "title": "Distributed camouflage for swarm robotics and smart materials",
       "year": 2018,
+      "date": "2018-02-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100421782",
@@ -2064,6 +2150,7 @@
       "id": "https://openalex.org/W2914987943",
       "title": "Fault-Tolerant Covariance Intersection for Localizing Robot Swarms",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5009742991",
@@ -2083,6 +2170,7 @@
       "id": "https://openalex.org/W3039423177",
       "title": "SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part 2 \u2014 Design Development and Projected Performance",
       "year": 2020,
+      "date": "2020-07-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066061812",
@@ -2122,6 +2210,7 @@
       "id": "https://openalex.org/W102068892",
       "title": "Bloom Filter-Based Ad Hoc Multicast Communication in Cyber-Physical Systems and Computational Materials",
       "year": 2012,
+      "date": "2012-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102775579",
@@ -2141,6 +2230,7 @@
       "id": "https://openalex.org/W2051292214",
       "title": "HoneyComb",
       "year": 2013,
+      "date": "2013-02-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2160,6 +2250,7 @@
       "id": "https://openalex.org/W2598278179",
       "title": "Improving Grasp Performance Using In-Hand Proximity and Dynamic Tactile Sensing",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022614297",
@@ -2179,6 +2270,7 @@
       "id": "https://openalex.org/W2546421665",
       "title": "Simulating Chemical Reactions Using a Swarm of Miniature Robots",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045654500",
@@ -2198,6 +2290,7 @@
       "id": "https://openalex.org/W1585558507",
       "title": "Self-Organized Embedded Sensor/Actuator Networks for \"\"Smart\"\" Turbines",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2221,6 +2314,7 @@
       "id": "https://openalex.org/W31081183",
       "title": "Object Transportation by Granular Convection Using Swarm Robots",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5110034977",
@@ -2240,6 +2334,7 @@
       "id": "https://openalex.org/W2081610064",
       "title": "TOWARDS OPTIMAL CONTROL OF SELF-ORGANIZED ROBOTIC INSPECTION SYSTEMS",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2255,6 +2350,7 @@
       "id": "https://openalex.org/W2060166206",
       "title": "Distributed Spatiotemporal Gesture Recognition in Sensor Arrays",
       "year": 2015,
+      "date": "2015-09-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102775579",
@@ -2282,6 +2378,7 @@
       "id": "https://openalex.org/W2039239091",
       "title": "Gesture based distributed user interaction system for a reconfigurable self-organizing smart wall",
       "year": 2014,
+      "date": "2014-02-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014641617",
@@ -2301,6 +2398,7 @@
       "id": "https://openalex.org/W2092077905",
       "title": "SwitchBack",
       "year": 2014,
+      "date": "2014-09-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -2320,6 +2418,7 @@
       "id": "https://openalex.org/W2787893308",
       "title": "Dynamic teams of robots as ad hoc distributed computers: reducing the complexity of multi-robot motion planning via subspace selection",
       "year": 2018,
+      "date": "2018-02-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010568864",
@@ -2335,6 +2434,7 @@
       "id": "https://openalex.org/W2006583031",
       "title": "Navigation with foraging",
       "year": 2013,
+      "date": "2013-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010568864",
@@ -2354,6 +2454,7 @@
       "id": "https://openalex.org/W2266937728",
       "title": "Path Planning with Forests of Random Trees: Parallelization with Super Linear Speedup ; CU-CS-1079-11",
       "year": 2011,
+      "date": "2011-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010568864",
@@ -2369,6 +2470,7 @@
       "id": "https://openalex.org/W2902984537",
       "title": "Merging Local and Global 3D Perception using Contact Sensing.",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073825406",
@@ -2384,6 +2486,7 @@
       "id": "https://openalex.org/W3012223707",
       "title": "SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part 1 -- Architecture and Technology",
       "year": 2019,
+      "date": "2019-07-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066061812",
@@ -2435,6 +2538,7 @@
       "id": "https://openalex.org/W2396157854",
       "title": "Robotic Manipulation for Identification of Flexible Objects",
       "year": 2015,
+      "date": "2015-11-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111628533",
@@ -2454,6 +2558,7 @@
       "id": "https://openalex.org/W1951605278",
       "title": "Comparing Coordination Schemes for Miniature Robotic Swarms: A Case Study in Boundary Coverage of Regular Structures",
       "year": 2008,
+      "date": "2008-01-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2473,6 +2578,7 @@
       "id": "https://openalex.org/W2793703160",
       "title": "Distributed Convolutional Neural Networks for Human Activity Recognition in Wearable Robotics",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -2488,6 +2594,7 @@
       "id": "https://openalex.org/W2896451911",
       "title": "Robotic materials for robot autonomy",
       "year": 2018,
+      "date": "2018-10-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2499,6 +2606,7 @@
       "id": "https://openalex.org/W4377089301",
       "title": "Distributed Tactile Sensors for Palmar Surfaces of Prosthetic Hands",
       "year": 2023,
+      "date": "2023-04-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113268159",
@@ -2518,6 +2626,7 @@
       "id": "https://openalex.org/W2144512373",
       "title": "Modeling and Analysis of Beaconless and Beacon-Based Policies for a Swarm-Intelligent Inspection System",
       "year": 2006,
+      "date": "2006-01-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2533,6 +2642,7 @@
       "id": "https://openalex.org/W1926098067",
       "title": "A Challenging Application in Swarm Robotics: The Autonomous Inspection of Complex Engineered Structures",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2548,6 +2658,7 @@
       "id": "https://openalex.org/W1992239833",
       "title": "From swarm robotics to smart materials",
       "year": 2010,
+      "date": "2010-08-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2563,6 +2674,7 @@
       "id": "https://openalex.org/W2406473165",
       "title": "C-FOREST: Parallel Shortest-Path Planning with Super Linear Speedup",
       "year": 2014,
+      "date": "2014-05-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010568864",
@@ -2578,6 +2690,7 @@
       "id": "https://openalex.org/W2759401673",
       "title": "Distributed Camouflage for Swarm Robotics and Smart Materials",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100421782",
@@ -2597,6 +2710,7 @@
       "id": "https://openalex.org/W1981209452",
       "title": "Object Interaction Language (OIL): An intent-based language for programming self-organized sensor/actuator networks",
       "year": 2010,
+      "date": "2010-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111950133",
@@ -2620,6 +2734,7 @@
       "id": "https://openalex.org/W1991756220",
       "title": "PCP",
       "year": 2008,
+      "date": "2008-11-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113516878",
@@ -2651,6 +2766,7 @@
       "id": "https://openalex.org/W2129487045",
       "title": "SikuliBot",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5032544422",
@@ -2674,6 +2790,7 @@
       "id": "https://openalex.org/W2396933895",
       "title": "Precise Assembly of 3D Truss Structures Using EKF-Based Error Prediction and Correction",
       "year": 2015,
+      "date": "2015-11-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091048049",
@@ -2689,6 +2806,7 @@
       "id": "https://openalex.org/W2401599515",
       "title": "Endo/Exo Making Art And Music With Distributed Computing",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5089659806",
@@ -2712,6 +2830,7 @@
       "id": "https://openalex.org/W2588662949",
       "title": "Multiple Object 3D-Mapping using a Physics Simulator ; CU-CS-1069-10",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5079495527",
@@ -2727,6 +2846,7 @@
       "id": "https://openalex.org/W2818477978",
       "title": "Wireless Online Impact Source Localization on a Composite",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046880071",
@@ -2746,6 +2866,7 @@
       "id": "https://openalex.org/W2001449314",
       "title": "Towards Real-Time Trinocular Visual Odometry",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109995105",
@@ -2761,6 +2882,7 @@
       "id": "https://openalex.org/W2736405652",
       "title": "Fast Sample-Based Planning for Dynamic Systems by Zero-Control Linearization-Based Steering",
       "year": 2017,
+      "date": "2017-07-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111628533",
@@ -2776,6 +2898,7 @@
       "id": "https://openalex.org/W2763546711",
       "title": "Assembly by Intelligent Scaffolding ; CU-CS-1080-11",
       "year": 2011,
+      "date": "2011-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091048049",
@@ -2795,6 +2918,7 @@
       "id": "https://openalex.org/W2883959653",
       "title": "Manipulation Using the \u201cUtah\u201d Prosthetic Hand: The Role of Stiffness in Manipulation",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022614297",
@@ -2814,6 +2938,7 @@
       "id": "https://openalex.org/W2036347104",
       "title": "Optimal parameter identification for discrete mechanical systems with application to flexible object manipulation",
       "year": 2014,
+      "date": "2014-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111628533",
@@ -2833,6 +2958,7 @@
       "id": "https://openalex.org/W1630678085",
       "title": "Reducing the Barrier to Entry of Complex Robotic Software: a MoveIt! Case Study",
       "year": 2014,
+      "date": "2014-04-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108932755",
@@ -2856,6 +2982,7 @@
       "id": "https://openalex.org/W2295278273",
       "title": "Lessons from the Amazon Picking Challenge.",
       "year": 2016,
+      "date": "2016-01-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2903,6 +3030,7 @@
       "id": "https://openalex.org/W4394655480",
       "title": "Organizing the Aggregate: Languages for Spatial Computing",
       "year": 2012,
+      "date": "2012-02-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020446837",
@@ -2930,6 +3058,7 @@
       "id": "https://openalex.org/W4256323919",
       "title": "SwisTrack: A Tracking Tool for Multi-Unit Robotic and Biological Systems",
       "year": 2006,
+      "date": "2006-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -2961,6 +3090,7 @@
       "id": "https://openalex.org/W2346234316",
       "title": "Morphological and Embedded Computation in a Self-contained Soft Robotic Hand",
       "year": 2016,
+      "date": "2016-05-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014641617",
@@ -2980,6 +3110,7 @@
       "id": "https://openalex.org/W2749018315",
       "title": "New Directions: Wireless Robotic Materials",
       "year": 2017,
+      "date": "2017-08-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3003,6 +3134,7 @@
       "id": "https://openalex.org/W2983068698",
       "title": "Robots Assembling Machines: Learning from the World Robot Summit 2018 Assembly Challenge",
       "year": 2019,
+      "date": "2019-11-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5009765043",
@@ -3042,6 +3174,7 @@
       "id": "https://openalex.org/W1993093786",
       "title": "Abstracting perception and manipulation in end-user robot programming using Sikuli",
       "year": 2014,
+      "date": "2014-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109926441",
@@ -3061,6 +3194,7 @@
       "id": "https://openalex.org/W2437757123",
       "title": "Distributed Machine Learning in Materials that Couple Sensing, Actuation, Computation and Communication",
       "year": 2016,
+      "date": "2016-06-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5036897495",
@@ -3076,6 +3210,7 @@
       "id": "https://openalex.org/W2889924020",
       "title": "From Natural to Artificial Camouflage: Components and Systems",
       "year": 2018,
+      "date": "2018-09-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100421782",
@@ -3091,6 +3226,7 @@
       "id": "https://openalex.org/W3196910092",
       "title": "High-bandwidth nonlinear control for soft actuators with recursive network models",
       "year": 2021,
+      "date": "2021-01-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046880071",
@@ -3118,6 +3254,7 @@
       "id": "https://openalex.org/W2950267794",
       "title": "Improving grasp performance using in-hand proximity and contact sensing",
       "year": 2017,
+      "date": "2017-01-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022614297",
@@ -3141,6 +3278,7 @@
       "id": "https://openalex.org/W4297710703",
       "title": "Distributed Machine Learning in Materials that Couple Sensing,\\n Actuation, Computation and Communication",
       "year": 2016,
+      "date": "2016-06-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103176418",
@@ -3156,6 +3294,7 @@
       "id": "https://openalex.org/W2346563870",
       "title": "6-DOF Visual Servoing Using the Lie Group of Affine Transformations",
       "year": 2002,
+      "date": "2002-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3167,6 +3306,7 @@
       "id": "https://openalex.org/W2953153883",
       "title": "Analysis and Observations from the First Amazon Picking Challenge",
       "year": 2016,
+      "date": "2016-01-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3214,6 +3354,7 @@
       "id": "https://openalex.org/W2963579724",
       "title": "Distributed Camouflage for Swarm Robotics and Smart Materials",
       "year": 2017,
+      "date": "2017-09-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100421782",
@@ -3233,6 +3374,7 @@
       "id": "https://openalex.org/W4200051702",
       "title": "Interview with Nikolaus Correll: Robotic Materials",
       "year": 2021,
+      "date": "2021-12-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3252,6 +3394,7 @@
       "id": "https://openalex.org/W4303858538",
       "title": "Robotic Materials",
       "year": 2019,
+      "date": "2019-03-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3279,6 +3422,7 @@
       "id": "https://openalex.org/W4391766367",
       "title": "A versatile robotic hand with 3D perception, force sensing for autonomous manipulation",
       "year": 2024,
+      "date": "2024-02-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3302,6 +3446,7 @@
       "id": "https://openalex.org/W2527411778",
       "title": "Consensus or deadlock? Consequences of simple behavioral rules for coordination in group decisions",
       "year": 2016,
+      "date": "2016-06-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5055446391",
@@ -3325,6 +3470,7 @@
       "id": "https://openalex.org/W4281481135",
       "title": "Toward smart composites: small-scale, untethered prediction and control for soft sensor/actuator systems",
       "year": 2022,
+      "date": "2022-05-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046880071",
@@ -3360,6 +3506,7 @@
       "id": "https://openalex.org/W4287999908",
       "title": "Augmented Reality for Human-Swarm Interaction in a Swarm-Robotic Chemistry Simulation",
       "year": 2019,
+      "date": "2019-12-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037626146",
@@ -3379,6 +3526,7 @@
       "id": "https://openalex.org/W1991082013",
       "title": "Cells and Robots: Modeling and Control of Large-Size Agent Populations (Dejan L.J. Milutinovic and P. Lima; 2007) [Book Review]",
       "year": 2008,
+      "date": "2008-09-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3390,6 +3538,7 @@
       "id": "https://openalex.org/W2112594827",
       "title": "Demo Abstract: PCP: The Personal Commute Portal",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113516878",
@@ -3421,6 +3570,7 @@
       "id": "https://openalex.org/W2544211228",
       "title": "Sparser Sparse Roadmaps",
       "year": 2016,
+      "date": "2016-10-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108932755",
@@ -3436,6 +3586,7 @@
       "id": "https://openalex.org/W2766874801",
       "title": "Materials That Make Robots Smart",
       "year": 2019,
+      "date": "2019-11-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3451,6 +3602,7 @@
       "id": "https://openalex.org/W2923566090",
       "title": "Robotic Materials",
       "year": 2019,
+      "date": "2019-03-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3478,6 +3630,7 @@
       "id": "https://openalex.org/W2949457334",
       "title": "Experience-Based Planning with Sparse Roadmap Spanners",
       "year": 2014,
+      "date": "2014-10-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108932755",
@@ -3505,6 +3658,7 @@
       "id": "https://openalex.org/W2949483653",
       "title": "Simultaneous Localization, Mapping, and Manipulation for Unsupervised Object Discovery",
       "year": 2014,
+      "date": "2014-11-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100525779",
@@ -3532,6 +3686,7 @@
       "id": "https://openalex.org/W3017026154",
       "title": "Robots and autonomous systems, SI DARS 2018",
       "year": 2020,
+      "date": "2020-04-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -3547,6 +3702,7 @@
       "id": "https://openalex.org/W3085631264",
       "title": "Miniaturized Circuitry for Capacitive Self-Sensing and Closed-Loop Control of Soft Electrostatic Transducers",
       "year": 2020,
+      "date": "2020-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040368638",
@@ -3598,6 +3754,7 @@
       "id": "https://openalex.org/W3119192122",
       "title": "High-Bandwidth Nonlinear Control for Soft Actuators with Recursive Network Models",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046880071",
@@ -3625,6 +3782,7 @@
       "id": "https://openalex.org/W3174514172",
       "title": "Truss Assembly and Welding by Intelligent Precision Jigging Robots",
       "year": 2014,
+      "date": "2014-04-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091048049",
@@ -3648,6 +3806,7 @@
       "id": "https://openalex.org/W3209183524",
       "title": "Textile-Based Wearables",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020281466",
@@ -3671,6 +3830,7 @@
       "id": "https://openalex.org/W4214796086",
       "title": "Optimal Parameter Identification for Discrete Mechanical Systems with\\n Application to Flexible Object Manipulation",
       "year": 2014,
+      "date": "2014-02-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111628533",
@@ -3690,6 +3850,7 @@
       "id": "https://openalex.org/W4245184442",
       "title": "List of contributors",
       "year": 2018,
+      "date": "2018-10-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090119956",
@@ -3909,6 +4070,7 @@
       "id": "https://openalex.org/W4256488142",
       "title": "Self-Organized Robotic Systems",
       "year": 2013,
+      "date": "2013-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042524712",
@@ -3940,6 +4102,7 @@
       "id": "https://openalex.org/W4287667465",
       "title": "Miniaturized Circuitry for Capacitive Self-sensing and Closed-loop\\n Control of Soft Electrostatic Transducers",
       "year": 2020,
+      "date": "2020-09-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040368638",
@@ -3991,6 +4154,7 @@
       "id": "https://openalex.org/W4318347849",
       "title": "Optimal decision making in robotic assembly and other trial-and-error tasks",
       "year": 2023,
+      "date": "2023-01-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003271212",
@@ -4006,6 +4170,7 @@
       "id": "https://openalex.org/W4389666012",
       "title": "Optimal Decision Making in Robotic Assembly and Other Trial-and-Error Tasks",
       "year": 2023,
+      "date": "2023-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003271212",
@@ -4021,6 +4186,7 @@
       "id": "https://openalex.org/W4391211975",
       "title": "Software Engineering for Robotics: Future Research Directions; Report from the 2023 Workshop on Software Engineering for Robotics",
       "year": 2024,
+      "date": "2024-01-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5032356672",
@@ -4064,6 +4230,7 @@
       "id": "https://openalex.org/W4392781413",
       "title": "DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies",
       "year": 2024,
+      "date": "2024-03-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5019978536",
@@ -4083,6 +4250,7 @@
       "id": "https://openalex.org/W4403579179",
       "title": "Just Add Force for Contact-Rich Robot Policies",
       "year": 2024,
+      "date": "2024-10-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5019978536",
@@ -4102,6 +4270,7 @@
       "id": "https://openalex.org/W4405033465",
       "title": "A Machine Learning Approach to Contact Localization in Variable Density Three-Dimensional Tactile Artificial Skin",
       "year": 2024,
+      "date": "2024-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5115003608",
@@ -4137,6 +4306,7 @@
       "id": "https://openalex.org/W4413618188",
       "title": "To really help US workers, we should invest in robots",
       "year": 2017,
+      "date": "2017-03-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -4148,6 +4318,7 @@
       "id": "https://openalex.org/W4413628549",
       "title": "Space exploration can drive the next agricultural revolution",
       "year": 2013,
+      "date": "2013-12-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -4159,6 +4330,7 @@
       "id": "https://openalex.org/W4413695413",
       "title": "Crowdfunding of science leads to innovation and better public engagement",
       "year": 2014,
+      "date": "2014-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -4170,6 +4342,7 @@
       "id": "https://openalex.org/W4415198452",
       "title": "Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling",
       "year": 2025,
+      "date": "2025-05-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5019978536",
@@ -4189,6 +4362,7 @@
       "id": "https://openalex.org/W7147365941",
       "title": "Liquid Networks with Mixture Density Heads for Efficient Imitation Learning",
       "year": 2026,
+      "date": "2026-03-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -4200,6 +4374,7 @@
       "id": "https://openalex.org/W7148175940",
       "title": "Liquid Networks with Mixture Density Heads for Efficient Imitation Learning",
       "year": 2026,
+      "date": "2026-03-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -4211,6 +4386,7 @@
       "id": "https://openalex.org/W7158052700",
       "title": "Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance",
       "year": 2026,
+      "date": "2026-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5128231839",
@@ -4242,6 +4418,7 @@
       "id": "https://openalex.org/W7159546719",
       "title": "Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance",
       "year": 2026,
+      "date": "2026-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5128231839",

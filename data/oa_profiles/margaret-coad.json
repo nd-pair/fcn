@@ -1,16 +1,20 @@
 {
+  "slug": "margaret-coad",
+  "display": "Margaret McGuinness",
   "query_name": "Margaret Coad",
   "openalex_id": "https://openalex.org/A5062756806",
-  "display_name": "Margaret M. Coad",
+  "openalex_name": "Margaret M. Coad",
   "affiliation": null,
   "works_count": 39,
   "cited_by_count": 359,
+  "photo": "assets/faculty/margaret-coad.jpg",
   "num_works_fetched": 39,
   "works": [
     {
       "id": "https://openalex.org/W3105818082",
       "title": "Design, Modeling, Control, and Application of Everting Vine Robots",
       "year": 2020,
+      "date": "2020-11-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5034706353",
@@ -38,6 +42,7 @@
       "id": "https://openalex.org/W3132227494",
       "title": "A Tip Mount for Transporting Sensors and Tools using Soft Growing Robots",
       "year": 2020,
+      "date": "2020-10-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101725566",
@@ -77,6 +82,7 @@
       "id": "https://openalex.org/W2891930862",
       "title": "Robotic Assistance-as-Needed for Enhanced Visuomotor Learning in Surgical Robotics Training: An Experimental Study",
       "year": 2018,
+      "date": "2018-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5068873641",
@@ -112,6 +118,7 @@
       "id": "https://openalex.org/W2740117073",
       "title": "Training in divergent and convergent force fields during 6-DOF teleoperation with a robot-assisted surgical system",
       "year": 2017,
+      "date": "2017-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5062756806",
@@ -147,6 +154,7 @@
       "id": "https://openalex.org/W3204387335",
       "title": "Soft Retraction Device and Internal Camera Mount for Everting Vine Robots",
       "year": 2021,
+      "date": "2021-09-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5009591871",
@@ -174,6 +182,7 @@
       "id": "https://openalex.org/W4394564142",
       "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
       "year": 2024,
+      "date": "2024-04-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091946633",
@@ -193,6 +202,7 @@
       "id": "https://openalex.org/W4390604411",
       "title": "Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment",
       "year": 2024,
+      "date": "2024-01-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011079591",
@@ -232,6 +242,7 @@
       "id": "https://openalex.org/W4404953693",
       "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
       "year": 2024,
+      "date": "2024-11-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085630453",
@@ -255,6 +266,7 @@
       "id": "https://openalex.org/W4376605768",
       "title": "Collapse of Straight Soft Growing Inflated Beam Robots Under Their Own Weight",
       "year": 2023,
+      "date": "2023-04-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085630453",
@@ -270,6 +282,7 @@
       "id": "https://openalex.org/W3137862458",
       "title": "Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints",
       "year": 2022,
+      "date": "2022-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020531381",
@@ -305,6 +318,7 @@
       "id": "https://openalex.org/W4313016218",
       "title": "Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces",
       "year": 2022,
+      "date": "2022-10-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063691652",
@@ -320,6 +334,7 @@
       "id": "https://openalex.org/W4396875104",
       "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
       "year": 2024,
+      "date": "2024-04-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5056147954",
@@ -343,6 +358,7 @@
       "id": "https://openalex.org/W4411019324",
       "title": "Soft Everting Prosthetic Hand and Comparison with Existing Body-Powered Terminal Devices",
       "year": 2025,
+      "date": "2025-04-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5117826518",
@@ -358,6 +374,7 @@
       "id": "https://openalex.org/W4376605638",
       "title": "Hybrid Soft-Rigid Continuum Robot Inspired by Spider Monkey Tail",
       "year": 2023,
+      "date": "2023-04-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091946632",
@@ -377,6 +394,7 @@
       "id": "https://openalex.org/W4376605667",
       "title": "Soft Air Pocket Force Sensors for Large Scale Flexible Robots",
       "year": 2023,
+      "date": "2023-04-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5105939246",
@@ -396,6 +414,7 @@
       "id": "https://openalex.org/W4396853608",
       "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
       "year": 2024,
+      "date": "2024-04-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091946633",
@@ -415,6 +434,7 @@
       "id": "https://openalex.org/W2948678238",
       "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical Environment with Divergent and Convergent Force Fields",
       "year": 2019,
+      "date": "2019-06-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011079591",
@@ -454,6 +474,7 @@
       "id": "https://openalex.org/W2982310535",
       "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing Robot",
       "year": 2020,
+      "date": "2020-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054512048",
@@ -485,6 +506,7 @@
       "id": "https://openalex.org/W2996086874",
       "title": "A Tip Mount for Carrying Payloads using Soft Growing Robots.",
       "year": 2019,
+      "date": "2019-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101725566",
@@ -524,6 +546,7 @@
       "id": "https://openalex.org/W3013015678",
       "title": "A Tip Mount for Transporting Sensors and Tools using Soft Growing Robots",
       "year": 2019,
+      "date": "2019-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101725566",
@@ -563,6 +586,7 @@
       "id": "https://openalex.org/W4286963468",
       "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical\\n Environment with Divergent and Convergent Force Fields",
       "year": 2021,
+      "date": "2021-09-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011079591",
@@ -602,6 +626,7 @@
       "id": "https://openalex.org/W4388092175",
       "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
       "year": 2023,
+      "date": "2023-10-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031304323",
@@ -617,6 +642,7 @@
       "id": "https://openalex.org/W2201871521",
       "title": "A case study in troubleshooting electromechanical software-controlled systems : the InMotion\u00b2 Robot",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5062756806",
@@ -628,6 +654,7 @@
       "id": "https://openalex.org/W2982590275",
       "title": "Human-centered Control of a Growing Soft Robot for Object Manipulation",
       "year": 2019,
+      "date": "2019-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054512048",
@@ -659,6 +686,7 @@
       "id": "https://openalex.org/W3111272367",
       "title": "Distributed Sensor Networks Deployed Using Soft Growing Robots",
       "year": 2021,
+      "date": "2021-04-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085721240",
@@ -686,6 +714,7 @@
       "id": "https://openalex.org/W3201982708",
       "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical Environment with Divergent and Convergent Force Fields",
       "year": 2021,
+      "date": "2021-09-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011079591",
@@ -725,6 +754,7 @@
       "id": "https://openalex.org/W4221161732",
       "title": "Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces",
       "year": 2022,
+      "date": "2022-03-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063691652",
@@ -740,6 +770,7 @@
       "id": "https://openalex.org/W4286778687",
       "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing\\n Robot",
       "year": 2019,
+      "date": "2019-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054512048",
@@ -771,6 +802,7 @@
       "id": "https://openalex.org/W4287279888",
       "title": "Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints",
       "year": 2021,
+      "date": "2021-03-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020531381",
@@ -806,6 +838,7 @@
       "id": "https://openalex.org/W4383175587",
       "title": "Collapse of Straight Soft Growing Inflated Beam Robots Under Their Own Weight",
       "year": 2023,
+      "date": "2023-06-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085630453",
@@ -821,6 +854,7 @@
       "id": "https://openalex.org/W4385328075",
       "title": "Soft Air Pocket Force Sensors for Large Scale Flexible Robots",
       "year": 2023,
+      "date": "2023-07-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5105939246",
@@ -840,6 +874,7 @@
       "id": "https://openalex.org/W4386651421",
       "title": "Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment",
       "year": 2023,
+      "date": "2023-09-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011079591",
@@ -879,6 +914,7 @@
       "id": "https://openalex.org/W4388444293",
       "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
       "year": 2023,
+      "date": "2023-11-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5056147954",
@@ -902,6 +938,7 @@
       "id": "https://openalex.org/W4392617687",
       "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
       "year": 2024,
+      "date": "2024-03-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091946633",
@@ -921,6 +958,7 @@
       "id": "https://openalex.org/W4400962678",
       "title": "Why Robots Should Grow Like Vines",
       "year": 2024,
+      "date": "2024-07-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085630453",
@@ -948,6 +986,7 @@
       "id": "https://openalex.org/W4404401839",
       "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
       "year": 2024,
+      "date": "2024-11-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085630453",
@@ -975,6 +1014,7 @@
       "id": "https://openalex.org/W4415085073",
       "title": "Soft Everting Prosthetic Hand and Comparison with Existing Body-Powered Terminal Devices",
       "year": 2025,
+      "date": "2025-03-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091946633",
@@ -990,6 +1030,7 @@
       "id": "https://openalex.org/W7155107346",
       "title": "Interdisciplinary Workshop on Mechanical Intelligence: Summary Report",
       "year": 2026,
+      "date": "2026-03-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007509117",
@@ -1157,6 +1198,7 @@
       "id": "https://openalex.org/W7155246101",
       "title": "Interdisciplinary Workshop on Mechanical Intelligence: Summary Report",
       "year": 2026,
+      "date": "2026-03-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007509117",

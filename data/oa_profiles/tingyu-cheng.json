@@ -1,16 +1,20 @@
 {
+  "slug": "tingyu-cheng",
+  "display": "Tingyu Cheng",
   "query_name": "Tingyu Cheng",
   "openalex_id": "https://openalex.org/A5011017276",
-  "display_name": "Tingyu Cheng",
+  "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
   "works_count": 52,
   "cited_by_count": 697,
+  "photo": "assets/faculty/tingyu-cheng.jpg",
   "num_works_fetched": 52,
   "works": [
     {
       "id": "https://openalex.org/W2795511690",
       "title": "Thermorph",
       "year": 2018,
+      "date": "2018-04-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101725557",
@@ -66,6 +70,7 @@
       "id": "https://openalex.org/W4233331806",
       "title": "Printed Paper Actuator",
       "year": 2018,
+      "date": "2018-04-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5017439867",
@@ -105,6 +110,7 @@
       "id": "https://openalex.org/W4210636484",
       "title": "Flexible computational photodetectors for self-powered activity sensing",
       "year": 2022,
+      "date": "2022-01-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5070875931",
@@ -176,6 +182,7 @@
       "id": "https://openalex.org/W4292825872",
       "title": "3D Printed \u201cKirigami\u201d-Inspired Deployable Bi-Focal Beam-Scanning Dielectric Reflectarray Antenna for mm-Wave Applications",
       "year": 2022,
+      "date": "2022-08-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031058306",
@@ -207,6 +214,7 @@
       "id": "https://openalex.org/W4387331316",
       "title": "Privacy vs. Awareness: Relieving the Tension between Older Adults and Adult Children When Sharing In-home Activity Data",
       "year": 2023,
+      "date": "2023-09-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5105760737",
@@ -238,6 +246,7 @@
       "id": "https://openalex.org/W3011343656",
       "title": "Silver Tape",
       "year": 2020,
+      "date": "2020-03-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -289,6 +298,7 @@
       "id": "https://openalex.org/W3004617892",
       "title": "SPIN (Self-powered Paper Interfaces)",
       "year": 2020,
+      "date": "2020-02-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100609547",
@@ -332,6 +342,7 @@
       "id": "https://openalex.org/W4366547558",
       "title": "Functional Destruction: Utilizing Sustainable Materials\u2019 Physical Transiency for Electronics Applications",
       "year": 2023,
+      "date": "2023-04-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -371,6 +382,7 @@
       "id": "https://openalex.org/W2795732039",
       "title": "Demonstrating Printed Paper Actuator",
       "year": 2018,
+      "date": "2018-04-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5017439867",
@@ -410,6 +422,7 @@
       "id": "https://openalex.org/W4366550204",
       "title": "SwellSense: Creating 2.5D interactions with micro-capsule paper",
       "year": 2023,
+      "date": "2023-04-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -453,6 +466,7 @@
       "id": "https://openalex.org/W4224982745",
       "title": "FlexHaptics: A Design Method for Passive Haptic Inputs Using Planar Compliant Structures",
       "year": 2022,
+      "date": "2022-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5033496869",
@@ -492,6 +506,7 @@
       "id": "https://openalex.org/W4385614497",
       "title": "Making computing visible &amp; tangible: A paper-based computing toolkit for codesigning inclusive computing education activities",
       "year": 2023,
+      "date": "2023-08-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080271962",
@@ -523,6 +538,7 @@
       "id": "https://openalex.org/W4387993396",
       "title": "Future Paradigms for Sustainable Making",
       "year": 2023,
+      "date": "2023-10-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5044495445",
@@ -550,6 +566,7 @@
       "id": "https://openalex.org/W4393318703",
       "title": "Addressable structured light system using metasurface optics and an individually addressable VCSEL array",
       "year": 2024,
+      "date": "2024-03-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102751857",
@@ -589,6 +606,7 @@
       "id": "https://openalex.org/W4413968510",
       "title": "Living Sustainability: In-Context Interactive Environmental Impact Communication",
       "year": 2025,
+      "date": "2025-09-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101798380",
@@ -640,6 +658,7 @@
       "id": "https://openalex.org/W4407946080",
       "title": "Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios",
       "year": 2025,
+      "date": "2025-02-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101057494",
@@ -679,6 +698,7 @@
       "id": "https://openalex.org/W4410427641",
       "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
       "year": 2025,
+      "date": "2025-05-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5056021955",
@@ -734,6 +754,7 @@
       "id": "https://openalex.org/W3124673099",
       "title": "REVIEW OF MATERIALS AND STRUCTURES IN SOFT ROBOTICS",
       "year": 2016,
+      "date": "2016-07-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008715397",
@@ -765,6 +786,7 @@
       "id": "https://openalex.org/W2798402715",
       "title": "Demonstrating Thermorph",
       "year": 2018,
+      "date": "2018-04-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5058826825",
@@ -812,6 +834,7 @@
       "id": "https://openalex.org/W3199565480",
       "title": "Duco",
       "year": 2021,
+      "date": "2021-09-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -867,6 +890,7 @@
       "id": "https://openalex.org/W4385481771",
       "title": "Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment",
       "year": 2023,
+      "date": "2023-07-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -890,6 +914,7 @@
       "id": "https://openalex.org/W4225011204",
       "title": "PITAS: Sensing and Actuating Embedded Robotic Sheet for Physical Information Communication",
       "year": 2022,
+      "date": "2022-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -933,6 +958,7 @@
       "id": "https://openalex.org/W4205834318",
       "title": "Applying Compute-Proximal Energy Harvesting to Develop Self-Sustained Systems for Automobiles",
       "year": 2021,
+      "date": "2021-12-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082801999",
@@ -976,6 +1002,7 @@
       "id": "https://openalex.org/W4361770602",
       "title": "Exergy",
       "year": 2023,
+      "date": "2023-03-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082801999",
@@ -1015,6 +1042,7 @@
       "id": "https://openalex.org/W4403318140",
       "title": "Democratizing Intelligent Soft Wearables",
       "year": 2024,
+      "date": "2024-10-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003976058",
@@ -1058,6 +1086,7 @@
       "id": "https://openalex.org/W4413019846",
       "title": "From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens",
       "year": 2025,
+      "date": "2025-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5106973417",
@@ -1089,6 +1118,7 @@
       "id": "https://openalex.org/W4307485828",
       "title": "Environmental physical intelligence: Seamlessly deploying sensors and actuators to our everyday life",
       "year": 2022,
+      "date": "2022-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1100,6 +1130,7 @@
       "id": "https://openalex.org/W4411143521",
       "title": "Dynamic-Clustering-Based Color Quantization for Electrophoretic Display",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1127,6 +1158,7 @@
       "id": "https://openalex.org/W4413468155",
       "title": "On-demand RFID: Improving Privacy, Security, and User Trust in RFID Activation through Physically-Intuitive Design",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5049871944",
@@ -1162,6 +1194,7 @@
       "id": "https://openalex.org/W4417052546",
       "title": "850 nm VCSELs Exceeding 40 GHz Bandwidth Enable 200 Gbps Transmission over 1 00 m Multimode Fiber Link",
       "year": 2025,
+      "date": "2025-09-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026832788",
@@ -1201,6 +1234,7 @@
       "id": "https://openalex.org/W7134177705",
       "title": "Reimagining Upcycled Plastic Bags: Integrating Electronics Through Design for Disassembly",
       "year": 2026,
+      "date": "2026-03-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5123842626",
@@ -1224,6 +1258,7 @@
       "id": "https://openalex.org/W7164505325",
       "title": "Sustainability assessment using multimodal artificial intelligence agents",
       "year": 2026,
+      "date": "2026-06-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101798380",
@@ -1271,6 +1306,7 @@
       "id": "https://openalex.org/W4225133258",
       "title": "Travelogue: Representing Indoor Trajectories as Informative Art",
       "year": 2022,
+      "date": "2022-04-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100756426",
@@ -1290,6 +1326,7 @@
       "id": "https://openalex.org/W4409181746",
       "title": "Evolutionary Game Analysis for Power Battery Recycling of New Energy Vehicle in China",
       "year": 2025,
+      "date": "2025-04-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101513442",
@@ -1313,6 +1350,7 @@
       "id": "https://openalex.org/W3213517745",
       "title": "A Simulation and Prototyping Toolkit for Airflow Energy Harvesting in Vehicles",
       "year": 2021,
+      "date": "2021-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100723914",
@@ -1340,6 +1378,7 @@
       "id": "https://openalex.org/W4414877960",
       "title": "Sustainability assessment using multimodal AI agents",
       "year": 2025,
+      "date": "2025-07-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101798380",
@@ -1387,6 +1426,7 @@
       "id": "https://openalex.org/W4254376101",
       "title": "Showcasing Printed Paper Actuator",
       "year": 2018,
+      "date": "2018-04-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5017439867",
@@ -1426,6 +1466,7 @@
       "id": "https://openalex.org/W4399758706",
       "title": "Recy-ctronics: Designing Fully Recyclable Electronics With Varied Form Factors",
       "year": 2024,
+      "date": "2024-06-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1465,6 +1506,7 @@
       "id": "https://openalex.org/W2770721380",
       "title": "Modeling Search-And-Rescue Operations by Autonomous Mobile Robots at Sea",
       "year": 2018,
+      "date": "2018-06-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5015106503",
@@ -1488,6 +1530,7 @@
       "id": "https://openalex.org/W4312296478",
       "title": "Making Computing Visible &amp; Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
       "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080271962",
@@ -1519,6 +1562,7 @@
       "id": "https://openalex.org/W4312324583",
       "title": "Supporting Sustainability Through Minimalist Interaction Design Aesthetics",
       "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5061116185",
@@ -1542,6 +1586,7 @@
       "id": "https://openalex.org/W4392693173",
       "title": "Programmable structured light based on SOI metasurface and individually addressable VCSEL array",
       "year": 2024,
+      "date": "2024-03-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102751857",
@@ -1573,6 +1618,7 @@
       "id": "https://openalex.org/W4394879318",
       "title": "Research on Visual Function Anomaly Classification Based on SMOTE\u2009+\u2009Boosting Multiple Sampling Algorithm",
       "year": 2024,
+      "date": "2024-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1592,6 +1638,7 @@
       "id": "https://openalex.org/W4409537533",
       "title": "Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment",
       "year": 2024,
+      "date": "2024-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1615,6 +1662,7 @@
       "id": "https://openalex.org/W7117457553",
       "title": "Intelligent Soft Wearables",
       "year": 2025,
+      "date": "2025-10-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5077097352",
@@ -1662,6 +1710,7 @@
       "id": "https://openalex.org/W7133534782",
       "title": "850nm VCSEL for 112 Gbps NRZ and 200 Gbps PAM4 optical interconnects",
       "year": 2026,
+      "date": "2026-03-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026832788",
@@ -1705,6 +1754,7 @@
       "id": "https://openalex.org/W7133567284",
       "title": "Polarization-multiplexed collimating diffractive metasurface without zeroth-order effect for 3D sensing",
       "year": 2026,
+      "date": "2026-03-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5128087446",
@@ -1744,6 +1794,7 @@
       "id": "https://openalex.org/W7160450003",
       "title": "Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework",
       "year": 2026,
+      "date": "2026-05-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5135425112",
@@ -1819,6 +1870,7 @@
       "id": "https://openalex.org/W7160564948",
       "title": "Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework",
       "year": 2026,
+      "date": "2026-05-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5135542930",
@@ -1894,6 +1946,7 @@
       "id": "https://openalex.org/W7169853445",
       "title": "Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction",
       "year": 2026,
+      "date": "2026-07-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1921,6 +1974,7 @@
       "id": "https://openalex.org/W7170111718",
       "title": "Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction",
       "year": 2026,
+      "date": "2026-07-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011017276",
@@ -1948,6 +2002,7 @@
       "id": "https://openalex.org/W7171733747",
       "title": "Biohybrid Robots with Embedded Conductive Fibers for Actuation, Sensing, and Closed-loop Control",
       "year": 2026,
+      "date": "2026-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5012723797",

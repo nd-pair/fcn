@@ -1,16 +1,20 @@
 {
-  "query_name": "Edgar Bolivar-Nieto",
+  "slug": "edgar-bolivar-nieto",
+  "display": "Edgar Bol\u00edvar-Nieto",
+  "query_name": "Edgar Bolivar Nieto",
   "openalex_id": "https://openalex.org/A5076214359",
-  "display_name": "Edgar Bol\u00edvar-Nieto",
+  "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
   "works_count": 35,
   "cited_by_count": 302,
+  "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
   "num_works_fetched": 35,
   "works": [
     {
       "id": "https://openalex.org/W3194165539",
       "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026757426",
@@ -30,6 +34,7 @@
       "id": "https://openalex.org/W2963106632",
       "title": "Minimizing Energy Consumption and Peak Power of Series Elastic Actuators: A Convex Optimization Framework for Elastic Element Design",
       "year": 2019,
+      "date": "2019-03-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -49,6 +54,7 @@
       "id": "https://openalex.org/W3035390057",
       "title": "Extremum Seeking Control for Stiffness Auto-Tuning of a Quasi-Passive Ankle Exoskeleton",
       "year": 2020,
+      "date": "2020-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030652380",
@@ -76,6 +82,7 @@
       "id": "https://openalex.org/W4285150664",
       "title": "Modeling the Transitional Kinematics Between Variable-Incline Walking and Stair Climbing",
       "year": 2022,
+      "date": "2022-06-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026757426",
@@ -99,6 +106,7 @@
       "id": "https://openalex.org/W4285102452",
       "title": "Stair Ascent Phase-Variable Control of a Powered Knee-Ankle Prosthesis",
       "year": 2022,
+      "date": "2022-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066555550",
@@ -122,6 +130,7 @@
       "id": "https://openalex.org/W2769825647",
       "title": "A General Framework for Minimizing Energy Consumption of Series Elastic Actuators With Regeneration",
       "year": 2017,
+      "date": "2017-10-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -141,6 +150,7 @@
       "id": "https://openalex.org/W2946778909",
       "title": "Mechanical Simplification of Variable-Stiffness Actuators Using Dielectric Elastomer Transducers",
       "year": 2019,
+      "date": "2019-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5077577641",
@@ -168,6 +178,7 @@
       "id": "https://openalex.org/W4412605479",
       "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
       "year": 2025,
+      "date": "2025-07-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5115596636",
@@ -191,6 +202,7 @@
       "id": "https://openalex.org/W2551071671",
       "title": "Towards a series elastic actuator with electrically modulated stiffness for Powered Ankle-Foot Orthoses",
       "year": 2016,
+      "date": "2016-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -222,6 +234,7 @@
       "id": "https://openalex.org/W3194305617",
       "title": "A convex optimization framework for robust-feasible series elastic actuators",
       "year": 2021,
+      "date": "2021-08-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -245,6 +258,7 @@
       "id": "https://openalex.org/W4200413691",
       "title": "Convex Optimization for Spring Design in Series Elastic Actuators: From Theory to Practice",
       "year": 2021,
+      "date": "2021-09-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -268,6 +282,7 @@
       "id": "https://openalex.org/W3193601395",
       "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
       "year": 2021,
+      "date": "2021-08-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048122826",
@@ -291,6 +306,7 @@
       "id": "https://openalex.org/W4294690890",
       "title": "Convex Optimization for Spring Design of Parallel Elastic Actuators",
       "year": 2022,
+      "date": "2022-06-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5043312150",
@@ -310,6 +326,7 @@
       "id": "https://openalex.org/W2903995836",
       "title": "Robust Optimal Design of Energy Efficient Series Elastic Actuators: Application to a Powered Prosthetic Ankle",
       "year": 2019,
+      "date": "2019-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -333,6 +350,7 @@
       "id": "https://openalex.org/W4403677286",
       "title": "Prediction of Whole-Body Center of Mass Using Joint Angles and Ground Reaction Forces: A Framework for Human Intent Prediction",
       "year": 2024,
+      "date": "2024-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -348,6 +366,7 @@
       "id": "https://openalex.org/W4410022415",
       "title": "Center of mass estimation during non-cyclic activities: Comparison of marker-based methods and their fusion with ground reaction forces",
       "year": 2025,
+      "date": "2025-05-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -363,6 +382,7 @@
       "id": "https://openalex.org/W4413415012",
       "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
       "year": 2025,
+      "date": "2025-08-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -378,6 +398,7 @@
       "id": "https://openalex.org/W3198500577",
       "title": "Lower-limb kinematics and kinetics during continuously varying human locomotion",
       "year": 2021,
+      "date": "2021-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039893489",
@@ -409,6 +430,7 @@
       "id": "https://openalex.org/W2900961919",
       "title": "Minimizing Energy Consumption and Peak Power of Series Elastic Actuators: a Convex Optimization Framework for Elastic Element Design",
       "year": 2018,
+      "date": "2018-11-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -428,6 +450,7 @@
       "id": "https://openalex.org/W4403662221",
       "title": "Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
       "year": 2024,
+      "date": "2024-09-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5115596636",
@@ -451,6 +474,7 @@
       "id": "https://openalex.org/W4404988195",
       "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
       "year": 2024,
+      "date": "2024-11-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -466,6 +490,7 @@
       "id": "https://openalex.org/W4417266406",
       "title": "Whole-body optical marker and ground reaction force data of healthy humans performing non-cyclic activities",
       "year": 2025,
+      "date": "2025-12-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -485,6 +510,7 @@
       "id": "https://openalex.org/W1139031155",
       "title": "University and cultural politics in Colombia: Itineraries, consolidation and opening to the cultural development of the Region",
       "year": 2009,
+      "date": "2009-04-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5078808803",
@@ -504,6 +530,7 @@
       "id": "https://openalex.org/W1447815971",
       "title": "An\u00e1lisis costo-beneficio existente entre los costos de producci\u00f3n generados por accidentes de trabajo y la inversi\u00f3n en seguridad y salud ocupacional del a\u00f1o 2014 en la empresa Rapidservice S.A.",
       "year": 2015,
+      "date": "2015-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109842531",
@@ -519,6 +546,7 @@
       "id": "https://openalex.org/W2280840338",
       "title": "Dise\u00f1o y construcci\u00f3n de un modulador y demodulador de Banda lateral \u00fanica empleando el m\u00e9todo de doble filtraje",
       "year": 1997,
+      "date": "1997-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076758635",
@@ -534,6 +562,7 @@
       "id": "https://openalex.org/W2297825023",
       "title": "Vida y obra del compositor gualace\u00f1o Augusto Saquicela Lituma",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048184498",
@@ -549,6 +578,7 @@
       "id": "https://openalex.org/W2784324338",
       "title": "Identidad y supervivencia de la cultura",
       "year": 2017,
+      "date": "2017-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -560,6 +590,7 @@
       "id": "https://openalex.org/W2785064618",
       "title": "Dise\u00f1o y Construcci\u00f3n de un Dispositivo Electr\u00f3nico Calculador de Distancia y Tarifas para Taxis Implementado en un Banco de Pruebas para la Escuela de Ingenier\u00eda Automotriz.",
       "year": 2014,
+      "date": "2014-01-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031126248",
@@ -575,6 +606,7 @@
       "id": "https://openalex.org/W3201966778",
       "title": "Attalea: Revista de Divulgaci\u00f3n Cient\u00edfica n\u00b0 1 (2020)",
       "year": 2020,
+      "date": "2020-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048802615",
@@ -674,6 +706,7 @@
       "id": "https://openalex.org/W4391375207",
       "title": "El carnaval de Barranquilla: juego de alteridades",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076214359",
@@ -685,6 +718,7 @@
       "id": "https://openalex.org/W4394097033",
       "title": "Normalized Dataset",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051369788",
@@ -716,6 +750,7 @@
       "id": "https://openalex.org/W4394284690",
       "title": "Streaming Dataset",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051369788",
@@ -747,6 +782,7 @@
       "id": "https://openalex.org/W4394354984",
       "title": "README",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051369788",
@@ -778,6 +814,7 @@
       "id": "https://openalex.org/W4405029625",
       "title": "Comparative analysis of whole-body center-of-mass estimation methods in dynamic and static activities using marker-based systems",
       "year": 2024,
+      "date": "2024-11-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -793,6 +830,7 @@
       "id": "https://openalex.org/W7165054088",
       "title": "Nested Split-Tube Flexure: Design, Modeling, and Characterization of a Compact Torsional Compliant Mechanism",
       "year": 2026,
+      "date": "2026-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5138773365",

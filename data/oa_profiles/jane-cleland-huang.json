@@ -1,16 +1,20 @@
 {
-  "query_name": "Jane Cleland-Huang",
+  "slug": "jane-cleland-huang",
+  "display": "Jane Cleland-Huang",
+  "query_name": "Jane Cleland Huang",
   "openalex_id": "https://openalex.org/A5037363688",
-  "display_name": "Jane Cleland\u2010Huang",
+  "openalex_name": "Jane Cleland\u2010Huang",
   "affiliation": "University of Notre Dame",
   "works_count": 310,
   "cited_by_count": 7430,
+  "photo": "assets/faculty/jane-cleland-huang.jpeg",
   "num_works_fetched": 310,
   "works": [
     {
       "id": "https://openalex.org/W2005569040",
       "title": "Software traceability: trends and future directions",
       "year": 2014,
+      "date": "2014-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -38,6 +42,7 @@
       "id": "https://openalex.org/W2127626360",
       "title": "Automated classification of non-functional requirements",
       "year": 2007,
+      "date": "2007-03-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -61,6 +66,7 @@
       "id": "https://openalex.org/W2142809450",
       "title": "Event-based traceability for managing evolutionary change",
       "year": 2003,
+      "date": "2003-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -80,6 +86,7 @@
       "id": "https://openalex.org/W2122399740",
       "title": "The Detection and Classification of Non-Functional Requirements with Application to Early Aspects",
       "year": 2006,
+      "date": "2006-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -103,6 +110,7 @@
       "id": "https://openalex.org/W2122987719",
       "title": "A machine learning approach for tracing regulatory codes to product specific requirements",
       "year": 2010,
+      "date": "2010-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -126,6 +134,7 @@
       "id": "https://openalex.org/W2099175080",
       "title": "Utilizing supporting evidence to improve dynamic requirements traceability",
       "year": 2005,
+      "date": "2005-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -149,6 +158,7 @@
       "id": "https://openalex.org/W2116907335",
       "title": "On-demand feature recommendations derived from mining public product descriptions",
       "year": 2011,
+      "date": "2011-05-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5004005620",
@@ -184,6 +194,7 @@
       "id": "https://openalex.org/W1979100395",
       "title": "Feature model extraction from large collections of informal product descriptions",
       "year": 2013,
+      "date": "2013-08-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5013455004",
@@ -215,6 +226,7 @@
       "id": "https://openalex.org/W3162044134",
       "title": "Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models",
       "year": 2021,
+      "date": "2021-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088923915",
@@ -242,6 +254,7 @@
       "id": "https://openalex.org/W1965177473",
       "title": "Improving automated requirements trace retrieval: a study of term-based enhancement methods",
       "year": 2009,
+      "date": "2009-07-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5002859620",
@@ -261,6 +274,7 @@
       "id": "https://openalex.org/W1487731568",
       "title": "Supporting software evolution through dynamically retrieving traces to UML artifacts",
       "year": 2004,
+      "date": "2004-09-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5067938545",
@@ -292,6 +306,7 @@
       "id": "https://openalex.org/W2964064835",
       "title": "Traceability in the wild",
       "year": 2018,
+      "date": "2018-05-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082629071",
@@ -319,6 +334,7 @@
       "id": "https://openalex.org/W2167417301",
       "title": "Towards automated requirements prioritization and triage",
       "year": 2009,
+      "date": "2009-03-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075831614",
@@ -342,6 +358,7 @@
       "id": "https://openalex.org/W1993344876",
       "title": "Supporting Domain Analysis through Mining and Recommending Features from Online Product Listings",
       "year": 2013,
+      "date": "2013-08-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082514679",
@@ -369,6 +386,7 @@
       "id": "https://openalex.org/W2085435546",
       "title": "Improving trace accuracy through data-driven configuration and composition of tracing features",
       "year": 2013,
+      "date": "2013-08-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048108949",
@@ -392,6 +410,7 @@
       "id": "https://openalex.org/W1970264769",
       "title": "Towards mining replacement queries for hard-to-retrieve traces",
       "year": 2010,
+      "date": "2010-09-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5062838041",
@@ -411,6 +430,7 @@
       "id": "https://openalex.org/W4387123286",
       "title": "Prompts Matter: Insights and Strategies for Prompt Engineering in Automated Software Traceability",
       "year": 2023,
+      "date": "2023-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109596027",
@@ -430,6 +450,7 @@
       "id": "https://openalex.org/W4386416896",
       "title": "Human\u2013machine Teaming with Small Unmanned Aerial Systems in a MAPE-K Environment",
       "year": 2023,
+      "date": "2023-09-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -461,6 +482,7 @@
       "id": "https://openalex.org/W2150712635",
       "title": "Quality Requirements and their Role in Successful Products",
       "year": 2007,
+      "date": "2007-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -472,6 +494,7 @@
       "id": "https://openalex.org/W3197759984",
       "title": "Explaining Autonomous Decisions in Swarms of Human-on-the-Loop Small Unmanned Aerial Systems",
       "year": 2021,
+      "date": "2021-10-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -483,6 +506,7 @@
       "id": "https://openalex.org/W2126597018",
       "title": "The incremental funding method: data-driven software development",
       "year": 2004,
+      "date": "2004-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046318291",
@@ -498,6 +522,7 @@
       "id": "https://openalex.org/W2085421499",
       "title": "Strategic Traceability for Safety-Critical Projects",
       "year": 2013,
+      "date": "2013-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063243817",
@@ -521,6 +546,7 @@
       "id": "https://openalex.org/W4236772736",
       "title": "Traceability Fundamentals",
       "year": 2011,
+      "date": "2011-10-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111928350",
@@ -568,6 +594,7 @@
       "id": "https://openalex.org/W2296164881",
       "title": "Detecting, Tracing, and Monitoring Architectural Tactics in Code",
       "year": 2015,
+      "date": "2015-09-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -583,6 +610,7 @@
       "id": "https://openalex.org/W1969353325",
       "title": "Clustering support for automated tracing",
       "year": 2007,
+      "date": "2007-11-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075831614",
@@ -598,6 +626,7 @@
       "id": "https://openalex.org/W3146113246",
       "title": "A tactic-centric approach for automating traceability of quality concerns",
       "year": 2012,
+      "date": "2012-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -621,6 +650,7 @@
       "id": "https://openalex.org/W1592382863",
       "title": "A Metrics Suite for Evaluating Flexibility and Complexity in Service Oriented Architectures",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051003283",
@@ -640,6 +670,7 @@
       "id": "https://openalex.org/W2057293921",
       "title": "A recommender system for requirements elicitation in large-scale software projects",
       "year": 2009,
+      "date": "2009-03-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000440212",
@@ -663,6 +694,7 @@
       "id": "https://openalex.org/W2060866317",
       "title": "The quest for Ubiquity: A roadmap for software and systems traceability research",
       "year": 2012,
+      "date": "2012-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111420649",
@@ -698,6 +730,7 @@
       "id": "https://openalex.org/W2198476345",
       "title": "The Grand Challenge of Traceability (v1.0)",
       "year": 2011,
+      "date": "2011-10-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111928350",
@@ -741,6 +774,7 @@
       "id": "https://openalex.org/W2137653412",
       "title": "Towards Automated Requirements Triage",
       "year": 2007,
+      "date": "2007-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006106575",
@@ -760,6 +794,7 @@
       "id": "https://openalex.org/W2157960915",
       "title": "A tactic-centric approach for automating traceability of quality concerns",
       "year": 2012,
+      "date": "2012-06-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -783,6 +818,7 @@
       "id": "https://openalex.org/W2103699027",
       "title": "Mind the gap: assessing the conformance of software traceability to relevant guidelines",
       "year": 2014,
+      "date": "2014-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042885786",
@@ -806,6 +842,7 @@
       "id": "https://openalex.org/W2171887695",
       "title": "Using Data Mining and Recommender Systems to Facilitate Large-Scale, Open, and Inclusive Requirements Elicitation Processes",
       "year": 2008,
+      "date": "2008-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000440212",
@@ -829,6 +866,7 @@
       "id": "https://openalex.org/W2964279195",
       "title": "Dronology",
       "year": 2018,
+      "date": "2018-05-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -848,6 +886,7 @@
       "id": "https://openalex.org/W2015792225",
       "title": "Toward improved traceability of non-functional requirements",
       "year": 2005,
+      "date": "2005-11-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -859,6 +898,7 @@
       "id": "https://openalex.org/W2090471195",
       "title": "Automated support for managing feature requests in open forums",
       "year": 2009,
+      "date": "2009-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -882,6 +922,7 @@
       "id": "https://openalex.org/W1485202702",
       "title": "A heterogeneous solution for improving the return on investment of requirements traceability",
       "year": 2004,
+      "date": "2004-09-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -901,6 +942,7 @@
       "id": "https://openalex.org/W4252902639",
       "title": "Supporting software evolution through dynamically retrieving traces to UML artifacts",
       "year": 2004,
+      "date": "2004-11-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5067938545",
@@ -932,6 +974,7 @@
       "id": "https://openalex.org/W2040515813",
       "title": "The Twin Peaks of Requirements and Architecture",
       "year": 2013,
+      "date": "2013-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -955,6 +998,7 @@
       "id": "https://openalex.org/W2150775529",
       "title": "Recommending source code for use in rapid software prototypes",
       "year": 2012,
+      "date": "2012-06-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5084874990",
@@ -982,6 +1026,7 @@
       "id": "https://openalex.org/W2151883549",
       "title": "Enhancing Stakeholder Profiles to Improve Recommendations in Online Requirements Elicitation",
       "year": 2009,
+      "date": "2009-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000440212",
@@ -1001,6 +1046,7 @@
       "id": "https://openalex.org/W3141552077",
       "title": "TraceLab: An experimental workbench for equipping researchers to innovate, synthesize, and comparatively evaluate traceability solutions",
       "year": 2012,
+      "date": "2012-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085483825",
@@ -1064,6 +1110,7 @@
       "id": "https://openalex.org/W1505454221",
       "title": "Lessons Learned from Open Source Projects for Facilitating Online Requirements Processes",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006106575",
@@ -1079,6 +1126,7 @@
       "id": "https://openalex.org/W2057424250",
       "title": "Detecting and classifying patterns of requirements clarifications",
       "year": 2012,
+      "date": "2012-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5069018122",
@@ -1102,6 +1150,7 @@
       "id": "https://openalex.org/W2553146174",
       "title": "Tackling the term-mismatch problem in automated trace retrieval",
       "year": 2016,
+      "date": "2016-11-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -1121,6 +1170,7 @@
       "id": "https://openalex.org/W1839118838",
       "title": "Traceability in Agile Projects",
       "year": 2011,
+      "date": "2011-10-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1132,6 +1182,7 @@
       "id": "https://openalex.org/W2106857811",
       "title": "Grand challenges, benchmarks, and TraceLab",
       "year": 2011,
+      "date": "2011-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1199,6 +1250,7 @@
       "id": "https://openalex.org/W3140799696",
       "title": "Recommending source code for use in rapid software prototypes",
       "year": 2012,
+      "date": "2012-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5084874990",
@@ -1226,6 +1278,7 @@
       "id": "https://openalex.org/W1656916165",
       "title": "Trace Queries for Safety Requirements in High Assurance Systems",
       "year": 2012,
+      "date": "2012-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1253,6 +1306,7 @@
       "id": "https://openalex.org/W1983419770",
       "title": "Automated extraction and visualization of quality concerns from requirements specifications",
       "year": 2014,
+      "date": "2014-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -1272,6 +1326,7 @@
       "id": "https://openalex.org/W2052187131",
       "title": "Phrasing in Dynamic Requirements Trace Retrieva",
       "year": 2006,
+      "date": "2006-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5002859620",
@@ -1291,6 +1346,7 @@
       "id": "https://openalex.org/W3168349005",
       "title": "Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations",
       "year": 2021,
+      "date": "2021-08-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030469532",
@@ -1318,6 +1374,7 @@
       "id": "https://openalex.org/W2103660088",
       "title": "Goal-Centric Traceability: Using Virtual Plumblines to Maintain Critical Systemic Qualities",
       "year": 2008,
+      "date": "2008-08-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1337,6 +1394,7 @@
       "id": "https://openalex.org/W2071604149",
       "title": "Using tactic traceability information models to reduce the risk of architectural degradation during system maintenance",
       "year": 2011,
+      "date": "2011-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -1352,6 +1410,7 @@
       "id": "https://openalex.org/W2076236512",
       "title": "Learning effective query transformations for enhanced requirements trace retrieval",
       "year": 2013,
+      "date": "2013-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010532436",
@@ -1371,6 +1430,7 @@
       "id": "https://openalex.org/W4221006676",
       "title": "Extending MAPE-K to support human-machine teaming",
       "year": 2022,
+      "date": "2022-05-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1394,6 +1454,7 @@
       "id": "https://openalex.org/W2145813135",
       "title": "Meet Elaine: A Persona-Driven Approach to Exploring Architecturally Significant Requirements",
       "year": 2013,
+      "date": "2013-06-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1405,6 +1466,7 @@
       "id": "https://openalex.org/W3195041733",
       "title": "Hazard analysis for human-on-the-loop interactions in sUAS systems",
       "year": 2021,
+      "date": "2021-08-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -1428,6 +1490,7 @@
       "id": "https://openalex.org/W2896179592",
       "title": "Discovering, Analyzing, and Managing Safety Stories in Agile Projects",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1443,6 +1506,7 @@
       "id": "https://openalex.org/W2923071719",
       "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces",
       "year": 2019,
+      "date": "2019-03-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -1482,6 +1546,7 @@
       "id": "https://openalex.org/W3093500498",
       "title": "Requirements-driven configuration of emergency response missions with small aerial vehicles",
       "year": 2020,
+      "date": "2020-10-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1509,6 +1574,7 @@
       "id": "https://openalex.org/W2049961680",
       "title": "A consensus based approach to constrained clustering of software requirements",
       "year": 2008,
+      "date": "2008-10-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075831614",
@@ -1528,6 +1594,7 @@
       "id": "https://openalex.org/W1993186225",
       "title": "Views on software engineering from the twin peaks of requirements and architecture",
       "year": 2013,
+      "date": "2013-08-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5034571717",
@@ -1563,6 +1630,7 @@
       "id": "https://openalex.org/W2049462180",
       "title": "Ontology-based trace retrieval",
       "year": 2013,
+      "date": "2013-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5044955741",
@@ -1578,6 +1646,7 @@
       "id": "https://openalex.org/W2395560004",
       "title": "Cold-start software analytics",
       "year": 2016,
+      "date": "2016-05-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -1609,6 +1678,7 @@
       "id": "https://openalex.org/W2086584529",
       "title": "A Taxonomy and Visual Notation for Modeling Globally Distributed Requirements Engineering Projects",
       "year": 2010,
+      "date": "2010-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006106575",
@@ -1632,6 +1702,7 @@
       "id": "https://openalex.org/W2114178974",
       "title": "Traversing the Twin Peaks",
       "year": 2013,
+      "date": "2013-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -1647,6 +1718,7 @@
       "id": "https://openalex.org/W1994603746",
       "title": "Variability points and design pattern usage in architectural tactics",
       "year": 2012,
+      "date": "2012-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -1666,6 +1738,7 @@
       "id": "https://openalex.org/W2896375370",
       "title": "Monitoring CPS at Runtime - A Case Study in the UAV Domain",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -1697,6 +1770,7 @@
       "id": "https://openalex.org/W2728574907",
       "title": "A Case Study: Injecting Safety-Critical Thinking into Graduate Software Engineering Projects",
       "year": 2017,
+      "date": "2017-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -1712,6 +1786,7 @@
       "id": "https://openalex.org/W3014129781",
       "title": "Enhancing Source Code Refactoring Detection with Explanations from Commit Messages",
       "year": 2020,
+      "date": "2020-02-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5016486678",
@@ -1727,6 +1802,7 @@
       "id": "https://openalex.org/W4309874955",
       "title": "Configuring mission-specific behavior in a product line of collaborating Small Unmanned Aerial Systems",
       "year": 2022,
+      "date": "2022-11-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008349040",
@@ -1766,6 +1842,7 @@
       "id": "https://openalex.org/W4323519386",
       "title": "Detecting Anomalies in Small Unmanned Aerial Systems via Graphical Normalizing Flows",
       "year": 2023,
+      "date": "2023-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008871638",
@@ -1789,6 +1866,7 @@
       "id": "https://openalex.org/W4313116929",
       "title": "RESAM: Requirements Elicitation and Specification for Deep-Learning Anomaly Models with Applications to UAV Flight Controllers",
       "year": 2022,
+      "date": "2022-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008349040",
@@ -1816,6 +1894,7 @@
       "id": "https://openalex.org/W4387143083",
       "title": "Using ChatGPT to Generate Human-Value User Stories as Inspirational Triggers",
       "year": 2023,
+      "date": "2023-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5092962449",
@@ -1831,6 +1910,7 @@
       "id": "https://openalex.org/W3217524179",
       "title": "Leveraging Intermediate Artifacts to Improve Automated Trace Link Retrieval",
       "year": 2021,
+      "date": "2021-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109596027",
@@ -1850,6 +1930,7 @@
       "id": "https://openalex.org/W4408815477",
       "title": "Natural Language Processing for Requirements Traceability",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -1873,6 +1954,7 @@
       "id": "https://openalex.org/W4401723659",
       "title": "An Environmentally Complex Requirement for Safe Separation Distance Between UAVs",
       "year": 2024,
+      "date": "2024-06-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5106625006",
@@ -1896,6 +1978,7 @@
       "id": "https://openalex.org/W4312911443",
       "title": "Flexible model-driven runtime monitoring support for cyber-physical systems",
       "year": 2022,
+      "date": "2022-05-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090948235",
@@ -1923,6 +2006,7 @@
       "id": "https://openalex.org/W4394625841",
       "title": "NOMAD: A Natural, Occluded, Multi-scale Aerial Dataset, for Emergency Response Scenarios",
       "year": 2024,
+      "date": "2024-01-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065580041",
@@ -1942,6 +2026,7 @@
       "id": "https://openalex.org/W4405279250",
       "title": "An Evaluation of Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems",
       "year": 2024,
+      "date": "2024-12-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5012188746",
@@ -1969,6 +2054,7 @@
       "id": "https://openalex.org/W2172101296",
       "title": "Automating speculative queries through event-based requirements traceability",
       "year": 2003,
+      "date": "2003-06-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2000,6 +2086,7 @@
       "id": "https://openalex.org/W2092654700",
       "title": "Using data mining and recommender systems to scale up the requirements process",
       "year": 2008,
+      "date": "2008-05-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2015,6 +2102,7 @@
       "id": "https://openalex.org/W2169793425",
       "title": "Supporting event based traceability through high-level recognition of change events",
       "year": 2003,
+      "date": "2003-06-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2034,6 +2122,7 @@
       "id": "https://openalex.org/W1991389134",
       "title": "Software Quality Requirements: How to Balance Competing Priorities",
       "year": 2008,
+      "date": "2008-02-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5055599321",
@@ -2049,6 +2138,7 @@
       "id": "https://openalex.org/W2121120360",
       "title": "Just Enough Requirements Traceability",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2060,6 +2150,7 @@
       "id": "https://openalex.org/W144048093",
       "title": "A Persona-Based Approach for Exploring Architecturally Significant Requirements in Agile Projects",
       "year": 2013,
+      "date": "2013-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2079,6 +2170,7 @@
       "id": "https://openalex.org/W2137966454",
       "title": "Model-based traceability",
       "year": 2009,
+      "date": "2009-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2098,6 +2190,7 @@
       "id": "https://openalex.org/W2766319419",
       "title": "Evolving software trace links between requirements and source code",
       "year": 2017,
+      "date": "2017-11-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -2113,6 +2206,7 @@
       "id": "https://openalex.org/W2060756319",
       "title": "A visual language for modeling and executing traceability queries",
       "year": 2012,
+      "date": "2012-04-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063243817",
@@ -2128,6 +2222,7 @@
       "id": "https://openalex.org/W1638653691",
       "title": "Recommender Systems in Requirements Engineering",
       "year": 2011,
+      "date": "2011-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082580430",
@@ -2143,6 +2238,7 @@
       "id": "https://openalex.org/W2143092572",
       "title": "Visual Support In Automated Tracing",
       "year": 2007,
+      "date": "2007-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2158,6 +2254,7 @@
       "id": "https://openalex.org/W2560708215",
       "title": "Mining Requirements Knowledge from Collections of Domain Documents",
       "year": 2016,
+      "date": "2016-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111296074",
@@ -2189,6 +2286,7 @@
       "id": "https://openalex.org/W1967577593",
       "title": "Foundations for an expert system in domain-specific traceability",
       "year": 2013,
+      "date": "2013-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -2208,6 +2306,7 @@
       "id": "https://openalex.org/W1104720650",
       "title": "Recommendation Systems in Requirements Discovery",
       "year": 2013,
+      "date": "2013-12-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082514679",
@@ -2231,6 +2330,7 @@
       "id": "https://openalex.org/W1997091008",
       "title": "Archie: a tool for detecting, monitoring, and preserving architecturally significant code",
       "year": 2014,
+      "date": "2014-11-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -2258,6 +2358,7 @@
       "id": "https://openalex.org/W2086367599",
       "title": "A comparative evaluation of two user feedback techniques for requirements trace retrieval",
       "year": 2012,
+      "date": "2012-03-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020844039",
@@ -2273,6 +2374,7 @@
       "id": "https://openalex.org/W2160608820",
       "title": "Tracing architectural concerns in high assurance systems (NIER track)",
       "year": 2011,
+      "date": "2011-05-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -2288,6 +2390,7 @@
       "id": "https://openalex.org/W2062261433",
       "title": "Patterns of continuous requirements clarification",
       "year": 2014,
+      "date": "2014-05-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5069018122",
@@ -2311,6 +2414,7 @@
       "id": "https://openalex.org/W151476557",
       "title": "Tracing Non-Functional Requirements",
       "year": 2011,
+      "date": "2011-10-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -2326,6 +2430,7 @@
       "id": "https://openalex.org/W1988308201",
       "title": "TiQi: answering unstructured natural language trace queries",
       "year": 2015,
+      "date": "2015-03-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5019818868",
@@ -2353,6 +2458,7 @@
       "id": "https://openalex.org/W2013472488",
       "title": "Personas in the middle",
       "year": 2014,
+      "date": "2014-09-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -2368,6 +2474,7 @@
       "id": "https://openalex.org/W2573869159",
       "title": "Evolving Requirements-to-Code Trace Links across Versions of a Software System",
       "year": 2016,
+      "date": "2016-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -2387,6 +2494,7 @@
       "id": "https://openalex.org/W1990298985",
       "title": "Utilizing recommender systems to support software requirements elicitation",
       "year": 2010,
+      "date": "2010-05-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000440212",
@@ -2402,6 +2510,7 @@
       "id": "https://openalex.org/W2005151101",
       "title": "Mining Domain Knowledge [Requirements]",
       "year": 2015,
+      "date": "2015-04-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2413,6 +2522,7 @@
       "id": "https://openalex.org/W4246207053",
       "title": "Guidelines for Benchmarking Automated Software Traceability Techniques",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020844039",
@@ -2432,6 +2542,7 @@
       "id": "https://openalex.org/W2157576206",
       "title": "A Clustering Technique for Early Detection of Dominant and Recessive Cross-Cutting Concerns",
       "year": 2007,
+      "date": "2007-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075831614",
@@ -2447,6 +2558,7 @@
       "id": "https://openalex.org/W4237460980",
       "title": "A Visual Traceability Modeling Language",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063243817",
@@ -2462,6 +2574,7 @@
       "id": "https://openalex.org/W1997784518",
       "title": "Supporting and accelerating reproducible empirical research in software evolution and maintenance using TraceLab Component Library",
       "year": 2014,
+      "date": "2014-12-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5087112901",
@@ -2489,6 +2602,7 @@
       "id": "https://openalex.org/W2375692754",
       "title": "Probing for requirements knowledge to stimulate architectural thinking",
       "year": 2016,
+      "date": "2016-05-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031939006",
@@ -2524,6 +2638,7 @@
       "id": "https://openalex.org/W2760730809",
       "title": "Panel: Context-Dependent Evaluation of Tools for NL RE Tasks: Recall vs. Precision, and Beyond",
       "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047897975",
@@ -2555,6 +2670,7 @@
       "id": "https://openalex.org/W2789520420",
       "title": "How do practitioners perceive assurance cases in safety-critical software systems?",
       "year": 2018,
+      "date": "2018-05-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101411842",
@@ -2578,6 +2694,7 @@
       "id": "https://openalex.org/W2955226868",
       "title": "Leveraging Artifact Trees to Evolve and Reuse Safety Cases",
       "year": 2019,
+      "date": "2019-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006976036",
@@ -2605,6 +2722,7 @@
       "id": "https://openalex.org/W3138108548",
       "title": "Supporting Quality Assurance with Automated Process-Centric Quality Constraints Checking",
       "year": 2021,
+      "date": "2021-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5001710775",
@@ -2640,6 +2758,7 @@
       "id": "https://openalex.org/W3216925668",
       "title": "Information retrieval versus deep learning approaches for generating traceability links in bilingual projects",
       "year": 2021,
+      "date": "2021-10-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088923915",
@@ -2659,6 +2778,7 @@
       "id": "https://openalex.org/W2087385696",
       "title": "A recommender system for dynamically evolving online forums",
       "year": 2009,
+      "date": "2009-10-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000440212",
@@ -2678,6 +2798,7 @@
       "id": "https://openalex.org/W2090000010",
       "title": "Using Traceability to Support SOA Impact Analysis",
       "year": 2011,
+      "date": "2011-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051003283",
@@ -2697,6 +2818,7 @@
       "id": "https://openalex.org/W3034088340",
       "title": "Visualizing Change in Agile Safety-Critical Systems",
       "year": 2020,
+      "date": "2020-06-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2716,6 +2838,7 @@
       "id": "https://openalex.org/W1932558065",
       "title": "What you ask is what you get: Understanding architecturally significant functional requirements",
       "year": 2015,
+      "date": "2015-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031939006",
@@ -2743,6 +2866,7 @@
       "id": "https://openalex.org/W2757799118",
       "title": "What Questions do Requirements Engineers Ask?",
       "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063911550",
@@ -2766,6 +2890,7 @@
       "id": "https://openalex.org/W2057540752",
       "title": "A domain-centric approach for recommending architectural tactics to satisfy quality concerns",
       "year": 2013,
+      "date": "2013-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -2789,6 +2914,7 @@
       "id": "https://openalex.org/W2142853517",
       "title": "Requirements Traceability - When and How does it Deliver more than it Costs?",
       "year": 2006,
+      "date": "2006-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2800,6 +2926,7 @@
       "id": "https://openalex.org/W3152775963",
       "title": "Towards a Model-Integrated Runtime Monitoring Infrastructure for Cyber-Physical Systems",
       "year": 2021,
+      "date": "2021-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -2827,6 +2954,7 @@
       "id": "https://openalex.org/W2090855231",
       "title": "Traceability challenge 2011",
       "year": 2011,
+      "date": "2011-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051133116",
@@ -2862,6 +2990,7 @@
       "id": "https://openalex.org/W1980251751",
       "title": "A pattern system for tracing architectural concerns",
       "year": 2011,
+      "date": "2011-10-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -2877,6 +3006,7 @@
       "id": "https://openalex.org/W2735746662",
       "title": "Safety Stories in Agile Development",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2888,6 +3018,7 @@
       "id": "https://openalex.org/W4296690254",
       "title": "AMon: A domain-specific language and framework for adaptive monitoring of Cyber\u2013Physical Systems",
       "year": 2022,
+      "date": "2022-09-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -2911,6 +3042,7 @@
       "id": "https://openalex.org/W2166086478",
       "title": "Toward actionable, broadly accessible contests in software engineering",
       "year": 2012,
+      "date": "2012-06-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -2958,6 +3090,7 @@
       "id": "https://openalex.org/W4383888916",
       "title": "Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems",
       "year": 2023,
+      "date": "2023-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5012188746",
@@ -2985,6 +3118,7 @@
       "id": "https://openalex.org/W4387123318",
       "title": "A Requirements-Driven Platform for Validating Field Operations of Small Uncrewed Aerial Vehicles",
       "year": 2023,
+      "date": "2023-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5023623211",
@@ -3008,6 +3142,7 @@
       "id": "https://openalex.org/W4396833034",
       "title": "HIFuzz: Human Interaction Fuzzing for Small Unmanned Aerial Vehicles",
       "year": 2024,
+      "date": "2024-05-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008225984",
@@ -3047,6 +3182,7 @@
       "id": "https://openalex.org/W4399431369",
       "title": "ADAM: Adaptive Monitoring of Runtime Anomalies in Small Uncrewed Aerial Systems",
       "year": 2024,
+      "date": "2024-04-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008349040",
@@ -3066,6 +3202,7 @@
       "id": "https://openalex.org/W4283204853",
       "title": "Towards Real-Time Safety Analysis of Small Unmanned Aerial Systems in the National Airspace",
       "year": 2022,
+      "date": "2022-06-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3109,6 +3246,7 @@
       "id": "https://openalex.org/W4387123554",
       "title": "Leveraging Traceability to Integrate Safety Analysis Artifacts into the Software Development Process",
       "year": 2023,
+      "date": "2023-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3120,6 +3258,7 @@
       "id": "https://openalex.org/W4383098158",
       "title": "Engineering Challenges for AI-Supported Computer Vision in Small Uncrewed Aerial Systems",
       "year": 2023,
+      "date": "2023-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5035510306",
@@ -3135,6 +3274,7 @@
       "id": "https://openalex.org/W4367310994",
       "title": "ProCon: An automated process-centric quality constraints checking framework",
       "year": 2023,
+      "date": "2023-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5001710775",
@@ -3170,6 +3310,7 @@
       "id": "https://openalex.org/W4405601112",
       "title": "Supporting Software Maintenance with Dynamically Generated Document Hierarchies",
       "year": 2024,
+      "date": "2024-10-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -3189,6 +3330,7 @@
       "id": "https://openalex.org/W4409262703",
       "title": "Psych-Occlusion: Using Visual Psychophysics for Aerial Detection of Occluded Persons During Search and Rescue",
       "year": 2025,
+      "date": "2025-02-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065580041",
@@ -3208,6 +3350,7 @@
       "id": "https://openalex.org/W4382236712",
       "title": "GRuM \u2014 A flexible model-driven runtime monitoring framework and its application to automated aerial and ground vehicles",
       "year": 2023,
+      "date": "2023-05-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -3235,6 +3378,7 @@
       "id": "https://openalex.org/W4254548278",
       "title": "Goal-centric traceability for managing non-functional requirements",
       "year": 2005,
+      "date": "2005-12-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3262,6 +3406,7 @@
       "id": "https://openalex.org/W1973223562",
       "title": "Automating performance-related impact analysis through event based traceability",
       "year": 2003,
+      "date": "2003-07-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3281,6 +3426,7 @@
       "id": "https://openalex.org/W4235556981",
       "title": "A heterogeneous solution for improving the return on investment of requirements traceability",
       "year": 2004,
+      "date": "2004-11-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3300,6 +3446,7 @@
       "id": "https://openalex.org/W1898623755",
       "title": "Trace links explained: An automated approach for generating rationales",
       "year": 2015,
+      "date": "2015-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -3319,6 +3466,7 @@
       "id": "https://openalex.org/W2022901197",
       "title": "Towards an intelligent domain-specific traceability solution",
       "year": 2014,
+      "date": "2014-09-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -3342,6 +3490,7 @@
       "id": "https://openalex.org/W2085996072",
       "title": "Breaking the big-bang practice of traceability: Pushing timely trace recommendations to project stakeholders",
       "year": 2012,
+      "date": "2012-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3365,6 +3514,7 @@
       "id": "https://openalex.org/W1989534721",
       "title": "How Well Do You Know Your Personae Non Gratae?",
       "year": 2014,
+      "date": "2014-06-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3376,6 +3526,7 @@
       "id": "https://openalex.org/W2013700847",
       "title": "Decision-Centric Traceability of architectural concerns",
       "year": 2013,
+      "date": "2013-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3399,6 +3550,7 @@
       "id": "https://openalex.org/W2024117635",
       "title": "3rd international workshop on traceability in emerging forms of software engineering (TEFSE 2005)",
       "year": 2005,
+      "date": "2005-11-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021222755",
@@ -3422,6 +3574,7 @@
       "id": "https://openalex.org/W2167617277",
       "title": "A Machine Learning Approach for Identifying Expert Stakeholders",
       "year": 2009,
+      "date": "2009-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000440212",
@@ -3437,6 +3590,7 @@
       "id": "https://openalex.org/W2086927394",
       "title": "Achieving lightweight trustworthy traceability",
       "year": 2014,
+      "date": "2014-11-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3456,6 +3610,7 @@
       "id": "https://openalex.org/W2756989338",
       "title": "Crowd Sourcing the Creation of Personae Non Gratae for Requirements-Phase Threat Modeling",
       "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010008033",
@@ -3487,6 +3642,7 @@
       "id": "https://openalex.org/W2767903735",
       "title": "Diagnosing assumption problems in safety-critical products",
       "year": 2017,
+      "date": "2017-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -3510,6 +3666,7 @@
       "id": "https://openalex.org/W601091116",
       "title": "A Framework for Evaluating Traceability Benchmark Metrics",
       "year": 2012,
+      "date": "2012-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020844039",
@@ -3529,6 +3686,7 @@
       "id": "https://openalex.org/W2036184018",
       "title": "Towards more intelligent trace retrieval algorithms",
       "year": 2014,
+      "date": "2014-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3544,6 +3702,7 @@
       "id": "https://openalex.org/W2761514407",
       "title": "Grand Challenges of Traceability: The Next Ten Years",
       "year": 2017,
+      "date": "2017-10-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5018821149",
@@ -3567,6 +3726,7 @@
       "id": "https://openalex.org/W2767543741",
       "title": "TiQi: A natural language interface for querying software project data",
       "year": 2017,
+      "date": "2017-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088923915",
@@ -3610,6 +3770,7 @@
       "id": "https://openalex.org/W1985764281",
       "title": "Trace-by-classification: A machine learning approach to generate trace links for frequently occurring software artifacts",
       "year": 2013,
+      "date": "2013-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045836539",
@@ -3629,6 +3790,7 @@
       "id": "https://openalex.org/W2089871592",
       "title": "An inverted classroom experience: engaging students in architectural thinking for agile projects",
       "year": 2014,
+      "date": "2014-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3648,6 +3810,7 @@
       "id": "https://openalex.org/W2290629081",
       "title": "Patterns of co-evolution between requirements and source code",
       "year": 2015,
+      "date": "2015-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -3663,6 +3826,7 @@
       "id": "https://openalex.org/W2896017194",
       "title": "Vetting Automatically Generated Trace Links: What Information is Useful to Human Analysts?",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082750925",
@@ -3690,6 +3854,7 @@
       "id": "https://openalex.org/W4253030222",
       "title": "Identifying Architecturally Significant Functional Requirements",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031939006",
@@ -3721,6 +3886,7 @@
       "id": "https://openalex.org/W1992515479",
       "title": "TiQi: Towards natural language trace queries",
       "year": 2014,
+      "date": "2014-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5019818868",
@@ -3756,6 +3922,7 @@
       "id": "https://openalex.org/W2759432354",
       "title": "Mining Associations Between Quality Concerns and Functional Requirements",
       "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111296074",
@@ -3775,6 +3942,7 @@
       "id": "https://openalex.org/W2910293723",
       "title": "Requirements Engineering (RE) for Social Good: RE Cares [Requirements]",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102292649",
@@ -3862,6 +4030,7 @@
       "id": "https://openalex.org/W3089993422",
       "title": "Traceability Support for Multi-Lingual Software Projects",
       "year": 2020,
+      "date": "2020-06-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100677480",
@@ -3881,6 +4050,7 @@
       "id": "https://openalex.org/W3141278600",
       "title": "Toward actionable, broadly accessible contests in Software Engineering",
       "year": 2012,
+      "date": "2012-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -3928,6 +4098,7 @@
       "id": "https://openalex.org/W3092220769",
       "title": "Towards Semantically Guided Traceability",
       "year": 2020,
+      "date": "2020-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100677480",
@@ -3955,6 +4126,7 @@
       "id": "https://openalex.org/W4318966501",
       "title": "Towards flexible runtime monitoring support for ROS-based applications",
       "year": 2022,
+      "date": "2022-05-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090948235",
@@ -3974,6 +4146,7 @@
       "id": "https://openalex.org/W2589267937",
       "title": "From Requirements Monitoring to Diagnosis Support in System of Systems",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -3993,6 +4166,7 @@
       "id": "https://openalex.org/W2897180145",
       "title": "Disruptive Change in Requirements Engineering Research",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4004,6 +4178,7 @@
       "id": "https://openalex.org/W4379877357",
       "title": "Towards an Annotated All-Weather Dataset of Flight Logs for Small Uncrewed Aerial System",
       "year": 2023,
+      "date": "2023-06-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008349040",
@@ -4031,6 +4206,7 @@
       "id": "https://openalex.org/W4393134114",
       "title": "Self-Adaptation of Loosely Coupled Systems across a System of Small Uncrewed Aerial Systems",
       "year": 2024,
+      "date": "2024-04-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008225984",
@@ -4050,6 +4226,7 @@
       "id": "https://openalex.org/W4313563542",
       "title": "SAFA: A Tool for Supporting Safety Analysis in Evolving Software Systems",
       "year": 2022,
+      "date": "2022-10-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109596027",
@@ -4073,6 +4250,7 @@
       "id": "https://openalex.org/W4399397060",
       "title": "Towards Engineering Fair and Equitable Software Systems for Managing Low-Altitude Airspace Authorizations",
       "year": 2024,
+      "date": "2024-04-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088196515",
@@ -4104,6 +4282,7 @@
       "id": "https://openalex.org/W4414937575",
       "title": "Multi-source plume tracing via multi-agent reinforcement learning under common UAV-faults",
       "year": 2025,
+      "date": "2025-09-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5106625006",
@@ -4123,6 +4302,7 @@
       "id": "https://openalex.org/W2144975464",
       "title": "Visualization and Analysis in Automated Trace Retrieval",
       "year": 2006,
+      "date": "2006-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075831614",
@@ -4138,6 +4318,7 @@
       "id": "https://openalex.org/W2117648525",
       "title": "Function-class decomposition: a hybrid software engineering method",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039676788",
@@ -4161,6 +4342,7 @@
       "id": "https://openalex.org/W2110265958",
       "title": "Requirements-based dynamic metrics in object-oriented systems",
       "year": 2002,
+      "date": "2002-11-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4184,6 +4366,7 @@
       "id": "https://openalex.org/W2047480079",
       "title": "Transforming trace information in architectural documents into re-usable and effective traceability links",
       "year": 2011,
+      "date": "2011-05-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -4199,6 +4382,7 @@
       "id": "https://openalex.org/W2094542151",
       "title": "Don't Fire the Architect! Where Were the Requirements?",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4210,6 +4394,7 @@
       "id": "https://openalex.org/W2759361930",
       "title": "What Requirements Knowledge Do Developers Need to Manage Change in Safety-Critical Systems?",
       "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5032105479",
@@ -4237,6 +4422,7 @@
       "id": "https://openalex.org/W380549",
       "title": "Evaluating the Use of Project Glossaries in Automated Trace Retrieval.",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5002859620",
@@ -4256,6 +4442,7 @@
       "id": "https://openalex.org/W2071072011",
       "title": "Are Requirements Alive and Kicking?",
       "year": 2013,
+      "date": "2013-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4267,6 +4454,7 @@
       "id": "https://openalex.org/W11453436",
       "title": "Driving Architectural Design and Preservation from a Persona Perspective in Agile Projects",
       "year": 2013,
+      "date": "2013-12-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4286,6 +4474,7 @@
       "id": "https://openalex.org/W1983807865",
       "title": "Thinking about Quoins: Strategic Traceability of Architecturally Significant Requirements",
       "year": 2013,
+      "date": "2013-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4297,6 +4486,7 @@
       "id": "https://openalex.org/W2030979424",
       "title": "Identifying architecturally significant functional requirements",
       "year": 2015,
+      "date": "2015-05-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031939006",
@@ -4328,6 +4518,7 @@
       "id": "https://openalex.org/W2060135948",
       "title": "Requirements-Gathering Collaborative Networks in Distributed Software Projects",
       "year": 2009,
+      "date": "2009-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006106575",
@@ -4343,6 +4534,7 @@
       "id": "https://openalex.org/W2809412732",
       "title": "Interlocking safety cases for unmanned autonomous systems in urban environments",
       "year": 2018,
+      "date": "2018-05-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -4382,6 +4574,7 @@
       "id": "https://openalex.org/W2970998487",
       "title": "The Interplay of Design and Runtime Traceability for Non-Functional Requirements",
       "year": 2019,
+      "date": "2019-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -4405,6 +4598,7 @@
       "id": "https://openalex.org/W4321020814",
       "title": "Hierarchically Organized Computer Vision in Support of Multi-Faceted Search for Missing Persons",
       "year": 2023,
+      "date": "2023-01-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065580041",
@@ -4420,6 +4614,7 @@
       "id": "https://openalex.org/W2081230542",
       "title": "Toward Meaningful Industrial--Academic Partnerships",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4431,6 +4626,7 @@
       "id": "https://openalex.org/W2134343918",
       "title": "Ready-set-transfer! Technology transfer in the requirements engineering domain",
       "year": 2011,
+      "date": "2011-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4446,6 +4642,7 @@
       "id": "https://openalex.org/W2290993067",
       "title": "Stakeholders on the Prowl",
       "year": 2016,
+      "date": "2016-02-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4457,6 +4654,7 @@
       "id": "https://openalex.org/W2885308680",
       "title": "Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes",
       "year": 2018,
+      "date": "2018-07-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075793467",
@@ -4480,6 +4678,7 @@
       "id": "https://openalex.org/W4236454588",
       "title": "Modifications, Tweaks, and Bug Fixes in Architectural Tactics",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -4495,6 +4694,7 @@
       "id": "https://openalex.org/W2048286793",
       "title": "Injecting Value-Thinking into Prioritization Decisions",
       "year": 2015,
+      "date": "2015-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4506,6 +4706,7 @@
       "id": "https://openalex.org/W2062213563",
       "title": "Towards bridging the twin peaks of requirements and architecture",
       "year": 2014,
+      "date": "2014-09-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5034571717",
@@ -4541,6 +4742,7 @@
       "id": "https://openalex.org/W2148993013",
       "title": "A Dynamic Approach for Managing Stakeholder Credentials for Lightweight, Collaborative, Requirements Elicitation",
       "year": 2008,
+      "date": "2008-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5110253374",
@@ -4556,6 +4758,7 @@
       "id": "https://openalex.org/W3040200019",
       "title": "Supporting Program Comprehension through Fast Query response in Large-Scale Systems",
       "year": 2020,
+      "date": "2020-07-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088923915",
@@ -4575,6 +4778,7 @@
       "id": "https://openalex.org/W4225016523",
       "title": "Generating and visualizing trace link explanations",
       "year": 2022,
+      "date": "2022-05-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100677480",
@@ -4602,6 +4806,7 @@
       "id": "https://openalex.org/W2405323046",
       "title": "Tracing architectural concerns in high assurance systems.",
       "year": 2011,
+      "date": "2011-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -4617,6 +4822,7 @@
       "id": "https://openalex.org/W2047062280",
       "title": "Using tracelab to design, execute, and baseline empirical requirements engineering experiments",
       "year": 2013,
+      "date": "2013-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4636,6 +4842,7 @@
       "id": "https://openalex.org/W4387123641",
       "title": "Accountable Design for Individual, Societal, and Regulated Values in the UAV Domain",
       "year": 2023,
+      "date": "2023-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5092958508",
@@ -4655,6 +4862,7 @@
       "id": "https://openalex.org/W3093486972",
       "title": "SENET: A Semantic Web for Supporting Automation of Software Engineering Tasks",
       "year": 2020,
+      "date": "2020-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100677480",
@@ -4686,6 +4894,7 @@
       "id": "https://openalex.org/W2043927450",
       "title": "Ready-set-transfer: exploring the technology transfer readiness of academic research projects (panel)",
       "year": 2014,
+      "date": "2014-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4705,6 +4914,7 @@
       "id": "https://openalex.org/W2217257993",
       "title": "Requirements That Reflect Social Responsibility",
       "year": 2015,
+      "date": "2015-12-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4716,6 +4926,7 @@
       "id": "https://openalex.org/W2921662517",
       "title": "Towards the Next Generation of Scenario Walkthrough Tools \u2013 A Research Preview",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037356139",
@@ -4739,6 +4950,7 @@
       "id": "https://openalex.org/W4402687580",
       "title": "A Family-Based Approach to Safety Cases for Controlled Airspaces in Small Uncrewed Aerial Systems",
       "year": 2024,
+      "date": "2024-07-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102864560",
@@ -4766,6 +4978,7 @@
       "id": "https://openalex.org/W851319609",
       "title": "User-Constrained Clustering in Online Requirements Forums",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075831614",
@@ -4789,6 +5002,7 @@
       "id": "https://openalex.org/W2885580876",
       "title": "Domain Knowledge Discovery Guided by Software Trace Links",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -4808,6 +5022,7 @@
       "id": "https://openalex.org/W4405602412",
       "title": "ROOT: Requirements Organization and Optimization Tool",
       "year": 2024,
+      "date": "2024-10-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -4827,6 +5042,7 @@
       "id": "https://openalex.org/W4411337850",
       "title": "Assessing Compliance of Software System Designs to Laws, Regulations, and their Underlying Values",
       "year": 2025,
+      "date": "2025-04-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5092958508",
@@ -4846,6 +5062,7 @@
       "id": "https://openalex.org/W1977289808",
       "title": "Softgoal Traceability Patterns",
       "year": 2006,
+      "date": "2006-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111553036",
@@ -4861,6 +5078,7 @@
       "id": "https://openalex.org/W2126939694",
       "title": "Speech Detection of Stakeholders' Non-Functional Requirements",
       "year": 2006,
+      "date": "2006-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031772991",
@@ -4880,6 +5098,7 @@
       "id": "https://openalex.org/W2146235181",
       "title": "Measuring the intensity of object coupling in C++ programs",
       "year": 2002,
+      "date": "2002-11-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103221157",
@@ -4899,6 +5118,7 @@
       "id": "https://openalex.org/W2345182167",
       "title": "Keeping Ahead of Our Adversaries",
       "year": 2016,
+      "date": "2016-04-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -4926,6 +5146,7 @@
       "id": "https://openalex.org/W2165906863",
       "title": "Just-in-time traceability for mechatronics systems",
       "year": 2012,
+      "date": "2012-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051133116",
@@ -4949,6 +5170,7 @@
       "id": "https://openalex.org/W2600688832",
       "title": "The Risk of Overly Strict Requirements",
       "year": 2017,
+      "date": "2017-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5013390075",
@@ -4964,6 +5186,7 @@
       "id": "https://openalex.org/W204762297",
       "title": "A Predictive Business Agility Model for Service Oriented Architectures",
       "year": 2011,
+      "date": "2011-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051003283",
@@ -4991,6 +5214,7 @@
       "id": "https://openalex.org/W2136240122",
       "title": "Supporting agent-based distributed software development through modeling and simulation",
       "year": 2004,
+      "date": "2004-06-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108521110",
@@ -5010,6 +5234,7 @@
       "id": "https://openalex.org/W1487209652",
       "title": "Mining Domain Knowledge",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5021,6 +5246,7 @@
       "id": "https://openalex.org/W1910796937",
       "title": "Beyond Anecdotal Thinking: Deepening Our Understanding for Achieving Quality Goals",
       "year": 2014,
+      "date": "2014-04-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051003283",
@@ -5040,6 +5266,7 @@
       "id": "https://openalex.org/W1992978257",
       "title": "Traceability research",
       "year": 2011,
+      "date": "2011-05-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5051,6 +5278,7 @@
       "id": "https://openalex.org/W2151245984",
       "title": "Next Top Model: A Requirements Engineering Reality Panel",
       "year": 2009,
+      "date": "2009-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111928350",
@@ -5066,6 +5294,7 @@
       "id": "https://openalex.org/W2237360732",
       "title": "Requirements Management \u2013 Novel Perspectives and Challenges (Dagstuhl Seminar 12442)",
       "year": 2013,
+      "date": "2013-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5089,6 +5318,7 @@
       "id": "https://openalex.org/W2346156264",
       "title": "Evaluating the Interpretation of Natural Language Trace Queries",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048108949",
@@ -5108,6 +5338,7 @@
       "id": "https://openalex.org/W2406960179",
       "title": "Traceability Gap Analysis for Assessing the Conformance of Software Traceability to Relevant Guidelines.",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042885786",
@@ -5131,6 +5362,7 @@
       "id": "https://openalex.org/W2571577999",
       "title": "Artifact: Cassandra Source Code, Feature Descriptions across 27 Versions, with Starting and Ending Version Trace Matrices",
       "year": 2016,
+      "date": "2016-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -5146,6 +5378,7 @@
       "id": "https://openalex.org/W2896372531",
       "title": "Supporting Diagnosis of Requirements Violations in Systems of Systems",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -5173,6 +5406,7 @@
       "id": "https://openalex.org/W4243326298",
       "title": "Leveraging Traceability to Reveal the Tapestry of Quality Concerns in Source Code",
       "year": 2015,
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5111296074",
@@ -5196,6 +5430,7 @@
       "id": "https://openalex.org/W4246695634",
       "title": "2nd International workshop on the twin peaks of requirements and architecture (TwinPeaks 2013)",
       "year": 2013,
+      "date": "2013-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083888080",
@@ -5231,6 +5466,7 @@
       "id": "https://openalex.org/W1906861448",
       "title": "From Raw Project Data to Business Intelligence",
       "year": 2015,
+      "date": "2015-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063243817",
@@ -5246,6 +5482,7 @@
       "id": "https://openalex.org/W2109927394",
       "title": "Requirements Engineering's Next Top Model",
       "year": 2013,
+      "date": "2013-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5112516538",
@@ -5261,6 +5498,7 @@
       "id": "https://openalex.org/W2279687339",
       "title": "Software and Systems Traceability for Safety-Critical Projects (Dagstuhl Seminar 15162)",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5284,6 +5522,7 @@
       "id": "https://openalex.org/W2808790404",
       "title": "Swarming remote piloted aircraft systems for mosquito-borne disease research and control",
       "year": 2018,
+      "date": "2018-05-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010758567",
@@ -5311,6 +5550,7 @@
       "id": "https://openalex.org/W3088081404",
       "title": "Model-Driven Requirements for Humans-on-the-Loop Multi-UAV Missions",
       "year": 2020,
+      "date": "2020-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5326,6 +5566,7 @@
       "id": "https://openalex.org/W4250253028",
       "title": "Ready-Set-Transfer! Technology transfer in the requirements engineering domain",
       "year": 2015,
+      "date": "2015-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5345,6 +5586,7 @@
       "id": "https://openalex.org/W4282843023",
       "title": "Flexible Model-Driven Runtime Monitoring Support for Cyber-Physical Systems",
       "year": 2022,
+      "date": "2022-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090948235",
@@ -5372,6 +5614,7 @@
       "id": "https://openalex.org/W3144768433",
       "title": "Adaptive Autonomy in Human-on-the-Loop Vision-Based Robotics Systems",
       "year": 2021,
+      "date": "2021-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047989649",
@@ -5407,6 +5650,7 @@
       "id": "https://openalex.org/W1999180586",
       "title": "Goal-centric traceability for managing non-functional requirements",
       "year": 2005,
+      "date": "2005-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5434,6 +5678,7 @@
       "id": "https://openalex.org/W2795266985",
       "title": "Traceability in the Wild: Automatically Augmenting Incomplete Trace Links",
       "year": 2018,
+      "date": "2018-04-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082629071",
@@ -5461,6 +5706,7 @@
       "id": "https://openalex.org/W2047731654",
       "title": "Financially informed requirements prioritization",
       "year": 2005,
+      "date": "2005-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5476,6 +5722,7 @@
       "id": "https://openalex.org/W4300596326",
       "title": "Traceability in the Wild: Automatically Augmenting Incomplete Trace\\n Links",
       "year": 2018,
+      "date": "2018-04-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101432814",
@@ -5503,6 +5750,7 @@
       "id": "https://openalex.org/W4292558243",
       "title": "Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models",
       "year": 2021,
+      "date": "2021-02-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5035410437",
@@ -5530,6 +5778,7 @@
       "id": "https://openalex.org/W2970522151",
       "title": "Evolving Software Trace Links between Requirements and Source Code",
       "year": 2019,
+      "date": "2019-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102905826",
@@ -5545,6 +5794,7 @@
       "id": "https://openalex.org/W3037997895",
       "title": "Human-Drone Interactions with Semi-Autonomous Cohorts of Collaborating Drones",
       "year": 2020,
+      "date": "2020-10-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5556,6 +5806,7 @@
       "id": "https://openalex.org/W4283832896",
       "title": "Enhancing Automated Software Traceability by Transfer Learning from Open-World Data",
       "year": 2022,
+      "date": "2022-07-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5035410437",
@@ -5587,6 +5838,7 @@
       "id": "https://openalex.org/W4286950143",
       "title": "RescueAR: Augmented Reality Supported Collaboration for UAV Driven\\n Emergency Response Systems",
       "year": 2021,
+      "date": "2021-09-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5004659592",
@@ -5602,6 +5854,7 @@
       "id": "https://openalex.org/W2341266021",
       "title": "Software by Numbers: Strategies for High Return, Low Risk Application Development",
       "year": 2003,
+      "date": "2003-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046318291",
@@ -5617,6 +5870,7 @@
       "id": "https://openalex.org/W3039610975",
       "title": "Traceability Support for Multi-Lingual Software Projects",
       "year": 2020,
+      "date": "2020-06-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100677480",
@@ -5636,6 +5890,7 @@
       "id": "https://openalex.org/W4286231679",
       "title": "RESAM: Requirements Elicitation and Specification for Deep-Learning Anomaly Models with Applications to UAV Flight Controllers",
       "year": 2022,
+      "date": "2022-07-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008349040",
@@ -5663,6 +5918,7 @@
       "id": "https://openalex.org/W4381570556",
       "title": "Understanding the Challenges of Deploying Live-Traceability Solutions",
       "year": 2023,
+      "date": "2023-06-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109596027",
@@ -5682,6 +5938,7 @@
       "id": "https://openalex.org/W4416255789",
       "title": "Coverage Path Planning for Holonomic UAVs via Uniaxial-Feasible, Gap-Severity Guided Decomposition",
       "year": 2025,
+      "date": "2025-05-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5106625006",
@@ -5697,6 +5954,7 @@
       "id": "https://openalex.org/W2040643359",
       "title": "On whose shoulders? (Keynote)",
       "year": 2015,
+      "date": "2015-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5708,6 +5966,7 @@
       "id": "https://openalex.org/W2796177046",
       "title": "Dronology: An Incubator for Cyber-Physical System Research",
       "year": 2018,
+      "date": "2018-04-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5727,6 +5986,7 @@
       "id": "https://openalex.org/W3202505027",
       "title": "RescueAR: Augmented Reality Supported Collaboration for UAV Driven Emergency Response Systems",
       "year": 2021,
+      "date": "2021-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5738,6 +5998,7 @@
       "id": "https://openalex.org/W4386875751",
       "title": "NOMAD: A Natural, Occluded, Multi-scale Aerial Dataset, for Emergency Response Scenarios",
       "year": 2023,
+      "date": "2023-09-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065580041",
@@ -5757,6 +6018,7 @@
       "id": "https://openalex.org/W4398157493",
       "title": "Natural Language Processing for Requirements Traceability",
       "year": 2024,
+      "date": "2024-05-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -5780,6 +6042,7 @@
       "id": "https://openalex.org/W4402387124",
       "title": "Supporting Software Maintenance with Dynamically Generated Document Hierarchies",
       "year": 2024,
+      "date": "2024-08-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -5799,6 +6062,7 @@
       "id": "https://openalex.org/W4415343716",
       "title": "LLMs4All: A Review of Large Language Models Across Academic Disciplines",
       "year": 2025,
+      "date": "2025-10-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101586438",
@@ -5926,6 +6190,7 @@
       "id": "https://openalex.org/W4416613034",
       "title": "Cognitive Guardrails for Open-World Decision Making in Autonomous Drone Swarms",
       "year": 2025,
+      "date": "2025-05-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5961,6 +6226,7 @@
       "id": "https://openalex.org/W1997434185",
       "title": "Requirements in a Global World",
       "year": 2014,
+      "date": "2014-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -5976,6 +6242,7 @@
       "id": "https://openalex.org/W2009112077",
       "title": "A publication culture in software engineering (panel)",
       "year": 2013,
+      "date": "2013-08-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010437018",
@@ -6011,6 +6278,7 @@
       "id": "https://openalex.org/W2036675195",
       "title": "Requirements Engineering for Large and Very Large Scale Systems Part Two \u2010Contract Based Systems",
       "year": 2010,
+      "date": "2010-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5071890533",
@@ -6026,6 +6294,7 @@
       "id": "https://openalex.org/W2061606491",
       "title": "An introduction to the workshop on requirements for systems, services, and systems of systems",
       "year": 2011,
+      "date": "2011-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063590018",
@@ -6053,6 +6322,7 @@
       "id": "https://openalex.org/W2104151316",
       "title": "Introduction to the RE\u201910 special issue Requirements Engineering in a multi-faceted World",
       "year": 2011,
+      "date": "2011-08-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6064,6 +6334,7 @@
       "id": "https://openalex.org/W2110130191",
       "title": "Transforming the Requirements Engineering Classroom Experience",
       "year": 2008,
+      "date": "2008-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076752202",
@@ -6079,6 +6350,7 @@
       "id": "https://openalex.org/W2167224934",
       "title": "Requirements Engineering for Large and Very Large Scale Systems Part I \u2010 Processes and Tooling",
       "year": 2010,
+      "date": "2010-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5071890533",
@@ -6094,6 +6366,7 @@
       "id": "https://openalex.org/W2278650696",
       "title": "Live Study Proposal: Collecting Natural Language Trace Queries.",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048108949",
@@ -6117,6 +6390,7 @@
       "id": "https://openalex.org/W2502978091",
       "title": "Views on Software Engineering from the Twin Peaks of Requirements and Architecture",
       "year": 2013,
+      "date": "2013-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5034571717",
@@ -6152,6 +6426,7 @@
       "id": "https://openalex.org/W2726577978",
       "title": "Keynote 1: The Quest for Tau Ceti",
       "year": 2017,
+      "date": "2017-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6163,6 +6438,7 @@
       "id": "https://openalex.org/W2732062625",
       "title": "The quest for Tau Ceti",
       "year": 2017,
+      "date": "2017-05-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6174,6 +6450,7 @@
       "id": "https://openalex.org/W2753316714",
       "title": "Reverse Engineering Product Lines in Agile Environments",
       "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6185,6 +6462,7 @@
       "id": "https://openalex.org/W2888475330",
       "title": "Automated requirements engineering challenges with examples from small unmanned aerial systems (keynote)",
       "year": 2018,
+      "date": "2018-08-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6196,6 +6474,7 @@
       "id": "https://openalex.org/W2896033159",
       "title": "Welcome from the Organizers",
       "year": 2018,
+      "date": "2018-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021525513",
@@ -6211,6 +6490,7 @@
       "id": "https://openalex.org/W2912763305",
       "title": "Proceedings of the Fifth International Workshop on Twin Peaks of Requirements and Architecture",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6246,6 +6526,7 @@
       "id": "https://openalex.org/W2951375872",
       "title": "Domain Knowledge Discovery Guided by Software Trace Links",
       "year": 2018,
+      "date": "2018-08-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010572058",
@@ -6265,6 +6546,7 @@
       "id": "https://openalex.org/W3213365951",
       "title": "Explaining Autonomous Decisions in Swarms of Human-on-the-Loop Small Unmanned Aerial Systems",
       "year": 2021,
+      "date": "2021-09-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6276,6 +6558,7 @@
       "id": "https://openalex.org/W4226088611",
       "title": "Amon:\u00a0A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems",
       "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
@@ -6299,6 +6582,7 @@
       "id": "https://openalex.org/W4237263322",
       "title": "Foreword",
       "year": 2012,
+      "date": "2012-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088410123",
@@ -6322,6 +6606,7 @@
       "id": "https://openalex.org/W4239885601",
       "title": "Ready-Set-Transfer: Technology transfer in the requirements engineering domain",
       "year": 2013,
+      "date": "2013-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6337,6 +6622,7 @@
       "id": "https://openalex.org/W4242376664",
       "title": "Leveraging Intermediate Artifacts to improve Automated Trace Link Retrieval",
       "year": 2021,
+      "date": "2021-09-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109559827",
@@ -6356,6 +6642,7 @@
       "id": "https://openalex.org/W4256027726",
       "title": "List of Contributors",
       "year": 2013,
+      "date": "2013-12-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007905553",
@@ -6495,6 +6782,7 @@
       "id": "https://openalex.org/W4285059210",
       "title": "Procon: An Automated Process-Centric Quality Constraints Checking Framework",
       "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5001710775",
@@ -6530,6 +6818,7 @@
       "id": "https://openalex.org/W4289676782",
       "title": "Leveraging Historical Associations between Requirements and Source Code\\n to Identify Impacted Classes",
       "year": 2018,
+      "date": "2018-08-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075793467",
@@ -6553,6 +6842,7 @@
       "id": "https://openalex.org/W4306697901",
       "title": "Explaining Autonomous Decisions in Swarms of Human-on-the-Loop Small\\n Unmanned Aerial Systems",
       "year": 2021,
+      "date": "2021-09-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6564,6 +6854,7 @@
       "id": "https://openalex.org/W4383175810",
       "title": "A Requirements-Driven Platform for Validating Field Operations of Small Uncrewed Aerial Vehicles",
       "year": 2023,
+      "date": "2023-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5023623211",
@@ -6587,6 +6878,7 @@
       "id": "https://openalex.org/W4384616090",
       "title": "Leveraging Traceability to Integrate Safety Analysis Artifacts into the Software Development Process",
       "year": 2023,
+      "date": "2023-07-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
@@ -6598,6 +6890,7 @@
       "id": "https://openalex.org/W4385959250",
       "title": "Prompts Matter: Insights and Strategies for Prompt Engineering in Automated Software Traceability",
       "year": 2023,
+      "date": "2023-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109596027",
@@ -6617,6 +6910,7 @@
       "id": "https://openalex.org/W4387801501",
       "title": "HIFuzz: Human Interaction Fuzzing for small Unmanned Aerial Vehicles",
       "year": 2023,
+      "date": "2023-10-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008225984",
@@ -6652,6 +6946,7 @@
       "id": "https://openalex.org/W4389500071",
       "title": "Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment",
       "year": 2023,
+      "date": "2023-12-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042294364",
@@ -6671,6 +6966,7 @@
       "id": "https://openalex.org/W4390962141",
       "title": "Towards Engineering Fair and Equitable Software Systems for Managing Low-Altitude Airspace Authorizations",
       "year": 2024,
+      "date": "2024-01-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088196515",
@@ -6702,6 +6998,7 @@
       "id": "https://openalex.org/W4394209063",
       "title": "Interview and survey instruments for understanding how practitioners perceive assurance cases in safety-critical software systems.",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101411842",
@@ -6725,6 +7022,7 @@
       "id": "https://openalex.org/W4394220178",
       "title": "Interview and survey instruments for understanding how practitioners perceive assurance cases in safety-critical software systems.",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101411842",
@@ -6748,6 +7046,7 @@
       "id": "https://openalex.org/W4399882899",
       "title": "Automated Detection of Core Comments in Online UAV Discussion Forums",
       "year": 2024,
+      "date": "2024-06-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5098823824",
@@ -6771,6 +7070,7 @@
       "id": "https://openalex.org/W4402686935",
       "title": "Towards Safe and Secure Pop-Up Drone Zones",
       "year": 2024,
+      "date": "2024-07-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008225984",
@@ -6786,6 +7086,7 @@
       "id": "https://openalex.org/W4403006876",
       "title": "ROOT: Requirements Organization and Optimization Tool",
       "year": 2024,
+      "date": "2024-08-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -6805,6 +7106,7 @@
       "id": "https://openalex.org/W4405253283",
       "title": "Psych-Occlusion: Using Visual Psychophysics for Aerial Detection of Occluded Persons during Search and Rescue",
       "year": 2024,
+      "date": "2024-12-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065580041",
@@ -6824,6 +7126,7 @@
       "id": "https://openalex.org/W4411337652",
       "title": "Evaluating Reinforcement Learning Safety and Trustworthiness in Cyber-Physical Systems",
       "year": 2025,
+      "date": "2025-04-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -6847,6 +7150,7 @@
       "id": "https://openalex.org/W4412485516",
       "title": "Automated On-Entry Decision-Making for UTM Zones Based on Reputations and Certifications",
       "year": 2025,
+      "date": "2025-07-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008225984",
@@ -6898,6 +7202,7 @@
       "id": "https://openalex.org/W4412485681",
       "title": "SafeCert: Towards Automated Safety-Case Generation for Risk Assessment in Small Uncrewed Aerial Vehicles",
       "year": 2025,
+      "date": "2025-07-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102864560",
@@ -6937,6 +7242,7 @@
       "id": "https://openalex.org/W4415004251",
       "title": "QUESTRL: A Q&amp;A Framework for Designing Trustworthy Reinforcement Learning Systems",
       "year": 2025,
+      "date": "2025-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -6960,6 +7266,7 @@
       "id": "https://openalex.org/W4415102547",
       "title": "Evaluating Reinforcement Learning Safety and Trustworthiness in Cyber-Physical Systems",
       "year": 2025,
+      "date": "2025-03-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",
@@ -6987,6 +7294,7 @@
       "id": "https://openalex.org/W4415272144",
       "title": "LLMs4All: A Review of Large Language Models Across Academic Disciplines",
       "year": 2025,
+      "date": "2025-09-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101586438",
@@ -7102,6 +7410,7 @@
       "id": "https://openalex.org/W4415913005",
       "title": "Cognition Envelopes for Bounded Decision Making in Autonomous UAS Operations",
       "year": 2025,
+      "date": "2025-10-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5106625006",
@@ -7133,6 +7442,7 @@
       "id": "https://openalex.org/W4416014059",
       "title": "Runtime Advocates: A Persona-Driven Framework for Requirements@Runtime Decision Support",
       "year": 2025,
+      "date": "2025-05-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010667990",
@@ -7148,6 +7458,7 @@
       "id": "https://openalex.org/W4416677082",
       "title": "Ambient Advisory Models: Augmenting Runtime Models Into Distributed Reasoning Agents",
       "year": 2025,
+      "date": "2025-10-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108076325",
@@ -7163,6 +7474,7 @@
       "id": "https://openalex.org/W4417250937",
       "title": "Validating Terrain Models in Digital Twins for Trustworthy sUAS Operations",
       "year": 2025,
+      "date": "2025-10-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065580041",
@@ -7194,6 +7506,7 @@
       "id": "https://openalex.org/W7166191078",
       "title": "Real-World Traceability Patterns for Generative AI Systems: With Insights from the Safa Dataset",
       "year": 2026,
+      "date": "2026-04-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066938164",

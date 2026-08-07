@@ -1,21 +1,24 @@
 #!/usr/bin/env python3
 """
-Crawl Robotics @ Notre Dame faculty publication data from OpenAlex.
+Crawl Robotics @ Notre Dame faculty publication data from OpenAlex, and keep the
+roster in sync with https://robotics.nd.edu/people/.
 
-The faculty roster is a curated list below (FACULTY). It is kept as canonical
-names that resolve cleanly on OpenAlex -- the public people page shows informal
-nicknames (e.g. "Pat Wensing", "Margaret McGuinness") that do not, so we do not
-drive resolution from a live scrape. Update FACULTY when the roster changes.
-For each faculty member we resolve an OpenAlex author id (preferring a Notre
-Dame affiliation and a matching surname), then pull every work with co-authors.
+Roster (self-updating): each faculty card on the people page links to
+`*.nd.edu/faculty/<slug>/` and carries a headshot (`img.image-circle`). We take
+every card whose profile link is on an nd.edu domain -- that is exactly the ND
+robotics faculty (external collaborators link off-site and are skipped). The
+slug (e.g. `patrick-wensing`) gives the formal name we search OpenAlex with,
+which resolves far better than the informal display names ("Pat Wensing"). When
+someone is added or removed on the people page, they are added/removed here on
+the next run, and their stale profile JSON + photo are pruned.
 
-Output: data/oa_profiles/<slug>.json  (one file per faculty)
+Safety: if the people page can't be parsed (empty/tiny roster), we fall back to a
+curated list and DO NOT prune, so a transient scrape failure can't wipe the graph.
 
-Why OpenAlex rather than Google Scholar? Scholar has no API and serves a
-CAPTCHA to automated/CI traffic, so it cannot run unattended in GitHub
-Actions. OpenAlex is an open, crawlable scholarly graph with the same
-co-authorship signal. (scripts/crawl_scholar.py keeps a Scholar version for
-manual runs from a residential IP.)
+Why OpenAlex, not Google Scholar? Scholar has no API and CAPTCHA-blocks CI, so it
+can't run unattended. scripts/crawl_scholar.py is a manual Scholar alternative.
+
+Output: data/oa_profiles/<slug>.json  and  assets/faculty/<slug>.<ext>
 """
 import json, os, re, sys, time, urllib.parse, urllib.request
 
@@ -25,28 +28,42 @@ API = "https://api.openalex.org"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "oa_profiles")
+PHOTO_DIR = os.path.join(ROOT, "assets", "faculty")
 os.makedirs(OUT, exist_ok=True)
+os.makedirs(PHOTO_DIR, exist_ok=True)
 
-# Manual disambiguation for hard namesakes: display name -> OpenAlex author id.
+PEOPLE_URL = "https://robotics.nd.edu/people/"
+PEOPLE_ORIGIN = "https://robotics.nd.edu"
+
+# Disambiguation for hard namesakes: slug -> OpenAlex author id.
 OVERRIDES = {
-    "zhi zheng": "A5065741205",     # ND HRI/assistive-robotics (not "Zheng Zhang")
+    "zhi-zheng": "A5065741205",     # ND HRI/assistive robotics (not "Zheng Zhang")
+}
+# Slugs whose title-cased form does not resolve well -> better OpenAlex query.
+SEARCH_NAME = {
+    "j-william-goodwine": "Bill Goodwine",
 }
 
-# Curated roster (canonical names that resolve on OpenAlex). Source of truth:
-# https://robotics.nd.edu/people/  -- edit this list when the roster changes.
-FACULTY = [
-    # Core faculty
-    "Edgar Bolivar-Nieto", "Tingyu Cheng", "Nikolaus Correll", "Bill Goodwine",
-    "Mengxue Hou", "Hai Lin", "Margaret Coad", "Yasemin Ozkan-Aydin",
-    "James Schmiedeler", "Patrick Wensing", "Zhi Zheng",
-    # Affiliated faculty
-    "Panos Antsaklis", "Toros Arikan", "Jane Cleland-Huang",
-    "Robert Landers", "Michael Lemmon",
+# Used only if the people page can't be scraped (so we never wipe the graph).
+# (slug, search_name, display_name)
+FALLBACK_ROSTER = [
+    ("edgar-bolivar-nieto", "Edgar Bolivar-Nieto", "Edgar Bolívar-Nieto"),
+    ("tingyu-cheng", "Tingyu Cheng", "Tingyu Cheng"),
+    ("nikolaus-correll", "Nikolaus Correll", "Nikolaus Correll"),
+    ("j-william-goodwine", "Bill Goodwine", "Bill Goodwine"),
+    ("mengxue-hou", "Mengxue Hou", "Mengxue Hou"),
+    ("hai-lin", "Hai Lin", "Hai Lin"),
+    ("margaret-coad", "Margaret Coad", "Margaret McGuinness"),
+    ("yasemin-ozkan-aydin", "Yasemin Ozkan-Aydin", "Yasemin Ozkan-Aydin"),
+    ("james-schmiedeler", "James Schmiedeler", "Jim Schmiedeler"),
+    ("patrick-wensing", "Patrick Wensing", "Pat Wensing"),
+    ("zhi-zheng", "Zhi Zheng", "Zhi Zheng"),
+    ("panos-antsaklis", "Panos Antsaklis", "Panos Antsaklis"),
+    ("toros-arikan", "Toros Arikan", "Toros Arikan"),
+    ("jane-cleland-huang", "Jane Cleland-Huang", "Jane Cleland-Huang"),
+    ("robert-landers", "Robert Landers", "Robert Landers"),
+    ("michael-lemmon", "Michael Lemmon", "Mike Lemmon"),
 ]
-
-
-def slug(name):
-    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
 def http_get(url, as_json=True):
@@ -65,24 +82,84 @@ def surname(name):
     return toks[-1] if toks else ""
 
 
-def resolve_author(name):
-    """Best OpenAlex author for a name: prefer ND affiliation + surname match."""
-    over = OVERRIDES.get(name.lower())
-    if over:
-        a = http_get(f"{API}/authors/{over}?mailto={MAILTO}")
-        return a
+def search_name_for(slug):
+    if slug in SEARCH_NAME:
+        return SEARCH_NAME[slug]
+    return " ".join(w.capitalize() for w in slug.split("-"))
+
+
+def scrape_people():
+    """Return roster as list of dicts {slug, display, photo_url}.
+    Only cards whose profile link is on an nd.edu domain are kept."""
+    try:
+        from bs4 import BeautifulSoup
+    except Exception:
+        print("[roster] beautifulsoup4 missing; using fallback", file=sys.stderr)
+        return []
+    try:
+        html = http_get(PEOPLE_URL, as_json=False)
+    except Exception as e:
+        print(f"[roster] could not fetch people page: {e}", file=sys.stderr)
+        return []
+    soup = BeautifulSoup(html, "html.parser")
+    seen, roster = set(), []
+    for img in soup.select("img.image-circle"):
+        node = img
+        for _ in range(6):
+            node = node.parent
+            if node is None:
+                break
+            a = node.find("a", href=lambda h: h and re.search(r"nd\.edu/faculty/[a-z0-9-]+", h or ""))
+            if not a:
+                continue
+            m = re.search(r"nd\.edu/faculty/([a-z0-9-]+)", a["href"])
+            slug = m.group(1)
+            if slug in seen:
+                break
+            seen.add(slug)
+            src = img.get("src") or ""
+            if src.startswith("//"):
+                src = "https:" + src
+            elif src.startswith("/"):
+                src = PEOPLE_ORIGIN + src
+            roster.append({"slug": slug, "display": a.get_text(strip=True), "photo_url": src})
+            break
+    return roster
+
+
+def download_photo(url, slug):
+    if not url:
+        return None
+    ext = os.path.splitext(url.split("?")[0])[1].lower()
+    if ext not in (".jpg", ".jpeg", ".png", ".webp"):
+        ext = ".jpg"
+    rel = f"assets/faculty/{slug}{ext}"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": f"nd-pair-crawler ({MAILTO})"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            data = r.read()
+        with open(os.path.join(ROOT, rel), "wb") as f:
+            f.write(data)
+        return rel
+    except Exception as e:
+        print(f"   !! photo download failed for {slug}: {e}", file=sys.stderr)
+        return None
+
+
+def resolve_author(name, slug):
+    """Best OpenAlex author for a name: override by id, else prefer ND + surname."""
+    if slug in OVERRIDES:
+        return http_get(f"{API}/authors/{OVERRIDES[slug]}?mailto={MAILTO}")
     sur = surname(name)
     q = urllib.parse.quote(name)
-    tries = [
-        f"{API}/authors?filter=affiliations.institution.id:{ND.split('/')[-1]}&search={q}&per-page=25&mailto={MAILTO}",
-        f"{API}/authors?search={q}&per-page=25&mailto={MAILTO}",
-    ]
-    for url in tries:
+    ndid = ND.split("/")[-1]
+    for url in (f"{API}/authors?filter=affiliations.institution.id:{ndid}&search={q}&per-page=25&mailto={MAILTO}",
+                f"{API}/authors?search={q}&per-page=25&mailto={MAILTO}"):
         results = http_get(url).get("results", [])
-        # keep only candidates whose surname matches the query surname
         matched = [a for a in results if sur and sur in name_tokens(a.get("display_name", ""))]
         pool = matched or results
-        nd = [a for a in pool if any(i.get("id") == ND for i in (a.get("last_known_institutions") or []))
+        nd = [a for a in pool
+              if any(i.get("id") == ND for i in (a.get("last_known_institutions") or []))
               or any((aff.get("institution") or {}).get("id") == ND for aff in a.get("affiliations", []))]
         cand = nd or pool
         if cand:
@@ -96,7 +173,7 @@ def fetch_works(author_id):
     while cursor:
         q = urllib.parse.urlencode({
             "filter": f"author.id:{aid}",
-            "select": "id,title,publication_year,authorships",
+            "select": "id,title,publication_year,publication_date,authorships",
             "per-page": 200, "cursor": cursor, "mailto": MAILTO,
         })
         data = http_get(f"{API}/works?{q}")
@@ -105,48 +182,70 @@ def fetch_works(author_id):
                           "name": (a.get("author") or {}).get("display_name")}
                          for a in w.get("authorships", []) if (a.get("author") or {}).get("id")]
             works.append({"id": w["id"], "title": w.get("title"),
-                          "year": w.get("publication_year"), "coauthors": coauthors})
+                          "year": w.get("publication_year"),
+                          "date": w.get("publication_date"), "coauthors": coauthors})
         cursor = data.get("meta", {}).get("next_cursor")
         time.sleep(0.25)
     return works
 
 
 def main():
-    print(f"[roster] {len(FACULTY)} faculty")
-    json.dump(FACULTY, open(os.path.join(ROOT, "data", "faculty.json"), "w"), indent=2)
+    roster = scrape_people()
+    live = len(roster) >= 5          # trust a live scrape only if it looks sane
+    if not live:
+        print(f"[roster] scrape returned {len(roster)}; using fallback (no pruning)")
+        roster = [{"slug": s, "display": d, "photo_url": None, "search": q}
+                  for (s, q, d) in FALLBACK_ROSTER]
+    else:
+        for c in roster:
+            c["search"] = search_name_for(c["slug"])
+        print(f"[roster] {len(roster)} ND faculty from people page: "
+              + ", ".join(c["display"] for c in roster))
+    json.dump([{"slug": c["slug"], "display": c["display"]} for c in roster],
+              open(os.path.join(ROOT, "data", "faculty.json"), "w"), indent=2)
 
-    current_slugs = set()
-    for name in FACULTY:
-        s = slug(name)
-        current_slugs.add(s)
-        path = os.path.join(OUT, f"{s}.json")
-        print(f"[resolve] {name}")
+    current = set()
+    for c in roster:
+        slug, display, search = c["slug"], c["display"], c["search"]
+        current.add(slug)
+        path = os.path.join(OUT, f"{slug}.json")
+        print(f"[resolve] {display}  (search: {search})")
+        photo = download_photo(c.get("photo_url"), slug)
         try:
-            author = resolve_author(name)
+            author = resolve_author(search, slug)
             if not author:
-                json.dump({"query_name": name, "not_found": True}, open(path, "w"), indent=2)
+                json.dump({"slug": slug, "display": display, "not_found": True, "photo": photo},
+                          open(path, "w"), indent=2)
                 print("   -- not found"); continue
             insts = author.get("last_known_institutions") or [{}]
-            print(f"   -> {author['display_name']} ({author.get('works_count')} works)")
             works = fetch_works(author["id"])
             json.dump({
-                "query_name": name, "openalex_id": author["id"],
-                "display_name": author["display_name"],
+                "slug": slug, "display": display, "query_name": search,
+                "openalex_id": author["id"], "openalex_name": author["display_name"],
                 "affiliation": insts[0].get("display_name"),
                 "works_count": author.get("works_count"),
                 "cited_by_count": author.get("cited_by_count"),
+                "photo": photo,
                 "num_works_fetched": len(works), "works": works,
             }, open(path, "w"), indent=2)
-            print(f"   saved {len(works)} works")
+            print(f"   -> {author['display_name']} ({len(works)} works)"
+                  f"{'  [photo]' if photo else ''}")
         except Exception as e:
             print(f"   !! error: {e}")
         time.sleep(0.4)
 
-    # prune profiles for faculty who left the roster
-    for f in os.listdir(OUT):
-        if f.endswith(".json") and f[:-5] not in current_slugs:
-            os.remove(os.path.join(OUT, f))
-            print(f"[prune] removed stale {f}")
+    # Prune faculty who left the roster -- only when we trust the live scrape.
+    if live:
+        keep_photos = set()
+        for slug in current:
+            for ext in (".jpg", ".jpeg", ".png", ".webp"):
+                keep_photos.add(f"{slug}{ext}")
+        for f in os.listdir(OUT):
+            if f.endswith(".json") and f[:-5] not in current:
+                os.remove(os.path.join(OUT, f)); print(f"[prune] {f}")
+        for f in os.listdir(PHOTO_DIR):
+            if f not in keep_photos:
+                os.remove(os.path.join(PHOTO_DIR, f)); print(f"[prune] photo {f}")
 
 
 if __name__ == "__main__":

@@ -3,13 +3,25 @@
 An interactive graph of who co-authors with whom among the
 [Robotics @ Notre Dame](https://robotics.nd.edu/people/) faculty.
 
-- **Node** = a faculty member, sized by number of publications.
+- **Node** = a faculty member, shown as their headshot (all the same size).
 - **Edge** = the two faculty have co-authored papers; thickness and the number
-  label are how many.
-- **Color** = collaboration cluster (grey = no co-authorships with other ND
+  label are how many. Click an edge number to list the shared papers.
+- **Color** = collaboration cluster (grey ring = no co-authorships with other ND
   robotics faculty).
+- **Recent collaborations** panel lists the newest co-authored papers.
 
-**Live site:** https://nd-pair.github.io/web/
+Per-faculty *publication totals are intentionally not shown*: OpenAlex
+over-counts them (name over-merging). Collaboration counts, which are not
+hallucinated, are what the site displays.
+
+**Live site:** https://nd-pair.github.io/web/ — **internal page, password: `pair@nd`.**
+
+> **Note on the password.** This is a *soft* gate: the site is a public GitHub
+> Pages repo, so anyone can read `data/graph.json` directly regardless of the
+> password. It keeps casual visitors out and marks the page as internal, but it
+> is **not** real access control. For that, use a private repo behind a host with
+> real auth (Cloudflare Access, Netlify password protection, etc.). The gate
+> compares a SHA-256 hash, so the plaintext password is not in the source.
 
 ![collaboration graph](assets/graph.png)
 
@@ -25,16 +37,25 @@ robotics.nd.edu/people/   →  crawl_openalex.py  →  data/oa_profiles/*.json
                                index.html         →  interactive D3 force graph
 ```
 
-1. **`scripts/crawl_openalex.py`** scrapes the current faculty roster from
-   `robotics.nd.edu/people/`, resolves each person to an
-   [OpenAlex](https://openalex.org) author id (preferring a Notre Dame
-   affiliation and a matching surname), and downloads every work with its
-   co-authors. Output: one JSON per faculty in `data/oa_profiles/`.
+1. **`scripts/crawl_openalex.py`**
+   - **Syncs the roster** from `robotics.nd.edu/people/`: every faculty card that
+     links to an `*.nd.edu/faculty/<slug>/` profile is included (external
+     collaborators link off-site and are skipped). Add/remove someone on the
+     people page and they are added/removed here on the next run; stale profiles
+     and photos are pruned. If the page can't be parsed it falls back to a
+     curated list and does **not** prune (so a transient failure can't wipe the
+     graph).
+   - **Downloads each headshot** (`img.image-circle`) to `assets/faculty/`.
+   - **Resolves** each person to an [OpenAlex](https://openalex.org) author id
+     (preferring a Notre Dame affiliation and matching surname) and downloads
+     every work with its co-authors and dates.
 2. **`scripts/build_site.py`** turns those profiles into `data/graph.json`.
    Two faculty are linked when one's OpenAlex author id appears in the other's
-   authorship list; the edge weight is the number of such shared papers.
-3. **`index.html`** loads `data/graph.json` and renders the interactive graph
-   (drag nodes, hover for details, click a node to open its OpenAlex profile).
+   authorship list; the edge weight is the number of shared papers. Also emits
+   the shared papers per edge and a `news` list (newest co-authored papers).
+3. **`index.html`** loads `data/graph.json` behind the password gate and renders
+   the interactive graph (headshot nodes, drag, hover, click an edge number to
+   list shared papers, recent-collaborations feed).
 
 ### Why OpenAlex instead of Google Scholar?
 
@@ -76,12 +97,16 @@ design does **not** retrigger the workflow, so there is no loop.
 ## Data notes / caveats
 
 - Author disambiguation is automated. A few names are common: `Zhi Zheng` is
-  pinned to the correct ND author via an override in `crawl_openalex.py`; add
-  more overrides there if a faculty member resolves to the wrong person.
-- Very common names (e.g. `Hai Lin`) can map to an over-merged OpenAlex profile,
-  which inflates that node's publication count. The *co-authorship* links are
-  still valid.
+  pinned to the correct ND author via an `OVERRIDES` entry (by slug) in
+  `crawl_openalex.py`; add more there if someone resolves to the wrong person.
+  `SEARCH_NAME` overrides the OpenAlex query for a slug when needed.
+- Very common names (e.g. `Hai Lin`) can map to an over-merged OpenAlex profile.
+  This is exactly why publication totals are not displayed; the *co-authorship*
+  links are still valid.
 - `Toros Arikan` may show a previous institution until OpenAlex catches up.
+- Node labels use the department's display names (e.g. "Pat Wensing",
+  "Margaret McGuinness"), while OpenAlex is queried with the formal name from the
+  profile slug.
 
 Data source: [OpenAlex](https://openalex.org). Graph rendered with
 [D3](https://d3js.org).

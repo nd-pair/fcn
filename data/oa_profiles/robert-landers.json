@@ -1,16 +1,20 @@
 {
+  "slug": "robert-landers",
+  "display": "Robert Landers",
   "query_name": "Robert Landers",
   "openalex_id": "https://openalex.org/A5020875577",
-  "display_name": "Robert G. Landers",
+  "openalex_name": "Robert G. Landers",
   "affiliation": "University of Notre Dame",
   "works_count": 302,
   "cited_by_count": 5796,
+  "photo": "assets/faculty/robert-landers.jpg",
   "num_works_fetched": 302,
   "works": [
     {
       "id": "https://openalex.org/W2783030034",
       "title": "A single particle model with chemical/mechanical degradation physics for lithium ion battery State of Health (SOH) estimation",
       "year": 2018,
+      "date": "2018-01-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100774549",
@@ -38,6 +42,7 @@
       "id": "https://openalex.org/W2031341655",
       "title": "Machining Process Monitoring and Control: The State-of-the-Art",
       "year": 2004,
+      "date": "2004-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046782987",
@@ -57,6 +62,7 @@
       "id": "https://openalex.org/W2075768626",
       "title": "Machining Process Monitoring and Control: The State\u2013of\u2013the\u2013Art",
       "year": 2002,
+      "date": "2002-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046782987",
@@ -76,6 +82,7 @@
       "id": "https://openalex.org/W4256272899",
       "title": "Reconfigurable Machine Tools",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -95,6 +102,7 @@
       "id": "https://openalex.org/W2756924539",
       "title": "Modeling and calibration of high-order joint-dependent kinematic errors for industrial robots",
       "year": 2017,
+      "date": "2017-09-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102481460",
@@ -122,6 +130,7 @@
       "id": "https://openalex.org/W3086959365",
       "title": "State of AI-Based Monitoring in Smart Manufacturing and Introduction to Focused Section",
       "year": 2020,
+      "date": "2020-09-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5057513904",
@@ -153,6 +162,7 @@
       "id": "https://openalex.org/W2592262231",
       "title": "A Single Particle Model for Lithium-Ion Batteries with Electrolyte and Stress-Enhanced Diffusion Physics",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100774549",
@@ -176,6 +186,7 @@
       "id": "https://openalex.org/W2022688368",
       "title": "Multiaxis Contour Control\u2014the State of the Art",
       "year": 2013,
+      "date": "2013-01-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -191,6 +202,7 @@
       "id": "https://openalex.org/W3012214204",
       "title": "A comprehensive single-particle-degradation model for battery state-of-health prediction",
       "year": 2020,
+      "date": "2020-03-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008405750",
@@ -210,6 +222,7 @@
       "id": "https://openalex.org/W1983766111",
       "title": "Applications of a hybrid manufacturing process for fabrication of metallic structures",
       "year": 2007,
+      "date": "2007-07-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073156141",
@@ -241,6 +254,7 @@
       "id": "https://openalex.org/W2061332138",
       "title": "Melt Pool Temperature Control for Laser Metal Deposition Processes\u2014Part I: Online Temperature Control",
       "year": 2010,
+      "date": "2010-01-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -256,6 +270,7 @@
       "id": "https://openalex.org/W2054675725",
       "title": "Electric vehicle range prediction for constant speed trip using multi-objective optimization",
       "year": 2014,
+      "date": "2014-11-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040139937",
@@ -279,6 +294,7 @@
       "id": "https://openalex.org/W2791177158",
       "title": "Repetitive Process Control of Additive Manufacturing With Application to Laser Metal Deposition",
       "year": 2018,
+      "date": "2018-02-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -302,6 +318,7 @@
       "id": "https://openalex.org/W4283757822",
       "title": "Predicting defects in laser powder bed fusion using in-situ thermal imaging data and machine learning",
       "year": 2022,
+      "date": "2022-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040709432",
@@ -329,6 +346,7 @@
       "id": "https://openalex.org/W2908710912",
       "title": "Geometrical simulation and analysis of ball-end milling surface topography",
       "year": 2019,
+      "date": "2019-01-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -360,6 +378,7 @@
       "id": "https://openalex.org/W3170658257",
       "title": "Physical-based training data collection approach for data-driven lithium-ion battery state-of-charge prediction",
       "year": 2021,
+      "date": "2021-06-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100428316",
@@ -387,6 +406,7 @@
       "id": "https://openalex.org/W4200157793",
       "title": "Local prediction of Laser Powder Bed Fusion porosity by short-wave infrared imaging thermal feature porosity probability maps",
       "year": 2021,
+      "date": "2021-12-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -426,6 +446,7 @@
       "id": "https://openalex.org/W2056396439",
       "title": "Freeze-form extrusion fabrication of functionally graded materials",
       "year": 2012,
+      "date": "2012-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082067008",
@@ -457,6 +478,7 @@
       "id": "https://openalex.org/W2552717612",
       "title": "Additive Manufacturing of Transparent Soda-Lime Glass Using a Filament-Fed Process",
       "year": 2016,
+      "date": "2016-11-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -488,6 +510,7 @@
       "id": "https://openalex.org/W2605465252",
       "title": "Extrusion-on-demand methods for high solids loading ceramic paste in freeform extrusion fabrication",
       "year": 2017,
+      "date": "2017-04-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100463004",
@@ -511,6 +534,7 @@
       "id": "https://openalex.org/W2064693539",
       "title": "Predictive Contour Control With Adaptive Feed Rate",
       "year": 2011,
+      "date": "2011-03-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -526,6 +550,7 @@
       "id": "https://openalex.org/W2170277640",
       "title": "Layer-to-Layer Height Control for Laser Metal Deposition Process",
       "year": 2011,
+      "date": "2011-03-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103223915",
@@ -541,6 +566,7 @@
       "id": "https://openalex.org/W2033887829",
       "title": "Aqueous-based extrusion of high solids loading ceramic pastes: Process modeling and control",
       "year": 2008,
+      "date": "2008-07-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003446177",
@@ -568,6 +594,7 @@
       "id": "https://openalex.org/W2516459580",
       "title": "Reduced-Order Electrochemical Model-Based SOC Observer With Output Model Uncertainty Estimation",
       "year": 2016,
+      "date": "2016-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102944220",
@@ -591,6 +618,7 @@
       "id": "https://openalex.org/W2149747368",
       "title": "Height Dependent Laser Metal Deposition Process Modeling",
       "year": 2013,
+      "date": "2013-09-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -610,6 +638,7 @@
       "id": "https://openalex.org/W1995844176",
       "title": "Melt Pool Temperature Control for Laser Metal Deposition Processes\u2014Part II: Layer-to-Layer Temperature Control",
       "year": 2010,
+      "date": "2010-01-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -625,6 +654,7 @@
       "id": "https://openalex.org/W2094627939",
       "title": "Optimal Tracking Control of Motion Systems",
       "year": 2011,
+      "date": "2011-10-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5057268574",
@@ -648,6 +678,7 @@
       "id": "https://openalex.org/W2035884946",
       "title": "Automatic gap detection in friction stir butt welding operations",
       "year": 2008,
+      "date": "2008-02-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101473249",
@@ -671,6 +702,7 @@
       "id": "https://openalex.org/W2316969502",
       "title": "Additive manufacturing of glass for optical applications",
       "year": 2016,
+      "date": "2016-04-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -706,6 +738,7 @@
       "id": "https://openalex.org/W3095644653",
       "title": "Correlation of SWIR imaging with LPBF 304L stainless steel part properties",
       "year": 2020,
+      "date": "2020-05-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -745,6 +778,7 @@
       "id": "https://openalex.org/W2082188879",
       "title": "Hybrid Extrusion Force-Velocity Control Using Freeze-Form Extrusion Fabrication for Functionally Graded Material Parts",
       "year": 2013,
+      "date": "2013-07-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5000161879",
@@ -772,6 +806,7 @@
       "id": "https://openalex.org/W2078852783",
       "title": "Development of an Experimental Testbed for Research in Lithium-Ion Battery Management Systems",
       "year": 2013,
+      "date": "2013-10-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102944220",
@@ -803,6 +838,7 @@
       "id": "https://openalex.org/W2521272891",
       "title": "Analytical Force Modeling of Fixed Abrasive Diamond Wire Saw Machining With Application to SiC Monocrystal Wafer Processing",
       "year": 2016,
+      "date": "2016-09-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -834,6 +870,7 @@
       "id": "https://openalex.org/W2735250236",
       "title": "Li-ion Battery State of Health Estimation based on an improved Single Particle model",
       "year": 2017,
+      "date": "2017-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102944220",
@@ -857,6 +894,7 @@
       "id": "https://openalex.org/W2514088228",
       "title": "Table-Based Volumetric Error Compensation of Large Five-Axis Machine Tools",
       "year": 2016,
+      "date": "2016-08-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048517743",
@@ -888,6 +926,7 @@
       "id": "https://openalex.org/W3066138647",
       "title": "A Review of Manufacturing Process Control",
       "year": 2020,
+      "date": "2020-08-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -919,6 +958,7 @@
       "id": "https://openalex.org/W2045337904",
       "title": "Surface roughness optimization in processing SiC monocrystal wafers by wire saw machining with ultrasonic vibration",
       "year": 2013,
+      "date": "2013-11-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -938,6 +978,7 @@
       "id": "https://openalex.org/W2793424836",
       "title": "Additive manufacturing of transparent fused quartz",
       "year": 2018,
+      "date": "2018-03-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -977,6 +1018,7 @@
       "id": "https://openalex.org/W2511662435",
       "title": "Active disturbance rejection control for voltage stabilization in open-cathode fuel cells through temperature regulation",
       "year": 2016,
+      "date": "2016-08-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037862891",
@@ -996,6 +1038,7 @@
       "id": "https://openalex.org/W2073602806",
       "title": "Direct Three-Dimensional Layer Metal Deposition",
       "year": 2010,
+      "date": "2010-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008888444",
@@ -1019,6 +1062,7 @@
       "id": "https://openalex.org/W2160453557",
       "title": "Electrohydraulic Control Using Neural MRAC Based on a Modified State Observer",
       "year": 2012,
+      "date": "2012-04-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100397466",
@@ -1042,6 +1086,7 @@
       "id": "https://openalex.org/W1992428119",
       "title": "Empirical Dynamic Modeling of Friction Stir Welding Processes",
       "year": 2009,
+      "date": "2009-02-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042335164",
@@ -1065,6 +1110,7 @@
       "id": "https://openalex.org/W3111716735",
       "title": "Analysis of geometric accuracy and thickness reduction in multistage incremental sheet forming using digital image correlation",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5050710352",
@@ -1096,6 +1142,7 @@
       "id": "https://openalex.org/W2883339251",
       "title": "Sensing and control in glass additive manufacturing",
       "year": 2018,
+      "date": "2018-07-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5078653969",
@@ -1123,6 +1170,7 @@
       "id": "https://openalex.org/W2890132769",
       "title": "Two-Dimensional Modeling and System Identification of the Laser Metal Deposition Process",
       "year": 2018,
+      "date": "2018-09-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -1142,6 +1190,7 @@
       "id": "https://openalex.org/W3116885256",
       "title": "Frequency domain measurements of melt pool recoil force using modal analysis",
       "year": 2021,
+      "date": "2021-05-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025120080",
@@ -1193,6 +1242,7 @@
       "id": "https://openalex.org/W2979085374",
       "title": "Wire Vibration Modeling and Experimental Analysis for Wire Saw Machining",
       "year": 2019,
+      "date": "2019-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5110512019",
@@ -1220,6 +1270,7 @@
       "id": "https://openalex.org/W3111344371",
       "title": "Iterative learning control of single point incremental sheet forming process using digital image correlation",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059432782",
@@ -1251,6 +1302,7 @@
       "id": "https://openalex.org/W4408733089",
       "title": "Do multimodal large language models understand welding?",
       "year": 2025,
+      "date": "2025-03-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5114633670",
@@ -1278,6 +1330,7 @@
       "id": "https://openalex.org/W4365814487",
       "title": "Vision-based thermal drift monitoring method for machine tools",
       "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5050467698",
@@ -1313,6 +1366,7 @@
       "id": "https://openalex.org/W4385445613",
       "title": "Cutting force modeling and control of single crystal silicon using wire saw velocity reciprocation",
       "year": 2023,
+      "date": "2023-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5079240215",
@@ -1340,6 +1394,7 @@
       "id": "https://openalex.org/W4402669227",
       "title": "Effects of Ti and Y on resistance to corrosion in Fe\u2013Cr-X Alloys",
       "year": 2024,
+      "date": "2024-09-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5078349957",
@@ -1387,6 +1442,7 @@
       "id": "https://openalex.org/W4413794837",
       "title": "A 3D Printing Strategy for Hard Curved Surfaced Circuits: From Materials to Applications",
       "year": 2025,
+      "date": "2025-08-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101423190",
@@ -1446,6 +1502,7 @@
       "id": "https://openalex.org/W4399350559",
       "title": "Volumetric heating in digital glass forming",
       "year": 2024,
+      "date": "2024-06-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5095113284",
@@ -1477,6 +1534,7 @@
       "id": "https://openalex.org/W2153653744",
       "title": "A comparison of model-based machining force control approaches",
       "year": 2004,
+      "date": "2004-03-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -1496,6 +1554,7 @@
       "id": "https://openalex.org/W2082513726",
       "title": "Variable Powder Flow Rate Control in Laser Metal Deposition Processes",
       "year": 2008,
+      "date": "2008-07-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -1519,6 +1578,7 @@
       "id": "https://openalex.org/W2728627280",
       "title": "Screw Theory Based Metrology for Design and Error Compensation of Machine Tools",
       "year": 2001,
+      "date": "2001-09-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020127001",
@@ -1542,6 +1602,7 @@
       "id": "https://openalex.org/W2035959235",
       "title": "Parallel Turning Process Parameter Optimization Based on a Novel Heuristic Approach",
       "year": 2008,
+      "date": "2008-05-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -1561,6 +1622,7 @@
       "id": "https://openalex.org/W2070527788",
       "title": "Adaptive Extrusion Force Control of Freeze-Form Extrusion Fabrication Processes",
       "year": 2010,
+      "date": "2010-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5033653308",
@@ -1580,6 +1642,7 @@
       "id": "https://openalex.org/W2242168852",
       "title": "Control of Laser Cladding for Rapid Prototyping--a Review",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030743096",
@@ -1599,6 +1662,7 @@
       "id": "https://openalex.org/W2040022452",
       "title": "Nonlinear Feed Effect in Machining Chatter Analysis",
       "year": 2008,
+      "date": "2008-02-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -1614,6 +1678,7 @@
       "id": "https://openalex.org/W2046927553",
       "title": "Factors influencing paste extrusion pressure and liquid content of extrudate in freeze-form extrusion fabrication",
       "year": 2012,
+      "date": "2012-10-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101949840",
@@ -1641,6 +1706,7 @@
       "id": "https://openalex.org/W2504602853",
       "title": "Process Monitoring and Control of Machining Operations",
       "year": 2017,
+      "date": "2017-12-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -1660,6 +1726,7 @@
       "id": "https://openalex.org/W2087684543",
       "title": "Iterative learning control of bead morphology in Laser Metal Deposition processes",
       "year": 2013,
+      "date": "2013-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -1679,6 +1746,7 @@
       "id": "https://openalex.org/W2337278558",
       "title": "Development of an Educational Small-Scale Hybrid Electric Vehicle (HEV) Setup",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5057375207",
@@ -1702,6 +1770,7 @@
       "id": "https://openalex.org/W2081024091",
       "title": "Control-oriented modeling for open-cathode fuel cell systems",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5110690099",
@@ -1725,6 +1794,7 @@
       "id": "https://openalex.org/W2021477245",
       "title": "Process planning optimization for parallel drilling of blind holes using a two phase genetic algorithm",
       "year": 2012,
+      "date": "2012-02-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -1752,6 +1822,7 @@
       "id": "https://openalex.org/W2491531626",
       "title": "Extrusion based additive manufacturing using Explicit Model Predictive Control",
       "year": 2016,
+      "date": "2016-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076415330",
@@ -1767,6 +1838,7 @@
       "id": "https://openalex.org/W2004795229",
       "title": "Hierarchical optimal contour control of motion systems",
       "year": 2014,
+      "date": "2014-01-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075375612",
@@ -1786,6 +1858,7 @@
       "id": "https://openalex.org/W2993149164",
       "title": "Thermal Modeling of 304L Stainless Steel Selective Laser Melting",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026071803",
@@ -1817,6 +1890,7 @@
       "id": "https://openalex.org/W2102290281",
       "title": "Design and implementation of a general tracking controller for Friction Stir Welding processes",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5013984470",
@@ -1832,6 +1906,7 @@
       "id": "https://openalex.org/W2727730759",
       "title": "Modal analysis of metal additive manufactured parts",
       "year": 2017,
+      "date": "2017-06-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083280226",
@@ -1879,6 +1954,7 @@
       "id": "https://openalex.org/W2137291534",
       "title": "Melt pool temperature modeling and control for Laser Metal Deposition processes",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -1894,6 +1970,7 @@
       "id": "https://openalex.org/W2465693029",
       "title": "Modeling and analysis of paste freezing in freeze-form extrusion fabrication of thin-wall parts via a lumped method",
       "year": 2016,
+      "date": "2016-05-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -1921,6 +1998,7 @@
       "id": "https://openalex.org/W3177802330",
       "title": "A Kinematic Error Controller for Real-Time Kinematic Error Correction of Industrial Robots",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5050486437",
@@ -1948,6 +2026,7 @@
       "id": "https://openalex.org/W2731724751",
       "title": "Quasistatic Error Modeling and Model Testing for a 5-Axis Machine",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5081009938",
@@ -1991,6 +2070,7 @@
       "id": "https://openalex.org/W4403441494",
       "title": "Machine tool thermal error measurement and prediction via wireless microscope",
       "year": 2024,
+      "date": "2024-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100746239",
@@ -2018,6 +2098,7 @@
       "id": "https://openalex.org/W2053556664",
       "title": "Model-Based Machining Force Control",
       "year": 1999,
+      "date": "1999-10-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -2033,6 +2114,7 @@
       "id": "https://openalex.org/W1981475450",
       "title": "Robust Machining Force Control With Process Compensation",
       "year": 2003,
+      "date": "2003-07-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5087741164",
@@ -2052,6 +2134,7 @@
       "id": "https://openalex.org/W2037696377",
       "title": "Supervisory Machining Control: Design Approach and Experiments",
       "year": 1998,
+      "date": "1998-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -2067,6 +2150,7 @@
       "id": "https://openalex.org/W1969768404",
       "title": "Design and Implementation of a Nonlinear Axial Force Controller for Friction Stir Welding Processes",
       "year": 2007,
+      "date": "2007-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042335164",
@@ -2090,6 +2174,7 @@
       "id": "https://openalex.org/W2054852758",
       "title": "Extrusion Process Modeling for Aqueous-Based Ceramic Pastes\u2014Part 1: Constitutive Model",
       "year": 2013,
+      "date": "2013-09-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -2113,6 +2198,7 @@
       "id": "https://openalex.org/W2022244384",
       "title": "Layer-to-layer height control of Laser Metal Deposition processes",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -2140,6 +2226,7 @@
       "id": "https://openalex.org/W2087604330",
       "title": "Extrusion Process Modeling for Aqueous-Based Ceramic Pastes\u2014Part 2: Experimental Verification",
       "year": 2013,
+      "date": "2013-09-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -2163,6 +2250,7 @@
       "id": "https://openalex.org/W2169166545",
       "title": "Precision Motion Control Methodology for Complex Contours",
       "year": 2007,
+      "date": "2007-06-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -2178,6 +2266,7 @@
       "id": "https://openalex.org/W2112384869",
       "title": "Optimal Control Approach for Turning Process Planning Optimization",
       "year": 2013,
+      "date": "2013-10-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021898086",
@@ -2197,6 +2286,7 @@
       "id": "https://openalex.org/W2261489731",
       "title": "Wire-Fed Additive Manufacturing of Transparent Glass Parts",
       "year": 2015,
+      "date": "2015-06-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -2232,6 +2322,7 @@
       "id": "https://openalex.org/W2911182668",
       "title": "Methods of Extrusion on Demand for High Solids Loading Ceramic Paste in Freeform Extrusion Fabrication",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100462995",
@@ -2255,6 +2346,7 @@
       "id": "https://openalex.org/W2064944408",
       "title": "Regulation of Powder Mass Flow Rate in Gravity-Fed Powder Feeder Systems",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054846076",
@@ -2270,6 +2362,7 @@
       "id": "https://openalex.org/W1994210253",
       "title": "Control Oriented Thermal Modeling of Lithium Ion Batteries from a First Principle Model via Model Reduction by the Global Arnoldi Algorithm",
       "year": 2012,
+      "date": "2012-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5077918635",
@@ -2285,6 +2378,7 @@
       "id": "https://openalex.org/W2035547721",
       "title": "Modeling and Compensation of Backlash and Harmonic Drive-Induced Errors in Robotic Manipulators",
       "year": 2014,
+      "date": "2014-06-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -2316,6 +2410,7 @@
       "id": "https://openalex.org/W2089604256",
       "title": "Control-oriented modeling of Laser Metal Deposition as a repetitive process",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -2335,6 +2430,7 @@
       "id": "https://openalex.org/W3046105419",
       "title": "A Layer-to-layer Control-Oriented Model for Selective Laser Melting",
       "year": 2020,
+      "date": "2020-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100328022",
@@ -2362,6 +2458,7 @@
       "id": "https://openalex.org/W1978121298",
       "title": "Path Force Control for Friction Stir Welding Processes",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042335164",
@@ -2385,6 +2482,7 @@
       "id": "https://openalex.org/W2561298716",
       "title": "Force modeling of silicon monocrystal wire saw machining",
       "year": 2016,
+      "date": "2016-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -2408,6 +2506,7 @@
       "id": "https://openalex.org/W2007183892",
       "title": "Robust Nonlinear Observer for State of Charge Estimation of Li-Ion Batteries",
       "year": 2012,
+      "date": "2012-10-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102944220",
@@ -2423,6 +2522,7 @@
       "id": "https://openalex.org/W2597163104",
       "title": "A Longitudinal Study on the Effectiveness of the Research Experience for Undergraduates (REU) Program at Missouri University of Science and Technology",
       "year": 2020,
+      "date": "2020-09-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113965742",
@@ -2446,6 +2546,7 @@
       "id": "https://openalex.org/W2070436463",
       "title": "Modeling, Analysis, and Simulation of Paste Freezing in Freeze-Form Extrusion Fabrication of Thin-Wall Parts",
       "year": 2014,
+      "date": "2014-09-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -2465,6 +2566,7 @@
       "id": "https://openalex.org/W2146714922",
       "title": "Peripheral milling of thin titanium plates: modelling, analysis, and process planning",
       "year": 2011,
+      "date": "2011-05-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -2488,6 +2590,7 @@
       "id": "https://openalex.org/W2398856320",
       "title": "Bubble formation in additive manufacturing of glass",
       "year": 2016,
+      "date": "2016-05-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -2527,6 +2630,7 @@
       "id": "https://openalex.org/W3083966439",
       "title": "Control-Oriented Modeling of Lithium-Ion Batteries",
       "year": 2020,
+      "date": "2020-09-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045435511",
@@ -2554,6 +2658,7 @@
       "id": "https://openalex.org/W3037745858",
       "title": "A Kinematic Error Observer for Robot End Effector Estimation",
       "year": 2020,
+      "date": "2020-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5050486437",
@@ -2573,6 +2678,7 @@
       "id": "https://openalex.org/W4294692064",
       "title": "Spatial Transformation of a Layer-to-Layer Control Model for Selective Laser Melting",
       "year": 2022,
+      "date": "2022-06-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100328022",
@@ -2592,6 +2698,7 @@
       "id": "https://openalex.org/W3175370915",
       "title": "Computationally efficient battery model for microgrid applications using the Chebyshev spectral method",
       "year": 2021,
+      "date": "2021-06-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014483826",
@@ -2615,6 +2722,7 @@
       "id": "https://openalex.org/W2199950795",
       "title": "Implementation And Evaluation Of A Linear Axis Rapid Development System",
       "year": 2020,
+      "date": "2020-09-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5112009376",
@@ -2642,6 +2750,7 @@
       "id": "https://openalex.org/W2919105691",
       "title": "Direct write of photonics using a filament-fed laser-heated process",
       "year": 2019,
+      "date": "2019-03-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005550970",
@@ -2689,6 +2798,7 @@
       "id": "https://openalex.org/W4407789809",
       "title": "Experiment-based superposition thermal modeling of laser powder bed fusion",
       "year": 2025,
+      "date": "2025-02-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -2724,6 +2834,7 @@
       "id": "https://openalex.org/W4408309558",
       "title": "Extreme fast charging algorithm for lithium-ion batteries with precision lithium plating regulation for degradation reduction",
       "year": 2025,
+      "date": "2025-03-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5084064371",
@@ -2755,6 +2866,7 @@
       "id": "https://openalex.org/W2600635343",
       "title": "Chatter Analysis of Machining Systems With Nonlinear Force Processes",
       "year": 1996,
+      "date": "1996-11-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -2770,6 +2882,7 @@
       "id": "https://openalex.org/W2025123790",
       "title": "Toward Automatic Process Planning of a Multi-Axis Hybrid Laser Aided Manufacturing System: Skeleton-Based Offset Edge Generation",
       "year": 2003,
+      "date": "2003-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5049655344",
@@ -2793,6 +2906,7 @@
       "id": "https://openalex.org/W2109791302",
       "title": "Design and Implementation of Nonlinear Force Controllers for Friction Stir Welding Processes",
       "year": 2008,
+      "date": "2008-11-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042335164",
@@ -2816,6 +2930,7 @@
       "id": "https://openalex.org/W2232086078",
       "title": "Reconfigurable Manufacturing Equipment",
       "year": 2007,
+      "date": "2007-06-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -2835,6 +2950,7 @@
       "id": "https://openalex.org/W2152232890",
       "title": "Force Modeling and Control of SiC Monocrystal Wafer Processing",
       "year": 2014,
+      "date": "2014-12-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -2862,6 +2978,7 @@
       "id": "https://openalex.org/W4231820972",
       "title": "Process Monitoring and Control of Machining Operations",
       "year": 2001,
+      "date": "2001-12-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -2881,6 +2998,7 @@
       "id": "https://openalex.org/W1966607554",
       "title": "Hierarchical optimal force\u2013position\u2013contour control of machining processes",
       "year": 2005,
+      "date": "2005-07-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039374115",
@@ -2900,6 +3018,7 @@
       "id": "https://openalex.org/W2793422938",
       "title": "Quasistatic error modeling and model testing for a 5-axis machine with a redundant axis",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008020803",
@@ -2943,6 +3062,7 @@
       "id": "https://openalex.org/W1967217073",
       "title": "Nonlinear Modeling of Mechanical Gas Face Seal Systems Using Proper Orthogonal Decomposition",
       "year": 2006,
+      "date": "2006-07-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -2962,6 +3082,7 @@
       "id": "https://openalex.org/W2015904413",
       "title": "Neural network strategy for driving behaviour and driving cycle classification",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040139937",
@@ -2981,6 +3102,7 @@
       "id": "https://openalex.org/W2060428214",
       "title": "Development of an Educational Small Scale Hybrid Electric Vehicle (HEV) Setup",
       "year": 2013,
+      "date": "2013-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5057375207",
@@ -3004,6 +3126,7 @@
       "id": "https://openalex.org/W3021145228",
       "title": "Freeform Extrusion of High Solids Loading Ceramic Slurries, Part I: Extrusion Process Modeling",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003446177",
@@ -3031,6 +3154,7 @@
       "id": "https://openalex.org/W2079843412",
       "title": "ERROR SPACE MOTION CONTROL METHODOLOGY FOR COMPLEX CONTOURS",
       "year": 2008,
+      "date": "2008-10-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -3042,6 +3166,7 @@
       "id": "https://openalex.org/W2790207082",
       "title": "Fiber-fed laser-heated process for printing transparent glass from single mode optical fiber",
       "year": 2018,
+      "date": "2018-02-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5002415526",
@@ -3069,6 +3194,7 @@
       "id": "https://openalex.org/W2066007195",
       "title": "Repetitive Process Control of Laser Metal Deposition",
       "year": 2014,
+      "date": "2014-10-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -3088,6 +3214,7 @@
       "id": "https://openalex.org/W2302249221",
       "title": "A Model Predictive Repetitive Process Control Formulation for Additive Manufacturing Processes",
       "year": 2015,
+      "date": "2015-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -3107,6 +3234,7 @@
       "id": "https://openalex.org/W2592217675",
       "title": "Selection of limited and constrained compensation tables for five-axis machine tools",
       "year": 2017,
+      "date": "2017-03-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048517743",
@@ -3126,6 +3254,7 @@
       "id": "https://openalex.org/W2047158240",
       "title": "Design and analysis of output feedback force control in parallel turning",
       "year": 2004,
+      "date": "2004-09-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042522049",
@@ -3141,6 +3270,7 @@
       "id": "https://openalex.org/W2561131613",
       "title": "Modeling and compensation of joint-dependent kinematic errors in robotic manipulators",
       "year": 2016,
+      "date": "2016-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102481460",
@@ -3168,6 +3298,7 @@
       "id": "https://openalex.org/W2765743879",
       "title": "Heat Transfer in Additive Manufacturing of Glass",
       "year": 2017,
+      "date": "2017-07-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -3199,6 +3330,7 @@
       "id": "https://openalex.org/W2892630033",
       "title": "Printing Free-Form Free-Standing Glass Structures",
       "year": 2018,
+      "date": "2018-06-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059042125",
@@ -3230,6 +3362,7 @@
       "id": "https://openalex.org/W2070887106",
       "title": "Adaptive Control of Mechanical Gas Face Seals With Rotor Runout and Static Stator Misalignment",
       "year": 2010,
+      "date": "2010-06-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -3249,6 +3382,7 @@
       "id": "https://openalex.org/W2972889714",
       "title": "Online Melt Pool Temperature Control for Laser Metal Deposition Processes",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -3276,6 +3410,7 @@
       "id": "https://openalex.org/W2991553918",
       "title": "Bubble Formation in Additive Manufacturing of Borosilicate Glass",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -3311,6 +3446,7 @@
       "id": "https://openalex.org/W2993893220",
       "title": "Laser Line Scan Characterization of Geometric Profiles in Laser Metal Deposition",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059328107",
@@ -3334,6 +3470,7 @@
       "id": "https://openalex.org/W3195571373",
       "title": "Solid Freeform Fabrication of Transparent Fused Quartz using a Filament Fed Process",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -3377,6 +3514,7 @@
       "id": "https://openalex.org/W4200504259",
       "title": "An accurate and computationally efficient method for battery capacity fade modeling",
       "year": 2021,
+      "date": "2021-12-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014483826",
@@ -3400,6 +3538,7 @@
       "id": "https://openalex.org/W2901317936",
       "title": "A Plant-Inversion Based Switched Iterative Learning Control Scheme for a Special Class of Multivariable Systems",
       "year": 2018,
+      "date": "2018-09-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100317831",
@@ -3419,6 +3558,7 @@
       "id": "https://openalex.org/W3046100567",
       "title": "A Loop-Shaping Method for Frequency-Based Design of Layer-to-Layer Control for Laser Metal Deposition",
       "year": 2020,
+      "date": "2020-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059328107",
@@ -3438,6 +3578,7 @@
       "id": "https://openalex.org/W4253833371",
       "title": "Design and analysis of output feedback force control in parallel turning",
       "year": 2004,
+      "date": "2004-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042522049",
@@ -3453,6 +3594,7 @@
       "id": "https://openalex.org/W2053709208",
       "title": "Hierarchical optimal force-position control of complex manufacturing processes",
       "year": 2014,
+      "date": "2014-01-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075375612",
@@ -3472,6 +3614,7 @@
       "id": "https://openalex.org/W2315713093",
       "title": "Thermal Management and Voltage Stabilization in Air-Forced Open-Cathode Fuel Cells",
       "year": 2015,
+      "date": "2015-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5037862891",
@@ -3491,6 +3634,7 @@
       "id": "https://openalex.org/W2948056119",
       "title": "Optimal Rastering Orientation in Freeform Extrusion Fabrication Processes",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5107973159",
@@ -3514,6 +3658,7 @@
       "id": "https://openalex.org/W4385506919",
       "title": "Laser Induced Breakdown Spectroscopy for In-Situ Monitoring of Laser Powder Bed Fusion Processing",
       "year": 2023,
+      "date": "2023-08-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109761021",
@@ -3549,6 +3694,7 @@
       "id": "https://openalex.org/W4403441454",
       "title": "A feedforward kinematic error controller with an angular positioning deviations model for backlash compensation of industrial robots",
       "year": 2024,
+      "date": "2024-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5050486437",
@@ -3580,6 +3726,7 @@
       "id": "https://openalex.org/W2084855532",
       "title": "Clearance Regulation of Mechanical Gas Face Seals: Part II\u2014Analysis and Control",
       "year": 2006,
+      "date": "2006-05-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082216791",
@@ -3599,6 +3746,7 @@
       "id": "https://openalex.org/W2041826651",
       "title": "Table-Based Compensation for 5-Axis Machine Tools",
       "year": 2013,
+      "date": "2013-11-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048517743",
@@ -3630,6 +3778,7 @@
       "id": "https://openalex.org/W2887231759",
       "title": "A Quadratic-Optimal Repetitive Process Controller for Laser Metal Deposition",
       "year": 2018,
+      "date": "2018-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059328107",
@@ -3649,6 +3798,7 @@
       "id": "https://openalex.org/W4387463107",
       "title": "Layer-to-Layer Norm-Optimal control of Incremental sheet forming with a Data-Driven model",
       "year": 2023,
+      "date": "2023-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059432782",
@@ -3668,6 +3818,7 @@
       "id": "https://openalex.org/W2137074634",
       "title": "Real-Time Force and Moment Estimation for Mechanical Gas Face Seal Systems Using Reduced-Order Kalman Filters",
       "year": 2007,
+      "date": "2007-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -3687,6 +3838,7 @@
       "id": "https://openalex.org/W2606587945",
       "title": "Additive manufacturing of borosilicate glass (Conference Presentation)",
       "year": 2017,
+      "date": "2017-04-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007444223",
@@ -3718,6 +3870,7 @@
       "id": "https://openalex.org/W2989626856",
       "title": "Modeling and Compensation of Industrial Robot Kinematic Errors using a SmartTRACK Sensor",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073823239",
@@ -3737,6 +3890,7 @@
       "id": "https://openalex.org/W3199606628",
       "title": "Interpolation and Extrapolation of Optimally Fitted Kinematic Error Model for Five-Axis Machine Tools",
       "year": 2021,
+      "date": "2021-09-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102481460",
@@ -3756,6 +3910,7 @@
       "id": "https://openalex.org/W2157655791",
       "title": "Hierarchical optimal force-position control of a turning Process",
       "year": 2005,
+      "date": "2005-02-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5050075543",
@@ -3775,6 +3930,7 @@
       "id": "https://openalex.org/W2023486676",
       "title": "Dynamic Modeling of Powder Delivery Systems in Gravity-Fed Powder Feeders",
       "year": 2005,
+      "date": "2005-07-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101930200",
@@ -3794,6 +3950,7 @@
       "id": "https://openalex.org/W2619460665",
       "title": "Machining Force Control Including Static, Nonlinear Effects",
       "year": 1996,
+      "date": "1996-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -3809,6 +3966,7 @@
       "id": "https://openalex.org/W2034815099",
       "title": "Adaptive Control of Freeze-Form Extrusion Fabrication Processes",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5033653308",
@@ -3828,6 +3986,7 @@
       "id": "https://openalex.org/W2115088317",
       "title": "Variable Powder Flow Rate Control in Laser Metal Deposition Processes",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -3851,6 +4010,7 @@
       "id": "https://openalex.org/W2131542348",
       "title": "Modular Control Laboratory System with Integrated Simulation, Animation, Emulation, and Experimental Components*",
       "year": 2005,
+      "date": "2005-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676705",
@@ -3866,6 +4026,7 @@
       "id": "https://openalex.org/W4252664868",
       "title": "Nonlinear Feed Effect in Machining Chatter Analysis",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -3881,6 +4042,7 @@
       "id": "https://openalex.org/W1996405653",
       "title": "Hierarchical Optimal Contour-Position Control of Motion Control Systems",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -3896,6 +4058,7 @@
       "id": "https://openalex.org/W2044809927",
       "title": "An adaptive evolutionary algorithm for optimizing process planning of parallel drilling operations",
       "year": 2015,
+      "date": "2015-02-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -3915,6 +4078,7 @@
       "id": "https://openalex.org/W2389764275",
       "title": "Integrated Modular Machine Tool Simulation for Education in Manufacturing Automation",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5064875255",
@@ -3930,6 +4094,7 @@
       "id": "https://openalex.org/W2743140880",
       "title": "A Single Particle-Based Battery Degradation Model Including Chemical and Mechanical Degradation Physics",
       "year": 2017,
+      "date": "2017-07-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100774549",
@@ -3953,6 +4118,7 @@
       "id": "https://openalex.org/W2994017120",
       "title": "Modal Response as a Validation Technique for Metal Parts Fabricated with Selective Laser Melting",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5091026578",
@@ -3996,6 +4162,7 @@
       "id": "https://openalex.org/W3139768935",
       "title": "Electro-hydraulic piston control using neural MRAC based on a modified state observer",
       "year": 2011,
+      "date": "2011-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100397466",
@@ -4019,6 +4186,7 @@
       "id": "https://openalex.org/W1970091284",
       "title": "Clearance Regulation of Mechanical Gas Face Seals: Part I\u2014Modeling",
       "year": 2006,
+      "date": "2006-05-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082216791",
@@ -4038,6 +4206,7 @@
       "id": "https://openalex.org/W1994449028",
       "title": "Direct 3D Layer Metal Deposition and Toolpath Generation",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008888444",
@@ -4065,6 +4234,7 @@
       "id": "https://openalex.org/W2322069952",
       "title": "Electrochemical Model-Based Adaptive Estimation of Li-Ion Battery State of Charge",
       "year": 2015,
+      "date": "2015-10-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102944220",
@@ -4088,6 +4258,7 @@
       "id": "https://openalex.org/W2964620034",
       "title": "Planning Freeform Extrusion Fabrication Processes with Consideration of Horizontal Staircase Effect",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5107973159",
@@ -4111,6 +4282,7 @@
       "id": "https://openalex.org/W3000714193",
       "title": "Model Predictive Height Control for Direct Energy Deposition",
       "year": 2019,
+      "date": "2019-11-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059328107",
@@ -4130,6 +4302,7 @@
       "id": "https://openalex.org/W1523255934",
       "title": "Output feedback force control for a parallel turning operation",
       "year": 2004,
+      "date": "2004-02-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042522049",
@@ -4145,6 +4318,7 @@
       "id": "https://openalex.org/W2004320629",
       "title": "Development of a Novel Electro-Hydraulic Laboratory",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5107861892",
@@ -4168,6 +4342,7 @@
       "id": "https://openalex.org/W2044265067",
       "title": "Coordinated Control of Fuel Cell Air Supply System Using Model Predictive Control",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103223915",
@@ -4183,6 +4358,7 @@
       "id": "https://openalex.org/W2151247165",
       "title": "Real-Time Force and Moment Estimation for Mechanical Gas Face Seal Systems Using Reduced-Order Kalman Filters",
       "year": 2008,
+      "date": "2008-07-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -4202,6 +4378,7 @@
       "id": "https://openalex.org/W2561579123",
       "title": "Experimental and numerical studies of wire vibrations in bonded abrasive wire saw processing",
       "year": 2016,
+      "date": "2016-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5110512019",
@@ -4225,6 +4402,7 @@
       "id": "https://openalex.org/W262115569",
       "title": "APPLICATIONS OF A HYBRID MANUFACTURING PROCESS FOR FABRICATION AND REPAIR OF METALLIC STRUCTURES (PREPRINT)",
       "year": 2006,
+      "date": "2006-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073156141",
@@ -4256,6 +4434,7 @@
       "id": "https://openalex.org/W2887259218",
       "title": "Extraction of Coupling Stiffness of Specimens Printed with Selective Laser Melting Using Modal Analysis",
       "year": 2018,
+      "date": "2018-07-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083280226",
@@ -4295,6 +4474,7 @@
       "id": "https://openalex.org/W2889218548",
       "title": "Battery Optimization in Microgrids using Markov Decision Process Integrated with Load and Solar forecasting",
       "year": 2018,
+      "date": "2018-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101633143",
@@ -4322,6 +4502,7 @@
       "id": "https://openalex.org/W2914851404",
       "title": "A switched estimation strategy based on Kalman filtering for compensating laser tracker ADM shift",
       "year": 2019,
+      "date": "2019-01-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100317816",
@@ -4341,6 +4522,7 @@
       "id": "https://openalex.org/W3041296441",
       "title": "Height Dependent Laser Metal Deposition Process Modeling",
       "year": 2012,
+      "date": "2012-06-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -4360,6 +4542,7 @@
       "id": "https://openalex.org/W3090628196",
       "title": "Using BB-gun or Acoustic Excitation to Find High Frequency Modes in Additively Manufactured Parts",
       "year": 2020,
+      "date": "2020-09-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5064584773",
@@ -4411,6 +4594,7 @@
       "id": "https://openalex.org/W3122729819",
       "title": "A Switched Adaptive Model for Layer-to-Layer Selective Laser Melting With Varying Laser Paths",
       "year": 2020,
+      "date": "2020-10-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100328022",
@@ -4430,6 +4614,7 @@
       "id": "https://openalex.org/W4206349358",
       "title": "A control oriented comprehensive degradation model for battery energy storage system life prediction",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5052917037",
@@ -4457,6 +4642,7 @@
       "id": "https://openalex.org/W1967918564",
       "title": "An interesting fact regarding the Routh table",
       "year": 2009,
+      "date": "2009-06-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -4468,6 +4654,7 @@
       "id": "https://openalex.org/W2073206352",
       "title": "Precision Motion Control Methodology for Complex Contours",
       "year": 2007,
+      "date": "2007-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -4483,6 +4670,7 @@
       "id": "https://openalex.org/W2259138712",
       "title": "Evaluation Of Rapid Development System Using Eye Tracker",
       "year": 2020,
+      "date": "2020-09-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5079322043",
@@ -4506,6 +4694,7 @@
       "id": "https://openalex.org/W2595899309",
       "title": "Development And Initial Analysis Of A Mini Cnc Rapid Development System",
       "year": 2020,
+      "date": "2020-09-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -4529,6 +4718,7 @@
       "id": "https://openalex.org/W2601170178",
       "title": "Remote Use Of A Linear Axis Rapid Development System",
       "year": 2020,
+      "date": "2020-09-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -4544,6 +4734,7 @@
       "id": "https://openalex.org/W2736402079",
       "title": "Modeling of Absolute Distance Meter Shift Inside a Laser Tracker",
       "year": 2017,
+      "date": "2017-06-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100317902",
@@ -4563,6 +4754,7 @@
       "id": "https://openalex.org/W2885541754",
       "title": "A Switched Iterative Learning Control Scheme for Two-Input Two-Output Systems",
       "year": 2018,
+      "date": "2018-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100317831",
@@ -4582,6 +4774,7 @@
       "id": "https://openalex.org/W2992662666",
       "title": "Effects of Thermal Camera Spatial and Temporal Resolution on Feature Extraction in Selective Laser Melting",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054362722",
@@ -4605,6 +4798,7 @@
       "id": "https://openalex.org/W4206615888",
       "title": "Construction of Spatial Filtering Matrices for Norm-Optimal ILC in Single Point Incremental Forming",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059432782",
@@ -4628,6 +4822,7 @@
       "id": "https://openalex.org/W4307954127",
       "title": "Optimal trajectory smoothing for direct energy deposition additive manufacturing processes",
       "year": 2022,
+      "date": "2022-10-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090837396",
@@ -4647,6 +4842,7 @@
       "id": "https://openalex.org/W2990864071",
       "title": "Comparison of Volumetric to Surface Heating for Filament-Fed Laser Heated Additive Manufacturing of Glass",
       "year": 2019,
+      "date": "2019-07-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5134442203",
@@ -4682,6 +4878,7 @@
       "id": "https://openalex.org/W3113142821",
       "title": "Robustness of A Plant-Inversion Based Switched Iterative Learning Control Scheme",
       "year": 2019,
+      "date": "2019-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100661186",
@@ -4701,6 +4898,7 @@
       "id": "https://openalex.org/W2104668895",
       "title": "Research and Development of a Hybrid Rapid Manufacturing Process",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073156141",
@@ -4732,6 +4930,7 @@
       "id": "https://openalex.org/W2738269904",
       "title": "Empirical Modeling and Vision Based Control for Laser Aided Metal Deposition Process",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030743096",
@@ -4755,6 +4954,7 @@
       "id": "https://openalex.org/W2787617993",
       "title": "Freeze-Form Extrusion Fabrication of Composite Structures",
       "year": 2011,
+      "date": "2011-08-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005703976",
@@ -4790,6 +4990,7 @@
       "id": "https://openalex.org/W2973100837",
       "title": "Freeze-Form Extrusion Fabrication of Functionally Graded Material Composites Using Zirconium Carbide and Tungsten",
       "year": 2012,
+      "date": "2012-08-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100664198",
@@ -4825,6 +5026,7 @@
       "id": "https://openalex.org/W3202737039",
       "title": "Numerical Simulation of Ram Extrusion Process for Ceramic Materials",
       "year": 2011,
+      "date": "2011-08-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -4848,6 +5050,7 @@
       "id": "https://openalex.org/W167108646",
       "title": "Aqueous-Based Extrusion Fabrication of Ceramics on Demand",
       "year": 2007,
+      "date": "2007-09-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003446177",
@@ -4879,6 +5082,7 @@
       "id": "https://openalex.org/W2601994684",
       "title": "Applications of a Hybrid Manufacturing Process for Fabrication and Repair of Metallic Structures",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073156141",
@@ -4910,6 +5114,7 @@
       "id": "https://openalex.org/W2741678039",
       "title": "System Integration and Real-Time Control Architecture of a Laser Aided Manufacturing Process",
       "year": 2002,
+      "date": "2002-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030743096",
@@ -4941,6 +5146,7 @@
       "id": "https://openalex.org/W3184456784",
       "title": "Development of Extrusion-on-Demand for Ceramic Freeze-Form Extrusion Fabrication",
       "year": 2009,
+      "date": "2009-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066328710",
@@ -4964,6 +5170,7 @@
       "id": "https://openalex.org/W3201701434",
       "title": "Interactions of an Additive Manufacturing Program with Society",
       "year": 2012,
+      "date": "2012-08-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5073156141",
@@ -4983,6 +5190,7 @@
       "id": "https://openalex.org/W1533473880",
       "title": "Freeform Extrusion of High Solids Loading Ceramic Slurries, Part I: Extrusion Process Modeling",
       "year": 2006,
+      "date": "2006-09-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003446177",
@@ -5010,6 +5218,7 @@
       "id": "https://openalex.org/W4225815848",
       "title": "Predicting Defects in Laser Powder Bed Fusion Using In-Situ Thermal Imaging Data and Machine Learning",
       "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040709432",
@@ -5037,6 +5246,7 @@
       "id": "https://openalex.org/W2974222086",
       "title": "Experimental Investigation of Effect of Environment Temperature on Freeze-form Extrusion Fabrication",
       "year": 2007,
+      "date": "2007-09-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5033653308",
@@ -5076,6 +5286,7 @@
       "id": "https://openalex.org/W2991242474",
       "title": "Use of SWIR Imaging to Monitor Layer-to-Layer Part Quality During SLM of 304L Stainless Steel",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -5111,6 +5322,7 @@
       "id": "https://openalex.org/W2093669104",
       "title": "Automatic Feedback Control of Mechanical Gas Face Seals via Clearance Control",
       "year": 2004,
+      "date": "2004-08-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082216791",
@@ -5130,6 +5342,7 @@
       "id": "https://openalex.org/W2159887670",
       "title": "Stability analysis of nonlinear machining force controllers",
       "year": 1999,
+      "date": "1999-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5145,6 +5358,7 @@
       "id": "https://openalex.org/W2991091825",
       "title": "In-Situ Optical Emission Spectroscopy during SLM of 304L Stainless Steel",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -5184,6 +5398,7 @@
       "id": "https://openalex.org/W2993507898",
       "title": "Fiber-Fed Printing of Free-Form Free-Standing Glass Structures",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080900890",
@@ -5207,6 +5422,7 @@
       "id": "https://openalex.org/W2127838214",
       "title": "Supervisory Control of a Face Milling Operation in Different Manufacturing Environments",
       "year": 2001,
+      "date": "2001-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5222,6 +5438,7 @@
       "id": "https://openalex.org/W2993148969",
       "title": "In-situ Local Part Qualification of SLM 304L Stainless Steel through Voxel Based Processing of SWIR Imaging Data",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -5245,6 +5462,7 @@
       "id": "https://openalex.org/W2993303359",
       "title": "Towards Defect Detection in Metal SLM Parts Using Modal Analysis \"Fingerprinting\"",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5002353670",
@@ -5284,6 +5502,7 @@
       "id": "https://openalex.org/W3185340099",
       "title": "Modeling for the Control of the Laser Aided Manufacturing Process(LAMP)",
       "year": 2003,
+      "date": "2003-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030743096",
@@ -5303,6 +5522,7 @@
       "id": "https://openalex.org/W3216541985",
       "title": "Frequency Response Inspection of Additively Manufactured Parts for Defect Identification",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003094984",
@@ -5350,6 +5570,7 @@
       "id": "https://openalex.org/W2102292830",
       "title": "Hierarchical optimal force-position-contour control of machining processes: part II - illustrative example",
       "year": 2005,
+      "date": "2005-08-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039374115",
@@ -5369,6 +5590,7 @@
       "id": "https://openalex.org/W2125536692",
       "title": "Hierarchical optimal force-position-contour control of machining processes: part I - controller methodology",
       "year": 2005,
+      "date": "2005-08-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039374115",
@@ -5388,6 +5610,7 @@
       "id": "https://openalex.org/W2141336747",
       "title": "Hierarchical optimal control of a turning process - linearization approach",
       "year": 2004,
+      "date": "2004-02-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5076934223",
@@ -5411,6 +5634,7 @@
       "id": "https://openalex.org/W2230605638",
       "title": "Object-Oriented Modeling and Fault Detection of a Powder Feeder for a Laser Metal Deposition System",
       "year": 2002,
+      "date": "2002-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5434,6 +5658,7 @@
       "id": "https://openalex.org/W2601375665",
       "title": "Comparison of Thermal Properties of Laser Deposition and Traditional Welding Process via Thermal Diffusivity Measurement",
       "year": 2006,
+      "date": "2006-09-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101558510",
@@ -5477,6 +5702,7 @@
       "id": "https://openalex.org/W3013478474",
       "title": "Direct 3D Layer Metal Deposition",
       "year": 2008,
+      "date": "2008-09-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5008888444",
@@ -5504,6 +5730,7 @@
       "id": "https://openalex.org/W3145293640",
       "title": "Supervisory machining control: A design approach plus chatter analysis and force control components.",
       "year": 1997,
+      "date": "1997-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5515,6 +5742,7 @@
       "id": "https://openalex.org/W3193860348",
       "title": "Modeling, Analysis and Simulation of Paste Freezing in Freeze-form Extrusion Fabrication",
       "year": 2012,
+      "date": "2012-08-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -5534,6 +5762,7 @@
       "id": "https://openalex.org/W3216783313",
       "title": "Frequency Inspection of Additively Manufactured Parts for Layer Defect Identification",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5064584773",
@@ -5585,6 +5814,7 @@
       "id": "https://openalex.org/W4229762832",
       "title": "Empirical Dynamic Modeling of Friction Stir Welding Processes",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100445703",
@@ -5608,6 +5838,7 @@
       "id": "https://openalex.org/W4242495901",
       "title": "Model-Based Machining Force Control",
       "year": 2000,
+      "date": "2000-11-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5623,6 +5854,7 @@
       "id": "https://openalex.org/W4256064505",
       "title": "Frequency Domain Measurements of Melt Pool Recoil Force Using Modal Analysis",
       "year": 2020,
+      "date": "2020-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025120080",
@@ -5674,6 +5906,7 @@
       "id": "https://openalex.org/W4287029452",
       "title": "Experiment-Based Superposition Thermal Modeling of Laser Powder Bed Fusion",
       "year": 2024,
+      "date": "2024-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080562232",
@@ -5709,6 +5942,7 @@
       "id": "https://openalex.org/W4301658222",
       "title": "Regenerative Chatter in Machine Tools",
       "year": 2007,
+      "date": "2007-04-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5720,6 +5954,7 @@
       "id": "https://openalex.org/W1550834381",
       "title": "Film Mixing with Conventional Tape",
       "year": 1966,
+      "date": "1966-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5731,6 +5966,7 @@
       "id": "https://openalex.org/W1799518817",
       "title": "Adaptive Control of Freeze-Form Extrusion Fabrication Processes (Preprint)",
       "year": 2008,
+      "date": "2008-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5033653308",
@@ -5750,6 +5986,7 @@
       "id": "https://openalex.org/W1996444697",
       "title": "Hierarchical Optimal Force\u2013Position Control of Complex Manufacturing Processes",
       "year": 2012,
+      "date": "2012-06-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075375612",
@@ -5769,6 +6006,7 @@
       "id": "https://openalex.org/W2036644852",
       "title": "Control of Powder Flow Rate in Laser Metal Deposition Process",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054846076",
@@ -5784,6 +6022,7 @@
       "id": "https://openalex.org/W2088286898",
       "title": "Effect of Paste Properties on Extrudate Freezing Time in Freeze-Form Extrusion Fabrication Processes",
       "year": 2014,
+      "date": "2014-06-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100443438",
@@ -5803,6 +6042,7 @@
       "id": "https://openalex.org/W2169621993",
       "title": "Automatic Gap Detection in Friction Stir Welding Processes (Preprint)",
       "year": 2006,
+      "date": "2006-02-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011148894",
@@ -5826,6 +6066,7 @@
       "id": "https://openalex.org/W2589070993",
       "title": "Frequency Domain Uncertainty Modeling and Quantification of the Laser Metal Deposition Process",
       "year": 2016,
+      "date": "2016-10-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -5845,6 +6086,7 @@
       "id": "https://openalex.org/W2596503426",
       "title": "Design and Implementation of a Linear Axis Rapid Development System for Education",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088834098",
@@ -5860,6 +6102,7 @@
       "id": "https://openalex.org/W2605892760",
       "title": "A Reduced-Order Battery Degradation Model for Battery Management Systems",
       "year": 2017,
+      "date": "2017-04-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100615376",
@@ -5883,6 +6126,7 @@
       "id": "https://openalex.org/W2616414977",
       "title": "Future Directions in Machining Sensing and Control: Introduction",
       "year": 2002,
+      "date": "2002-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046782987",
@@ -5898,6 +6142,7 @@
       "id": "https://openalex.org/W2738219285",
       "title": "Control of Manufacturing Machines, Processes, and Systems: Introduction",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -5913,6 +6158,7 @@
       "id": "https://openalex.org/W2739293070",
       "title": "ESTUDO DE DEPOSI\u00c7\u00c3O DE Al SOBRE Sn",
       "year": 1992,
+      "date": "1992-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5057232029",
@@ -5932,6 +6178,7 @@
       "id": "https://openalex.org/W2740095988",
       "title": "AQUEOUS-BASED EXTRUSION FABRICATION OF CERAMICS ON DEMAND (PREPRINT)",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003446177",
@@ -5963,6 +6210,7 @@
       "id": "https://openalex.org/W2800907459",
       "title": "Nonlinear Modeling of Mechanical Gas Face Seal Systems Using Proper Orthogonal Decomposition",
       "year": 2005,
+      "date": "2005-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045933712",
@@ -5982,6 +6230,7 @@
       "id": "https://openalex.org/W2886012446",
       "title": "Robust Machining Force Control With Process Compensation",
       "year": 2001,
+      "date": "2001-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5087741164",
@@ -6001,6 +6250,7 @@
       "id": "https://openalex.org/W2892621274",
       "title": "Characterization of Kinematic Error Model Consistency for Five-Axis Machine Tools",
       "year": 2018,
+      "date": "2018-06-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102481460",
@@ -6020,6 +6270,7 @@
       "id": "https://openalex.org/W2972676506",
       "title": "Control and Control-Oriented Modeling of Manufacturing Machines, Processes, and Systems: Introduction",
       "year": 2003,
+      "date": "2003-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -6035,6 +6286,7 @@
       "id": "https://openalex.org/W2990322133",
       "title": "Fabrication of Glass to Metal Connections Using a Laser Heated Additive Approach",
       "year": 2019,
+      "date": "2019-06-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059042125",
@@ -6062,6 +6314,7 @@
       "id": "https://openalex.org/W2990670374",
       "title": "5-Axis Path Planning for Direct Metal Deposition using Deformed Centerline Transformation",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102343785",
@@ -6085,6 +6338,7 @@
       "id": "https://openalex.org/W2990685748",
       "title": "A Novel Cell Design of Alkaline-Based Zinc-Iodide Flow Battery for Enhancing Energy and Power",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051922588",
@@ -6104,6 +6358,7 @@
       "id": "https://openalex.org/W2991845366",
       "title": "Effects of Identical Parts on a Common Build Plate on the Modal Analysis of SLM Created Metal",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025120080",
@@ -6147,6 +6402,7 @@
       "id": "https://openalex.org/W2992008270",
       "title": "Dynamic Defect Detection in AM Parts",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -6166,6 +6422,7 @@
       "id": "https://openalex.org/W2992391287",
       "title": "In-Situ Laser Excited Frequency Response of Additive Manufactured Parts",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025120080",
@@ -6209,6 +6466,7 @@
       "id": "https://openalex.org/W2992507270",
       "title": "Laser Heated, Fiber Fed Additive Manufacturing of Transparent Soda-Lime Glass",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080900890",
@@ -6240,6 +6498,7 @@
       "id": "https://openalex.org/W2992891719",
       "title": "Relating Processing of Selective Laser Melted Structures to their Material and Modal Properties",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5134442203",
@@ -6287,6 +6546,7 @@
       "id": "https://openalex.org/W2993279604",
       "title": "Dynamic Defect Detection in Additively Manufactured Parts using FEA Simulation",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003094984",
@@ -6342,6 +6602,7 @@
       "id": "https://openalex.org/W2993409503",
       "title": "Geometric Accuracy and Sheet Thickness Reduction in Multistage Incremental Sheet Forming",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5057078068",
@@ -6373,6 +6634,7 @@
       "id": "https://openalex.org/W2993653628",
       "title": "Fiber-Fed Laser-Heated Process for Printing Transparent Glass",
       "year": 2017,
+      "date": "2017-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5080900890",
@@ -6400,6 +6662,7 @@
       "id": "https://openalex.org/W2993714257",
       "title": "Force Modeling of Silicon Monocrystal Wire Saw Processing",
       "year": 2016,
+      "date": "2016-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082732090",
@@ -6423,6 +6686,7 @@
       "id": "https://openalex.org/W2994398439",
       "title": "Wire Saw Force Modeling and Control using Wire Saw Velocity",
       "year": 2018,
+      "date": "2018-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082732090",
@@ -6450,6 +6714,7 @@
       "id": "https://openalex.org/W3008077073",
       "title": "Battery Degradation Modeling and Optimal Usage in a Microgrid Using Markov Decision Process",
       "year": 2019,
+      "date": "2019-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5051266101",
@@ -6481,6 +6746,7 @@
       "id": "https://openalex.org/W3034514983",
       "title": "DC-Gain Layer-To-Layer Stability Criterion in Laser Metal Deposition Processes",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5053143064",
@@ -6500,6 +6766,7 @@
       "id": "https://openalex.org/W3087848515",
       "title": "Modeling Force Fluctuations in Incremental Sheet Forming",
       "year": 2020,
+      "date": "2020-07-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5079889968",
@@ -6519,6 +6786,7 @@
       "id": "https://openalex.org/W3184911879",
       "title": "Correction of Incremental Sheet Forming Using a Data-Driven Iterative Learning Controller",
       "year": 2021,
+      "date": "2021-05-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5059432782",
@@ -6538,6 +6806,7 @@
       "id": "https://openalex.org/W3185967252",
       "title": "Object-Oriented Modeling and Fauly Detection of a Powder Feeder for a Laser Metal Deposition System",
       "year": 2002,
+      "date": "2002-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -6561,6 +6830,7 @@
       "id": "https://openalex.org/W3186319274",
       "title": "A Control-Oriented Single Particle Model with Electrolyte Dynamics and Stress-Diffusion Coupling",
       "year": 2021,
+      "date": "2021-05-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5088934766",
@@ -6588,6 +6858,7 @@
       "id": "https://openalex.org/W3193727503",
       "title": "Frequency Domain Measurements of Melt Pool Recoil Pressure Using Modal Analysis and Prospects for In-Situ Non-Destructive Testing",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025120080",
@@ -6643,6 +6914,7 @@
       "id": "https://openalex.org/W3199016565",
       "title": "Layer-to-Layer Height Control for Laser Metal Deposition",
       "year": 2008,
+      "date": "2008-09-10",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
@@ -6670,6 +6942,7 @@
       "id": "https://openalex.org/W3201307313",
       "title": "Dynamic Defect Detection in AM Parts using FEA Simulation",
       "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5003094984",
@@ -6717,6 +6990,7 @@
       "id": "https://openalex.org/W3216320657",
       "title": "Unsupervised Defect Classification of 2D SEM and 3D X-Ray CT Images from Laser Powder Bed Fusion",
       "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103480360",
@@ -6748,6 +7022,7 @@
       "id": "https://openalex.org/W4254587847",
       "title": "A Highly Efficient Computational Model of Energy Storage Systems for Microgrid Applications",
       "year": 2019,
+      "date": "2019-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5014483826",
@@ -6771,6 +7046,7 @@
       "id": "https://openalex.org/W4256206945",
       "title": "A NOVEL CELL Design of Alkaline-Based ZINC -Iodide FLOW Battery for Enhancing Energy and POWER Performance",
       "year": 2019,
+      "date": "2019-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5058146127",
@@ -6790,6 +7066,7 @@
       "id": "https://openalex.org/W4303042438",
       "title": "Predicting Defects in Laser Powder Bed Fusion using in-situ Thermal Imaging Data and Machine Learning",
       "year": 2021,
+      "date": "2021-12-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5040709432",
@@ -6817,6 +7094,7 @@
       "id": "https://openalex.org/W4319439375",
       "title": "Dynamic Force Modeling of Wire Saw Machining Processes",
       "year": 2023,
+      "date": "2023-02-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5078925341",
@@ -6844,6 +7122,7 @@
       "id": "https://openalex.org/W4323903951",
       "title": "Dynamic Force Modeling of Wire Saw Machining Processes",
       "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025329631",
@@ -6871,6 +7150,7 @@
       "id": "https://openalex.org/W4386644267",
       "title": "Control-Oriented Modeling and Layer-to-Layer Spatial Control of Powder Bed Fusion Processes",
       "year": 2023,
+      "date": "2023-09-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100327948",
@@ -6898,6 +7178,7 @@
       "id": "https://openalex.org/W4387545624",
       "title": "Mechanical Machining Process Optimization",
       "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -6921,6 +7202,7 @@
       "id": "https://openalex.org/W4401396938",
       "title": "Mechanical Machining Process Optimization",
       "year": 2024,
+      "date": "2024-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100631619",
@@ -6944,6 +7226,7 @@
       "id": "https://openalex.org/W4401436465",
       "title": "Laser Induced Breakdown Spectroscopy for Chemistry and Composition Monitoring of Laser Powder Bed FusionProcessing",
       "year": 2024,
+      "date": "2024-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109761021",
@@ -6975,6 +7258,7 @@
       "id": "https://openalex.org/W4401437046",
       "title": "Laser Speckle Photometry for Residual Stress Diagnosis of Laser Powder Bed Fusion Processing",
       "year": 2024,
+      "date": "2024-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109761021",
@@ -7006,6 +7290,7 @@
       "id": "https://openalex.org/W4401624854",
       "title": "Precise Fabrication in Laser Powder Bed Fusion",
       "year": 2024,
+      "date": "2024-08-14",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109761021",
@@ -7033,6 +7318,7 @@
       "id": "https://openalex.org/W4401987870",
       "title": "Development of a Digital Metal Forming System",
       "year": 2024,
+      "date": "2024-07-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100746243",
@@ -7060,6 +7346,7 @@
       "id": "https://openalex.org/W4402390143",
       "title": "Metallurgical Biopsy in Laser Powder Bed Fusion with Unsupervised Image Registration and Anomaly Classification",
       "year": 2024,
+      "date": "2024-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103480360",
@@ -7095,6 +7382,7 @@
       "id": "https://openalex.org/W4405743893",
       "title": "Research on a gingival line extraction method to automatically process invisible braces",
       "year": 2024,
+      "date": "2024-12-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101423190",
@@ -7122,6 +7410,7 @@
       "id": "https://openalex.org/W4405964669",
       "title": "Extreme Fast Charging Algorithm for Lithium-Ion Batteries with Precision Lithium Plating Regulation for Degradation Reduction",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5052917037",
@@ -7149,6 +7438,7 @@
       "id": "https://openalex.org/W4406568256",
       "title": "In situ monitoring and feature extraction in laser powder bed fusion",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100735053",
@@ -7172,6 +7462,7 @@
       "id": "https://openalex.org/W4406570638",
       "title": "List of contributors",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083915351",
@@ -7279,6 +7570,7 @@
       "id": "https://openalex.org/W4412610902",
       "title": "Automating Forming Processes",
       "year": 2025,
+      "date": "2025-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
@@ -7290,6 +7582,7 @@
       "id": "https://openalex.org/W4413043181",
       "title": "Laser Induced Breakdown Spectroscopy for Material Identification in Laser Powder Bed Fusion Processing",
       "year": 2025,
+      "date": "2025-08-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109761021",
@@ -7325,6 +7618,7 @@
       "id": "https://openalex.org/W4413043229",
       "title": "In-Situ Femtosecond Micromachining in Laser Powder Bed Fusion Processes",
       "year": 2025,
+      "date": "2025-08-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5109761021",
@@ -7356,6 +7650,7 @@
       "id": "https://openalex.org/W4414645724",
       "title": "Steady-State Heat Load Estimation Using Optical Fiber With Optical Frequency Domain Reflectometry",
       "year": 2025,
+      "date": "2025-07-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5099020650",
@@ -7379,6 +7674,7 @@
       "id": "https://openalex.org/W4417150089",
       "title": "Do Multimodal Large Language Models Understand Welding?",
       "year": 2025,
+      "date": "2025-03-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5114633670",
@@ -7406,6 +7702,7 @@
       "id": "https://openalex.org/W7128220355",
       "title": "Control-Centric Comprehensive Degradation Model for Prediction of Battery Lifespan",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5125320618",
@@ -7433,6 +7730,7 @@
       "id": "https://openalex.org/W7147058095",
       "title": "Material jetting printing of high-precision curved surface circuits: from materials to applications",
       "year": 2026,
+      "date": "2026-03-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006862350",
@@ -7484,6 +7782,7 @@
       "id": "https://openalex.org/W7148386390",
       "title": "Temperature Control of Digital Glass Forming Processes",
       "year": 2026,
+      "date": "2026-03-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113354969",
@@ -7523,6 +7822,7 @@
       "id": "https://openalex.org/W7149210214",
       "title": "Temperature Control of Digital Glass Forming Processes",
       "year": 2026,
+      "date": "2026-03-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113354969",
@@ -7562,6 +7862,7 @@
       "id": "https://openalex.org/W7155372763",
       "title": "Temperature Control of Digital Glass Forming Processes",
       "year": 2026,
+      "date": "2026-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113354969",
@@ -7601,6 +7902,7 @@
       "id": "https://openalex.org/W7161558222",
       "title": "Real Time Vision-Based Morphology Tracking of Glass Additive Manufacturing Processes",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5136378220",
@@ -7628,6 +7930,7 @@
       "id": "https://openalex.org/W7161583904",
       "title": "Real Time Measurement System for Digital Glass Shaping Processes",
       "year": 2025,
+      "date": "2025-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5136356320",
@@ -7663,6 +7966,7 @@
       "id": "https://openalex.org/W7164032901",
       "title": "In-process optical measurement and compensation of machine tool thermal deformations",
       "year": 2026,
+      "date": "2026-06-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5138261442",
@@ -7698,6 +8002,7 @@
       "id": "https://openalex.org/W7170664133",
       "title": "Temperature control of digital glass forming processes",
       "year": 2026,
+      "date": "2026-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5113354969",

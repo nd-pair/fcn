@@ -8,7 +8,7 @@ OpenAlex author-id appears in the other's authorship list.
   node "publications" = that faculty's total works
   edge "weight"       = number of co-authored papers between the pair
 """
-import glob, json, os, csv, itertools, datetime, math
+import glob, json, os, csv, re, itertools, datetime, math
 
 import networkx as nx
 
@@ -20,7 +20,7 @@ def load():
     people = {}
     for path in sorted(glob.glob(os.path.join(PROF, "*.json"))):
         d = json.load(open(path))
-        name = d.get("query_name")
+        name = d.get("display") or d.get("query_name") or d.get("slug")
         works = d.get("works") or []
         people[name] = {
             "author_id": d.get("openalex_id"),
@@ -28,9 +28,11 @@ def load():
             "affiliation": d.get("affiliation"),
             "cited_by": d.get("cited_by_count"),
             "openalex_id": d.get("openalex_id"),
+            "photo": d.get("photo"),
             "not_found": d.get("not_found", False),
             "work_coauthors": {w["id"]: {c["id"] for c in w["coauthors"]} for w in works},
-            "work_meta": {w["id"]: {"title": w.get("title"), "year": w.get("year")} for w in works},
+            "work_meta": {w["id"]: {"title": w.get("title"), "year": w.get("year"),
+                                    "date": w.get("date")} for w in works},
         }
     return people
 
@@ -39,7 +41,7 @@ def build(people):
     G = nx.Graph()
     for name, info in people.items():
         G.add_node(name, **{k: info[k] for k in
-                            ("num_works", "affiliation", "cited_by", "openalex_id")})
+                            ("num_works", "affiliation", "cited_by", "openalex_id", "photo")})
     for a, b in itertools.combinations(people, 2):
         aid, bid = people[a]["author_id"], people[b]["author_id"]
         shared = set()
@@ -51,11 +53,39 @@ def build(people):
             meta = {**people[a]["work_meta"], **people[b]["work_meta"]}
             papers = [{"id": wid,
                        "title": (meta.get(wid) or {}).get("title") or "(untitled)",
-                       "year": (meta.get(wid) or {}).get("year")}
+                       "year": (meta.get(wid) or {}).get("year"),
+                       "date": (meta.get(wid) or {}).get("date")}
                       for wid in shared]
-            papers.sort(key=lambda p: (-(p["year"] or 0), p["title"]))
+            papers.sort(key=lambda p: (p["date"] or f"{p['year'] or 0}-00-00"), reverse=True)
             G.add_edge(a, b, weight=len(shared), papers=papers)
     return G
+
+
+BOILER = re.compile(
+    r"list of contributors|front ?matter|author index|editorial board|"
+    r"table of contents|acknowledg|copyright|^index$", re.I)
+
+
+def recent_news(people, limit=10):
+    """Most recent co-authored papers (>=2 ND faculty on the same work).
+    Bootstraps a 'recent additions' feed from OpenAlex publication dates."""
+    work_fac, work_meta = {}, {}
+    for name, info in people.items():
+        for wid, m in info["work_meta"].items():
+            work_fac.setdefault(wid, set()).add(name)
+            work_meta[wid] = m
+    items = []
+    for wid, fac in work_fac.items():
+        if len(fac) < 2:
+            continue
+        m = work_meta.get(wid) or {}
+        title = m.get("title") or "(untitled)"
+        if BOILER.search(title):          # skip book front-matter, indexes, etc.
+            continue
+        items.append({"id": wid, "title": title, "year": m.get("year"),
+                      "date": m.get("date"), "faculty": sorted(fac)})
+    items.sort(key=lambda p: (p["date"] or f"{p['year'] or 0}-00-00"), reverse=True)
+    return items[:limit]
 
 
 def communities(G):
@@ -77,16 +107,18 @@ def communities(G):
     return groups
 
 
-def to_graph_json(G, groups):
+def to_graph_json(G, groups, news):
+    # Note: per-faculty publication counts are intentionally NOT published --
+    # OpenAlex over-counts them (name over-merging). Collaboration counts, which
+    # are not hallucinated, are what we show.
     nodes = []
-    for n in sorted(G, key=lambda n: -G.nodes[n]["num_works"]):
+    for n in sorted(G, key=lambda n: -G.degree(n, weight="weight")):
         d = G.nodes[n]
         nodes.append({
             "id": n,
-            "publications": d["num_works"],
-            "citedBy": d.get("cited_by"),
             "affiliation": d.get("affiliation"),
             "openalex": d.get("openalex_id"),
+            "photo": d.get("photo"),
             "weightedDegree": int(G.degree(n, weight="weight")),
             "degree": G.degree(n),
             "group": groups.get(n, -1),
@@ -97,12 +129,13 @@ def to_graph_json(G, groups):
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "source": "OpenAlex (https://openalex.org)",
         "description": "Robotics @ Notre Dame faculty collaboration network. "
-                       "Node size = number of publications; edge weight = number of "
-                       "co-authored papers between two faculty.",
+                       "Node size = number of papers co-authored with ND colleagues; "
+                       "edge weight = number of papers the two faculty co-authored.",
         "nodeCount": G.number_of_nodes(),
         "edgeCount": G.number_of_edges(),
         "nodes": nodes,
         "links": links,
+        "news": news,
     }
 
 
@@ -110,8 +143,9 @@ def write_png(G, groups, out):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
+    wd = lambda n: G.degree(n, weight="weight")
     connected = [n for n in G if G.degree(n) > 0]
-    isolates = sorted([n for n in G if G.degree(n) == 0], key=lambda n: -G.nodes[n]["num_works"])
+    isolates = sorted([n for n in G if G.degree(n) == 0])
     fig, ax = plt.subplots(figsize=(17, 12))
     pos = nx.kamada_kawai_layout(G.subgraph(connected), weight="weight") if connected else {}
     if pos:
@@ -122,8 +156,8 @@ def write_png(G, groups, out):
     for i, n in enumerate(isolates):
         y = top - (top - bot) * (i / max(1, len(isolates) - 1)) if len(isolates) > 1 else 0
         pos[n] = (left, y)
-    nsize = lambda w: 150 + 140 * math.sqrt(w)
-    sizes = [nsize(G.nodes[n]["num_works"]) for n in G]
+    nsize = lambda w: 220 + 200 * math.sqrt(w)
+    sizes = [nsize(wd(n)) for n in G]
     if G.number_of_edges():
         ws = [G[u][v]["weight"] for u, v in G.edges()]; mx = max(ws)
         nx.draw_networkx_edges(G, pos, width=[1 + 8 * w / mx for w in ws], edge_color="#3B6EA5", alpha=0.55, ax=ax)
@@ -135,12 +169,12 @@ def write_png(G, groups, out):
                                    edgecolors="#333", linewidths=1.1, ax=ax)
     nodes.set_zorder(3)
     for n, (x, y) in pos.items():
-        ax.text(x, y - (0.05 + 0.0016 * math.sqrt(G.nodes[n]["num_works"])), n, fontsize=9,
+        ax.text(x, y - (0.05 + 0.0018 * math.sqrt(wd(n))), n, fontsize=9,
                 fontweight="bold", ha="center", va="top", zorder=5,
                 bbox=dict(boxstyle="round,pad=0.12", fc="white", ec="none", alpha=0.75))
     ax.set_title("Robotics @ Notre Dame — Faculty Collaboration Network\n"
-                 "node size = # publications · edge label/width = # co-authored papers · source: OpenAlex",
-                 fontsize=13, pad=14)
+                 "node size = # papers co-authored with ND colleagues · edge label/width = "
+                 "# co-authored papers · source: OpenAlex", fontsize=13, pad=14)
     ax.axis("off"); plt.tight_layout()
     plt.savefig(out, dpi=150, bbox_inches="tight", facecolor="white")
 
@@ -158,9 +192,10 @@ def main():
     groups = communities(G)
     print(f"graph: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
 
+    news = recent_news(people)
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)
-    json.dump(to_graph_json(G, groups), open(os.path.join(ROOT, "data", "graph.json"), "w"), indent=2)
+    json.dump(to_graph_json(G, groups, news), open(os.path.join(ROOT, "data", "graph.json"), "w"), indent=2)
     write_csv(G, os.path.join(ROOT, "data", "collaboration_edges.csv"))
     print("wrote data/graph.json and data/collaboration_edges.csv")
     try:

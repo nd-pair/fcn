@@ -1,18 +1,66 @@
 [
-  "Edgar Bolivar-Nieto",
-  "Tingyu Cheng",
-  "Nikolaus Correll",
-  "Bill Goodwine",
-  "Mengxue Hou",
-  "Hai Lin",
-  "Margaret Coad",
-  "Yasemin Ozkan-Aydin",
-  "James Schmiedeler",
-  "Patrick Wensing",
-  "Zhi Zheng",
-  "Panos Antsaklis",
-  "Toros Arikan",
-  "Jane Cleland-Huang",
-  "Robert Landers",
-  "Michael Lemmon"
+  {
+    "slug": "edgar-bolivar-nieto",
+    "display": "Edgar Bol\u00edvar-Nieto"
+  },
+  {
+    "slug": "tingyu-cheng",
+    "display": "Tingyu Cheng"
+  },
+  {
+    "slug": "nikolaus-correll",
+    "display": "Nikolaus Correll"
+  },
+  {
+    "slug": "j-william-goodwine",
+    "display": "Bill Goodwine"
+  },
+  {
+    "slug": "mengxue-hou",
+    "display": "Mengxue Hou"
+  },
+  {
+    "slug": "hai-lin",
+    "display": "Hai Lin"
+  },
+  {
+    "slug": "margaret-coad",
+    "display": "Margaret McGuinness"
+  },
+  {
+    "slug": "yasemin-ozkan-aydin",
+    "display": "Yasemin Ozkan-Aydin"
+  },
+  {
+    "slug": "james-schmiedeler",
+    "display": "Jim Schmiedeler"
+  },
+  {
+    "slug": "patrick-wensing",
+    "display": "Pat Wensing"
+  },
+  {
+    "slug": "zhi-zheng",
+    "display": "Zhi Zheng"
+  },
+  {
+    "slug": "panos-antsaklis",
+    "display": "Panos Antsaklis"
+  },
+  {
+    "slug": "toros-arikan",
+    "display": "Toros Arikan"
+  },
+  {
+    "slug": "jane-cleland-huang",
+    "display": "Jane Cleland-Huang"
+  },
+  {
+    "slug": "robert-landers",
+    "display": "Robert Landers"
+  },
+  {
+    "slug": "michael-lemmon",
+    "display": "Mike Lemmon"
+  }
 ]

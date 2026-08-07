@@ -1,16 +1,20 @@
 {
+  "slug": "michael-lemmon",
+  "display": "Mike Lemmon",
   "query_name": "Michael Lemmon",
   "openalex_id": "https://openalex.org/A5022295836",
-  "display_name": "Michael Lemmon",
+  "openalex_name": "Michael Lemmon",
   "affiliation": "University of Notre Dame",
   "works_count": 199,
   "cited_by_count": 7437,
+  "photo": "assets/faculty/michael-lemmon.jpg",
   "num_works_fetched": 199,
   "works": [
     {
       "id": "https://openalex.org/W2116601658",
       "title": "Event-Triggering in Distributed Networked Control Systems",
       "year": 2010,
+      "date": "2010-07-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -26,6 +30,7 @@
       "id": "https://openalex.org/W2116089238",
       "title": "Self-Triggered Feedback Control Systems With Finite-Gain ${\\cal L}_{2}$ Stability",
       "year": 2009,
+      "date": "2009-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5072379639",
@@ -41,6 +46,7 @@
       "id": "https://openalex.org/W4236164983",
       "title": "Feedback control of petri nets based on place invariants",
       "year": 1996,
+      "date": "1996-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5012705776",
@@ -64,6 +70,7 @@
       "id": "https://openalex.org/W2124901174",
       "title": "Feedback control of Petri nets based on place invariants",
       "year": 2002,
+      "date": "2002-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
@@ -87,6 +94,7 @@
       "id": "https://openalex.org/W2115042355",
       "title": "Supervisory control of hybrid systems",
       "year": 2000,
+      "date": "2000-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5023397404",
@@ -110,6 +118,7 @@
       "id": "https://openalex.org/W1595466107",
       "title": "Event-Triggered Feedback in Control, Estimation, and Optimization",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -121,6 +130,7 @@
       "id": "https://openalex.org/W2129912474",
       "title": "Design of a Wireless Assisted Pedestrian Dead Reckoning System\u2014The NavMote Experience",
       "year": 2005,
+      "date": "2005-11-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101624498",
@@ -172,6 +182,7 @@
       "id": "https://openalex.org/W1559815321",
       "title": "Hybrid system modeling and autonomous control systems",
       "year": 1993,
+      "date": "1993-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
@@ -191,6 +202,7 @@
       "id": "https://openalex.org/W2084865983",
       "title": "On event design in event-triggered feedback systems",
       "year": 2011,
+      "date": "2011-08-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -206,6 +218,7 @@
       "id": "https://openalex.org/W2114963607",
       "title": "Event design in event-triggered feedback control systems",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333208",
@@ -221,6 +234,7 @@
       "id": "https://openalex.org/W2114469976",
       "title": "Self-Triggering Under State-Independent Disturbances",
       "year": 2010,
+      "date": "2010-03-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -236,6 +250,7 @@
       "id": "https://openalex.org/W2123605074",
       "title": "Event-triggered broadcasting across distributed networked control systems",
       "year": 2008,
+      "date": "2008-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333208",
@@ -251,6 +266,7 @@
       "id": "https://openalex.org/W1539427630",
       "title": "Event-Triggering in Distributed Networked Systems with Data Dropouts and Delays",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -266,6 +282,7 @@
       "id": "https://openalex.org/W2149519261",
       "title": "Event-triggered distributed optimization in sensor networks",
       "year": 2009,
+      "date": "2009-04-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030450582",
@@ -281,6 +298,7 @@
       "id": "https://openalex.org/W2075111064",
       "title": "Event-triggered state estimation in vector linear processes",
       "year": 2010,
+      "date": "2010-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -300,6 +318,7 @@
       "id": "https://openalex.org/W1553787959",
       "title": "Robust performance of soft real-time networked control systems with data dropouts",
       "year": 2003,
+      "date": "2003-08-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -315,6 +334,7 @@
       "id": "https://openalex.org/W1548660701",
       "title": "Optimal dropout compensation in networked control systems",
       "year": 2004,
+      "date": "2004-07-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -330,6 +350,7 @@
       "id": "https://openalex.org/W2119865368",
       "title": "Soft real-time scheduling of networked control systems with dropouts governed by a Markov chain",
       "year": 2004,
+      "date": "2004-02-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -345,6 +366,7 @@
       "id": "https://openalex.org/W2109558277",
       "title": "Stability of quantized control systems under dynamic bit assignment",
       "year": 2005,
+      "date": "2005-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -360,6 +382,7 @@
       "id": "https://openalex.org/W2138582222",
       "title": "Supervisory hybrid systems",
       "year": 1999,
+      "date": "1999-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -379,6 +402,7 @@
       "id": "https://openalex.org/W1591040101",
       "title": "On Self-triggered Full-Information H-Infinity Controllers",
       "year": 2007,
+      "date": "2007-05-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -402,6 +426,7 @@
       "id": "https://openalex.org/W2091839500",
       "title": "Power Spectral Analysis of Networked Control Systems With Data Dropouts",
       "year": 2004,
+      "date": "2004-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -417,6 +442,7 @@
       "id": "https://openalex.org/W2164889758",
       "title": "Model-based clock synchronization in networks with drifting clocks",
       "year": 2002,
+      "date": "2002-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -432,6 +458,7 @@
       "id": "https://openalex.org/W2103052126",
       "title": "Generalized Elastic Scheduling for Real-Time Tasks",
       "year": 2008,
+      "date": "2008-09-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047344565",
@@ -451,6 +478,7 @@
       "id": "https://openalex.org/W2047825672",
       "title": "Stabilizing bit-rates in quantized event triggered control systems",
       "year": 2012,
+      "date": "2012-04-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -470,6 +498,7 @@
       "id": "https://openalex.org/W2078075313",
       "title": "LakeNet: An Integrated Sensor Network for Environmental Sensing in Lakes",
       "year": 2007,
+      "date": "2007-02-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5027288387",
@@ -497,6 +526,7 @@
       "id": "https://openalex.org/W1952693090",
       "title": "Decentralized Event-Triggered Broadcasts over Networked Control Systems",
       "year": 2008,
+      "date": "2008-07-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -512,6 +542,7 @@
       "id": "https://openalex.org/W2413262495",
       "title": "Efficiently Attentive Event-Triggered Systems With Limited Bandwidth",
       "year": 2016,
+      "date": "2016-06-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -527,6 +558,7 @@
       "id": "https://openalex.org/W2139712568",
       "title": "Event-triggered output feedback control of finite horizon discrete-time multi-dimensional linear processes",
       "year": 2010,
+      "date": "2010-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -542,6 +574,7 @@
       "id": "https://openalex.org/W2740090334",
       "title": "Formal Methods for Stability Analysis of Networked Control Systems With IEEE 802.15.4 Protocol",
       "year": 2017,
+      "date": "2017-07-26",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100672632",
@@ -561,6 +594,7 @@
       "id": "https://openalex.org/W2134940363",
       "title": "Almost sure stability of networked control systems under exponentially bounded bursts of dropouts",
       "year": 2011,
+      "date": "2011-04-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -576,6 +610,7 @@
       "id": "https://openalex.org/W2554398590",
       "title": "Weakly coupled event triggered output feedback control in wireless networked control systems",
       "year": 2011,
+      "date": "2011-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -591,6 +626,7 @@
       "id": "https://openalex.org/W2036542986",
       "title": "Voltage stability of weak power distribution networks with inverter connected sources",
       "year": 2013,
+      "date": "2013-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676984",
@@ -610,6 +646,7 @@
       "id": "https://openalex.org/W1988124224",
       "title": "Generalized Elastic Scheduling",
       "year": 2006,
+      "date": "2006-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047344565",
@@ -629,6 +666,7 @@
       "id": "https://openalex.org/W2143636443",
       "title": "Firm real-time system scheduling based on a novel QoS constraint",
       "year": 2006,
+      "date": "2006-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5004057129",
@@ -652,6 +690,7 @@
       "id": "https://openalex.org/W2124226195",
       "title": "A Necessary and Sufficient Feedback Dropout Condition to Stabilize Quantized Linear Control Systems With Bounded Noise",
       "year": 2010,
+      "date": "2010-08-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -667,6 +706,7 @@
       "id": "https://openalex.org/W2156811942",
       "title": "Performance and average sampling period of sub-optimal triggering event in event triggered state estimation",
       "year": 2011,
+      "date": "2011-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -682,6 +722,7 @@
       "id": "https://openalex.org/W2049418934",
       "title": "State Based Self-triggered Feedback Control Systems with \u21122 Stability",
       "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100685703",
@@ -697,6 +738,7 @@
       "id": "https://openalex.org/W1965585108",
       "title": "Globally Coordinated Distributed Storm Water Management System",
       "year": 2015,
+      "date": "2015-04-03",
       "coauthors": [
         {
           "id": "https://openalex.org/A5074199849",
@@ -712,6 +754,7 @@
       "id": "https://openalex.org/W2130773823",
       "title": "Swarming under Perfect Consensus using Integral Action",
       "year": 2007,
+      "date": "2007-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5052553992",
@@ -727,6 +770,7 @@
       "id": "https://openalex.org/W2033209892",
       "title": "Weakly coupled event triggered output feedback system in wireless networked control systems",
       "year": 2013,
+      "date": "2013-04-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -742,6 +786,7 @@
       "id": "https://openalex.org/W1994178651",
       "title": "Distributed Switching Control to Achieve Almost Sure Safety for Leader-Follower Vehicular Networked Systems",
       "year": 2015,
+      "date": "2015-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101578562",
@@ -757,6 +802,7 @@
       "id": "https://openalex.org/W2024242325",
       "title": "Optimal power flow in microgrids using event-triggered optimization",
       "year": 2010,
+      "date": "2010-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030450582",
@@ -772,6 +818,7 @@
       "id": "https://openalex.org/W2097756366",
       "title": "Distributed network utility maximization using event-triggered augmented Lagrangian methods",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030450582",
@@ -787,6 +834,7 @@
       "id": "https://openalex.org/W2050453521",
       "title": "Resilient event triggered systems with limited communication",
       "year": 2012,
+      "date": "2012-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -806,6 +854,7 @@
       "id": "https://openalex.org/W2065765108",
       "title": "Attentively efficient controllers for event-triggered feedback systems",
       "year": 2011,
+      "date": "2011-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -821,6 +870,7 @@
       "id": "https://openalex.org/W2964515134",
       "title": "Reliable Dynamic Packet Scheduling over Lossy Real-Time Wireless Networks",
       "year": 2019,
+      "date": "2019-07-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103234988",
@@ -852,6 +902,7 @@
       "id": "https://openalex.org/W1990626091",
       "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
       "year": 2013,
+      "date": "2013-09-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5084010923",
@@ -875,6 +926,7 @@
       "id": "https://openalex.org/W3203035817",
       "title": "Towards scalable, secure, and smart mission-critical IoT systems",
       "year": 2021,
+      "date": "2021-09-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011794280",
@@ -910,6 +962,7 @@
       "id": "https://openalex.org/W2015185921",
       "title": "Using channel state feedback to achieve resilience to deep fades in wireless networked control systems",
       "year": 2013,
+      "date": "2013-04-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026465150",
@@ -925,6 +978,7 @@
       "id": "https://openalex.org/W2022765575",
       "title": "Formal methods for stability analysis of networked control systems with IEEE 802.15.4 protocol",
       "year": 2014,
+      "date": "2014-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100672632",
@@ -944,6 +998,7 @@
       "id": "https://openalex.org/W1965257488",
       "title": "Using first passage times to manage eco-system regime shifts",
       "year": 2013,
+      "date": "2013-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025702566",
@@ -959,6 +1014,7 @@
       "id": "https://openalex.org/W2115329200",
       "title": "A logical DES approach to the design of hybrid control systems",
       "year": 1996,
+      "date": "1996-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011661477",
@@ -978,6 +1034,7 @@
       "id": "https://openalex.org/W1968846074",
       "title": "Timed Petri Nets in Hybrid Systems: Stability and Supervisory Control",
       "year": 1998,
+      "date": "1998-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5023397404",
@@ -1001,6 +1058,7 @@
       "id": "https://openalex.org/W2122679182",
       "title": "Distributed flow control using embedded sensor-actuator networks for the reduction of Combined Sewer Overflow (CSO) events",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030450582",
@@ -1016,6 +1074,7 @@
       "id": "https://openalex.org/W2133448173",
       "title": "Period and Deadline Selection for Schedulability in Real-Time Systems",
       "year": 2008,
+      "date": "2008-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047344565",
@@ -1039,6 +1098,7 @@
       "id": "https://openalex.org/W2105810686",
       "title": "Self-triggered feedback systems with state-independent disturbances",
       "year": 2009,
+      "date": "2009-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333208",
@@ -1054,6 +1114,7 @@
       "id": "https://openalex.org/W2028150779",
       "title": "Asymptotic stability in distributed event-triggered networked control systems with delays",
       "year": 2010,
+      "date": "2010-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -1069,6 +1130,7 @@
       "id": "https://openalex.org/W2143627538",
       "title": "Stability of quantized control systems under dynamic bit assignment",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -1084,6 +1146,7 @@
       "id": "https://openalex.org/W2107811755",
       "title": "An event-triggered distributed primal-dual algorithm for Network Utility maximization",
       "year": 2009,
+      "date": "2009-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030450582",
@@ -1099,6 +1162,7 @@
       "id": "https://openalex.org/W1626135997",
       "title": "Stability analysis of weak rural electrification microgrids with droop-controlled rotational and electronic distributed generators",
       "year": 2015,
+      "date": "2015-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676984",
@@ -1114,6 +1178,7 @@
       "id": "https://openalex.org/W2085678625",
       "title": "Stabilizing bit-rate of disturbed event triggered control systems",
       "year": 2012,
+      "date": "2012-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -1133,6 +1198,7 @@
       "id": "https://openalex.org/W2059065724",
       "title": "Reducing Delay Jitter of Real-Time Control Tasks through Adaptive Deadline Adjustments",
       "year": 2010,
+      "date": "2010-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5054024264",
@@ -1152,6 +1218,7 @@
       "id": "https://openalex.org/W2004613851",
       "title": "The distance-to-bifurcation problem in non-negative dynamical systems with kinetic realizations",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025702566",
@@ -1167,6 +1234,7 @@
       "id": "https://openalex.org/W2135548223",
       "title": "Forecasting the resilience of networked dynamical systems under environmental perturbation",
       "year": 2014,
+      "date": "2014-04-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5025702566",
@@ -1182,6 +1250,7 @@
       "id": "https://openalex.org/W2588025565",
       "title": "On the outage performance of an IEEE 802.11 broadcast scheme in vehicular Ad Hoc Networks",
       "year": 2016,
+      "date": "2016-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5015955456",
@@ -1201,6 +1270,7 @@
       "id": "https://openalex.org/W2044622095",
       "title": "Emulating the dynamics for a class of laterally inhibited neural networks",
       "year": 1989,
+      "date": "1989-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1216,6 +1286,7 @@
       "id": "https://openalex.org/W2027451020",
       "title": "2-Degree-of-freedom Robot Path Planning using Cooperative Neural Fields",
       "year": 1991,
+      "date": "1991-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1227,6 +1298,7 @@
       "id": "https://openalex.org/W2150093018",
       "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
       "year": 2002,
+      "date": "2002-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010488126",
@@ -1242,6 +1314,7 @@
       "id": "https://openalex.org/W2043318340",
       "title": "Overload management in sensor-actuator networks used for spatially-distributed control systems",
       "year": 2003,
+      "date": "2003-11-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1261,6 +1334,7 @@
       "id": "https://openalex.org/W2124450461",
       "title": "Bounded amplitude performance of switched LPV systems with applications to hybrid systems",
       "year": 1999,
+      "date": "1999-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -1276,6 +1350,7 @@
       "id": "https://openalex.org/W1523125488",
       "title": "Finite-gain L&lt;inf&gt;2&lt;/inf&gt; stability in distributed event-triggered networked control systems with data dropouts",
       "year": 2009,
+      "date": "2009-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -1291,6 +1366,7 @@
       "id": "https://openalex.org/W2098811885",
       "title": "Firm real-time system scheduling based on a novel QoS constraint",
       "year": 2004,
+      "date": "2004-05-25",
       "coauthors": [
         {
           "id": "https://openalex.org/A5097937760",
@@ -1314,6 +1390,7 @@
       "id": "https://openalex.org/W2153067097",
       "title": "Performance-Rate Functions for Dynamically Quantized Feedback Systems",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1329,6 +1406,7 @@
       "id": "https://openalex.org/W1533742649",
       "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
       "year": 2002,
+      "date": "2002-11-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
@@ -1348,6 +1426,7 @@
       "id": "https://openalex.org/W2125291333",
       "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
       "year": 2002,
+      "date": "2002-11-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101987580",
@@ -1367,6 +1446,7 @@
       "id": "https://openalex.org/W1860124607",
       "title": "Inductive inference of logical DES controllers using the L* algorithm",
       "year": 2005,
+      "date": "2005-08-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075317738",
@@ -1386,6 +1466,7 @@
       "id": "https://openalex.org/W2045996677",
       "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
       "year": 2014,
+      "date": "2014-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101578562",
@@ -1401,6 +1482,7 @@
       "id": "https://openalex.org/W2062021735",
       "title": "Stability analysis for wireless networked control system in unslotted IEEE 802.15.4 protocol",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100672632",
@@ -1420,6 +1502,7 @@
       "id": "https://openalex.org/W2061969322",
       "title": "Polynomial approximation of optimal event triggers for state estimation problems using SOSTOOLS",
       "year": 2013,
+      "date": "2013-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -1439,6 +1522,7 @@
       "id": "https://openalex.org/W2186402690",
       "title": "Fundamentals of Queueing Networks: Performance, Asymptotics,",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066881664",
@@ -1458,6 +1542,7 @@
       "id": "https://openalex.org/W1988562732",
       "title": "Distributed switching control to achieve resilience to deep fades in leader-follower nonholonomic systems",
       "year": 2014,
+      "date": "2014-04-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101578562",
@@ -1473,6 +1558,7 @@
       "id": "https://openalex.org/W2724330128",
       "title": "Using dynamical invariants in the analysis of hybrid dynamical systems",
       "year": 1999,
+      "date": "1999-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103389874",
@@ -1488,6 +1574,7 @@
       "id": "https://openalex.org/W2140739342",
       "title": "Competitive learning with generalized winner-take-all activation",
       "year": 1992,
+      "date": "1992-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1503,6 +1590,7 @@
       "id": "https://openalex.org/W2012295901",
       "title": "Adaptive-Optic Correction of a Regularized Compressible Shear Layer",
       "year": 2006,
+      "date": "2006-06-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5084010923",
@@ -1530,6 +1618,7 @@
       "id": "https://openalex.org/W1524165851",
       "title": "Interface and controller design for hybrid control systems",
       "year": 1995,
+      "date": "1995-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011661477",
@@ -1549,6 +1638,7 @@
       "id": "https://openalex.org/W1549769098",
       "title": "Event identification and intelligent hybrid control",
       "year": 1993,
+      "date": "1993-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1568,6 +1658,7 @@
       "id": "https://openalex.org/W1998760935",
       "title": "Inductively inferring valid logical models of continuous-state dynamical systems",
       "year": 1995,
+      "date": "1995-02-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1583,6 +1674,7 @@
       "id": "https://openalex.org/W1519385845",
       "title": "Liveness Verification of Discrete Event Systems Modeled by n-Safe Ordinary Petri Nets",
       "year": 2000,
+      "date": "2000-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103389874",
@@ -1598,6 +1690,7 @@
       "id": "https://openalex.org/W2095829232",
       "title": "Control system performance under dynamic quantization: the scalar case",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1613,6 +1706,7 @@
       "id": "https://openalex.org/W2115591533",
       "title": "\"Feedforward\" Adaptive-Optic System Identification Analysis for Mitigating Aero-Optic Disturbances",
       "year": 2007,
+      "date": "2007-06-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5084010923",
@@ -1636,6 +1730,7 @@
       "id": "https://openalex.org/W2152665017",
       "title": "On the Existence of Solutions to Controlled Hybrid Automata",
       "year": 2000,
+      "date": "2000-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1647,6 +1742,7 @@
       "id": "https://openalex.org/W2145108940",
       "title": "Hybrid control system design based on natural invariants",
       "year": 2002,
+      "date": "2002-11-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011661477",
@@ -1666,6 +1762,7 @@
       "id": "https://openalex.org/W1927720263",
       "title": "Event identification in hybrid control systems",
       "year": 2002,
+      "date": "2002-12-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1681,6 +1778,7 @@
       "id": "https://openalex.org/W1959073722",
       "title": "Scheduling Tasks with Markov-Chain Based Constraints",
       "year": 2006,
+      "date": "2006-10-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5102009388",
@@ -1704,6 +1802,7 @@
       "id": "https://openalex.org/W2140272029",
       "title": "Optimal Dynamic Bit Assignment in Second-order Noise-free Quantized Linear Control Systems",
       "year": 2006,
+      "date": "2006-10-04",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -1719,6 +1818,7 @@
       "id": "https://openalex.org/W2126888592",
       "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
       "year": 2002,
+      "date": "2002-11-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
@@ -1738,6 +1838,7 @@
       "id": "https://openalex.org/W1601320657",
       "title": "An invariant based approach to the design of hybrid control systems containing clocks",
       "year": 1996,
+      "date": "1996-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011661477",
@@ -1757,6 +1858,7 @@
       "id": "https://openalex.org/W2148512359",
       "title": "Stability of quantized linear systems with bounded noise under dynamic bit assignment",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -1772,6 +1874,7 @@
       "id": "https://openalex.org/W2171343298",
       "title": "On the transformation of maximally permissive marking-based liveness enforcing supervisors into monitor supervisors",
       "year": 2002,
+      "date": "2002-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5052459444",
@@ -1787,6 +1890,7 @@
       "id": "https://openalex.org/W1595559183",
       "title": "Distributed network utility maximization using event-triggered barrier methods",
       "year": 2009,
+      "date": "2009-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5030450582",
@@ -1802,6 +1906,7 @@
       "id": "https://openalex.org/W1916113019",
       "title": "Dynamic reconfiguration of software objects using Petri nets and network unfolding",
       "year": 2002,
+      "date": "2002-11-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1821,6 +1926,7 @@
       "id": "https://openalex.org/W2116727377",
       "title": "Cohesive Swarming under Consensus",
       "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1836,6 +1942,7 @@
       "id": "https://openalex.org/W2147795397",
       "title": "Control system synthesis through inductive learning of Boolean concepts",
       "year": 1995,
+      "date": "1995-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1859,6 +1966,7 @@
       "id": "https://openalex.org/W2733303269",
       "title": "Petri Net Feedback Controller Design for a Manufacturing System",
       "year": 1996,
+      "date": "1996-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
@@ -1878,6 +1986,7 @@
       "id": "https://openalex.org/W96222442",
       "title": "A Tutorial Introduction to Supervisory Hybrid Systems",
       "year": 1998,
+      "date": "1998-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1893,6 +2002,7 @@
       "id": "https://openalex.org/W2129035339",
       "title": "Adaptive mixtures of local experts are source coding solutions",
       "year": 2002,
+      "date": "2002-12-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090415241",
@@ -1908,6 +2018,7 @@
       "id": "https://openalex.org/W3021930077",
       "title": "Event-Triggered Feedback in Control, Estimation, and Optimization",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1919,6 +2030,7 @@
       "id": "https://openalex.org/W2109540976",
       "title": "Periodic communication logics for the decentralized control of multi-agent systems",
       "year": 2005,
+      "date": "2005-09-12",
       "coauthors": [
         {
           "id": "https://openalex.org/A5052553992",
@@ -1934,6 +2046,7 @@
       "id": "https://openalex.org/W2131998464",
       "title": "Convergence of consensus filtering under network throughput limitations",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5052553992",
@@ -1949,6 +2062,7 @@
       "id": "https://openalex.org/W2156018914",
       "title": "Asymptotic stabilization of dynamically quantized nonlinear systems in feedforward form",
       "year": 2010,
+      "date": "2010-01-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -1968,6 +2082,7 @@
       "id": "https://openalex.org/W57479419",
       "title": "Theory of Clock Synchronization and Mutual Exclusion in Networked Control Systems",
       "year": 1999,
+      "date": "1999-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5085867442",
@@ -1983,6 +2098,7 @@
       "id": "https://openalex.org/W2008685413",
       "title": "Distributed switched supervisory control to achieve almost sure safety for a class of interconnected networked systems",
       "year": 2014,
+      "date": "2014-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5026465150",
@@ -1998,6 +2114,7 @@
       "id": "https://openalex.org/W2078947962",
       "title": "Stabilize an n-dimensional quantized nonlinear feedforward system with 1 bit",
       "year": 2009,
+      "date": "2009-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -2017,6 +2134,7 @@
       "id": "https://openalex.org/W2227376638",
       "title": "Distributed coordination of multi-agent systems based on estimation over ad-hoc communication networks",
       "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2032,6 +2150,7 @@
       "id": "https://openalex.org/W2480690339",
       "title": "Using decentralized secondary controllers to improve transient stability of generators in lossy power networks",
       "year": 2016,
+      "date": "2016-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676984",
@@ -2047,6 +2166,7 @@
       "id": "https://openalex.org/W2483450002",
       "title": "Efficiently Attentive Event-Triggered Systems",
       "year": 2015,
+      "date": "2015-12-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046121646",
@@ -2062,6 +2182,7 @@
       "id": "https://openalex.org/W3213124734",
       "title": "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision : (Special Session Paper)",
       "year": 2021,
+      "date": "2021-10-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011794280",
@@ -2097,6 +2218,7 @@
       "id": "https://openalex.org/W4244978024",
       "title": "Overload management in sensor-actuator networks used for spatially-distributed control systems",
       "year": 2003,
+      "date": "2003-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2116,6 +2238,7 @@
       "id": "https://openalex.org/W1568282822",
       "title": "Hybrid systems and intelligent control",
       "year": 2002,
+      "date": "2002-12-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2131,6 +2254,7 @@
       "id": "https://openalex.org/W2138536041",
       "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
       "year": 1991,
+      "date": "1991-12-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2142,6 +2266,7 @@
       "id": "https://openalex.org/W1847814538",
       "title": "Digital control from a hybrid perspective",
       "year": 2002,
+      "date": "2002-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011661477",
@@ -2161,6 +2286,7 @@
       "id": "https://openalex.org/W1596995364",
       "title": "Lyapunov stability of continuous-valued systems under the supervision of discrete-event transition systems",
       "year": 1998,
+      "date": "1998-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103389874",
@@ -2176,6 +2302,7 @@
       "id": "https://openalex.org/W2727562789",
       "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
       "year": 1996,
+      "date": "1996-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5011661477",
@@ -2195,6 +2322,7 @@
       "id": "https://openalex.org/W651584803",
       "title": "Competitively Inhibited Neural Networks for Adaptive Parameter Estimation",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2206,6 +2334,7 @@
       "id": "https://openalex.org/W2117063628",
       "title": "Timed automata and robust control: can we now control complex dynamical systems?",
       "year": 2002,
+      "date": "2002-11-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2221,6 +2350,7 @@
       "id": "https://openalex.org/W2138456650",
       "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
       "year": 1995,
+      "date": "1995-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5075317738",
@@ -2240,6 +2370,7 @@
       "id": "https://openalex.org/W1920642675",
       "title": "Constructing hybrid control systems from robust linear control agents",
       "year": 1995,
+      "date": "1995-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2263,6 +2394,7 @@
       "id": "https://openalex.org/W2154888955",
       "title": "Programmable timed Petri nets in the analysis and design of hybrid control systems",
       "year": 2002,
+      "date": "2002-11-28",
       "coauthors": [
         {
           "id": "https://openalex.org/A5072733750",
@@ -2286,6 +2418,7 @@
       "id": "https://openalex.org/W1944302392",
       "title": "Hybrid control system design using robust linear control agents",
       "year": 2002,
+      "date": "2002-11-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2301,6 +2434,7 @@
       "id": "https://openalex.org/W2140719726",
       "title": "Safe implementations of supervisory commands",
       "year": 1998,
+      "date": "1998-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2316,6 +2450,7 @@
       "id": "https://openalex.org/W1968088166",
       "title": "Real-Time Optimal Path Planning Using a Distributed Computing Paradigm",
       "year": 1991,
+      "date": "1991-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2327,6 +2462,7 @@
       "id": "https://openalex.org/W2053350517",
       "title": "Hybrid interior point training of modular neural networks",
       "year": 1998,
+      "date": "1998-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090415241",
@@ -2346,6 +2482,7 @@
       "id": "https://openalex.org/W2152098286",
       "title": "Interior Point Implementations of Alternating Minimization Training",
       "year": 1994,
+      "date": "1994-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2361,6 +2498,7 @@
       "id": "https://openalex.org/W2731704562",
       "title": "Robust Hybrid Control System Design",
       "year": 1996,
+      "date": "1996-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2376,6 +2514,7 @@
       "id": "https://openalex.org/W2149375734",
       "title": "Finite-horizon bounded amplitude performance of linear parameter varying systems",
       "year": 1997,
+      "date": "1997-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -2391,6 +2530,7 @@
       "id": "https://openalex.org/W2026314017",
       "title": "Topologically ordered competitive sampling",
       "year": 1994,
+      "date": "1994-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2402,6 +2542,7 @@
       "id": "https://openalex.org/W2168331226",
       "title": "A computationally efficient framework for hybrid controller design",
       "year": 2002,
+      "date": "2002-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2417,6 +2558,7 @@
       "id": "https://openalex.org/W2315307557",
       "title": "A Wireless Dead Reckoning Pedestrian Tracking System",
       "year": 2004,
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101624498",
@@ -2468,6 +2610,7 @@
       "id": "https://openalex.org/W4321517652",
       "title": "Competitively Inhibited Optical Neural Networks Using Two-step Holographic Materials",
       "year": 1989,
+      "date": "1989-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2483,6 +2626,7 @@
       "id": "https://openalex.org/W68702480",
       "title": "Parameter estimation using competitively inhibited neural networks",
       "year": 1990,
+      "date": "1990-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2494,6 +2638,7 @@
       "id": "https://openalex.org/W1880242599",
       "title": "Direct adaptive stabilization of linear systems using query-based protocols",
       "year": 2002,
+      "date": "2002-12-30",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2509,6 +2654,7 @@
       "id": "https://openalex.org/W1889588737",
       "title": "A modified interior point method for supervisory controller design",
       "year": 2002,
+      "date": "2002-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090415241",
@@ -2524,6 +2670,7 @@
       "id": "https://openalex.org/W2121414689",
       "title": "Sufficient conditions for self-scheduled bounded amplitude control",
       "year": 1998,
+      "date": "1998-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -2539,6 +2686,7 @@
       "id": "https://openalex.org/W2137487543",
       "title": "Inductive Inference of Invariant Subspaces",
       "year": 1993,
+      "date": "1993-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2550,6 +2698,7 @@
       "id": "https://openalex.org/W2744528460",
       "title": "Self-triggering in Vehicular Networked Systems with State-dependent Bursty Fading Channels",
       "year": 2017,
+      "date": "2017-08-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101578562",
@@ -2565,6 +2714,7 @@
       "id": "https://openalex.org/W1482204353",
       "title": "Consistent Measures and Bounds For Control Policies",
       "year": 1993,
+      "date": "1993-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090415241",
@@ -2580,6 +2730,7 @@
       "id": "https://openalex.org/W1521631800",
       "title": "Extracting Stable Timed Automata from Switched Model Reference Systems",
       "year": 1999,
+      "date": "1999-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2595,6 +2746,7 @@
       "id": "https://openalex.org/W1574724233",
       "title": "Liveness enforcing monitors for safe and controllable Petri nets",
       "year": 2003,
+      "date": "2003-08-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2610,6 +2762,7 @@
       "id": "https://openalex.org/W1909895345",
       "title": "Author's Reply",
       "year": 2004,
+      "date": "2004-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5010488126",
@@ -2625,6 +2778,7 @@
       "id": "https://openalex.org/W1972348434",
       "title": "Introduction to the special issue on self-adaptive and self-organizing wireless networking systems",
       "year": 2009,
+      "date": "2009-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2648,6 +2802,7 @@
       "id": "https://openalex.org/W2006980759",
       "title": "&lt;title&gt;Interior-point competitive learning of control agents in colony-style systems&lt;/title&gt;",
       "year": 1995,
+      "date": "1995-04-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2667,6 +2822,7 @@
       "id": "https://openalex.org/W2105287986",
       "title": "Interior point methods in the design of hierarchical controllers",
       "year": 2002,
+      "date": "2002-12-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090415241",
@@ -2682,6 +2838,7 @@
       "id": "https://openalex.org/W2397192260",
       "title": "Bounded amplitude multiple agent control",
       "year": 1998,
+      "date": "1998-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -2697,6 +2854,7 @@
       "id": "https://openalex.org/W2620170137",
       "title": "Liveness-Enforcing Supervision for n-Safe Ordinary Petri Nets with Uncontrollable Transitions",
       "year": 2000,
+      "date": "2000-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103389874",
@@ -2712,6 +2870,7 @@
       "id": "https://openalex.org/W125677449",
       "title": "Supervisory Control of Networked Control Systems",
       "year": 2006,
+      "date": "2006-01-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2723,6 +2882,7 @@
       "id": "https://openalex.org/W127350567",
       "title": "H infinity Gain Schedule Synthesis of Supervisory Hybrid Control Systems.",
       "year": 1995,
+      "date": "1995-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -2738,6 +2898,7 @@
       "id": "https://openalex.org/W143773568",
       "title": "H\u221e gain schedule synthesis of supervisory hybrid control systems",
       "year": 1996,
+      "date": "1996-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -2753,6 +2914,7 @@
       "id": "https://openalex.org/W1485251690",
       "title": "Validation of liveness for 1-safe hybrid Petri nets using network unfolding",
       "year": 1999,
+      "date": "1999-08-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103389874",
@@ -2768,6 +2930,7 @@
       "id": "https://openalex.org/W1485553699",
       "title": "Safe implementations of supervisory commands",
       "year": 1997,
+      "date": "1997-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2783,6 +2946,7 @@
       "id": "https://openalex.org/W1592583441",
       "title": "Stable H/sup \u221e/ extensions of hybrid control systems",
       "year": 2002,
+      "date": "2002-11-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5108194644",
@@ -2798,6 +2962,7 @@
       "id": "https://openalex.org/W1636887478",
       "title": "A static voltage stability detector using only local measurements of droop-controlled generators for stressed power distribution networks",
       "year": 2015,
+      "date": "2015-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676984",
@@ -2813,6 +2978,7 @@
       "id": "https://openalex.org/W1688038931",
       "title": "A hybrid systems approach to output scheduling in ATM based real time systems",
       "year": 2002,
+      "date": "2002-12-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2828,6 +2994,7 @@
       "id": "https://openalex.org/W1882702180",
       "title": "Query-based attitude control of high-autonomy spacecraft",
       "year": 2005,
+      "date": "2005-08-24",
       "coauthors": [
         {
           "id": "https://openalex.org/A5089589993",
@@ -2843,6 +3010,7 @@
       "id": "https://openalex.org/W1970433657",
       "title": "Input-to-state stabilizability of quantized linear control systems under feedback dropouts",
       "year": 2010,
+      "date": "2010-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -2858,6 +3026,7 @@
       "id": "https://openalex.org/W2027625734",
       "title": "Stability of Online Resource Managers for Distributed Systems under Execution Time Variations",
       "year": 2015,
+      "date": "2015-03-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5045057927",
@@ -2881,6 +3050,7 @@
       "id": "https://openalex.org/W2028708377",
       "title": "&lt;title&gt;Alternation minimization training of radial basis function networks&lt;/title&gt;",
       "year": 1996,
+      "date": "1996-03-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5090415241",
@@ -2896,6 +3066,7 @@
       "id": "https://openalex.org/W2043364404",
       "title": "WiP Abstract: Supporting Coordinated Negotiation in CPS Design",
       "year": 2012,
+      "date": "2012-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100600905",
@@ -2915,6 +3086,7 @@
       "id": "https://openalex.org/W2059654767",
       "title": "Learning in competitively inhibited neural nets",
       "year": 1990,
+      "date": "1990-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2930,6 +3102,7 @@
       "id": "https://openalex.org/W2064044642",
       "title": "Model undergraduate integrated optics laboratory",
       "year": 1995,
+      "date": "1995-10-13",
       "coauthors": [
         {
           "id": "https://openalex.org/A5006078740",
@@ -2949,6 +3122,7 @@
       "id": "https://openalex.org/W2070402653",
       "title": "An Efficient Algorithm For Predicting The Response Of A Laterally Inhibited Neural Network",
       "year": 1989,
+      "date": "1989-12-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5110011489",
@@ -2964,6 +3138,7 @@
       "id": "https://openalex.org/W2080959187",
       "title": "Competitive learning's global search property",
       "year": 1990,
+      "date": "1990-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -2979,6 +3154,7 @@
       "id": "https://openalex.org/W2142238909",
       "title": "Petri net based modeling and analysis of switched systems",
       "year": 2002,
+      "date": "2002-11-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100893032",
@@ -2994,6 +3170,7 @@
       "id": "https://openalex.org/W2148214687",
       "title": "On the stationary state of topologically ordered competitive learning",
       "year": 2002,
+      "date": "2002-12-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3005,6 +3182,7 @@
       "id": "https://openalex.org/W2160368942",
       "title": "Self-Organizing Neural Networks for Multitarget Track Initiation",
       "year": 1989,
+      "date": "1989-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3016,6 +3194,7 @@
       "id": "https://openalex.org/W2168865282",
       "title": "Deadlock-free piecewise-linear controlled hybrid automata",
       "year": 2002,
+      "date": "2002-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3027,6 +3206,7 @@
       "id": "https://openalex.org/W2181546597",
       "title": "A Hybrid Syste Approach to Output Seheduli eal-Time Systems",
       "year": 1996,
+      "date": "1996-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3038,6 +3218,7 @@
       "id": "https://openalex.org/W2185972771",
       "title": "Voltage Stability and Frequency Synchronization of Weak Power Distribution Networks with Inverter-Based Distributed Generators",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676984",
@@ -3053,6 +3234,7 @@
       "id": "https://openalex.org/W2188691867",
       "title": "Direct Adaptive Stabilization of Linear using Query-based Protocols",
       "year": 1993,
+      "date": "1993-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3068,6 +3250,7 @@
       "id": "https://openalex.org/W222491194",
       "title": "Fast Algorithms for Hybrid Control System Design",
       "year": 1998,
+      "date": "1998-01-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3083,6 +3266,7 @@
       "id": "https://openalex.org/W2281343780",
       "title": "Using Elementary Flux Modes to Estimate the Distance to Regime Shifts in Kinetic Systems**The authors grateful acknowledge the partial financial support of Notre Dame's Environmental Change Initiative and the National Science Foundation (CNS-1239222)",
       "year": 2015,
+      "date": "2015-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3098,6 +3282,7 @@
       "id": "https://openalex.org/W2290755730",
       "title": "Event-triggered distributed algorithms for network optimization",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3113,6 +3298,7 @@
       "id": "https://openalex.org/W2336679763",
       "title": "Implementation of an Event-triggered Controller in a Helicopter Model",
       "year": 2010,
+      "date": "2010-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103645423",
@@ -3128,6 +3314,7 @@
       "id": "https://openalex.org/W2342072141",
       "title": "on Control and Game Theory",
       "year": 2014,
+      "date": "2014-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5024559779",
@@ -3183,6 +3370,7 @@
       "id": "https://openalex.org/W2415703899",
       "title": "Prototype Selection Using Competitive Learning",
       "year": 1994,
+      "date": "1994-06-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3194,6 +3382,7 @@
       "id": "https://openalex.org/W2436738469",
       "title": "Supervisory control of distributed systems using petri nets and network unfolding",
       "year": 2001,
+      "date": "2001-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103389874",
@@ -3209,6 +3398,7 @@
       "id": "https://openalex.org/W2556106382",
       "title": "Utility-scale microgrids and day-ahead markets: A new curtailment?",
       "year": 2016,
+      "date": "2016-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100676984",
@@ -3224,6 +3414,7 @@
       "id": "https://openalex.org/W3021055924",
       "title": "LakeNet: An Integrated Sensor Network for Environmental Sensing in Lakes",
       "year": 2005,
+      "date": "2005-12-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5027288387",
@@ -3251,6 +3442,7 @@
       "id": "https://openalex.org/W3071979674",
       "title": "Achieving Ecological Resilience Through Regime Shift Management",
       "year": 2020,
+      "date": "2020-08-19",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3262,6 +3454,7 @@
       "id": "https://openalex.org/W3106679152",
       "title": "The Tree",
       "year": 2019,
+      "date": "2019-11-11",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3273,6 +3466,7 @@
       "id": "https://openalex.org/W4210360215",
       "title": "Parameter Estimation",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3284,6 +3478,7 @@
       "id": "https://openalex.org/W4235288662",
       "title": "CINN Learning",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3295,6 +3490,7 @@
       "id": "https://openalex.org/W4237269914",
       "title": "Introduction",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3306,6 +3502,7 @@
       "id": "https://openalex.org/W4256568500",
       "title": "Summary",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3317,6 +3514,7 @@
       "id": "https://openalex.org/W4285717474",
       "title": "Achieving Ecological Resilience Through Regime Shift Management",
       "year": 2020,
+      "date": "2020-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3328,6 +3526,7 @@
       "id": "https://openalex.org/W4294690775",
       "title": "to Control Robot Hopping over Uneven Terrain",
       "year": 2022,
+      "date": "2022-06-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3351,6 +3550,7 @@
       "id": "https://openalex.org/W599329151",
       "title": "The Continuum Model",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3362,6 +3562,7 @@
       "id": "https://openalex.org/W630769419",
       "title": "The CINN Equations",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -3373,6 +3574,7 @@
       "id": "https://openalex.org/W783450898",
       "title": "The CINN Algorithm",
       "year": 1991,
+      "date": "1991-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
