@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07 23:22 UTC",
+  "generated": "2026-08-07 23:36 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Robotics @ Notre Dame faculty collaboration network. Node size = number of publications; edge weight = number of co-authored papers between two faculty.",
   "nodeCount": 16,
@@ -170,77 +170,877 @@
     {
       "source": "Hai Lin",
       "target": "Panos Antsaklis",
-      "weight": 66
+      "weight": 66,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4411668345",
+          "title": "Decentralized Analysis and Controller Synthesis of Networked Systems",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4406961235",
+          "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4414116801",
+          "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4416026961",
+          "title": "Funnel-Based Online Recovery Control for Nonlinear Systems With Unknown Dynamics",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4414384331",
+          "title": "Graph Neural Network-Based Distributed Optimal Control for Linear Networked Systems: An Online Distributed Training Approach",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4407359216",
+          "title": "Inventory Consensus Control in Supply Chain Networks using Dissipativity-Based Control and Topology Co-Design",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4417092745",
+          "title": "Mesh Stability Guaranteed Rigid Body Networks Using Control and Topology Co-Design",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4399404206",
+          "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4407950010",
+          "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4405270176",
+          "title": "Port-Hamiltonian-Based Geometric Control for Rigid Body Platoons With Mesh Stability Guarantee",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4382936209",
+          "title": "Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4372283482",
+          "title": "Decentralized and Compositional Interconnection Topology Synthesis for Linear Networked Systems",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4385258615",
+          "title": "Decentralized and Compositional Interconnection Topology Synthesis for Linear Networked Systems",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4389708973",
+          "title": "Dissipativity-Based Decentralized Co-Design of Distributed Controllers and Communication Topologies for Vehicular Platoons",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4382936125",
+          "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4376988697",
+          "title": "Smooth Robustness Measures for Symbolic Control Via Signal Temporal Logic",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4284879489",
+          "title": "A Decentralized Analysis and Control Synthesis Approach for Networked Systems with Arbitrary Interconnections",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4224221017",
+          "title": "A Generalized Distributed Analysis and Control Synthesis Approach for Networked Systems with Arbitrary Interconnections",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4298184087",
+          "title": "Centralized and Decentralized Techniques for Analysis and Synthesis of Non-Linear Networked Systems",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4296405777",
+          "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4224903566",
+          "title": "On-line Estimation of Stability and Passivity Metrics",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4315472274",
+          "title": "On-line Estimation of Stability and Passivity Metrics",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4297614128",
+          "title": "Robust Approximate Simulation for Hierarchical Control of Piecewise Affine Systems under Bounded Disturbances",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4221161069",
+          "title": "Robust Approximate Simulation for Hierarchical Control of Piecewise Affine Systems under Bounded Disturbances",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W4200110885",
+          "title": "Formal Synthesis",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W4200531256",
+          "title": "Formal Verification",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W4200597480",
+          "title": "Introduction",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W4200447063",
+          "title": "Optimal Control",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W3215338932",
+          "title": "Stability and Stabilization",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W2618700804",
+          "title": "Learning-based Formal Synthesis of Cooperative Multi-agent Systems",
+          "year": 2017
+        },
+        {
+          "id": "https://openalex.org/W2510803631",
+          "title": "Learning-based formal synthesis of cooperative multi-agent systems with an application to robotic coordination",
+          "year": 2016
+        },
+        {
+          "id": "https://openalex.org/W4230297697",
+          "title": "Hybrid Dynamical Systems: An Introduction to Control and Verification",
+          "year": 2014
+        },
+        {
+          "id": "https://openalex.org/W2055846441",
+          "title": "Asymptotic disturbance attenuation properties for uncertain switched linear systems",
+          "year": 2009
+        },
+        {
+          "id": "https://openalex.org/W2062974796",
+          "title": "Stability and Stabilizability of Switched Linear Systems: A Survey of Recent Results",
+          "year": 2009
+        },
+        {
+          "id": "https://openalex.org/W2094807660",
+          "title": "Asymptotic Disturbance Attenuation Properties for Continuous-Time Uncertain Switched Linear Systems",
+          "year": 2008
+        },
+        {
+          "id": "https://openalex.org/W2149533774",
+          "title": "Characterizing uniformly ultimately bounded switching signals for uncertain switched linear systems",
+          "year": 2007
+        },
+        {
+          "id": "https://openalex.org/W2056790056",
+          "title": "Switching Stabilizability for Continuous-Time Uncertain Switched Linear Systems",
+          "year": 2007
+        },
+        {
+          "id": "https://openalex.org/W2154150163",
+          "title": "A Converse Lyapunov Theorem for Uncertain Switched Linear Systems",
+          "year": 2006
+        },
+        {
+          "id": "https://openalex.org/W2088647041",
+          "title": "Asymptotic stability and disturbance attenuation properties for a class of networked control systems",
+          "year": 2006
+        },
+        {
+          "id": "https://openalex.org/W3146124143",
+          "title": "Model-Based Control with Intermittent Feedback",
+          "year": 2006
+        },
+        {
+          "id": "https://openalex.org/W2065006922",
+          "title": "Optimal persistent disturbance attenuation control for linear hybrid systems",
+          "year": 2006
+        },
+        {
+          "id": "https://openalex.org/W2170029726",
+          "title": "Switching Stabilization and l2 Gain Performance Controller Synthesis for Discrete-Time Switched Linear Systems",
+          "year": 2006
+        },
+        {
+          "id": "https://openalex.org/W2111886952",
+          "title": "Asymptotic disturbance attenuation property analysis for discrete-time uncertain switched linear systems",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W2084315257",
+          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W2036404606",
+          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W2132821960",
+          "title": "Stability and Stabilizability of Switched Linear Systems: A Short Survey of Recent Results",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W1974953144",
+          "title": "Stability and persistent disturbance attenuation properties for a class of networked control systems: switched system approach",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W2155969328",
+          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W1560812945",
+          "title": "Controller failure time analysis for symmetric H\u221e control systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2142607709",
+          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W1562722129",
+          "title": "Disturbance attenuation properties for discrete-time uncertain switched linear systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2171506252",
+          "title": "Persistent disturbance attenuation properties for networked control systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2109082235",
+          "title": "Robust invariant control synthesis for discrete-time polytopic uncertain linear hybrid systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W1544149452",
+          "title": "Robust stability and disturbance attenuation analysis of a class of networked control systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2101574607",
+          "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2126119476",
+          "title": "Stabilization and performance analysis for a class of switched systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2166330312",
+          "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2098718154",
+          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W2103029626",
+          "title": "HYSTAR: a toolbox for hierarchical control of piecewise linear hybrid dynamical systems",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W2157269445",
+          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W2039015886",
+          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W141682072",
+          "title": "Robust Regulation of Polytopic Uncertain Linear Hybrid Systems with Networked Control System Applications",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W1506290449",
+          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W2114930528",
+          "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance and measurement noise",
+          "year": 2003
+        },
+        {
+          "id": "https://openalex.org/W2073455351",
+          "title": "HIERARCHICAL CONTROL FOR A CLASS OF UNCERTAIN PIECEWISE LINEAR HYBRID DYNAMICAL SYSTEMS",
+          "year": 2002
+        }
+      ]
     },
     {
       "source": "Michael Lemmon",
       "target": "Panos Antsaklis",
-      "weight": 30
+      "weight": 30,
+      "papers": [
+        {
+          "id": "https://openalex.org/W2129912474",
+          "title": "Design of a Wireless Assisted Pedestrian Dead Reckoning System\u2014The NavMote Experience",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W1860124607",
+          "title": "Inductive inference of logical DES controllers using the L* algorithm",
+          "year": 2005
+        },
+        {
+          "id": "https://openalex.org/W2315307557",
+          "title": "A Wireless Dead Reckoning Pedestrian Tracking System",
+          "year": 2004
+        },
+        {
+          "id": "https://openalex.org/W2168331226",
+          "title": "A computationally efficient framework for hybrid controller design",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W1688038931",
+          "title": "A hybrid systems approach to output scheduling in ATM based real time systems",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W1533742649",
+          "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W1847814538",
+          "title": "Digital control from a hybrid perspective",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W1927720263",
+          "title": "Event identification in hybrid control systems",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2126888592",
+          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2124901174",
+          "title": "Feedback control of Petri nets based on place invariants",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2145108940",
+          "title": "Hybrid control system design based on natural invariants",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W1568282822",
+          "title": "Hybrid systems and intelligent control",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2125291333",
+          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2154888955",
+          "title": "Programmable timed Petri nets in the analysis and design of hybrid control systems",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2117063628",
+          "title": "Timed automata and robust control: can we now control complex dynamical systems?",
+          "year": 2002
+        },
+        {
+          "id": "https://openalex.org/W2115042355",
+          "title": "Supervisory control of hybrid systems",
+          "year": 2000
+        },
+        {
+          "id": "https://openalex.org/W222491194",
+          "title": "Fast Algorithms for Hybrid Control System Design",
+          "year": 1998
+        },
+        {
+          "id": "https://openalex.org/W1968846074",
+          "title": "Timed Petri Nets in Hybrid Systems: Stability and Supervisory Control",
+          "year": 1998
+        },
+        {
+          "id": "https://openalex.org/W2115329200",
+          "title": "A logical DES approach to the design of hybrid control systems",
+          "year": 1996
+        },
+        {
+          "id": "https://openalex.org/W2727562789",
+          "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
+          "year": 1996
+        },
+        {
+          "id": "https://openalex.org/W1601320657",
+          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
+          "year": 1996
+        },
+        {
+          "id": "https://openalex.org/W4236164983",
+          "title": "Feedback control of petri nets based on place invariants",
+          "year": 1996
+        },
+        {
+          "id": "https://openalex.org/W2733303269",
+          "title": "Petri Net Feedback Controller Design for a Manufacturing System",
+          "year": 1996
+        },
+        {
+          "id": "https://openalex.org/W1920642675",
+          "title": "Constructing hybrid control systems from robust linear control agents",
+          "year": 1995
+        },
+        {
+          "id": "https://openalex.org/W2147795397",
+          "title": "Control system synthesis through inductive learning of Boolean concepts",
+          "year": 1995
+        },
+        {
+          "id": "https://openalex.org/W1998760935",
+          "title": "Inductively inferring valid logical models of continuous-state dynamical systems",
+          "year": 1995
+        },
+        {
+          "id": "https://openalex.org/W1524165851",
+          "title": "Interface and controller design for hybrid control systems",
+          "year": 1995
+        },
+        {
+          "id": "https://openalex.org/W2138456650",
+          "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
+          "year": 1995
+        },
+        {
+          "id": "https://openalex.org/W1549769098",
+          "title": "Event identification and intelligent hybrid control",
+          "year": 1993
+        },
+        {
+          "id": "https://openalex.org/W1559815321",
+          "title": "Hybrid system modeling and autonomous control systems",
+          "year": 1993
+        }
+      ]
     },
     {
       "source": "James Schmiedeler",
       "target": "Patrick Wensing",
-      "weight": 16
+      "weight": 16,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4412774242",
+          "title": "Phase Variable Impedance Hybrid Volitional Control for Transtibial Prostheses",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4401416566",
+          "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4392543670",
+          "title": "Lower-Limb Myoelectric Calibration Postures for Transtibial Prostheses",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4389665365",
+          "title": "Calibration of a Tibia-Based Phase Variable for Control of Robotic Transtibial Prostheses",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4382994864",
+          "title": "Data-efficient human walking speed intent identification",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4381327754",
+          "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4387210324",
+          "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4200326220",
+          "title": "Hybrid Volitional Control as a Framework for Lower-Limb Prosthetic Control: A Simulation Study",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W3111221186",
+          "title": "Effects of User Intent Changes on Onboard Sensor Measurements During Exoskeleton-Assisted Walking",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W3129335276",
+          "title": "Rapid Bipedal Gait Optimization in CasADi",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W3094309285",
+          "title": "User Intent Identification in a Lower-Extremity Exoskeleton via the Mahalanobis Distance",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W2964856450",
+          "title": "Characterizing Intent Changes in Exoskeleton-Assisted Walking Through Onboard Sensors",
+          "year": 2019
+        },
+        {
+          "id": "https://openalex.org/W2785235942",
+          "title": "Discussion of \u201cA Review of Intent Detection, Arbitration, and Communication Aspects of Shared Control for Physical Human\u2013Robot Interaction\u201d (Losey, D. P., McDonald, C. G., Battaglia, E., and O'Malley, M. K., 2018, ASME Appl. Mech. Rev., 70(1), p. 010804)",
+          "year": 2018
+        },
+        {
+          "id": "https://openalex.org/W2294564419",
+          "title": "Terrain-Blind Humanoid Walking Based on a 3-D Actuated Dual-SLIP Model",
+          "year": 2016
+        },
+        {
+          "id": "https://openalex.org/W2135959801",
+          "title": "Fuzzy controlled hopping in a biped robot",
+          "year": 2011
+        },
+        {
+          "id": "https://openalex.org/W2048294487",
+          "title": "Fuzzy Control of Vertical Jumping With a Planar Biped",
+          "year": 2010
+        }
+      ]
     },
     {
       "source": "Bill Goodwine",
       "target": "James Schmiedeler",
-      "weight": 10
+      "weight": 10,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4289524537",
+          "title": "A unified framework for measuring interplane and intraplane coupling in spatial biped robots",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W2981407045",
+          "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
+          "year": 2019
+        },
+        {
+          "id": "https://openalex.org/W2970075639",
+          "title": "Terrain-blind walking of planar underactuated bipeds via velocity decomposition-enhanced control",
+          "year": 2019
+        },
+        {
+          "id": "https://openalex.org/W4256558754",
+          "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
+          "year": 2019
+        },
+        {
+          "id": "https://openalex.org/W2908285172",
+          "title": "A Study of the Relationship between a Mechanical Coupling Metric and Gait Characteristics for an Ankle-Actuated Biped Robot",
+          "year": 2018
+        },
+        {
+          "id": "https://openalex.org/W2789316480",
+          "title": "Design and Experimental Validation of a Velocity Decomposition-Based Controller for Underactuated Planar Bipeds",
+          "year": 2018
+        },
+        {
+          "id": "https://openalex.org/W2909801651",
+          "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
+          "year": 2018
+        },
+        {
+          "id": "https://openalex.org/W2765672626",
+          "title": "Postural Balance of an Underactuated Biped Robot With a Reaction Wheel",
+          "year": 2017
+        },
+        {
+          "id": "https://openalex.org/W2758176302",
+          "title": "Using a nonlinear mechanical control coupling metric for biped robot control and design",
+          "year": 2017
+        },
+        {
+          "id": "https://openalex.org/W2298253064",
+          "title": "Quantifying Control Authority in Periodic Motions of Underactuated Mobile Robots",
+          "year": 2015
+        }
+      ]
     },
     {
       "source": "Hai Lin",
       "target": "Patrick Wensing",
-      "weight": 9
+      "weight": 9,
+      "papers": [
+        {
+          "id": "https://openalex.org/W3197219002",
+          "title": "Mini Cheetah, the Falling Cat: A Case Study in Machine Learning and Trajectory Optimization for Robot Acrobatics",
+          "year": 2022
+        },
+        {
+          "id": "https://openalex.org/W3204383275",
+          "title": "Control Barrier Functions for Singularity Avoidance in Passivity-Based Manipulator Control",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W4302282842",
+          "title": "Control Barrier Functions for Singularity Avoidance in Passivity-Based Manipulator Control",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W4298081080",
+          "title": "Mini Cheetah, the Falling Cat: A Case Study in Machine Learning and Trajectory Optimization for Robot Acrobatics",
+          "year": 2021
+        },
+        {
+          "id": "https://openalex.org/W3036569003",
+          "title": "Approximate Simulation for Template-Based Whole-Body Control",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W3114705960",
+          "title": "Approximate Simulation for Template-Based Whole-Body Control",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W3009132161",
+          "title": "Robust Approximate Simulation for Hierarchical Control of Linear Systems under Disturbances",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W3045568673",
+          "title": "Robust Approximate Simulation for Hierarchical Control of Linear Systems under Disturbances",
+          "year": 2020
+        },
+        {
+          "id": "https://openalex.org/W2973459893",
+          "title": "Formal Connections between Template and Anchor Models via Approximate Simulation",
+          "year": 2019
+        }
+      ]
     },
     {
       "source": "Bill Goodwine",
       "target": "Panos Antsaklis",
-      "weight": 5
+      "weight": 5,
+      "papers": [
+        {
+          "id": "https://openalex.org/W1982824121",
+          "title": "Control of cyberphysical systems using passivity and dissipativity based methods",
+          "year": 2013
+        },
+        {
+          "id": "https://openalex.org/W2166783962",
+          "title": "Multi-agent compositional stability exploiting system symmetries",
+          "year": 2013
+        },
+        {
+          "id": "https://openalex.org/W2152610066",
+          "title": "Fault-tolerant multiagent robotic formation control exploiting system symmetries",
+          "year": 2011
+        },
+        {
+          "id": "https://openalex.org/W2005140205",
+          "title": "Toward a Science of Cyber\u2013Physical System Integration",
+          "year": 2011
+        },
+        {
+          "id": "https://openalex.org/W2071859728",
+          "title": "Multiagent coordination exploiting system symmetries",
+          "year": 2010
+        }
+      ]
     },
     {
       "source": "Hai Lin",
       "target": "Michael Lemmon",
-      "weight": 4
+      "weight": 4,
+      "papers": [
+        {
+          "id": "https://openalex.org/W2740090334",
+          "title": "Formal Methods for Stability Analysis of Networked Control Systems With IEEE 802.15.4 Protocol",
+          "year": 2017
+        },
+        {
+          "id": "https://openalex.org/W2022765575",
+          "title": "Formal methods for stability analysis of networked control systems with IEEE 802.15.4 protocol",
+          "year": 2014
+        },
+        {
+          "id": "https://openalex.org/W2062021735",
+          "title": "Stability analysis for wireless networked control system in unslotted IEEE 802.15.4 protocol",
+          "year": 2014
+        },
+        {
+          "id": "https://openalex.org/W2078947962",
+          "title": "Stabilize an n-dimensional quantized nonlinear feedforward system with 1 bit",
+          "year": 2009
+        }
+      ]
     },
     {
       "source": "Bill Goodwine",
       "target": "Michael Lemmon",
-      "weight": 3
+      "weight": 3,
+      "papers": [
+        {
+          "id": "https://openalex.org/W1990626091",
+          "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
+          "year": 2013
+        },
+        {
+          "id": "https://openalex.org/W2115591533",
+          "title": "\"Feedforward\" Adaptive-Optic System Identification Analysis for Mitigating Aero-Optic Disturbances",
+          "year": 2007
+        },
+        {
+          "id": "https://openalex.org/W2012295901",
+          "title": "Adaptive-Optic Correction of a Regularized Compressible Shear Layer",
+          "year": 2006
+        }
+      ]
     },
     {
       "source": "Edgar Bolivar-Nieto",
       "target": "James Schmiedeler",
-      "weight": 2
+      "weight": 2,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4412605479",
+          "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+          "year": 2025
+        },
+        {
+          "id": "https://openalex.org/W4403662221",
+          "title": "Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+          "year": 2024
+        }
+      ]
     },
     {
       "source": "Hai Lin",
       "target": "Margaret Coad",
-      "weight": 2
+      "weight": 2,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4396875104",
+          "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4388444293",
+          "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
+          "year": 2023
+        }
+      ]
     },
     {
       "source": "Hai Lin",
       "target": "Yasemin Ozkan-Aydin",
-      "weight": 2
+      "weight": 2,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4365143342",
+          "title": "Stable Real-Time Feedback Control of a Pneumatic Soft Robot",
+          "year": 2023
+        },
+        {
+          "id": "https://openalex.org/W4389668019",
+          "title": "Stable Real-Time Feedback Control of a Pneumatic Soft Robot",
+          "year": 2023
+        }
+      ]
     },
     {
       "source": "Margaret Coad",
       "target": "Yasemin Ozkan-Aydin",
-      "weight": 2
+      "weight": 2,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4394564142",
+          "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+          "year": 2024
+        },
+        {
+          "id": "https://openalex.org/W4388092175",
+          "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+          "year": 2023
+        }
+      ]
     },
     {
       "source": "Hai Lin",
       "target": "James Schmiedeler",
-      "weight": 1
+      "weight": 1,
+      "papers": [
+        {
+          "id": "https://openalex.org/W3003846126",
+          "title": "Stability and Gait Switching of Underactuated Biped Walkers",
+          "year": 2019
+        }
+      ]
     },
     {
       "source": "Michael Lemmon",
       "target": "Patrick Wensing",
-      "weight": 1
+      "weight": 1,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4294690775",
+          "title": "to Control Robot Hopping over Uneven Terrain",
+          "year": 2022
+        }
+      ]
     },
     {
       "source": "Nikolaus Correll",
       "target": "Yasemin Ozkan-Aydin",
-      "weight": 1
+      "weight": 1,
+      "papers": [
+        {
+          "id": "https://openalex.org/W4245184442",
+          "title": "List of contributors",
+          "year": 2018
+        }
+      ]
     }
   ]
 }

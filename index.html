@@ -41,7 +41,22 @@
   .node text{font-size:11px;font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--panel);stroke-width:3px;pointer-events:none}
   .node.dim{opacity:.18}
   .link.dim{stroke-opacity:.06}
-  .elabel{font-size:10px;fill:#a11;font-weight:700;pointer-events:none;paint-order:stroke;stroke:var(--panel);stroke-width:3px}
+  .elabel{font-size:11px;fill:#a11;font-weight:700;cursor:pointer;paint-order:stroke;stroke:var(--panel);stroke-width:3px}
+  .elabel:hover{fill:var(--nd-gold-2)}
+  .link.sel{stroke:var(--nd-gold);stroke-opacity:1}
+  /* papers exploration panel */
+  #detail .back{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;color:var(--nd-gold-2);cursor:pointer;background:none;border:none;padding:0;margin-bottom:10px}
+  #detail h3{margin:2px 0 2px;font-size:15px}
+  #detail .pair{font-size:12.5px;color:var(--muted);margin-bottom:10px}
+  #detail ol{margin:0;padding:0;list-style:none;counter-reset:p}
+  #detail li{counter-increment:p;padding:8px 0;border-bottom:1px solid var(--line);font-size:12.5px;line-height:1.4;display:flex;gap:8px}
+  #detail li::before{content:counter(p);color:var(--muted);font-variant-numeric:tabular-nums;min-width:18px;text-align:right}
+  #detail li .body{flex:1}
+  #detail li a{color:var(--ink);text-decoration:none;font-weight:600}
+  #detail li a:hover{color:var(--nd-gold-2);text-decoration:underline}
+  #detail li .meta{display:block;margin-top:2px;color:var(--muted);font-size:11.5px}
+  #detail li .oa{color:var(--nd-gold-2);font-weight:600}
+  #detail .flag{color:#b06a00;font-size:11px;font-style:italic}
   #tip{position:absolute;pointer-events:none;background:var(--nd-navy);color:#fff;padding:9px 11px;border-radius:8px;font-size:12.5px;line-height:1.45;box-shadow:0 6px 20px rgba(0,0,0,.28);opacity:0;transition:opacity .12s;max-width:250px;z-index:5}
   #tip b{color:var(--nd-gold)}
   .legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;margin-top:6px}
@@ -65,13 +80,17 @@
 <div class="wrap">
   <div id="graph"><div id="tip"></div></div>
   <aside>
-    <h2>Overview</h2>
-    <div id="stats"></div>
-    <h2>Strongest collaborations</h2>
-    <table><thead><tr><th>Faculty pair</th><th class="w">papers</th></tr></thead><tbody id="edgeTable"></tbody></table>
-    <h2>Most collaborative</h2>
-    <table><thead><tr><th>Faculty</th><th class="w">co-auth.</th></tr></thead><tbody id="nodeTable"></tbody></table>
-    <div class="foot" id="foot"></div>
+    <div id="detail" hidden></div>
+    <div id="overview">
+      <h2>Overview</h2>
+      <div id="stats"></div>
+      <h2>Strongest collaborations</h2>
+      <p style="font-size:11.5px;color:var(--muted);margin:0 0 6px">Click an edge number in the graph, or a row below, to list the shared papers.</p>
+      <table><thead><tr><th>Faculty pair</th><th class="w">papers</th></tr></thead><tbody id="edgeTable"></tbody></table>
+      <h2>Most collaborative</h2>
+      <table><thead><tr><th>Faculty</th><th class="w">co-auth.</th></tr></thead><tbody id="nodeTable"></tbody></table>
+      <div class="foot" id="foot"></div>
+    </div>
   </aside>
 </div>
 
@@ -155,8 +174,48 @@ function render(data){
           .classed("dim",l=>!(l.source.id===d.id||l.target.id===d.id));
     })
     .on("mousemove",e=>{ const b=el.getBoundingClientRect(); tip.style.left=(e.clientX-b.left+14)+"px"; tip.style.top=(e.clientY-b.top+14)+"px"; })
-    .on("mouseout",()=>{ tip.style.opacity=0; node.classed("dim",false); link.classed("hl",false).classed("dim",false); })
+    .on("mouseout",()=>{ tip.style.opacity=0; node.classed("dim",false); link.classed("hl",false).classed("dim",false); applySel(); })
     .on("click",(e,d)=>{ if(d.openalex) window.open(d.openalex,"_blank"); });
+
+  // ---- edge exploration: click an edge weight to list the shared papers ----
+  const aside = document.querySelector("aside");
+  const detail = document.getElementById("detail");
+  const overview = document.getElementById("overview");
+  const esc = s => String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  // titles that are book front-matter etc., not real joint papers
+  const BOILER = /list of contributors|front ?matter|author index|editorial board|table of contents|acknowledg|copyright|^index$/i;
+  let selected = null;
+
+  function applySel(){
+    if(!selected) return;
+    const a=selected.source.id, b=selected.target.id;
+    link.classed("sel",l=>l===selected).classed("dim",l=>l!==selected);
+    node.classed("dim",n=>n.id!==a&&n.id!==b);
+  }
+  function openEdge(d){
+    selected=d;
+    const a=d.source.id||d.source, b=d.target.id||d.target;
+    const items=(d.papers||[]).map(p=>{
+      const flag=BOILER.test(p.title)?` <span class="flag">⚠ likely book front-matter, not a joint paper</span>`:"";
+      return `<li><div class="body"><a href="${p.id}" target="_blank" rel="noopener">${esc(p.title)}</a>${flag}`+
+             `<span class="meta">${p.year||"n.d."} · <a class="oa" href="${p.id}" target="_blank" rel="noopener">OpenAlex ↗</a></span></div></li>`;
+    }).join("");
+    detail.innerHTML=`<button class="back">← back to overview</button>`+
+      `<h3>${esc(a)} &amp; ${esc(b)}</h3>`+
+      `<div class="pair">${d.weight} shared ${d.weight===1?"paper":"papers"} · sorted newest first</div>`+
+      `<ol>${items}</ol>`;
+    detail.querySelector(".back").onclick=clearEdge;
+    overview.hidden=true; detail.hidden=false; aside.scrollTop=0;
+    applySel();
+  }
+  function clearEdge(){
+    selected=null;
+    link.classed("sel",false).classed("dim",false);
+    node.classed("dim",false);
+    detail.hidden=true; overview.hidden=false;
+  }
+  elabel.on("click",(e,d)=>{ e.stopPropagation(); openEdge(d); });
+  link.style("cursor","pointer").on("click",(e,d)=>openEdge(d));
 
   sim.on("tick",()=>{
     link.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y).attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
@@ -185,7 +244,8 @@ function render(data){
   const et=d3.select("#edgeTable");
   links.slice(0,10).forEach(l=>{
     et.append("tr").html(`<td>${l.source.id||l.source} — ${l.target.id||l.target}</td><td class="w">${l.weight}</td>`)
-      .on("mouseover",()=>flash(l.source.id||l.source,l.target.id||l.target));
+      .on("mouseover",()=>flash(l.source.id||l.source,l.target.id||l.target))
+      .on("click",()=>openEdge(l));
   });
   const nt=d3.select("#nodeTable");
   [...nodes].filter(n=>n.degree>0).sort((a,b)=>b.weightedDegree-a.weightedDegree).slice(0,8).forEach(n=>{

@@ -30,6 +30,7 @@ def load():
             "openalex_id": d.get("openalex_id"),
             "not_found": d.get("not_found", False),
             "work_coauthors": {w["id"]: {c["id"] for c in w["coauthors"]} for w in works},
+            "work_meta": {w["id"]: {"title": w.get("title"), "year": w.get("year")} for w in works},
         }
     return people
 
@@ -47,7 +48,13 @@ def build(people):
         if aid:
             shared |= {w for w, cos in people[b]["work_coauthors"].items() if aid in cos}
         if shared:
-            G.add_edge(a, b, weight=len(shared))
+            meta = {**people[a]["work_meta"], **people[b]["work_meta"]}
+            papers = [{"id": wid,
+                       "title": (meta.get(wid) or {}).get("title") or "(untitled)",
+                       "year": (meta.get(wid) or {}).get("year")}
+                      for wid in shared]
+            papers.sort(key=lambda p: (-(p["year"] or 0), p["title"]))
+            G.add_edge(a, b, weight=len(shared), papers=papers)
     return G
 
 
@@ -84,7 +91,7 @@ def to_graph_json(G, groups):
             "degree": G.degree(n),
             "group": groups.get(n, -1),
         })
-    links = [{"source": u, "target": v, "weight": d["weight"]}
+    links = [{"source": u, "target": v, "weight": d["weight"], "papers": d.get("papers", [])}
              for u, v, d in sorted(G.edges(data=True), key=lambda e: -e[2]["weight"])]
     return {
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
