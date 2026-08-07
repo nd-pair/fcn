@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07 23:20 UTC",
+  "generated": "2026-08-07 23:22 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Robotics @ Notre Dame faculty collaboration network. Node size = number of publications; edge weight = number of co-authored papers between two faculty.",
   "nodeCount": 16,
