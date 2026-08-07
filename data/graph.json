@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07 23:56 UTC",
+  "generated": "2026-08-07 23:57 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Robotics @ Notre Dame faculty collaboration network. Node size = number of papers co-authored with ND colleagues; edge weight = number of papers the two faculty co-authored.",
   "nodeCount": 16,
@@ -301,26 +301,20 @@
           "date": "2022-03-04"
         },
         {
-          "id": "https://openalex.org/W3217722183",
-          "title": "Modeling of Hybrid Systems",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
-          "id": "https://openalex.org/W4200531256",
-          "title": "Formal Verification",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
           "id": "https://openalex.org/W4200597480",
           "title": "Introduction",
           "year": 2021,
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W4200447063",
-          "title": "Optimal Control",
+          "id": "https://openalex.org/W4200110885",
+          "title": "Formal Synthesis",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -331,8 +325,14 @@
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W4200110885",
-          "title": "Formal Synthesis",
+          "id": "https://openalex.org/W4200447063",
+          "title": "Optimal Control",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W4200531256",
+          "title": "Formal Verification",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -469,26 +469,20 @@
           "date": "2004-06-21"
         },
         {
-          "id": "https://openalex.org/W2101574607",
-          "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance",
-          "year": 2004,
-          "date": "2004-02-03"
-        },
-        {
           "id": "https://openalex.org/W2109082235",
           "title": "Robust invariant control synthesis for discrete-time polytopic uncertain linear hybrid systems",
           "year": 2004,
           "date": "2004-02-03"
         },
         {
-          "id": "https://openalex.org/W2126119476",
-          "title": "Stabilization and performance analysis for a class of switched systems",
+          "id": "https://openalex.org/W2101574607",
+          "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance",
           "year": 2004,
-          "date": "2004-01-01"
+          "date": "2004-02-03"
         },
         {
-          "id": "https://openalex.org/W2171506252",
-          "title": "Persistent disturbance attenuation properties for networked control systems",
+          "id": "https://openalex.org/W2155969328",
+          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -499,8 +493,14 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2155969328",
-          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
+          "id": "https://openalex.org/W2171506252",
+          "title": "Persistent disturbance attenuation properties for networked control systems",
+          "year": 2004,
+          "date": "2004-01-01"
+        },
+        {
+          "id": "https://openalex.org/W2126119476",
+          "title": "Stabilization and performance analysis for a class of switched systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -511,14 +511,14 @@
           "date": "2003-11-01"
         },
         {
-          "id": "https://openalex.org/W2098718154",
-          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
+          "id": "https://openalex.org/W1506290449",
+          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
           "year": 2003,
           "date": "2003-08-27"
         },
         {
-          "id": "https://openalex.org/W1506290449",
-          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+          "id": "https://openalex.org/W2098718154",
+          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
           "year": 2003,
           "date": "2003-08-27"
         },
@@ -529,14 +529,14 @@
           "date": "2003-06-25"
         },
         {
-          "id": "https://openalex.org/W2039015886",
-          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
+          "id": "https://openalex.org/W2157269445",
+          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
           "year": 2003,
           "date": "2003-01-01"
         },
         {
-          "id": "https://openalex.org/W2157269445",
-          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
+          "id": "https://openalex.org/W2039015886",
+          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
           "year": 2003,
           "date": "2003-01-01"
         },
@@ -578,14 +578,14 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W1568282822",
-          "title": "Hybrid systems and intelligent control",
+          "id": "https://openalex.org/W1927720263",
+          "title": "Event identification in hybrid control systems",
           "year": 2002,
           "date": "2002-12-30"
         },
         {
-          "id": "https://openalex.org/W1927720263",
-          "title": "Event identification in hybrid control systems",
+          "id": "https://openalex.org/W1568282822",
+          "title": "Hybrid systems and intelligent control",
           "year": 2002,
           "date": "2002-12-30"
         },
@@ -602,14 +602,14 @@
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W2124901174",
-          "title": "Feedback control of Petri nets based on place invariants",
+          "id": "https://openalex.org/W2168331226",
+          "title": "A computationally efficient framework for hybrid controller design",
           "year": 2002,
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W2168331226",
-          "title": "A computationally efficient framework for hybrid controller design",
+          "id": "https://openalex.org/W2124901174",
+          "title": "Feedback control of Petri nets based on place invariants",
           "year": 2002,
           "date": "2002-12-17"
         },
@@ -638,14 +638,14 @@
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W2145108940",
-          "title": "Hybrid control system design based on natural invariants",
+          "id": "https://openalex.org/W2126888592",
+          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
           "year": 2002,
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W2126888592",
-          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
+          "id": "https://openalex.org/W2145108940",
+          "title": "Hybrid control system design based on natural invariants",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -668,6 +668,12 @@
           "date": "1998-01-05"
         },
         {
+          "id": "https://openalex.org/W2115329200",
+          "title": "A logical DES approach to the design of hybrid control systems",
+          "year": 1996,
+          "date": "1996-06-01"
+        },
+        {
           "id": "https://openalex.org/W2727562789",
           "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
           "year": 1996,
@@ -676,12 +682,6 @@
         {
           "id": "https://openalex.org/W2733303269",
           "title": "Petri Net Feedback Controller Design for a Manufacturing System",
-          "year": 1996,
-          "date": "1996-06-01"
-        },
-        {
-          "id": "https://openalex.org/W2115329200",
-          "title": "A logical DES approach to the design of hybrid control systems",
           "year": 1996,
           "date": "1996-06-01"
         },
@@ -710,8 +710,8 @@
           "date": "1995-02-01"
         },
         {
-          "id": "https://openalex.org/W1920642675",
-          "title": "Constructing hybrid control systems from robust linear control agents",
+          "id": "https://openalex.org/W2138456650",
+          "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
           "year": 1995,
           "date": "1995-01-01"
         },
@@ -722,20 +722,20 @@
           "date": "1995-01-01"
         },
         {
-          "id": "https://openalex.org/W2138456650",
-          "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
+          "id": "https://openalex.org/W1920642675",
+          "title": "Constructing hybrid control systems from robust linear control agents",
           "year": 1995,
           "date": "1995-01-01"
         },
         {
-          "id": "https://openalex.org/W1549769098",
-          "title": "Event identification and intelligent hybrid control",
+          "id": "https://openalex.org/W1559815321",
+          "title": "Hybrid system modeling and autonomous control systems",
           "year": 1993,
           "date": "1993-01-01"
         },
         {
-          "id": "https://openalex.org/W1559815321",
-          "title": "Hybrid system modeling and autonomous control systems",
+          "id": "https://openalex.org/W1549769098",
+          "title": "Event identification and intelligent hybrid control",
           "year": 1993,
           "date": "1993-01-01"
         }
