@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Robotics @ Notre Dame — Faculty Collaboration Network</title>
+<style>
+  :root{
+    --nd-navy:#0c2340; --nd-navy-2:#12315b; --nd-gold:#c99700; --nd-gold-2:#ae7a00;
+    --bg:#f6f7f9; --panel:#ffffff; --ink:#1a2230; --muted:#5b6472; --line:#e4e7ec;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0b1220; --panel:#121a2b; --ink:#e8ecf3; --muted:#95a0b3; --line:#22304a; }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+  header{padding:18px 22px 12px;border-bottom:1px solid var(--line);background:var(--panel)}
+  header h1{margin:0;font-size:19px;letter-spacing:.2px}
+  header h1 .gold{color:var(--nd-gold)}
+  header p{margin:5px 0 0;font-size:13px;color:var(--muted);max-width:900px}
+  .wrap{display:flex;height:calc(100% - 74px);min-height:520px}
+  #graph{flex:1;position:relative;overflow:hidden}
+  aside{width:320px;border-left:1px solid var(--line);background:var(--panel);padding:16px 16px 24px;overflow-y:auto}
+  aside h2{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:18px 0 8px}
+  aside h2:first-child{margin-top:0}
+  .stat{display:flex;justify-content:space-between;font-size:13px;padding:3px 0;border-bottom:1px dashed var(--line)}
+  table{width:100%;border-collapse:collapse;font-size:12.5px}
+  th,td{text-align:left;padding:4px 6px}
+  th{color:var(--muted);font-weight:600;border-bottom:1px solid var(--line)}
+  tbody tr:hover{background:rgba(201,151,0,.10);cursor:pointer}
+  td.w{text-align:right;font-variant-numeric:tabular-nums;font-weight:700;color:var(--nd-gold-2)}
+  .controls{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--muted);padding:8px 22px;background:var(--panel);border-bottom:1px solid var(--line);align-items:center}
+  .controls label{display:flex;gap:5px;align-items:center;cursor:pointer}
+  .foot{font-size:11.5px;color:var(--muted);margin-top:14px;line-height:1.5}
+  .foot a{color:var(--nd-gold-2)}
+  svg{display:block;width:100%;height:100%}
+  .link{stroke:#8aa0c0;stroke-opacity:.5}
+  .link.hl{stroke:var(--nd-gold);stroke-opacity:.95}
+  .node circle{stroke:#0c2340;stroke-width:1.3px;cursor:grab}
+  @media (prefers-color-scheme: dark){ .node circle{stroke:#dbe4f5} }
+  .node text{font-size:11px;font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--panel);stroke-width:3px;pointer-events:none}
+  .node.dim{opacity:.18}
+  .link.dim{stroke-opacity:.06}
+  .elabel{font-size:10px;fill:#a11;font-weight:700;pointer-events:none;paint-order:stroke;stroke:var(--panel);stroke-width:3px}
+  #tip{position:absolute;pointer-events:none;background:var(--nd-navy);color:#fff;padding:9px 11px;border-radius:8px;font-size:12.5px;line-height:1.45;box-shadow:0 6px 20px rgba(0,0,0,.28);opacity:0;transition:opacity .12s;max-width:250px;z-index:5}
+  #tip b{color:var(--nd-gold)}
+  .legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;margin-top:6px}
+  .legend span{display:inline-flex;align-items:center;gap:5px}
+  .dot{width:11px;height:11px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.25)}
+  @media (max-width:820px){ .wrap{flex-direction:column;height:auto} aside{width:auto;border-left:none;border-top:1px solid var(--line)} #graph{height:62vh} }
+</style>
+</head>
+<body>
+<header>
+  <h1>Robotics <span class="gold">@</span> Notre Dame — Faculty Collaboration Network</h1>
+  <p id="subtitle">Who co-authors with whom. Each node is a faculty member sized by number of
+  publications; each link's thickness and number is how many papers the two have co-authored.</p>
+</header>
+<div class="controls">
+  <label><input type="checkbox" id="tLabels" checked> node labels</label>
+  <label><input type="checkbox" id="tEdgeLabels" checked> edge weights</label>
+  <label><input type="checkbox" id="tIsolates" checked> show unconnected faculty</label>
+  <span style="margin-left:auto" class="legend" id="legend"></span>
+</div>
+<div class="wrap">
+  <div id="graph"><div id="tip"></div></div>
+  <aside>
+    <h2>Overview</h2>
+    <div id="stats"></div>
+    <h2>Strongest collaborations</h2>
+    <table><thead><tr><th>Faculty pair</th><th class="w">papers</th></tr></thead><tbody id="edgeTable"></tbody></table>
+    <h2>Most collaborative</h2>
+    <table><thead><tr><th>Faculty</th><th class="w">co-auth.</th></tr></thead><tbody id="nodeTable"></tbody></table>
+    <div class="foot" id="foot"></div>
+  </aside>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script>
+const COLORS = d3.schemeTableau10;
+const groupColor = g => g < 0 ? "#c8cfda" : COLORS[g % COLORS.length];
+
+fetch("data/graph.json").then(r=>r.json()).then(data=>{
+  document.getElementById("subtitle").innerHTML +=
+    ` &nbsp;·&nbsp; <b>${data.nodeCount}</b> faculty, <b>${data.edgeCount}</b> collaborations.`;
+  render(data);
+}).catch(e=>{
+  document.getElementById("graph").innerHTML =
+    '<p style="padding:24px;color:#a11">Could not load <code>data/graph.json</code>. '+
+    'Run <code>python scripts/crawl_openalex.py &amp;&amp; python scripts/build_site.py</code>.</p>';
+  console.error(e);
+});
+
+function render(data){
+  const el = document.getElementById("graph");
+  const tip = document.getElementById("tip");
+  // Fixed virtual coordinate space; the SVG scales it to fit any container,
+  // centered, via preserveAspectRatio — so layout never depends on pixel size.
+  const W = 1000, H = 720;
+
+  const svg = d3.select("#graph").append("svg")
+    .attr("viewBox",[0,0,W,H]).attr("preserveAspectRatio","xMidYMid meet");
+  const root = svg.append("g");
+  const zoom = d3.zoom().scaleExtent([0.4,5]).on("zoom", e=>root.attr("transform", e.transform));
+  svg.call(zoom);
+
+  const nodes = data.nodes.map(d=>Object.assign({},d));
+  const links = data.links.map(d=>Object.assign({},d));
+  const byId = new Map(nodes.map(n=>[n.id,n]));
+  const rOf = d => 6 + 2.1*Math.sqrt(d.publications||1);
+  const maxW = d3.max(links, d=>d.weight)||1;
+  const wOf = d => 1 + 7*d.weight/maxW;
+
+  const neighbors = new Map(nodes.map(n=>[n.id,new Set([n.id])]));
+  links.forEach(l=>{ neighbors.get(l.source).add(l.target); neighbors.get(l.target).add(l.source); });
+
+  // Park unconnected faculty in a tidy row along the top; force-lay the rest.
+  const iso = nodes.filter(n=>n.degree===0);
+  const conn = nodes.filter(n=>n.degree>0);
+  const topY = 80, mL = 70, mR = 70;
+  iso.forEach((n,i)=>{ n.fx = mL + (W-mL-mR)*(iso.length>1? i/(iso.length-1):0.5); n.fy = topY; n.pinned=true; });
+
+  const sim = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(d=>d.id).distance(d=>92 + 70/(d.weight)).strength(d=>Math.min(1,0.03*d.weight+0.14)))
+    .force("charge", d3.forceManyBody().strength(d=>d.pinned?0:-620).distanceMax(500))
+    .force("collide", d3.forceCollide(d=>rOf(d)+16).strength(1))
+    .force("x", d3.forceX(W/2).strength(0.09))
+    .force("y", d3.forceY(d=>d.pinned?topY:H*0.56).strength(d=>d.pinned?0:0.13))
+    .alpha(1).alphaDecay(0.02);
+
+  const link = root.append("g").selectAll("line").data(links).join("line")
+    .attr("class","link").attr("stroke-width",wOf);
+
+  const elabel = root.append("g").selectAll("text").data(links).join("text")
+    .attr("class","elabel").attr("text-anchor","middle").text(d=>d.weight);
+
+  const node = root.append("g").selectAll("g").data(nodes).join("g").attr("class","node")
+    .call(d3.drag()
+      .on("start",(e,d)=>{ if(!e.active) sim.alphaTarget(.3).restart(); d.fx=d.x; d.fy=d.y; })
+      .on("drag",(e,d)=>{ d.fx=e.x; d.fy=e.y; })
+      .on("end",(e,d)=>{ if(!e.active) sim.alphaTarget(0); if(!d.pinned){ d.fx=null; d.fy=null; } }));
+
+  node.append("circle").attr("r",rOf).attr("fill",d=>groupColor(d.group));
+  node.append("text").attr("x",0).attr("y",d=>rOf(d)+12).attr("text-anchor","middle").text(d=>d.id);
+
+  node.on("mouseover",(e,d)=>{
+      tip.style.opacity=1;
+      tip.innerHTML = `<b>${d.id}</b><br>${d.affiliation||"—"}<br>`+
+        `Publications: <b>${d.publications}</b><br>`+
+        (d.citedBy?`Cited by: <b>${d.citedBy.toLocaleString()}</b><br>`:"")+
+        `Co-authored papers w/ ND: <b>${d.weightedDegree}</b> (across ${d.degree})`;
+      const nb = neighbors.get(d.id);
+      node.classed("dim",n=>!nb.has(n.id));
+      link.classed("hl",l=>l.source.id===d.id||l.target.id===d.id)
+          .classed("dim",l=>!(l.source.id===d.id||l.target.id===d.id));
+    })
+    .on("mousemove",e=>{ const b=el.getBoundingClientRect(); tip.style.left=(e.clientX-b.left+14)+"px"; tip.style.top=(e.clientY-b.top+14)+"px"; })
+    .on("mouseout",()=>{ tip.style.opacity=0; node.classed("dim",false); link.classed("hl",false).classed("dim",false); })
+    .on("click",(e,d)=>{ if(d.openalex) window.open(d.openalex,"_blank"); });
+
+  sim.on("tick",()=>{
+    link.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y).attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+    elabel.attr("x",d=>(d.source.x+d.target.x)/2).attr("y",d=>(d.source.y+d.target.y)/2);
+    node.attr("transform",d=>`translate(${d.x},${d.y})`);
+  });
+
+  // ---- controls ----
+  const upd = ()=>{
+    const showLab=document.getElementById("tLabels").checked;
+    const showEL=document.getElementById("tEdgeLabels").checked;
+    const showIso=document.getElementById("tIsolates").checked;
+    node.select("text").style("display",showLab?null:"none");
+    elabel.style("display",showEL?null:"none");
+    node.style("display",d=> (!showIso && d.degree===0)?"none":null);
+  };
+  ["tLabels","tEdgeLabels","tIsolates"].forEach(id=>document.getElementById(id).addEventListener("change",upd));
+
+  // ---- side panel ----
+  document.getElementById("stats").innerHTML =
+    `<div class="stat"><span>Faculty</span><b>${data.nodeCount}</b></div>`+
+    `<div class="stat"><span>Collaboration links</span><b>${data.edgeCount}</b></div>`+
+    `<div class="stat"><span>Co-authored papers (total)</span><b>${d3.sum(links,l=>l.weight)}</b></div>`+
+    `<div class="stat"><span>Unconnected faculty</span><b>${nodes.filter(n=>n.degree===0).length}</b></div>`;
+
+  const et=d3.select("#edgeTable");
+  links.slice(0,10).forEach(l=>{
+    et.append("tr").html(`<td>${l.source.id||l.source} — ${l.target.id||l.target}</td><td class="w">${l.weight}</td>`)
+      .on("mouseover",()=>flash(l.source.id||l.source,l.target.id||l.target));
+  });
+  const nt=d3.select("#nodeTable");
+  [...nodes].filter(n=>n.degree>0).sort((a,b)=>b.weightedDegree-a.weightedDegree).slice(0,8).forEach(n=>{
+    nt.append("tr").html(`<td>${n.id}</td><td class="w">${n.weightedDegree}</td>`);
+  });
+
+  function flash(a,b){
+    link.classed("hl",l=>(l.source.id===a&&l.target.id===b)||(l.source.id===b&&l.target.id===a));
+    setTimeout(()=>link.classed("hl",false),900);
+  }
+
+  // legend
+  const groups=[...new Set(nodes.map(n=>n.group))].sort((a,b)=>a-b);
+  document.getElementById("legend").innerHTML = groups.map(g=>
+    `<span><i class="dot" style="background:${groupColor(g)}"></i>${g<0?"no ND co-authors":"cluster "+(g+1)}</span>`).join("");
+
+  document.getElementById("foot").innerHTML =
+    `Data: ${data.source}. Generated ${data.generated}.<br>`+
+    `Collaboration = shared authorship on the same work (matched by OpenAlex author id). `+
+    `Click a node to open its OpenAlex profile. Rebuilt weekly via GitHub Actions.`;
+
+}
+</script>
+</body>
+</html>

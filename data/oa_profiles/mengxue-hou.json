@@ -1,0 +1,792 @@
+{
+  "query_name": "Mengxue Hou",
+  "openalex_id": "https://openalex.org/A5063884621",
+  "display_name": "Mengxue Hou",
+  "affiliation": "University of Notre Dame",
+  "works_count": 35,
+  "cited_by_count": 165,
+  "num_works_fetched": 35,
+  "works": [
+    {
+      "id": "https://openalex.org/W2907924447",
+      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5070056911",
+          "name": "Jaeseok Cha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387448093",
+      "title": "Data-Driven High-Order Point-to-Point ILC With Higher Computational Efficiency",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5041213364",
+          "name": "Xueming Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5082706113",
+          "name": "Zhongsheng Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406864698",
+      "title": "OceanPlan: Hierarchical Planning and Replanning for Natural Language AUV Piloting in Large-scale Unexplored Ocean Environments",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413917919",
+      "title": "Self-Improving Autonomous Underwater Manipulation",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5017865140",
+          "name": "Ruoshi Liu"
+        },
+        {
+          "id": "https://openalex.org/A5042636645",
+          "name": "Ho Kyung Ha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5113083211",
+          "name": "Shuran Song"
+        },
+        {
+          "id": "https://openalex.org/A5114618475",
+          "name": "Carl Vondrick"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3120735816",
+      "title": "Modeling and Identification of Coupled Translational and Rotational Motion of Underactuated Indoor Miniature Autonomous Blimps",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3005560147",
+      "title": "An LSTM based Kalman Filter for Spatio-temporal Ocean Currents Assimilation",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047956072",
+          "name": "Ziqiao Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3182800290",
+      "title": "Bounded Cost Path Planning for Underwater Vehicles Assisted by a Time-Invariant Partitioned Flow Field Model",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5101979085",
+          "name": "Sung\u2010Jin Cho"
+        },
+        {
+          "id": "https://openalex.org/A5102878627",
+          "name": "Haomin Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2994185948",
+      "title": "Modeling Pointing Tasks in Human-Blimp Interactions",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5084672543",
+          "name": "Paul Varnell"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4283834141",
+      "title": "Human pointing motion during interaction with an autonomous blimp",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3178630954",
+      "title": "Improved trajectory tracing of underwater vehicles for flow field mapping",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057337945",
+          "name": "Meriam Ouerghi"
+        },
+        {
+          "id": "https://openalex.org/A5017035752",
+          "name": "Sean Maxon"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4294405895",
+      "title": "Method of evolving junction on optimal path planning in flows fields",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071027206",
+          "name": "Haoyan Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5102878627",
+          "name": "Haomin Zhou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406388852",
+      "title": "Hamiltonian based AUV navigation using adaptive finite-time trajectory tracking control",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034575468",
+          "name": "Jiankuo Cui"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5072154999",
+          "name": "Zheng Peng"
+        },
+        {
+          "id": "https://openalex.org/A5100628922",
+          "name": "Ying Wang"
+        },
+        {
+          "id": "https://openalex.org/A5079446319",
+          "name": "Jun\u2010Hong Cui"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3207900478",
+      "title": "Belief Space Partitioning for Symbolic Motion Planning",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5101441653",
+          "name": "Tony X. Lin"
+        },
+        {
+          "id": "https://openalex.org/A5102878627",
+          "name": "Haomin Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5118983736",
+          "name": "Wei Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2905213254",
+      "title": "A Combined Path Planning and Path Following Method for Underwater Glider Navigation in a Strong, Dynamic Flow Field",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5100424824",
+          "name": "Shijie Liu"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3154958406",
+      "title": "Bounded Cost HTN Planning for Marine Autonomy",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101441653",
+          "name": "Tony X. Lin"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        },
+        {
+          "id": "https://openalex.org/A5068596523",
+          "name": "Michael T. Cox"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405759993",
+      "title": "Mori-zwanzig approach for belief abstraction with application to belief space planning",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5101441653",
+          "name": "Tony X. Lin"
+        },
+        {
+          "id": "https://openalex.org/A5083807807",
+          "name": "Enlu Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4366818296",
+      "title": "Anomaly Detection of Underwater Gliders Verified by Deployment Data",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5033568950",
+          "name": "Chad Lembke"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382936192",
+      "title": "Integrated Task and Motion Planning for Process-aware Source Seeking",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101908192",
+          "name": "Yingke Li"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5083807807",
+          "name": "Enlu Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2980074322",
+      "title": "Partitioning ocean flow field for underwater vehicle path planning",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5071027206",
+          "name": "Haoyan Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5041983430",
+          "name": "Homin Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2910279689",
+      "title": "Path Tracking Error Analysis for Underwater Glider Navigation in a Spatially and Temporally Varying Flow Field",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5100424824",
+          "name": "Shijie Liu"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387210453",
+      "title": "OceanChat: Piloting Autonomous Underwater Vehicles in Natural Language",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5100650243",
+          "name": "Junkai Wang"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2940457419",
+      "title": "Method of evolving junction on optimal path planning in flow fields",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071027206",
+          "name": "Haoyan Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5102878627",
+          "name": "Haomin Zhou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4206254691",
+      "title": "Human Pointing Motion during Interaction with an Autonomous Blimp",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4220880746",
+      "title": "Human Pointing Motion during Interaction with an Autonomous Blimp",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4297983001",
+      "title": "Laplacian Regularized Motion Tomography for Underwater Vehicle Flow Mapping with Sporadic Localization Measurements",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057337945",
+          "name": "Meriam Ouerghi"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382935669",
+      "title": "An Interleaved Algorithm for Integration of Robotic Task and Motion Planning",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5101908192",
+          "name": "Yingke Li"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5076731201",
+          "name": "Shreyas Sundaram"
+        },
+        {
+          "id": "https://openalex.org/A5070733769",
+          "name": "Shaoshuai Mou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4386010265",
+      "title": "Mori-Zwanzig Approach for Belief Abstraction with Application to Belief Space Planning",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5101441653",
+          "name": "Tony X. Lin"
+        },
+        {
+          "id": "https://openalex.org/A5083807807",
+          "name": "Enlu Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4393178475",
+      "title": "OceanPlan: Hierarchical Planning and Replanning for Natural Language AUV Piloting in Large-scale Unexplored Ocean Environments",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403357010",
+      "title": "Dynamic event-triggered integrated task and motion planning for process-aware source seeking",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101908192",
+          "name": "Yingke Li"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5083807807",
+          "name": "Enlu Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404307854",
+      "title": "Self-Improving Autonomous Underwater Manipulation",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5017865140",
+          "name": "Ruoshi Liu"
+        },
+        {
+          "id": "https://openalex.org/A5042636645",
+          "name": "Ho Kyung Ha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5113083211",
+          "name": "Shuran Song"
+        },
+        {
+          "id": "https://openalex.org/A5114618475",
+          "name": "Carl Vondrick"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412966030",
+      "title": "A Mori-Zwanzig Formalism Based Estimation Approach for Dynamic Obstacle Avoidance",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416726457",
+      "title": "Uncertainty-Aware 3D Gaussian Splatting (3DGS) Based Pose Estimation for Underwater Vehicles",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100581509",
+          "name": "Zhou Yu"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416726780",
+      "title": "Active Perception for Underwater Vehicle Navigation based on Belief Space Planning",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5089297052",
+          "name": "Zongyao Liu"
+        },
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416841427",
+      "title": "Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5016175345",
+          "name": "Yu Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5101870596",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7164821209",
+      "title": "Active Sensing and Deferred-Decision Trajectory Optimization for Robust Target Identification",
+      "year": 2026,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065538034",
+          "name": "Farbod Siahkali"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        }
+      ]
+    }
+  ]
+}

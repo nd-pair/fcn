@@ -1,0 +1,2828 @@
+{
+  "query_name": "James Schmiedeler",
+  "openalex_id": "https://openalex.org/A5073029557",
+  "display_name": "James P. Schmiedeler",
+  "affiliation": "University of Notre Dame",
+  "works_count": 147,
+  "cited_by_count": 2053,
+  "num_works_fetched": 147,
+  "works": [
+    {
+      "id": "https://openalex.org/W2168070094",
+      "title": "Predicting human walking gaits with a simple planar model",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1974902982",
+      "title": "Design and control of a planar bipedal robot ERNIE with\u00a0parallel\u00a0knee compliance",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5033546888",
+          "name": "Tao Yang"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5023309564",
+          "name": "R. A. Bockbrader"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2023392182",
+      "title": "Design and experimental implementation of a hybrid zero dynamics-based controller for planar bipeds with curved feet",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5065152195",
+          "name": "David C. Post"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4256673617",
+      "title": "Kinematics",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2100245847",
+      "title": "Intelligent control of quadruped gallops",
+      "year": 2003,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071582843",
+          "name": "Duane Marhefka"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2045069569",
+      "title": "Kinematic Synthesis for Finitely Separated Positions Using Geometric Constraint Programming",
+      "year": 2005,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2165303637",
+      "title": "Separating brain motion into rigid body displacement and deformation under low-severity impacts",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021410685",
+          "name": "Hong Zou"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5111802079",
+          "name": "Warren N. Hardy"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2157144668",
+      "title": "A framework for the control of stable aperiodic walking in\u00a0underactuated planar bipeds",
+      "year": 2009,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5033546888",
+          "name": "Tao Yang"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5027828418",
+          "name": "Andrea Serrani"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4252838624",
+      "title": "Kinematics",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1989603363",
+      "title": "Design of Planar, Shape-Changing Rigid-Body Mechanisms for Morphing Aircraft Wings",
+      "year": 2012,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2082089015",
+      "title": "The effects of foot geometric properties on the gait of planar bipeds walking under HZD-based control",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5065152195",
+          "name": "David C. Post"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1967630164",
+      "title": "A low-cost hybrid drivetrain concept based on compressed air energy storage",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5084845728",
+          "name": "Vijayalakshmi Atluri"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2106699917",
+      "title": "Enhanced feedback in balance rehabilitation using the Nintendo Wii Balance Board",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5025447939",
+          "name": "Michael W. Kennedy"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5088606631",
+          "name": "Charles R. Crowell"
+        },
+        {
+          "id": "https://openalex.org/A5049080736",
+          "name": "Michael Villano"
+        },
+        {
+          "id": "https://openalex.org/A5048928683",
+          "name": "Aaron Striegel"
+        },
+        {
+          "id": "https://openalex.org/A5051526290",
+          "name": "Johan Kuitse"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1595630499",
+      "title": "Intelligent control of an experimental articulated leg for a galloping machine",
+      "year": 2004,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110760099",
+          "name": "Luther R. Palmer"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        },
+        {
+          "id": "https://openalex.org/A5071582843",
+          "name": "Duane Marhefka"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2294564419",
+      "title": "Terrain-Blind Humanoid Walking Based on a 3-D Actuated Dual-SLIP Model",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100726692",
+          "name": "Yiping Liu"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2003360674",
+      "title": "Kinematic Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5023626151",
+          "name": "Brian M. Korte"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1969948465",
+      "title": "Design of Crashworthy Structures With Controlled Energy Absorption in the Hybrid Cellular Automaton Framework",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057528643",
+          "name": "Punit Bandi"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5027957587",
+          "name": "Andr\u00e9s Tovar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2517750521",
+      "title": "Reaction Wheel Actuation for Improving Planar Biped Walking Efficiency",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4381327754",
+      "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2046267974",
+      "title": "Velocity disturbance rejection for planar bipeds walking with HZD-based control",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065152195",
+          "name": "David C. Post"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2970075639",
+      "title": "Terrain-blind walking of planar underactuated bipeds via velocity decomposition-enhanced control",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2094153981",
+      "title": "A new look at an old problem: Defining weight acceptance in human walking",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        },
+        {
+          "id": "https://openalex.org/A5108627016",
+          "name": "Julie Bing"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2191898256",
+      "title": "Design of progressively folding thin-walled tubular components using compliant mechanism synthesis",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057528643",
+          "name": "Punit Bandi"
+        },
+        {
+          "id": "https://openalex.org/A5109076154",
+          "name": "Duane Detwiler"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5027957587",
+          "name": "Andr\u00e9s Tovar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2009043150",
+      "title": "Energetic effects of reaction wheel actuation on underactuated biped robot walking",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2300549329",
+      "title": "Effects of Filtering the Center of Pressure Feedback Provided in Visually Guided Mediolateral Weight Shifting",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5025447939",
+          "name": "Michael W. Kennedy"
+        },
+        {
+          "id": "https://openalex.org/A5088606631",
+          "name": "Charles R. Crowell"
+        },
+        {
+          "id": "https://openalex.org/A5049080736",
+          "name": "Michael Villano"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401416566",
+      "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5092973312",
+          "name": "Jonathan A. Tittle"
+        },
+        {
+          "id": "https://openalex.org/A5081218074",
+          "name": "David J. Kelly"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2004207977",
+      "title": "A Unidirectional Series-Elastic Actuator Design Using a Spiral Torsion Spring",
+      "year": 2009,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012770140",
+          "name": "Brian T. Knox"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2073746737",
+      "title": "The Mechanics of Quadrupedal Galloping and the Future of Legged Vehicles",
+      "year": 1999,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1974472651",
+      "title": "Relative efficacy of various strategies for visual feedback in standing balance activities",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5025447939",
+          "name": "Michael W. Kennedy"
+        },
+        {
+          "id": "https://openalex.org/A5088606631",
+          "name": "Charles R. Crowell"
+        },
+        {
+          "id": "https://openalex.org/A5048928683",
+          "name": "Aaron Striegel"
+        },
+        {
+          "id": "https://openalex.org/A5049080736",
+          "name": "Michael Villano"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4237205653",
+      "title": "Function Generation With Finitely Separated Precision Points Using Geometric Constraint Programming",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2025214697",
+      "title": "The leading joint hypothesis for spatial reaching arm motions",
+      "year": 2012,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2048886794",
+      "title": "Design, implementation, and control of a six-axis compliant stage",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5088021291",
+          "name": "Kaixuan Hu"
+        },
+        {
+          "id": "https://openalex.org/A5100426073",
+          "name": "Jung Ho Kim"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5015116747",
+          "name": "Chia-Hsiang Menq"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1749982343",
+      "title": "Quantification of Classical Gestalt Principles in Two-Dimensional Product Representations",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029309848",
+          "name": "Jos\u00e9 E. Lugo"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5061414976",
+          "name": "Stephen M. Batill"
+        },
+        {
+          "id": "https://openalex.org/A5073819937",
+          "name": "Laura A. Carlson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2030774673",
+      "title": "Synthesis of Planar Rigid-Body Mechanisms Approximating Shape Changes Defined by Closed Curves",
+      "year": 2009,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058088868",
+          "name": "Justin A. Persinger"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2278945042",
+      "title": "Relationship Between Product Aesthetic Subject Preference and Quantified Gestalt Principles in Automobile Wheel Rims",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029309848",
+          "name": "Jos\u00e9 E. Lugo"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5061414976",
+          "name": "Stephen M. Batill"
+        },
+        {
+          "id": "https://openalex.org/A5073819937",
+          "name": "Laura A. Carlson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3129335276",
+      "title": "Rapid Bipedal Gait Optimization in CasADi",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2789316480",
+      "title": "Design and Experimental Validation of a Velocity Decomposition-Based Controller for Underactuated Planar Bipeds",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W617122706",
+      "title": "Advances in Mechanisms, Robotics and Design Education and Research",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102102279",
+          "name": "Vijay Kumar"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5004012415",
+          "name": "S. V. Sreenivasan"
+        },
+        {
+          "id": "https://openalex.org/A5037315815",
+          "name": "Hai\u2010Jun Su"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2101392302",
+      "title": "Design of Planar Multi-Degree-of-Freedom Morphing Mechanisms",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5101580169",
+          "name": "Kai Zhao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2133934189",
+      "title": "Interpreting lateral dynamic weight shifts using a simple inverted pendulum model",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5025447939",
+          "name": "Michael W. Kennedy"
+        },
+        {
+          "id": "https://openalex.org/A5090037830",
+          "name": "Timothy Bretl"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392543670",
+      "title": "Lower-Limb Myoelectric Calibration Postures for Transtibial Prostheses",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5111141963",
+          "name": "Emmalynn C. Barry"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412605479",
+      "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5115596636",
+          "name": "Kang Yang"
+        },
+        {
+          "id": "https://openalex.org/A5114367867",
+          "name": "Myia Dickens"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2007478383",
+      "title": "Function Generation With Finitely-Separated Precision Points Using Geometric Constraint Programming",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2103449415",
+      "title": "The effect of asymmetrical body-mass distribution on the stability and dynamics of quadruped bounding",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021410685",
+          "name": "Hong Zou"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2074206144",
+      "title": "Design of Series-Elastic Actuators for Dynamic Robots With Articulated Legs",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5013917021",
+          "name": "Simon Curran"
+        },
+        {
+          "id": "https://openalex.org/A5012770140",
+          "name": "Brian T. Knox"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2055702019",
+      "title": "A methodology for implementing the curvature theory approach to path tracking with planar robots",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2013470556",
+      "title": "The effect of brain mass and moment of inertia on relative brain\u2013skull displacement during low-severity impacts",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090427423",
+          "name": "Huiming Zou"
+        },
+        {
+          "id": "https://openalex.org/A5091830127",
+          "name": "Svein Kleiven"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2120237020",
+      "title": "Kinematic synthesis of planar, shape-changing, rigid body mechanisms for design profiles with significant differences in arc length",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080305048",
+          "name": "Shamsul Anuar Shamsudin"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2593527823",
+      "title": "Error augmentation feedback for lateral weight shifting",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083554798",
+          "name": "Kevin P. O\u02bcBrien"
+        },
+        {
+          "id": "https://openalex.org/A5088606631",
+          "name": "Charles R. Crowell"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2199216487",
+      "title": "Using Rigid-Body Mechanism Topologies to Design Shape-Changing Compliant Mechanisms",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3111221186",
+      "title": "Effects of User Intent Changes on Onboard Sensor Measurements During Exoskeleton-Assisted Walking",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110543027",
+          "name": "Taylor M. Gambon"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2045213819",
+      "title": "Singularity Analysis of an Extensible Kinematic Architecture: Assur Class N, Order N\u22121",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2051347915",
+      "title": "Leg Stiffness and Articulated Leg Design for Dynamic Locomotion",
+      "year": 2002,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2053850353",
+      "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5005674485",
+          "name": "Barrett C. Clark"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2086666984",
+      "title": "Invariant geometric characteristics of spatial arm motion",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2981407045",
+      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029245145",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1908131166",
+      "title": "Using Rigid-Body Mechanism Topologies to Design Path Generating Compliant Mechanisms",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2107883761",
+      "title": "Kinematic Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms With Prismatic Joints",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2138732624",
+      "title": "Design of High Speed Rotary Valves for Pneumatic Applications",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5046973494",
+          "name": "Prasad Atluri"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3003846126",
+      "title": "Stability and Gait Switching of Underactuated Biped Walkers",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1976928168",
+      "title": "Design of Crashworthy Structures With Controlled Energy Absorption in the HCA Framework",
+      "year": 2012,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057528643",
+          "name": "Punit Bandi"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5027957587",
+          "name": "Andr\u00e9s Tovar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2048136000",
+      "title": "Predicting brain injury under impact with a strain measure from analytical models",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090427423",
+          "name": "Huiming Zou"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2758176302",
+      "title": "Using a nonlinear mechanical control coupling metric for biped robot control and design",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029245145",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5078723285",
+          "name": "Xiangyu Ni"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2048020320",
+      "title": "The Effects of Curved Foot Design Parameters on Planar Biped Walking",
+      "year": 2012,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2097099472",
+      "title": "Design and Analysis of a Class of Planar Biped Robots Mechanically Coordinated by a Single Degree of Freedom",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5089430940",
+          "name": "J. McKendry"
+        },
+        {
+          "id": "https://openalex.org/A5070679966",
+          "name": "B. Brown"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2565317125",
+      "title": "Gait transitions and disturbance response for planar bipeds with reaction wheel actuation",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2047416308",
+      "title": "Trajectory Tracking via Independent Solutions to the Geometric and Temporal Tracking Subproblems",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5002969133",
+          "name": "Michael M. Stani\u0161i\u0107"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2560354709",
+      "title": "Simultaneous Topological and Dimensional Synthesis of Planar Morphing Mechanisms",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389665365",
+      "title": "Calibration of a Tibia-Based Phase Variable for Control of Robotic Transtibial Prostheses",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5092973312",
+          "name": "Jonathan A. Tittle"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2886750625",
+      "title": "The mechanics of and robotic design for quadrupedal galloping /",
+      "year": 2001,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2182242360",
+      "title": "The Significance of Leg Mass in Modeling Quadrupedal Running Gaits",
+      "year": 2002,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5065515708",
+          "name": "Robert A. Siston"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2229648176",
+      "title": "Impact Analysis as a Design Tool for the Legs of Mobile Robots",
+      "year": 2000,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2143806187",
+      "title": "Application of Geometric Constraint Programming To The Kinematic Design of Three-Point Hitches",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4254432483",
+      "title": "Simultaneous Topological and Dimensional Synthesis of Planar Morphing Mechanisms",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1981289899",
+      "title": "Training conditions that best reproduce the joint powers of unsupported walking",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4256558754",
+      "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1982817062",
+      "title": "Using Parallel Joint Compliance to Reduce the Cost of Walking in a Planar Bipedal Robot",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5033546888",
+          "name": "Tao Yang"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2298253064",
+      "title": "Quantifying Control Authority in Periodic Motions of Underactuated Mobile Robots",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065152195",
+          "name": "David C. Post"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2057972884",
+      "title": "Perception of hand motion direction uses a gravitational reference",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5024372027",
+          "name": "Warren G. Darling"
+        },
+        {
+          "id": "https://openalex.org/A5028318848",
+          "name": "Angela N. Viaene"
+        },
+        {
+          "id": "https://openalex.org/A5005406411",
+          "name": "Clayton Peterson"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2964856450",
+      "title": "Characterizing Intent Changes in Exoskeleton-Assisted Walking Through Onboard Sensors",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110543027",
+          "name": "Taylor M. Gambon"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200326220",
+      "title": "Hybrid Volitional Control as a Framework for Lower-Limb Prosthetic Control: A Simulation Study",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2057687089",
+      "title": "Determination of Minimum Time Rendezvous Points for Multiple Mobile Robots via Level Set Methods",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5039186588",
+          "name": "Tariq D. Aslam"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2908285172",
+      "title": "A Study of the Relationship between a Mechanical Coupling Metric and Gait Characteristics for an Ankle-Actuated Biped Robot",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029245145",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2909801651",
+      "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2151938387",
+      "title": "Kinematic Synthesis of Planar, Shape-Changing Compliant Mechanisms Using Pseudo-Rigid-Body Models",
+      "year": 2012,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2135959801",
+      "title": "Fuzzy controlled hopping in a biped robot",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100726692",
+          "name": "Yiping Liu"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3094309285",
+      "title": "User Intent Identification in a Lower-Extremity Exoskeleton via the Mahalanobis Distance",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110543027",
+          "name": "Taylor M. Gambon"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2792979804",
+      "title": "Control of Final Part Dimensions in Polymer Extrusion Using a Variable-Geometry Die",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2991150397",
+      "title": "Actuated Dual-Slip Model of Planar Slope Walking",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020076959",
+          "name": "Raul Lema Galindo"
+        },
+        {
+          "id": "https://openalex.org/A5078794124",
+          "name": "Elise Weimholt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2083799347",
+      "title": "Maximizing Walking Step Length for a Near Omni-Directional Hexapod Robot",
+      "year": 2004,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5046505520",
+          "name": "Nathan J. Bradley"
+        },
+        {
+          "id": "https://openalex.org/A5021635627",
+          "name": "B. M. Kennedy"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2029880165",
+      "title": "Variable Transmission Compliance With an MR Damper",
+      "year": 2004,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5074438156",
+          "name": "Gregory Washington"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2003048252",
+      "title": "Assessing Position Order in Rigid Body Guidance: An Intuitive Approach to Fixed Pivot Selection",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2129429502",
+      "title": "Kinematic Design and Dynamic Analysis of a Planar Biped Robot Mechanically Coordinated by a Single Degree of Freedom",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5089430940",
+          "name": "J. McKendry"
+        },
+        {
+          "id": "https://openalex.org/A5070679966",
+          "name": "B. Brown"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2329887827",
+      "title": "Integrated Design and Control of a Biped Robot",
+      "year": 2005,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5006273903",
+          "name": "Adam R. Dunki-Jacobs"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2048294487",
+      "title": "Fuzzy Control of Vertical Jumping With a Planar Biped",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069008720",
+          "name": "Matthew S. Hester"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W35714727",
+      "title": "Modeling time invariance in human arm motion coordination",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4251069005",
+      "title": "Assessing Position Order in Rigid Body Guidance: An Intuitive Approach to Fixed Pivot Selection",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1995662377",
+      "title": "Analysis of Constraint Configurations in Mechanical Assembly via Screw Theory",
+      "year": 2012,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5060742900",
+          "name": "Leonard P. Rusli"
+        },
+        {
+          "id": "https://openalex.org/A5004521922",
+          "name": "Anthony F. Luscher"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2001392555",
+      "title": "Analysis and Optimization of a Series-Elastic Actuator for Jumping in Robots With Articulated Legs",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5013917021",
+          "name": "Simon Curran"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        },
+        {
+          "id": "https://openalex.org/A5012770140",
+          "name": "Brian T. Knox"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3090824927",
+      "title": "Dynamic Coupling as an Indicator of Gait Robustness for Underactuated Biped Robots",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4237951952",
+      "title": "Using Rigid-Body Mechanism Topologies to Design Shape-Changing Compliant Mechanisms",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1991993891",
+      "title": "Optimization of Constraint Location, Orientation, and Quantity in Mechanical Assembly",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5060742900",
+          "name": "Leonard P. Rusli"
+        },
+        {
+          "id": "https://openalex.org/A5004521922",
+          "name": "Anthony F. Luscher"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2014255253",
+      "title": "Design and Control of the Planar Bipedal Robot ERNIE",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5033546888",
+          "name": "Tao Yang"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5023309564",
+          "name": "R. A. Bockbrader"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2051241270",
+      "title": "Quantifying Age\u2010Related Differences in Human Reaching while Interacting with a Rehabilitation Robotic Device",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012873906",
+          "name": "Vivek Yadav"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5110097891",
+          "name": "Sharon McDowell"
+        },
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2141765770",
+      "title": "Using a Singularity Locus to Exhibit the Number of Geometric Inversions, Transitions and Circuits of a Linkage",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W21681317",
+      "title": "Unfinished Business: Impulsive Models of Quadrupedal Running Gaits",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2315749828",
+      "title": "Design of Multi-Degree-of-Freedom Planar Morphing Mechanisms With Single-Degree-of-Freedom Sub-Chains",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2321522619",
+      "title": "Geometric, Spatial Path Tracking Using Non-Redundant Manipulators via Speed-Ratio Control",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5072503147",
+          "name": "M. M. Stanis\u02c7ic \u0301"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2314642478",
+      "title": "Experimental Validation of a Walking Model for Planar Bipeds With Curved Feet",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2623765336",
+      "title": "Robotic Football: An Inter-university Design Competition Experiment",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5064313856",
+          "name": "John-David Yoder"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5002969133",
+          "name": "Michael M. Stani\u0161i\u0107"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2765672626",
+      "title": "Postural Balance of an Underactuated Biped Robot With a Reaction Wheel",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5087244827",
+          "name": "Chris M. Maurice"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3020832871",
+      "title": "Kinematic Synthesis of Planar, Shape-Changing Rigid Body Mechanisms for Design Profiles With Significant Differences in Arc Length",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080305048",
+          "name": "Shamsul Anuar Shamsudin"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4236476916",
+      "title": "Quantifying Age-Related Differences in Human Reaching while Interacting with a Rehabilitation Robotic Device",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012873906",
+          "name": "Vivek Yadav"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5110097891",
+          "name": "Sharon McDowell"
+        },
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2118147655",
+      "title": "Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023626151",
+          "name": "Brian M. Korte"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2785235942",
+      "title": "Discussion of \u201cA Review of Intent Detection, Arbitration, and Communication Aspects of Shared Control for Physical Human\u2013Robot Interaction\u201d (Losey, D. P., McDonald, C. G., Battaglia, E., and O'Malley, M. K., 2018, ASME Appl. Mech. Rev., 70(1), p. 010804)",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2095427707",
+      "title": "Dynamic Modeling of Quadrupedal Running Gaits Using a Simple Template With Asymmetrical Body Mass Distribution",
+      "year": 2004,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021410685",
+          "name": "Hong Zou"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2230302186",
+      "title": "Approximating planar, morphing curves with rigid-body linkages",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5023626151",
+          "name": "Brian M. Korte"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2105200664",
+      "title": "Synthesis of Planar, Shape-Changing Rigid Body Mechanisms Approximating Closed Curves",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058088868",
+          "name": "Justin A. Persinger"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2120249697",
+      "title": "Stability analysis of quadruped bounding with asymmetrical body mass distribution",
+      "year": 2004,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021410685",
+          "name": "Hong Zou"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W935669885",
+      "title": "Human Hand Movement Kinematics and Kinesthesia",
+      "year": 2004,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5109011123",
+          "name": "J. J. Stephens"
+        },
+        {
+          "id": "https://openalex.org/A5005406411",
+          "name": "Clayton Peterson"
+        },
+        {
+          "id": "https://openalex.org/A5024372027",
+          "name": "Warren G. Darling"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W371817104",
+      "title": "The Effect of Brain Mass and Moment of Inertia on Relative Brain-Skull Displacement in Low-Severity Impacts",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5112715923",
+          "name": "Hong Zou"
+        },
+        {
+          "id": "https://openalex.org/A5091830127",
+          "name": "Svein Kleiven"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387210324",
+      "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5092973312",
+          "name": "Jonathan A. Tittle"
+        },
+        {
+          "id": "https://openalex.org/A5081218074",
+          "name": "David J. Kelly"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403662221",
+      "title": "Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5115596636",
+          "name": "Kang Yang"
+        },
+        {
+          "id": "https://openalex.org/A5114367867",
+          "name": "Myia Dickens"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1963526692",
+      "title": "Relationship Between Product Aesthetic Subject Preference and Quantified Gestalt Principles",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029309848",
+          "name": "Jos\u00e9 E. Lugo"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5061414976",
+          "name": "Stephen M. Batill"
+        },
+        {
+          "id": "https://openalex.org/A5073819937",
+          "name": "Laura A. Carlson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1995075833",
+      "title": "First-Order Coordination of the Articulated Arm Subassembly Using Curvature Theory",
+      "year": 2007,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2021585512",
+      "title": "Design and Testing of a Variable Effective Compliance Transmission With an MR Damper",
+      "year": 2009,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047702926",
+          "name": "Tiffany L. Parker"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5078231177",
+          "name": "E. R. Westervelt"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W203145130",
+      "title": "Time-Invariant Strategies in Coordination of Human Reaching",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2051286499",
+      "title": "Linked by Design",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2150296123",
+      "title": "Singularity Analysis of Rigid-Body, Closed-Loop, Shape-Changing Mechanisms",
+      "year": 2008,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069324065",
+          "name": "David H. Myszka"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2157475921",
+      "title": "Rehabilitation of Walking: Are Key Kinetics Disrupted by Body Weight Support?",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2211015516",
+      "title": "Effect of Eccentric Activity on Contralateral Limb Force Production in Incomplete Spinal Cord Injury",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        },
+        {
+          "id": "https://openalex.org/A5109408859",
+          "name": "Michael P. McNally"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2254819148",
+      "title": "Characterizing Quadriceps Eccentric Function after Locomotor Training in Individuals with Incomplete Spinal Cord Injury",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2280898217",
+      "title": "Prediction of diffuse axonal injury with a strain measure from an analytical model",
+      "year": 2006,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043317898",
+          "name": "Hong Qing Zou"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2345464419",
+      "title": "Special Issue: Selected Papers From IDETC 2015",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5049231295",
+          "name": "Venkat Krovi"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2503855302",
+      "title": "Design of Progressively Folding Thin-Walled Tubular Components Using Compliant Mechanism Synthesis",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057528643",
+          "name": "Punit Bandi"
+        },
+        {
+          "id": "https://openalex.org/A5109076154",
+          "name": "Duane Detwiler"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5027957587",
+          "name": "Andr\u00e9s Tovar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2523573385",
+      "title": "Determination of minimum time rendezvous points for multiple agents via level set methods",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5039186588",
+          "name": "Tariq D. Aslam"
+        },
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2597703382",
+      "title": "Special Issue: Selected Papers From IDETC 2016",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5049231295",
+          "name": "Venkat Krovi"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5037315815",
+          "name": "Hai\u2010Jun Su"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2900528284",
+      "title": "2282 Targeted eccentric motor control to improve locomotion after incomplete spinal cord injury",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083554798",
+          "name": "Kevin P. O\u02bcBrien"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2939047686",
+      "title": "2299",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083554798",
+          "name": "Kevin P. O\u02bcBrien"
+        },
+        {
+          "id": "https://openalex.org/A5103420105",
+          "name": "Michele Basso"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3012507590",
+      "title": "Targeted eccentric motor control to improve locomotion after incomplete spinal cord injury",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083554798",
+          "name": "Kevin P. O\u02bcBrien"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W37445017",
+      "title": "Using Redundancy in Serial Planar Mechanisms to Improve Output-Space Tracking Accuracy",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034108479",
+          "name": "Satyajit Ambike"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5002969133",
+          "name": "Michael M. Stani\u0161i\u0107"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4243527376",
+      "title": "Design of Planar Multi-Degree-of-Freedom Morphing Mechanisms",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4252425921",
+      "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
+      "year": 2011,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5005674485",
+          "name": "Barrett C. Clark"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4289524537",
+      "title": "A unified framework for measuring interplane and intraplane coupling in spatial biped robots",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382994864",
+      "title": "Data-efficient human walking speed intent identification",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5003051611",
+          "name": "Taylor M. Higgins"
+        },
+        {
+          "id": "https://openalex.org/A5092388917",
+          "name": "Kaitlyn J. Bresingham"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399727833",
+      "title": "The Next Generation of Robotics: The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems in Detroit, MI, USA [Conference Highlights]",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412774242",
+      "title": "Phase Variable Impedance Hybrid Volitional Control for Transtibial Prostheses",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    }
+  ]
+}

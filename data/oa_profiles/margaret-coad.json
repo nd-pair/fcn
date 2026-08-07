@@ -1,0 +1,1324 @@
+{
+  "query_name": "Margaret Coad",
+  "openalex_id": "https://openalex.org/A5062756806",
+  "display_name": "Margaret M. Coad",
+  "affiliation": null,
+  "works_count": 39,
+  "cited_by_count": 359,
+  "num_works_fetched": 39,
+  "works": [
+    {
+      "id": "https://openalex.org/W3105818082",
+      "title": "Design, Modeling, Control, and Application of Everting Vine Robots",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5012629867",
+          "name": "David A. Haggerty"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5088329417",
+          "name": "Elliot W. Hawkes"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3132227494",
+      "title": "A Tip Mount for Transporting Sensors and Tools using Soft Growing Robots",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101725566",
+          "name": "Ok Hwa Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5101499106",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5103147561",
+          "name": "Usman Mehmood"
+        },
+        {
+          "id": "https://openalex.org/A5100677038",
+          "name": "Ji Hun Kim"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5019438521",
+          "name": "Jee-Hwan Ryu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2891930862",
+      "title": "Robotic Assistance-as-Needed for Enhanced Visuomotor Learning in Surgical Robotics Training: An Experimental Study",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5068873641",
+          "name": "Nima Enayati"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5072099031",
+          "name": "Andrea Mariani"
+        },
+        {
+          "id": "https://openalex.org/A5113850371",
+          "name": "Edoardo Pellegrini"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5045080493",
+          "name": "Giancarlo Ferrigno"
+        },
+        {
+          "id": "https://openalex.org/A5083795699",
+          "name": "Elena De Momi"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2740117073",
+      "title": "Training in divergent and convergent force fields during 6-DOF teleoperation with a robot-assisted surgical system",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5027160232",
+          "name": "Sherry M. Wren"
+        },
+        {
+          "id": "https://openalex.org/A5056117034",
+          "name": "Yoav Mintz"
+        },
+        {
+          "id": "https://openalex.org/A5069213962",
+          "name": "Thomas S. Lendvay"
+        },
+        {
+          "id": "https://openalex.org/A5083764444",
+          "name": "Anthony Jarc"
+        },
+        {
+          "id": "https://openalex.org/A5080865180",
+          "name": "Ilana Nisky"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3204387335",
+      "title": "Soft Retraction Device and Internal Camera Mount for Everting Vine Robots",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5009591871",
+          "name": "William E. Heap"
+        },
+        {
+          "id": "https://openalex.org/A5059463904",
+          "name": "Nicholas D. Naclerio"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5101725566",
+          "name": "Ok Hwa Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5088329417",
+          "name": "Elliot W. Hawkes"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394564142",
+      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4390604411",
+      "title": "Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011079591",
+          "name": "Yousi A. Oquendo"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5027160232",
+          "name": "Sherry M. Wren"
+        },
+        {
+          "id": "https://openalex.org/A5069213962",
+          "name": "Thomas S. Lendvay"
+        },
+        {
+          "id": "https://openalex.org/A5080865180",
+          "name": "Ilana Nisky"
+        },
+        {
+          "id": "https://openalex.org/A5083764444",
+          "name": "Anthony Jarc"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5082074188",
+          "name": "Zonghe Chua"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404953693",
+      "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5113308646",
+          "name": "Riya Kumari"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5065894510",
+          "name": "Nathaniel Hanson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4376605768",
+      "title": "Collapse of Straight Soft Growing Inflated Beam Robots Under Their Own Weight",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3137862458",
+      "title": "Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020531381",
+          "name": "Ioannis Exarchos"
+        },
+        {
+          "id": "https://openalex.org/A5045323029",
+          "name": "Karen Wang"
+        },
+        {
+          "id": "https://openalex.org/A5033366751",
+          "name": "H. Brian"
+        },
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5003782904",
+          "name": "C. Karen Liu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4313016218",
+      "title": "Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063691652",
+          "name": "Nelson G. Badillo Perez"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4396875104",
+      "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4411019324",
+      "title": "Soft Everting Prosthetic Hand and Comparison with Existing Body-Powered Terminal Devices",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5117826518",
+          "name": "Katalin Sch\u00e4affer"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4376605638",
+      "title": "Hybrid Soft-Rigid Continuum Robot Inspired by Spider Monkey Tail",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946632",
+          "name": "Mary C. Doerfler"
+        },
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4376605667",
+      "title": "Soft Air Pocket Force Sensors for Large Scale Flexible Robots",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5105939246",
+          "name": "Michael Mitchell"
+        },
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4396853608",
+      "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5094105848",
+          "name": "Ultan Fallon"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2948678238",
+      "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical Environment with Divergent and Convergent Force Fields",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011079591",
+          "name": "Yousi A. Oquendo"
+        },
+        {
+          "id": "https://openalex.org/A5070406334",
+          "name": "Zhan Chua"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5080865180",
+          "name": "Ilana Nisky"
+        },
+        {
+          "id": "https://openalex.org/A5083764444",
+          "name": "Anthony Jarc"
+        },
+        {
+          "id": "https://openalex.org/A5027160232",
+          "name": "Sherry M. Wren"
+        },
+        {
+          "id": "https://openalex.org/A5069213962",
+          "name": "Thomas S. Lendvay"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2982310535",
+      "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing Robot",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5101499106",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5029066624",
+          "name": "Kyle T. Yoshida"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2996086874",
+      "title": "A Tip Mount for Carrying Payloads using Soft Growing Robots.",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101725566",
+          "name": "Ok Hwa Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5035964349",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5103147561",
+          "name": "Usman Mehmood"
+        },
+        {
+          "id": "https://openalex.org/A5100677038",
+          "name": "Ji Hun Kim"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5019438521",
+          "name": "Jee-Hwan Ryu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3013015678",
+      "title": "A Tip Mount for Transporting Sensors and Tools using Soft Growing Robots",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101725566",
+          "name": "Ok Hwa Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5101499106",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5103147561",
+          "name": "Usman Mehmood"
+        },
+        {
+          "id": "https://openalex.org/A5100677038",
+          "name": "Ji Hun Kim"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5019438521",
+          "name": "Jee-Hwan Ryu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4286963468",
+      "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical\\n Environment with Divergent and Convergent Force Fields",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011079591",
+          "name": "Yousi A. Oquendo"
+        },
+        {
+          "id": "https://openalex.org/A5082074188",
+          "name": "Zonghe Chua"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5080865180",
+          "name": "Ilana Nisky"
+        },
+        {
+          "id": "https://openalex.org/A5083764444",
+          "name": "Anthony Jarc"
+        },
+        {
+          "id": "https://openalex.org/A5027160232",
+          "name": "Sherry M. Wren"
+        },
+        {
+          "id": "https://openalex.org/A5069213962",
+          "name": "Thomas S. Lendvay"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388092175",
+      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2201871521",
+      "title": "A case study in troubleshooting electromechanical software-controlled systems : the InMotion\u00b2 Robot",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2982590275",
+      "title": "Human-centered Control of a Growing Soft Robot for Object Manipulation",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5101499106",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5028522377",
+          "name": "Giada Gerboni"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5102757476",
+          "name": "Julie M. Walker"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3111272367",
+      "title": "Distributed Sensor Networks Deployed Using Soft Growing Robots",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085721240",
+          "name": "Alexander M. Gruebele"
+        },
+        {
+          "id": "https://openalex.org/A5052473169",
+          "name": "Andrew C. Zerbe"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5046683404",
+          "name": "Mark R. Cutkosky"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3201982708",
+      "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical Environment with Divergent and Convergent Force Fields",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011079591",
+          "name": "Yousi A. Oquendo"
+        },
+        {
+          "id": "https://openalex.org/A5082074188",
+          "name": "Zonghe Chua"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5080865180",
+          "name": "Ilana Nisky"
+        },
+        {
+          "id": "https://openalex.org/A5083764444",
+          "name": "Anthony Jarc"
+        },
+        {
+          "id": "https://openalex.org/A5027160232",
+          "name": "Sherry M. Wren"
+        },
+        {
+          "id": "https://openalex.org/A5069213962",
+          "name": "Thomas S. Lendvay"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4221161732",
+      "title": "Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063691652",
+          "name": "Nelson G. Badillo Perez"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4286778687",
+      "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing\\n Robot",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5101565170",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5029066624",
+          "name": "Kyle T. Yoshida"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4287279888",
+      "title": "Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020531381",
+          "name": "Ioannis Exarchos"
+        },
+        {
+          "id": "https://openalex.org/A5045323029",
+          "name": "Karen Wang"
+        },
+        {
+          "id": "https://openalex.org/A5057711644",
+          "name": "Brian H. Do"
+        },
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5003782904",
+          "name": "C. Karen Liu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4383175587",
+      "title": "Collapse of Straight Soft Growing Inflated Beam Robots Under Their Own Weight",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4385328075",
+      "title": "Soft Air Pocket Force Sensors for Large Scale Flexible Robots",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5105939246",
+          "name": "Michael Mitchell"
+        },
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4386651421",
+      "title": "Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011079591",
+          "name": "Yousi A. Oquendo"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5027160232",
+          "name": "Sherry M. Wren"
+        },
+        {
+          "id": "https://openalex.org/A5069213962",
+          "name": "Thomas S. Lendvay"
+        },
+        {
+          "id": "https://openalex.org/A5080865180",
+          "name": "Ilana Nisky"
+        },
+        {
+          "id": "https://openalex.org/A5083764444",
+          "name": "Anthony Jarc"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5082074188",
+          "name": "Zonghe Chua"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388444293",
+      "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392617687",
+      "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5094105848",
+          "name": "Ultan Fallon"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4400962678",
+      "title": "Why Robots Should Grow Like Vines",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5005313932",
+          "name": "Francesco Fuentes"
+        },
+        {
+          "id": "https://openalex.org/A5105021620",
+          "name": "Allison Fick"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404401839",
+      "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5113308646",
+          "name": "Riya Kumari"
+        },
+        {
+          "id": "https://openalex.org/A5114657134",
+          "name": "Chad Council"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5065894510",
+          "name": "Nathaniel Hanson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415085073",
+      "title": "Soft Everting Prosthetic Hand and Comparison with Existing Body-Powered Terminal Devices",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7155107346",
+      "title": "Interdisciplinary Workshop on Mechanical Intelligence: Summary Report",
+      "year": 2026,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007509117",
+          "name": "Victoria A. Webster\u2010Wood"
+        },
+        {
+          "id": "https://openalex.org/A5134126688",
+          "name": "Nicholas Gravish"
+        },
+        {
+          "id": "https://openalex.org/A5018039958",
+          "name": "Amir Alavi"
+        },
+        {
+          "id": "https://openalex.org/A5059592858",
+          "name": "Andres F. Arrieta"
+        },
+        {
+          "id": "https://openalex.org/A5051309977",
+          "name": "Sarah Bergbreiter"
+        },
+        {
+          "id": "https://openalex.org/A5134115780",
+          "name": "Anthony Bloch"
+        },
+        {
+          "id": "https://openalex.org/A5134158937",
+          "name": "Laura Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5134162489",
+          "name": "C. Chase Cao"
+        },
+        {
+          "id": "https://openalex.org/A5088133965",
+          "name": "Aja Mia Carter"
+        },
+        {
+          "id": "https://openalex.org/A5064335936",
+          "name": "Paolo Celli"
+        },
+        {
+          "id": "https://openalex.org/A5101994456",
+          "name": "Tony Chen"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5106052082",
+          "name": "M. R. Cutkosky"
+        },
+        {
+          "id": "https://openalex.org/A5126309995",
+          "name": "Michael Dickey"
+        },
+        {
+          "id": "https://openalex.org/A5134154655",
+          "name": "Brian Do"
+        },
+        {
+          "id": "https://openalex.org/A5134107498",
+          "name": "Robert Full"
+        },
+        {
+          "id": "https://openalex.org/A5040900522",
+          "name": "Mahdi Haghshenas\u2010Jaryani"
+        },
+        {
+          "id": "https://openalex.org/A5018446330",
+          "name": "Kaushik Jayaram"
+        },
+        {
+          "id": "https://openalex.org/A5134156503",
+          "name": "Aaron Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5054016867",
+          "name": "Eva Kanso"
+        },
+        {
+          "id": "https://openalex.org/A5071729064",
+          "name": "Emma Lejeune"
+        },
+        {
+          "id": "https://openalex.org/A5134111749",
+          "name": "Chen Li"
+        },
+        {
+          "id": "https://openalex.org/A5042738110",
+          "name": "Suyi Li"
+        },
+        {
+          "id": "https://openalex.org/A5111346575",
+          "name": "Jeffrey Lipton"
+        },
+        {
+          "id": "https://openalex.org/A5085142135",
+          "name": "Rob MacCurdy"
+        },
+        {
+          "id": "https://openalex.org/A5134188239",
+          "name": "Matt McHenry"
+        },
+        {
+          "id": "https://openalex.org/A5059869734",
+          "name": "Jean-Michel Mongeau"
+        },
+        {
+          "id": "https://openalex.org/A5134132631",
+          "name": "Todd Murphey"
+        },
+        {
+          "id": "https://openalex.org/A5023490088",
+          "name": "Mark Plecnik"
+        },
+        {
+          "id": "https://openalex.org/A5134192952",
+          "name": "Jordan Raney"
+        },
+        {
+          "id": "https://openalex.org/A5134146365",
+          "name": "Ryan D. Sochol"
+        },
+        {
+          "id": "https://openalex.org/A5134189404",
+          "name": "Hannah Stuart"
+        },
+        {
+          "id": "https://openalex.org/A5123468848",
+          "name": "Zeynep Temel"
+        },
+        {
+          "id": "https://openalex.org/A5018520825",
+          "name": "M. Tolley"
+        },
+        {
+          "id": "https://openalex.org/A5134132297",
+          "name": "Barry Trimmer"
+        },
+        {
+          "id": "https://openalex.org/A5126895015",
+          "name": "T. J. Wallin"
+        },
+        {
+          "id": "https://openalex.org/A5134155807",
+          "name": "Kon-Well Wang"
+        },
+        {
+          "id": "https://openalex.org/A5090920615",
+          "name": "Wenzhong Yan"
+        },
+        {
+          "id": "https://openalex.org/A5134106676",
+          "name": "Mark Yim"
+        },
+        {
+          "id": "https://openalex.org/A5134125431",
+          "name": "Wenlong Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7155246101",
+      "title": "Interdisciplinary Workshop on Mechanical Intelligence: Summary Report",
+      "year": 2026,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007509117",
+          "name": "Victoria A. Webster\u2010Wood"
+        },
+        {
+          "id": "https://openalex.org/A5134126688",
+          "name": "Nicholas Gravish"
+        },
+        {
+          "id": "https://openalex.org/A5018039958",
+          "name": "Amir Alavi"
+        },
+        {
+          "id": "https://openalex.org/A5059592858",
+          "name": "Andres F. Arrieta"
+        },
+        {
+          "id": "https://openalex.org/A5051309977",
+          "name": "Sarah Bergbreiter"
+        },
+        {
+          "id": "https://openalex.org/A5134115780",
+          "name": "Anthony Bloch"
+        },
+        {
+          "id": "https://openalex.org/A5134158937",
+          "name": "Laura Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5134162489",
+          "name": "C. Chase Cao"
+        },
+        {
+          "id": "https://openalex.org/A5088133965",
+          "name": "Aja Mia Carter"
+        },
+        {
+          "id": "https://openalex.org/A5064335936",
+          "name": "Paolo Celli"
+        },
+        {
+          "id": "https://openalex.org/A5101994456",
+          "name": "Tony Chen"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5106052082",
+          "name": "M. R. Cutkosky"
+        },
+        {
+          "id": "https://openalex.org/A5126309995",
+          "name": "Michael Dickey"
+        },
+        {
+          "id": "https://openalex.org/A5134289687",
+          "name": "Brian Do"
+        },
+        {
+          "id": "https://openalex.org/A5134107498",
+          "name": "Robert Full"
+        },
+        {
+          "id": "https://openalex.org/A5040900522",
+          "name": "Mahdi Haghshenas\u2010Jaryani"
+        },
+        {
+          "id": "https://openalex.org/A5018446330",
+          "name": "Kaushik Jayaram"
+        },
+        {
+          "id": "https://openalex.org/A5134156503",
+          "name": "Aaron Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5054016867",
+          "name": "Eva Kanso"
+        },
+        {
+          "id": "https://openalex.org/A5071729064",
+          "name": "Emma Lejeune"
+        },
+        {
+          "id": "https://openalex.org/A5134233989",
+          "name": "Chen Li"
+        },
+        {
+          "id": "https://openalex.org/A5042738110",
+          "name": "Suyi Li"
+        },
+        {
+          "id": "https://openalex.org/A5111346575",
+          "name": "Jeffrey Lipton"
+        },
+        {
+          "id": "https://openalex.org/A5085142135",
+          "name": "Rob MacCurdy"
+        },
+        {
+          "id": "https://openalex.org/A5134332985",
+          "name": "Matt McHenry"
+        },
+        {
+          "id": "https://openalex.org/A5059869734",
+          "name": "Jean-Michel Mongeau"
+        },
+        {
+          "id": "https://openalex.org/A5134132631",
+          "name": "Todd Murphey"
+        },
+        {
+          "id": "https://openalex.org/A5023490088",
+          "name": "Mark Plecnik"
+        },
+        {
+          "id": "https://openalex.org/A5134192952",
+          "name": "Jordan Raney"
+        },
+        {
+          "id": "https://openalex.org/A5134278860",
+          "name": "Ryan D. Sochol"
+        },
+        {
+          "id": "https://openalex.org/A5134189404",
+          "name": "Hannah Stuart"
+        },
+        {
+          "id": "https://openalex.org/A5123468848",
+          "name": "Zeynep Temel"
+        },
+        {
+          "id": "https://openalex.org/A5018520825",
+          "name": "M. Tolley"
+        },
+        {
+          "id": "https://openalex.org/A5134132297",
+          "name": "Barry Trimmer"
+        },
+        {
+          "id": "https://openalex.org/A5126895015",
+          "name": "T. J. Wallin"
+        },
+        {
+          "id": "https://openalex.org/A5134291249",
+          "name": "Kon-Well Wang"
+        },
+        {
+          "id": "https://openalex.org/A5090920615",
+          "name": "Wenzhong Yan"
+        },
+        {
+          "id": "https://openalex.org/A5134106676",
+          "name": "Mark Yim"
+        },
+        {
+          "id": "https://openalex.org/A5134251618",
+          "name": "Wenlong Zhang"
+        }
+      ]
+    }
+  ]
+}

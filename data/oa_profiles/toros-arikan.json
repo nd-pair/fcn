@@ -1,0 +1,380 @@
+{
+  "query_name": "Toros Arikan",
+  "openalex_id": "https://openalex.org/A5066250773",
+  "display_name": "Toros Arikan",
+  "affiliation": "Rice University",
+  "works_count": 15,
+  "cited_by_count": 76,
+  "num_works_fetched": 15,
+  "works": [
+    {
+      "id": "https://openalex.org/W4285371564",
+      "title": "A Semi-Blind Method for Localization of Underwater Acoustic Sources",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5026947423",
+          "name": "Hari Vishnu"
+        },
+        {
+          "id": "https://openalex.org/A5023569373",
+          "name": "Grant B. Deane"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2292957225",
+      "title": "Experimental results with HF underwater acoustic modem for high bandwidth applications",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5006258193",
+          "name": "James Younce"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5000606323",
+          "name": "Thomas Riedl"
+        },
+        {
+          "id": "https://openalex.org/A5081006983",
+          "name": "Blake J. Landry"
+        },
+        {
+          "id": "https://openalex.org/A5081572871",
+          "name": "Andrew Bean"
+        },
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3119897449",
+      "title": "Receiver Designs for Low-Latency HF Communications",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1523298302",
+      "title": "Comparison of OFDM and single-carrier schemes for Doppler Tolerant Acoustic Communications",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5000606323",
+          "name": "Thomas Riedl"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5006258193",
+          "name": "James Younce"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4312451640",
+      "title": "Direct Localization in Underwater Acoustics Via Convolutional Neural Networks: A Data-Driven Approach",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4318220080",
+      "title": "An architecture for passive joint localization and structure learning in reverberant environments",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5026947423",
+          "name": "Hari Vishnu"
+        },
+        {
+          "id": "https://openalex.org/A5023569373",
+          "name": "Grant B. Deane"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4372259844",
+      "title": "Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5026947423",
+          "name": "Hari Vishnu"
+        },
+        {
+          "id": "https://openalex.org/A5023569373",
+          "name": "Grant B. Deane"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4400204880",
+      "title": "A deep learning method for reflective boundary estimation",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5026947423",
+          "name": "Hari Vishnu"
+        },
+        {
+          "id": "https://openalex.org/A5023569373",
+          "name": "Grant B. Deane"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2792840817",
+      "title": "Minimum-delay HF communications",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2799983563",
+      "title": "Doppler-Based Ultrasonic Blood Velocity Estimation",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4286750823",
+      "title": "Direct Localization in Underwater Acoustics via Convolutional Neural Networks: A Data-Driven Approach",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4367145685",
+      "title": "An architecture for passive joint localization and environment learning in shallow-water underwater acoustic settings",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5026947423",
+          "name": "Hari Vishnu"
+        },
+        {
+          "id": "https://openalex.org/A5023569373",
+          "name": "Grant B. Deane"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5027785935",
+          "name": "Greg Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404307497",
+      "title": "MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5072713767",
+          "name": "Richard G. Baraniuk"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404356229",
+      "title": "Estimating the Number and Locations of Boundaries in Reverberant Environments with Deep Learning",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5114638667",
+          "name": "Luca M. Chackalackal"
+        },
+        {
+          "id": "https://openalex.org/A5062290487",
+          "name": "Fatima Ahsan"
+        },
+        {
+          "id": "https://openalex.org/A5114638668",
+          "name": "Konrad Tittel"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        },
+        {
+          "id": "https://openalex.org/A5072713767",
+          "name": "Richard G. Baraniuk"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4408355088",
+      "title": "Estimating the Number and Locations of Boundaries in Reverberant Environments with Deep Learning",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5114638667",
+          "name": "Luca M. Chackalackal"
+        },
+        {
+          "id": "https://openalex.org/A5062290487",
+          "name": "Fatima Ahsan"
+        },
+        {
+          "id": "https://openalex.org/A5114638668",
+          "name": "Konrad Tittel"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
+        },
+        {
+          "id": "https://openalex.org/A5072713767",
+          "name": "Richard G. Baraniuk"
+        }
+      ]
+    }
+  ]
+}

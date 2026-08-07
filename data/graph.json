@@ -1,0 +1,246 @@
+{
+  "generated": "2026-08-07 23:19 UTC",
+  "source": "OpenAlex (https://openalex.org)",
+  "description": "Robotics @ Notre Dame faculty collaboration network. Node size = number of publications; edge weight = number of co-authored papers between two faculty.",
+  "nodeCount": 16,
+  "edgeCount": 15,
+  "nodes": [
+    {
+      "id": "Hai Lin",
+      "publications": 885,
+      "citedBy": 9155,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5045445273",
+      "weightedDegree": 84,
+      "degree": 6,
+      "group": 1
+    },
+    {
+      "id": "Panos Antsaklis",
+      "publications": 628,
+      "citedBy": 25870,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5077171773",
+      "weightedDegree": 101,
+      "degree": 3,
+      "group": 1
+    },
+    {
+      "id": "Jane Cleland-Huang",
+      "publications": 310,
+      "citedBy": 7430,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5037363688",
+      "weightedDegree": 0,
+      "degree": 0,
+      "group": -1
+    },
+    {
+      "id": "Robert Landers",
+      "publications": 302,
+      "citedBy": 5796,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5020875577",
+      "weightedDegree": 0,
+      "degree": 0,
+      "group": -1
+    },
+    {
+      "id": "Michael Lemmon",
+      "publications": 199,
+      "citedBy": 7437,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5022295836",
+      "weightedDegree": 38,
+      "degree": 4,
+      "group": 1
+    },
+    {
+      "id": "Nikolaus Correll",
+      "publications": 174,
+      "citedBy": 6186,
+      "affiliation": null,
+      "openalex": "https://openalex.org/A5047458039",
+      "weightedDegree": 1,
+      "degree": 1,
+      "group": 2
+    },
+    {
+      "id": "Patrick Wensing",
+      "publications": 159,
+      "citedBy": 4853,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5029126529",
+      "weightedDegree": 26,
+      "degree": 3,
+      "group": 0
+    },
+    {
+      "id": "James Schmiedeler",
+      "publications": 147,
+      "citedBy": 2053,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5073029557",
+      "weightedDegree": 29,
+      "degree": 4,
+      "group": 0
+    },
+    {
+      "id": "Bill Goodwine",
+      "publications": 136,
+      "citedBy": 1725,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5042951623",
+      "weightedDegree": 18,
+      "degree": 3,
+      "group": 0
+    },
+    {
+      "id": "Yasemin Ozkan-Aydin",
+      "publications": 82,
+      "citedBy": 1191,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5031304323",
+      "weightedDegree": 5,
+      "degree": 3,
+      "group": 2
+    },
+    {
+      "id": "Tingyu Cheng",
+      "publications": 52,
+      "citedBy": 697,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5011017276",
+      "weightedDegree": 0,
+      "degree": 0,
+      "group": -1
+    },
+    {
+      "id": "Zhi Zheng",
+      "publications": 52,
+      "citedBy": 1302,
+      "affiliation": "Wuhan University",
+      "openalex": "https://openalex.org/A5065741205",
+      "weightedDegree": 0,
+      "degree": 0,
+      "group": -1
+    },
+    {
+      "id": "Margaret Coad",
+      "publications": 39,
+      "citedBy": 359,
+      "affiliation": null,
+      "openalex": "https://openalex.org/A5062756806",
+      "weightedDegree": 4,
+      "degree": 2,
+      "group": 2
+    },
+    {
+      "id": "Edgar Bolivar-Nieto",
+      "publications": 35,
+      "citedBy": 302,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5076214359",
+      "weightedDegree": 2,
+      "degree": 1,
+      "group": 0
+    },
+    {
+      "id": "Mengxue Hou",
+      "publications": 35,
+      "citedBy": 165,
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5063884621",
+      "weightedDegree": 0,
+      "degree": 0,
+      "group": -1
+    },
+    {
+      "id": "Toros Arikan",
+      "publications": 15,
+      "citedBy": 76,
+      "affiliation": "Rice University",
+      "openalex": "https://openalex.org/A5066250773",
+      "weightedDegree": 0,
+      "degree": 0,
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "Hai Lin",
+      "target": "Panos Antsaklis",
+      "weight": 66
+    },
+    {
+      "source": "Michael Lemmon",
+      "target": "Panos Antsaklis",
+      "weight": 30
+    },
+    {
+      "source": "James Schmiedeler",
+      "target": "Patrick Wensing",
+      "weight": 16
+    },
+    {
+      "source": "Bill Goodwine",
+      "target": "James Schmiedeler",
+      "weight": 10
+    },
+    {
+      "source": "Hai Lin",
+      "target": "Patrick Wensing",
+      "weight": 9
+    },
+    {
+      "source": "Bill Goodwine",
+      "target": "Panos Antsaklis",
+      "weight": 5
+    },
+    {
+      "source": "Hai Lin",
+      "target": "Michael Lemmon",
+      "weight": 4
+    },
+    {
+      "source": "Bill Goodwine",
+      "target": "Michael Lemmon",
+      "weight": 3
+    },
+    {
+      "source": "Edgar Bolivar-Nieto",
+      "target": "James Schmiedeler",
+      "weight": 2
+    },
+    {
+      "source": "Hai Lin",
+      "target": "Margaret Coad",
+      "weight": 2
+    },
+    {
+      "source": "Hai Lin",
+      "target": "Yasemin Ozkan-Aydin",
+      "weight": 2
+    },
+    {
+      "source": "Margaret Coad",
+      "target": "Yasemin Ozkan-Aydin",
+      "weight": 2
+    },
+    {
+      "source": "Hai Lin",
+      "target": "James Schmiedeler",
+      "weight": 1
+    },
+    {
+      "source": "Michael Lemmon",
+      "target": "Patrick Wensing",
+      "weight": 1
+    },
+    {
+      "source": "Nikolaus Correll",
+      "target": "Yasemin Ozkan-Aydin",
+      "weight": 1
+    }
+  ]
+}

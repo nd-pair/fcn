@@ -1,0 +1,1615 @@
+{
+  "query_name": "Zhi Zheng",
+  "openalex_id": "https://openalex.org/A5065741205",
+  "display_name": "Zhi Zheng",
+  "affiliation": "Wuhan University",
+  "works_count": 52,
+  "cited_by_count": 1302,
+  "num_works_fetched": 52,
+  "works": [
+    {
+      "id": "https://openalex.org/W2063238761",
+      "title": "Can Robotic Interaction Improve Joint Attention Skills?",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5101928241",
+          "name": "Lian Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5022146237",
+          "name": "Julie A. Crittendon"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2136637920",
+      "title": "Understanding How Adolescents with Autism Respond to Facial Expressions in Virtual Reality Environments",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5022146237",
+          "name": "Julie A. Crittendon"
+        },
+        {
+          "id": "https://openalex.org/A5049303761",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1447379756",
+      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3005368745",
+      "title": "A Randomized Controlled Trial of an Intelligent Robotic Response to Joint Attention Intervention System",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3207599940",
+      "title": "CheerBrush: A Novel Interactive Augmented Reality Coaching System for Toothbrushing Skills in Children with Autism Spectrum Disorder",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5102767106",
+          "name": "Nandan Sarkar"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1999212576",
+      "title": "Assessing the Utility of a Virtual Environment for Enhancing Facial Affect Recognition in Adolescents with Autism",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5022146237",
+          "name": "Julie A. Crittendon"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2519261326",
+      "title": "A Robotic Coach Architecture for Elder Care (ROCARE) Based on Multi-User Engagement Models",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101608873",
+          "name": "Jing Fan"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5057241399",
+          "name": "Linda Beuscher"
+        },
+        {
+          "id": "https://openalex.org/A5053733868",
+          "name": "Paul Newhouse"
+        },
+        {
+          "id": "https://openalex.org/A5063741907",
+          "name": "Lorraine C. Mion"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2164800951",
+      "title": "Natural and Remote Sensing Image Segmentation Using Memetic Computing",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5050630882",
+          "name": "Licheng Jiao"
+        },
+        {
+          "id": "https://openalex.org/A5091227928",
+          "name": "Maoguo Gong"
+        },
+        {
+          "id": "https://openalex.org/A5065660222",
+          "name": "Shuang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5043022387",
+          "name": "Biao Hou"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5084327356",
+          "name": "Qiaodi Wu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1978132485",
+      "title": "Brief Report: Development of a Robotic Intervention Platform for Young Children with ASD",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5026965000",
+          "name": "Shuvajit Das"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3022630120",
+      "title": "A systematic review of mobile health technologies to support self-management of concurrent diabetes and hypertension",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058027944",
+          "name": "Wonchan Choi"
+        },
+        {
+          "id": "https://openalex.org/A5015438307",
+          "name": "Shengang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5087302608",
+          "name": "Yura Lee"
+        },
+        {
+          "id": "https://openalex.org/A5047621140",
+          "name": "Hyunkyoung Oh"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1974454998",
+      "title": "Autonomous robot-mediated imitation learning for children with autism",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5026965000",
+          "name": "Shuvajit Das"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2773076209",
+      "title": "Design, Development, and Evaluation of a Noninvasive Autonomous Robot-Mediated Joint Attention Intervention System for Young Children With ASD",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2076639588",
+      "title": "Unsupervised evolutionary clustering algorithm for mixed type data",
+      "year": 2010,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5091227928",
+          "name": "Maoguo Gong"
+        },
+        {
+          "id": "https://openalex.org/A5101449769",
+          "name": "Jingjing Ma"
+        },
+        {
+          "id": "https://openalex.org/A5050630882",
+          "name": "Licheng Jiao"
+        },
+        {
+          "id": "https://openalex.org/A5084327356",
+          "name": "Qiaodi Wu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2086327118",
+      "title": "Impact of robot-mediated interaction system on joint attention skills for children with autism",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101746657",
+          "name": "Zhang Lian"
+        },
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5022146237",
+          "name": "Julie A. Crittendon"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3158959182",
+      "title": "An Immersive Computer-Mediated Caregiver-Child Interaction System for Young Children With Autism Spectrum Disorder",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5011056149",
+          "name": "Akshith Ullal"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2508536227",
+      "title": "Design of an Autonomous Social Orienting Training System (ASOTS) for Young Children With Autism",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5002623953",
+          "name": "Qiang Fu"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2948031704",
+      "title": "An Exploration of Using Virtual Reality to Assess the Sensory Abnormalities in Children with Autism Spectrum Disorder",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5039297929",
+          "name": "Ankit Koirala"
+        },
+        {
+          "id": "https://openalex.org/A5047103760",
+          "name": "Zhiwei Yu"
+        },
+        {
+          "id": "https://openalex.org/A5049505887",
+          "name": "Hillary K. Schiltz"
+        },
+        {
+          "id": "https://openalex.org/A5080343367",
+          "name": "Amy Vaughan Van Hecke"
+        },
+        {
+          "id": "https://openalex.org/A5022360830",
+          "name": "Kathleen A. Koth"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3135304406",
+      "title": "A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5039297929",
+          "name": "Ankit Koirala"
+        },
+        {
+          "id": "https://openalex.org/A5047103760",
+          "name": "Zhiwei Yu"
+        },
+        {
+          "id": "https://openalex.org/A5049505887",
+          "name": "Hillary K. Schiltz"
+        },
+        {
+          "id": "https://openalex.org/A5080343367",
+          "name": "Amy Vaughan Van Hecke"
+        },
+        {
+          "id": "https://openalex.org/A5061650943",
+          "name": "Brian Armstrong"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4400245388",
+      "title": "Exploring the interplay of psychiatric symptoms, antipsychotic medications, side effects, employment status, and quality of life in Chronic Schizophrenia",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5113274995",
+          "name": "Dan-na Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5101927431",
+          "name": "Yang Xue"
+        },
+        {
+          "id": "https://openalex.org/A5100396393",
+          "name": "Wen Wang"
+        },
+        {
+          "id": "https://openalex.org/A5083530040",
+          "name": "Wen\u2010qing Jin"
+        },
+        {
+          "id": "https://openalex.org/A5026612674",
+          "name": "Yi\u2010lang Tang"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5075482179",
+          "name": "Yanping Ren"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4417252133",
+      "title": "Spatial-Temporal Consistency Based on Semi-Supervised Learning for Echocardiography Video Segmentation",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090449507",
+          "name": "Saidi Guo"
+        },
+        {
+          "id": "https://openalex.org/A5030758969",
+          "name": "Zhaoshan Liu"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101608437",
+          "name": "Haoran Geng"
+        },
+        {
+          "id": "https://openalex.org/A5100994299",
+          "name": "Xiaona Yan"
+        },
+        {
+          "id": "https://openalex.org/A5009950415",
+          "name": "Qiujie Lv"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1022580395",
+      "title": "Design of a Computer-Assisted System for Teaching Attentional Skills to Toddlers with ASD",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5002623953",
+          "name": "Qiang Fu"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4366826851",
+      "title": "An Exploration of Robot-Mediated Tai Chi Exercise for Older Adults",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5047621140",
+          "name": "Hyunkyoung Oh"
+        },
+        {
+          "id": "https://openalex.org/A5011898322",
+          "name": "Mayesha Sahir Mim"
+        },
+        {
+          "id": "https://openalex.org/A5058027944",
+          "name": "Wonchan Choi"
+        },
+        {
+          "id": "https://openalex.org/A5087302608",
+          "name": "Yura Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2743112983",
+      "title": "Robot Opera: A modularized afterschool program for STEAM education at local elementary school",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5012582320",
+          "name": "Jaclyn Barnes"
+        },
+        {
+          "id": "https://openalex.org/A5090098565",
+          "name": "Maryam FakhrHosseini"
+        },
+        {
+          "id": "https://openalex.org/A5051660353",
+          "name": "Eric Vasey"
+        },
+        {
+          "id": "https://openalex.org/A5030529204",
+          "name": "Zack Duford"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5088314846",
+          "name": "Emily A. Dare"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W13758144",
+      "title": "Responses during Facial Emotional Expression Recognition Tasks Using Virtual Reality and Static IAPS Pictures for Adults with Schizophrenia",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5112574641",
+          "name": "Joel S. Peterman"
+        },
+        {
+          "id": "https://openalex.org/A5019834339",
+          "name": "Sohee Park"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2774715462",
+      "title": "Both \u201clook and feel\u201d matter: Essential factors for robotic companionship",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101877983",
+          "name": "Seyedeh Maryam Hosseini"
+        },
+        {
+          "id": "https://openalex.org/A5043697190",
+          "name": "Dylan Lettinga"
+        },
+        {
+          "id": "https://openalex.org/A5051660353",
+          "name": "Eric Vasey"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        },
+        {
+          "id": "https://openalex.org/A5103550416",
+          "name": "Ayanna M. Howard"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2900367891",
+      "title": "Predicting Response to Joint Attention Performance in Human-Human Interaction Based on Human-Robot Interaction for Young Children with Autism Spectrum Disorder",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5022556655",
+          "name": "Jazette Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1566088435",
+      "title": "Robot-mediated mixed gesture imitation skill training for young children with ASD",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2515165417",
+      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5002623953",
+          "name": "Qiang Fu"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2956984870",
+      "title": "Facial Expression Recognition for Children: Can Existing Methods Tuned for Adults Be Adopted for Children?",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5079454108",
+          "name": "Xingliang Li"
+        },
+        {
+          "id": "https://openalex.org/A5012582320",
+          "name": "Jaclyn Barnes"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W91363840",
+      "title": "Multimodal Interfaces and Sensory Fusion in VR for Social Interactions",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5102979812",
+          "name": "Joshua Wade"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5101928241",
+          "name": "Lian Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5111840299",
+          "name": "Medha Sarkar"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2099387084",
+      "title": "Virtual Reality-Based Facial Expressions Understanding for Teenagers with Autism",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5037255302",
+          "name": "Julie Davidson"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2120964029",
+      "title": "A Step towards Adaptive Multimodal Virtual Social Interaction Platform for Children with Autism",
+      "year": 2013,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5015190832",
+          "name": "Mary K. Young"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5100647986",
+          "name": "Lian Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5082876118",
+          "name": "Rebecca L. Johnston"
+        },
+        {
+          "id": "https://openalex.org/A5037255302",
+          "name": "Julie Davidson"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404345041",
+      "title": "Application of visual feedback and AR-enhanced wheelchair skill training",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026090307",
+          "name": "Xiongwen Ke"
+        },
+        {
+          "id": "https://openalex.org/A5067326175",
+          "name": "Yong Tai Wang"
+        },
+        {
+          "id": "https://openalex.org/A5065329537",
+          "name": "Aiqiao Shi"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5110264580",
+          "name": "D. T. Phillips"
+        },
+        {
+          "id": "https://openalex.org/A5006383318",
+          "name": "David Long"
+        },
+        {
+          "id": "https://openalex.org/A5008975253",
+          "name": "Shihui Chen"
+        },
+        {
+          "id": "https://openalex.org/A5003632963",
+          "name": "Bradford C. Berk"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382240165",
+      "title": "Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns",
+      "year": 2023,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058779290",
+          "name": "Ervine Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101210353",
+          "name": "Qi Yu"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2529160023",
+      "title": "Longitudinal Impact of Autonomous Robot-Mediated Joint Attention Intervention for Young Children with ASD",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2736632162",
+      "title": "A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5030318476",
+          "name": "Loren Bruns"
+        },
+        {
+          "id": "https://openalex.org/A5100654839",
+          "name": "Jiajie Li"
+        },
+        {
+          "id": "https://openalex.org/A5039872140",
+          "name": "Richard Sinnott"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200306090",
+      "title": "How Moderate Alcohol Consumption Impacts Married or Cohabiting Couples in Expressing Disagreements: An Automatic Computation Model and Analysis",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047103760",
+          "name": "Zhiwei Yu"
+        },
+        {
+          "id": "https://openalex.org/A5004595272",
+          "name": "Cory A. Crane"
+        },
+        {
+          "id": "https://openalex.org/A5059093534",
+          "name": "Maria Testa"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2758633649",
+      "title": "Development and Usability Testing of a Remote Control App for An Interactive RoboT",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5051660353",
+          "name": "Eric Vasey"
+        },
+        {
+          "id": "https://openalex.org/A5090098565",
+          "name": "Maryam FakhrHosseini"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        },
+        {
+          "id": "https://openalex.org/A5038825611",
+          "name": "Ayanna Howard"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2807438818",
+      "title": "Non-invasive Gaze Direction Estimation from Head Orientation for Human-Machine Interaction",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5070236689",
+          "name": "Yu Guang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5012582320",
+          "name": "Jaclyn Barnes"
+        },
+        {
+          "id": "https://openalex.org/A5079454108",
+          "name": "Xingliang Li"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2576906416",
+      "title": "Chapter 19 The impact of robots on children with autism spectrum disorder",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3199926313",
+      "title": "The impact of robots on children with autism spectrum disorder",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3028655820",
+      "title": "Investigation of the working pressure level of coordinators for human organ donation in China",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076176254",
+          "name": "Jing Si"
+        },
+        {
+          "id": "https://openalex.org/A5101824916",
+          "name": "Wei Huang"
+        },
+        {
+          "id": "https://openalex.org/A5073649813",
+          "name": "Zhong-fa Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5100450021",
+          "name": "Zhijun Li"
+        },
+        {
+          "id": "https://openalex.org/A5049423544",
+          "name": "Zhe Xu"
+        },
+        {
+          "id": "https://openalex.org/A5002925500",
+          "name": "Liang Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5101650479",
+          "name": "Tao Shu"
+        },
+        {
+          "id": "https://openalex.org/A5028828133",
+          "name": "Qifa Ye"
+        },
+        {
+          "id": "https://openalex.org/A5017683840",
+          "name": "Chongxiang He"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2314786459",
+      "title": "An overlapping community detection algorithm based on hierarchical label of semantic",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5052330166",
+          "name": "Yong Wang"
+        },
+        {
+          "id": "https://openalex.org/A5008550289",
+          "name": "Ying Yang"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5083390005",
+          "name": "Jie Zhao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2492835867",
+      "title": "Image color transfer method based on clustering segmentation and particle swarm optimization correction",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101418548",
+          "name": "Huang Jian"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2983368234",
+      "title": "CHALLENGES IN SELF-MANAGEMENT AMONG OLDER ADULTS WITH HYPERTENSION AND DIABETES",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047621140",
+          "name": "Hyunkyoung Oh"
+        },
+        {
+          "id": "https://openalex.org/A5087302608",
+          "name": "Yura Lee"
+        },
+        {
+          "id": "https://openalex.org/A5058027944",
+          "name": "Wonchan Choi"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3090568936",
+      "title": "CARobots: Automated Driving Systems as Robots on Four Wheels",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5087073329",
+          "name": "Andreas Riener"
+        },
+        {
+          "id": "https://openalex.org/A5054613643",
+          "name": "Alexander Meschtscherjakov"
+        },
+        {
+          "id": "https://openalex.org/A5080550748",
+          "name": "Alexander G. Mirnig"
+        },
+        {
+          "id": "https://openalex.org/A5078305333",
+          "name": "Manuel Giuliani"
+        },
+        {
+          "id": "https://openalex.org/A5070249475",
+          "name": "Manfred Tscheligi"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3093104454",
+      "title": "Machine-assisted Technologies for Young Children with Autism Spectrum Disorder: Novel Platforms for Early Detection and Intervention",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3158761200",
+      "title": "Can A Robot Encourage Physical Exercise for Older Adults? A Pilot Robot-Mediated Tai Chi Exercise Study.",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5011898322",
+          "name": "Mayesha Sahir Mim"
+        },
+        {
+          "id": "https://openalex.org/A5047621140",
+          "name": "Hyunkyoung Oh"
+        },
+        {
+          "id": "https://openalex.org/A5087302608",
+          "name": "Yura Lee"
+        },
+        {
+          "id": "https://openalex.org/A5058027944",
+          "name": "Wonchan Choi"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4285273580",
+      "title": "Theory of\u00a0Mind Assessment with\u00a0Human-Human and\u00a0Human-Robot Interactions",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5092312773",
+          "name": "Trent Rabe"
+        },
+        {
+          "id": "https://openalex.org/A5092312774",
+          "name": "Anisa Callis"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5075542202",
+          "name": "Jamison Heard"
+        },
+        {
+          "id": "https://openalex.org/A5046158825",
+          "name": "Reynold Bailey"
+        },
+        {
+          "id": "https://openalex.org/A5067170834",
+          "name": "Cecilia Ovesdotter Alm"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406072862",
+      "title": "An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109766903",
+          "name": "G. F. Xu"
+        },
+        {
+          "id": "https://openalex.org/A5011529786",
+          "name": "Ruiyang Qin"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5109072378",
+          "name": "Yiyu Shi"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415002983",
+      "title": "A Screen-Based Multimodal Virtual Classroom Interface for Understanding Behavioral Sensory Responses in Autistic Adolescents: A Pilot Study",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5000507898",
+          "name": "Suzannah Iadarola"
+        },
+        {
+          "id": "https://openalex.org/A5026704750",
+          "name": "Samantha G. Daley"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7124161275",
+      "title": "NAS-FD: Neural Architecture Search-Based Fraud Detection for Power Audit Data",
+      "year": 2026,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5122993396",
+          "name": "Yuanzhong Zuo"
+        },
+        {
+          "id": "https://openalex.org/A5123008042",
+          "name": "Jingyi Hu"
+        },
+        {
+          "id": "https://openalex.org/A5081060895",
+          "name": "Rao Kuang"
+        },
+        {
+          "id": "https://openalex.org/A5123044991",
+          "name": "Ping Chen"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5123017837",
+          "name": "Ze Zhou"
+        }
+      ]
+    }
+  ]
+}

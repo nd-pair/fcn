@@ -1,0 +1,80 @@
+name: Update collaboration graph & deploy Pages
+
+on:
+  # Rebuild once a week (Mondays 06:17 UTC).
+  schedule:
+    - cron: "17 6 * * 1"
+  # Rebuild whenever someone pushes to main.
+  push:
+    branches: [main]
+  # Allow a manual run from the Actions tab.
+  workflow_dispatch:
+
+# Needed to commit refreshed data and to publish GitHub Pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; let a running one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Crawl OpenAlex and rebuild graph
+        env:
+          # Set an OPENALEX_MAILTO repo secret to join OpenAlex's faster "polite pool".
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO || 'nd-pair@nd.edu' }}
+        run: |
+          python scripts/crawl_openalex.py
+          python scripts/build_site.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data assets
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            # Commits made with GITHUB_TOKEN do NOT retrigger the push workflow,
+            # so this cannot cause an infinite loop.
+            git commit -m "chore: refresh collaboration data [skip ci]"
+            git push
+          fi
+
+      - name: Assemble static site
+        run: |
+          rm -rf _site && mkdir -p _site
+          cp index.html _site/
+          cp -r data _site/
+          cp -r assets _site/ 2>/dev/null || true
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

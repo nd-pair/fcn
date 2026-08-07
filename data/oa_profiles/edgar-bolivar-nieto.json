@@ -1,0 +1,816 @@
+{
+  "query_name": "Edgar Bolivar-Nieto",
+  "openalex_id": "https://openalex.org/A5076214359",
+  "display_name": "Edgar Bol\u00edvar-Nieto",
+  "affiliation": "University of Notre Dame",
+  "works_count": 35,
+  "cited_by_count": 302,
+  "num_works_fetched": 35,
+  "works": [
+    {
+      "id": "https://openalex.org/W3194165539",
+      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026757426",
+          "name": "Shihao Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2963106632",
+      "title": "Minimizing Energy Consumption and Peak Power of Series Elastic Actuators: A Convex Optimization Framework for Elastic Element Design",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3035390057",
+      "title": "Extremum Seeking Control for Stiffness Auto-Tuning of a Quasi-Passive Ankle Exoskeleton",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030652380",
+          "name": "Saurav Kumar"
+        },
+        {
+          "id": "https://openalex.org/A5098481131",
+          "name": "Matthew Zwall"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5061986744",
+          "name": "Nicholas Gans"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4285150664",
+      "title": "Modeling the Transitional Kinematics Between Variable-Incline Walking and Stair Climbing",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026757426",
+          "name": "Shihao Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5077868749",
+          "name": "Cara Gonzalez Welker"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4285102452",
+      "title": "Stair Ascent Phase-Variable Control of a Powered Knee-Ankle Prosthesis",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066555550",
+          "name": "Ross J. Cortino"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5034840911",
+          "name": "T. Kevin Best"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2769825647",
+      "title": "A General Framework for Minimizing Energy Consumption of Series Elastic Actuators With Regeneration",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2946778909",
+      "title": "Mechanical Simplification of Variable-Stiffness Actuators Using Dielectric Elastomer Transducers",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077577641",
+          "name": "David P. Allen"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5071423058",
+          "name": "Sophie Farmer"
+        },
+        {
+          "id": "https://openalex.org/A5075556499",
+          "name": "Walter Voit"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412605479",
+      "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5115596636",
+          "name": "Kang Yang"
+        },
+        {
+          "id": "https://openalex.org/A5114367867",
+          "name": "Myia Dickens"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2551071671",
+      "title": "Towards a series elastic actuator with electrically modulated stiffness for Powered Ankle-Foot Orthoses",
+      "year": 2016,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5077577641",
+          "name": "David P. Allen"
+        },
+        {
+          "id": "https://openalex.org/A5045697313",
+          "name": "G ELLSON"
+        },
+        {
+          "id": "https://openalex.org/A5109754823",
+          "name": "Jorge Coss\u00edo"
+        },
+        {
+          "id": "https://openalex.org/A5075556499",
+          "name": "Walter Voit"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3194305617",
+      "title": "A convex optimization framework for robust-feasible series elastic actuators",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5051772147",
+          "name": "Tyler Summers"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200413691",
+      "title": "Convex Optimization for Spring Design in Series Elastic Actuators: From Theory to Practice",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5003716751",
+          "name": "Gray C. Thomas"
+        },
+        {
+          "id": "https://openalex.org/A5075910975",
+          "name": "Elliott J. Rouse"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3193601395",
+      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048122826",
+          "name": "Daphna Raz"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5054418471",
+          "name": "Necmiye \u00d6zay"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4294690890",
+      "title": "Convex Optimization for Spring Design of Parallel Elastic Actuators",
+      "year": 2022,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043312150",
+          "name": "Sicong Guo"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2903995836",
+      "title": "Robust Optimal Design of Energy Efficient Series Elastic Actuators: Application to a Powered Prosthetic Ankle",
+      "year": 2019,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051772147",
+          "name": "Tyler Summers"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403677286",
+      "title": "Prediction of Whole-Body Center of Mass Using Joint Angles and Ground Reaction Forces: A Framework for Human Intent Prediction",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410022415",
+      "title": "Center of mass estimation during non-cyclic activities: Comparison of marker-based methods and their fusion with ground reaction forces",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413415012",
+      "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3198500577",
+      "title": "Lower-limb kinematics and kinetics during continuously varying human locomotion",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5039893489",
+          "name": "Emma Reznick"
+        },
+        {
+          "id": "https://openalex.org/A5021066997",
+          "name": "Kyle Embry"
+        },
+        {
+          "id": "https://openalex.org/A5038780671",
+          "name": "Ross M. Neuman"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5019540782",
+          "name": "Nicholas P. Fey"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2900961919",
+      "title": "Minimizing Energy Consumption and Peak Power of Series Elastic Actuators: a Convex Optimization Framework for Elastic Element Design",
+      "year": 2018,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403662221",
+      "title": "Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5115596636",
+          "name": "Kang Yang"
+        },
+        {
+          "id": "https://openalex.org/A5114367867",
+          "name": "Myia Dickens"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404988195",
+      "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4417266406",
+      "title": "Whole-body optical marker and ground reaction force data of healthy humans performing non-cyclic activities",
+      "year": 2025,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5120782099",
+          "name": "Sebastian Green"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1139031155",
+      "title": "University and cultural politics in Colombia: Itineraries, consolidation and opening to the cultural development of the Region",
+      "year": 2009,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078808803",
+          "name": "Marta Elena Bravo"
+        },
+        {
+          "id": "https://openalex.org/A5061417076",
+          "name": "Mar\u00eda Adelaida Saldarriaga Jaramillo"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1447815971",
+      "title": "An\u00e1lisis costo-beneficio existente entre los costos de producci\u00f3n generados por accidentes de trabajo y la inversi\u00f3n en seguridad y salud ocupacional del a\u00f1o 2014 en la empresa Rapidservice S.A.",
+      "year": 2015,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109842531",
+          "name": "M. Garc\u00eda Romero"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2280840338",
+      "title": "Dise\u00f1o y construcci\u00f3n de un modulador y demodulador de Banda lateral \u00fanica empleando el m\u00e9todo de doble filtraje",
+      "year": 1997,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076758635",
+          "name": "Guam\u00e1n Cajas"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2297825023",
+      "title": "Vida y obra del compositor gualace\u00f1o Augusto Saquicela Lituma",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048184498",
+          "name": "Avecillas Saquicela"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2784324338",
+      "title": "Identidad y supervivencia de la cultura",
+      "year": 2017,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2785064618",
+      "title": "Dise\u00f1o y Construcci\u00f3n de un Dispositivo Electr\u00f3nico Calculador de Distancia y Tarifas para Taxis Implementado en un Banco de Pruebas para la Escuela de Ingenier\u00eda Automotriz.",
+      "year": 2014,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031126248",
+          "name": "Garc\u00eda J\u00e1tiva"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3201966778",
+      "title": "Attalea: Revista de Divulgaci\u00f3n Cient\u00edfica n\u00b0 1 (2020)",
+      "year": 2020,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048802615",
+          "name": "Manuel Mart\u00edn Bra\u00f1as"
+        },
+        {
+          "id": "https://openalex.org/A5090814140",
+          "name": "Carmen Rosa GARC\u00cdA-D\u00c1VILA"
+        },
+        {
+          "id": "https://openalex.org/A5062916607",
+          "name": "N\u00e1llarett D\u00e1vila Cardozo"
+        },
+        {
+          "id": "https://openalex.org/A5021763947",
+          "name": "Melba del Roc\u00edo Correa Tang"
+        },
+        {
+          "id": "https://openalex.org/A5022072985",
+          "name": "Juan Jos\u00e9 Bellido Collahuacho"
+        },
+        {
+          "id": "https://openalex.org/A5141731126",
+          "name": "Ana\u00ed Gonzales"
+        },
+        {
+          "id": "https://openalex.org/A5061698776",
+          "name": "Marcos Tavares Dias"
+        },
+        {
+          "id": "https://openalex.org/A5141848319",
+          "name": "Elsa Rengifo"
+        },
+        {
+          "id": "https://openalex.org/A5040690755",
+          "name": "\u00c1ngel Rodr\u00edguez del Castillo"
+        },
+        {
+          "id": "https://openalex.org/A5073244252",
+          "name": "Jorge Babilonia Medina"
+        },
+        {
+          "id": "https://openalex.org/A5026376667",
+          "name": "Napole\u00f3n Vela Mendoza"
+        },
+        {
+          "id": "https://openalex.org/A5141340690",
+          "name": "Dirce L. Komura"
+        },
+        {
+          "id": "https://openalex.org/A5076406076",
+          "name": "Angela R\u00edos Cardozo"
+        },
+        {
+          "id": "https://openalex.org/A5052307031",
+          "name": "Enrique Solano Lorente"
+        },
+        {
+          "id": "https://openalex.org/A5063235066",
+          "name": "Italo Cardama"
+        },
+        {
+          "id": "https://openalex.org/A5141691668",
+          "name": "Rutherford del Castillo"
+        },
+        {
+          "id": "https://openalex.org/A5060416251",
+          "name": "Mario Pinedo Panduro"
+        },
+        {
+          "id": "https://openalex.org/A5017245373",
+          "name": "Ronald Corvera Gomringer"
+        },
+        {
+          "id": "https://openalex.org/A5073918580",
+          "name": "Edgar Cusi Auca"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5016279667",
+          "name": "Manuel Gabriel Vel\u00e1squez Ram\u00edrez"
+        },
+        {
+          "id": "https://openalex.org/A5141600527",
+          "name": "Edwin Becerra"
+        },
+        {
+          "id": "https://openalex.org/A5062956168",
+          "name": "Dennis Del Castillo Torres"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4391375207",
+      "title": "El carnaval de Barranquilla: juego de alteridades",
+      "year": 2001,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394097033",
+      "title": "Normalized Dataset",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5039893489",
+          "name": "Emma Reznick"
+        },
+        {
+          "id": "https://openalex.org/A5021066997",
+          "name": "Kyle Embry"
+        },
+        {
+          "id": "https://openalex.org/A5038780671",
+          "name": "Ross M. Neuman"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5019540782",
+          "name": "Nicholas P. Fey"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394284690",
+      "title": "Streaming Dataset",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5039893489",
+          "name": "Emma Reznick"
+        },
+        {
+          "id": "https://openalex.org/A5021066997",
+          "name": "Kyle Embry"
+        },
+        {
+          "id": "https://openalex.org/A5038780671",
+          "name": "Ross M. Neuman"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5019540782",
+          "name": "Nicholas P. Fey"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394354984",
+      "title": "README",
+      "year": 2021,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5039893489",
+          "name": "Emma Reznick"
+        },
+        {
+          "id": "https://openalex.org/A5021066997",
+          "name": "Kyle Embry"
+        },
+        {
+          "id": "https://openalex.org/A5038780671",
+          "name": "Ross M. Neuman"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5019540782",
+          "name": "Nicholas P. Fey"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405029625",
+      "title": "Comparative analysis of whole-body center-of-mass estimation methods in dynamic and static activities using marker-based systems",
+      "year": 2024,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7165054088",
+      "title": "Nested Split-Tube Flexure: Design, Modeling, and Characterization of a Compact Torsional Compliant Mechanism",
+      "year": 2026,
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5138773365",
+          "name": "Collin Klomp"
+        },
+        {
+          "id": "https://openalex.org/A5138824185",
+          "name": "Nathan Usevitch"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5091376006",
+          "name": "Larry L. Howell"
+        }
+      ]
+    }
+  ]
+}
