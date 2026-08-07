@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07 23:36 UTC",
+  "generated": "2026-08-07 23:37 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Robotics @ Notre Dame faculty collaboration network. Node size = number of publications; edge weight = number of co-authored papers between two faculty.",
   "nodeCount": 16,
@@ -273,12 +273,12 @@
           "year": 2022
         },
         {
-          "id": "https://openalex.org/W4224903566",
+          "id": "https://openalex.org/W4315472274",
           "title": "On-line Estimation of Stability and Passivity Metrics",
           "year": 2022
         },
         {
-          "id": "https://openalex.org/W4315472274",
+          "id": "https://openalex.org/W4224903566",
           "title": "On-line Estimation of Stability and Passivity Metrics",
           "year": 2022
         },
@@ -831,12 +831,12 @@
           "year": 2021
         },
         {
-          "id": "https://openalex.org/W3036569003",
+          "id": "https://openalex.org/W3114705960",
           "title": "Approximate Simulation for Template-Based Whole-Body Control",
           "year": 2020
         },
         {
-          "id": "https://openalex.org/W3114705960",
+          "id": "https://openalex.org/W3036569003",
           "title": "Approximate Simulation for Template-Based Whole-Body Control",
           "year": 2020
         },
