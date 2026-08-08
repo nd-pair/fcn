@@ -327,17 +327,26 @@ function render(data){
       : "<b>"+curLo+"</b>–<b>"+curHi+"</b>";
     lab.innerHTML = range + ` · ${activeLinks} link${activeLinks===1?"":"s"}, ${papers} paper${papers===1?"":"s"}`;
   }
+  // keep the still-movable thumb on top when both pile up (so it stays grabbable)
+  function setStack(){
+    let lowTop;
+    if(curHi>=MAXY) lowTop=true;              // piled at the right -> grab low (drag it left)
+    else if(curLo<=MINY) lowTop=false;        // piled at the left  -> grab high (drag it right)
+    else if(curLo===curHi) lowTop = curLo >= (MINY+MAXY)/2;  // overlapped mid -> pick the roomier side
+    else lowTop=false;
+    low.style.zIndex = lowTop?5:4; high.style.zIndex = lowTop?4:5;
+  }
   function onSlide(e){
     // prevent the thumbs from crossing (raw, continuous values)
     if(+low.value > +high.value){ if(e && e.target===low) low.value=high.value; else high.value=low.value; }
     curLo=Math.round(+low.value); curHi=Math.round(+high.value);   // filter snaps to the year
-    updFill(); refreshEdges();                                     // thumb/fill glide smoothly
+    updFill(); refreshEdges(); setStack();                         // thumb/fill glide smoothly
   }
   function snap(){ low.value=Math.round(+low.value); high.value=Math.round(+high.value);
-    curLo=+low.value; curHi=+high.value; updFill(); refreshEdges(); }   // land on a tick when released
+    curLo=+low.value; curHi=+high.value; updFill(); refreshEdges(); setStack(); }   // land on a tick when released
   low.addEventListener("input",onSlide); high.addEventListener("input",onSlide);
   low.addEventListener("change",snap);   high.addEventListener("change",snap);
-  updFill();
+  updFill(); setStack();
 
   // ---- checkbox controls ----
   const upd=()=>{
