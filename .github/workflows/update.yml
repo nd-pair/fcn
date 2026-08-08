@@ -1,9 +1,9 @@
 name: Update collaboration graph & deploy Pages
 
 on:
-  # Rebuild once a week (Mondays 06:17 UTC).
+  # Rebuild every two weeks (1st and 15th, 06:17 UTC).
   schedule:
-    - cron: "17 6 * * 1"
+    - cron: "17 6 1,15 * *"
   # Rebuild whenever someone pushes to main.
   push:
     branches: [main]

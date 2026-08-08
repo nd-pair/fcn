@@ -104,7 +104,7 @@ design does **not** retrigger the workflow, so there is no loop.
   This is exactly why publication totals are not displayed; the *co-authorship*
   links are still valid.
 - `Toros Arikan` may show a previous institution until OpenAlex catches up.
-- Node labels use the department's display names (e.g. "Pat Wensing",
+- Node labels use the people-page display names (e.g. "Pat Wensing",
   "Margaret McGuinness"), while OpenAlex is queried with the formal name from the
   profile slug.
 
