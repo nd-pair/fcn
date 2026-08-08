@@ -25,8 +25,16 @@
     background:rgba(18,26,43,.55);backdrop-filter:blur(7px);border:1px solid var(--line);border-radius:11px;padding:8px 14px;box-shadow:0 4px 18px rgba(0,0,0,.14)}
   @media (prefers-color-scheme: light){ #timeline{background:rgba(255,255,255,.78)} }
   #timeline button{background:var(--nd-gold);color:#241a00;border:none;border-radius:7px;width:32px;height:28px;cursor:pointer;font-size:12px;flex:none}
-  #timeline input[type=range]{flex:1;accent-color:var(--nd-gold);cursor:pointer}
-  #timeline .tl-label{font-size:12.5px;color:var(--ink);min-width:150px;text-align:right;font-variant-numeric:tabular-nums}
+  /* dual-range (two overlaid thumbs sharing one track) */
+  .tl-slider{position:relative;flex:1;height:28px}
+  .tl-slider .track{position:absolute;top:12px;left:2px;right:2px;height:4px;background:var(--line);border-radius:2px}
+  .tl-slider .fill{position:absolute;top:12px;height:4px;background:var(--nd-gold);border-radius:2px}
+  .tl-slider input[type=range]{position:absolute;top:0;left:0;width:100%;height:28px;margin:0;background:none;pointer-events:none;-webkit-appearance:none;appearance:none}
+  .tl-slider input[type=range]::-webkit-slider-runnable-track{height:28px;background:none}
+  .tl-slider input[type=range]::-moz-range-track{height:28px;background:none}
+  .tl-slider input[type=range]::-webkit-slider-thumb{pointer-events:auto;-webkit-appearance:none;width:16px;height:16px;margin-top:6px;border-radius:50%;background:var(--nd-gold);border:2px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.35);cursor:pointer}
+  .tl-slider input[type=range]::-moz-range-thumb{pointer-events:auto;width:16px;height:16px;border-radius:50%;background:var(--nd-gold);border:2px solid #fff;cursor:pointer}
+  #timeline .tl-label{font-size:12.5px;color:var(--ink);min-width:172px;text-align:right;font-variant-numeric:tabular-nums}
   #timeline .tl-label b{color:var(--nd-gold-2)}
   #timeline .tl-cap{font-size:11px;color:var(--muted);white-space:nowrap;flex:none}
   aside{width:330px;border-left:1px solid var(--line);background:var(--panel);padding:16px 16px 24px;overflow-y:auto}
@@ -123,7 +131,11 @@
       <div id="tip"></div>
       <div id="timeline" hidden>
         <button id="tlPlay" title="Play / pause">▶</button>
-        <input type="range" id="tlRange" min="2020" max="2026" value="2026" step="1" aria-label="Year" />
+        <div class="tl-slider">
+          <div class="track"></div><div class="fill" id="tlFill"></div>
+          <input type="range" id="tlLow" min="2020" max="2026" value="2020" step="1" aria-label="Start year" />
+          <input type="range" id="tlHigh" min="2020" max="2026" value="2026" step="1" aria-label="End year" />
+        </div>
         <span class="tl-label" id="tlLabel"></span>
       </div>
     </div>
@@ -282,25 +294,38 @@ function render(data){
     node.attr("transform",d=>`translate(${d.x},${d.y})`);
   });
 
-  // ---- timeline: filter edges by year (cumulative, papers through year Y) ----
+  // ---- timeline: filter edges to a year window [lo, hi] (two handles) ----
   const nowY = new Date().getFullYear();
   const maxDataY = d3.max(links, l=>d3.max(l.papers, p=>p.year)) || nowY;
-  const MAXY = Math.max(nowY, maxDataY);
-  let curY = MAXY;
-  const rng=document.getElementById("tlRange"), lab=document.getElementById("tlLabel");
-  rng.max=MAXY; rng.value=MAXY;
-  const weightAt=(l,Y)=>{ let c=0; for(const p of l.papers){ if(p.year==null||p.year<=Y) c++; } return c; };
+  const MINY = 2020, MAXY = Math.max(nowY, maxDataY);
+  const low=document.getElementById("tlLow"), high=document.getElementById("tlHigh");
+  const fill=document.getElementById("tlFill"), lab=document.getElementById("tlLabel");
+  [low,high].forEach(s=>{ s.min=MINY; s.max=MAXY; });
+  low.value=MINY; high.value=MAXY;
+  let curLo=MINY, curHi=MAXY;
+  const span=Math.max(1,MAXY-MINY);
+  const updFill=()=>{ const a=(curLo-MINY)/span, b=(curHi-MINY)/span; fill.style.left=(a*100)+"%"; fill.style.width=((b-a)*100)+"%"; };
+  // low handle at its minimum = "from the beginning" (include pre-2020 papers)
+  const inWin=y=> y!=null && y<=curHi && (curLo<=MINY || y>=curLo);
   function refreshEdges(){
     const showLabels=document.getElementById("tEdgeLabels").checked;
     let activeLinks=0, papers=0;
-    link.each(function(l){ l._wY=weightAt(l,curY); if(l._wY>0){activeLinks++; papers+=l._wY;} });
+    link.each(function(l){ let c=0; for(const p of l.papers) if(inWin(p.year)) c++; l._wY=c; if(c>0){activeLinks++; papers+=c;} });
     link.attr("stroke-width",l=> l._wY>0 ? (1+8*l._wY/maxW) : 0)
         .style("display",l=> l._wY>0 ? null : "none");
     elabel.text(l=>l._wY).style("display",l=> (l._wY>0 && showLabels) ? null : "none");
-    lab.innerHTML = (curY>=MAXY ? "Today" : "through <b>"+curY+"</b>")
-      + ` · ${activeLinks} link${activeLinks===1?"":"s"}, ${papers} paper${papers===1?"":"s"}`;
+    const range = (curLo<=MINY)
+      ? (curHi>=MAXY ? "Today" : "through <b>"+curHi+"</b>")
+      : "<b>"+curLo+"</b>–<b>"+curHi+"</b>";
+    lab.innerHTML = range + ` · ${activeLinks} link${activeLinks===1?"":"s"}, ${papers} paper${papers===1?"":"s"}`;
   }
-  rng.addEventListener("input",()=>{ curY=+rng.value; refreshEdges(); });
+  function onSlide(e){
+    let lo=+low.value, hi=+high.value;
+    if(lo>hi){ if(e && e.target===low){ hi=lo; high.value=hi; } else { lo=hi; low.value=lo; } }
+    curLo=lo; curHi=hi; updFill(); refreshEdges();
+  }
+  low.addEventListener("input",onSlide); high.addEventListener("input",onSlide);
+  updFill();
 
   // ---- checkbox controls ----
   const upd=()=>{
@@ -317,11 +342,11 @@ function render(data){
   playBtn.addEventListener("click",()=>{
     if(timer){ stopPlay(); return; }
     playBtn.textContent="⏸";
-    if(curY>=MAXY){ curY=+rng.min; }
+    if(curHi>=MAXY){ curHi=Math.max(curLo,MINY); high.value=curHi; onSlide(); }  // restart the sweep
     timer=setInterval(()=>{
-      curY++;
-      if(curY>MAXY){ curY=MAXY; rng.value=curY; refreshEdges(); stopPlay(); return; }
-      rng.value=curY; refreshEdges();
+      curHi++;
+      if(curHi>MAXY){ curHi=MAXY; high.value=curHi; onSlide(); stopPlay(); return; }
+      high.value=curHi; onSlide();
     }, 650);
   });
 
