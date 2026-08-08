@@ -128,7 +128,7 @@ def to_graph_json(G, groups, news):
     return {
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "source": "OpenAlex (https://openalex.org)",
-        "description": "Robotics @ Notre Dame faculty collaboration network. "
+        "description": "Physical AI and Robotics Initiative faculty collaboration network. "
                        "Node size = number of papers co-authored with ND colleagues; "
                        "edge weight = number of papers the two faculty co-authored.",
         "nodeCount": G.number_of_nodes(),
@@ -172,7 +172,7 @@ def write_png(G, groups, out):
         ax.text(x, y - (0.05 + 0.0018 * math.sqrt(wd(n))), n, fontsize=9,
                 fontweight="bold", ha="center", va="top", zorder=5,
                 bbox=dict(boxstyle="round,pad=0.12", fc="white", ec="none", alpha=0.75))
-    ax.set_title("Robotics @ Notre Dame — Faculty Collaboration Network\n"
+    ax.set_title("Physical AI and Robotics Initiative — Faculty Collaboration Network\n"
                  "node size = # papers co-authored with ND colleagues · edge label/width = "
                  "# co-authored papers · source: OpenAlex", fontsize=13, pad=14)
     ax.axis("off"); plt.tight_layout()
