@@ -29,11 +29,14 @@
   .tl-slider{position:relative;flex:1;height:28px}
   .tl-slider .track{position:absolute;top:12px;left:2px;right:2px;height:4px;background:var(--line);border-radius:2px}
   .tl-slider .fill{position:absolute;top:12px;height:4px;background:var(--nd-gold);border-radius:2px}
+  .tl-slider .ticks{position:absolute;inset:0;pointer-events:none}
+  .tl-slider .ticks i{position:absolute;top:9px;width:2px;height:10px;background:var(--ink);opacity:.5;border-radius:1px;transform:translateX(-1px)}
   .tl-slider input[type=range]{position:absolute;top:0;left:0;width:100%;height:28px;margin:0;background:none;pointer-events:none;-webkit-appearance:none;appearance:none}
   .tl-slider input[type=range]::-webkit-slider-runnable-track{height:28px;background:none}
   .tl-slider input[type=range]::-moz-range-track{height:28px;background:none}
-  .tl-slider input[type=range]::-webkit-slider-thumb{pointer-events:auto;-webkit-appearance:none;width:16px;height:16px;margin-top:6px;border-radius:50%;background:var(--nd-gold);border:2px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.35);cursor:pointer}
-  .tl-slider input[type=range]::-moz-range-thumb{pointer-events:auto;width:16px;height:16px;border-radius:50%;background:var(--nd-gold);border:2px solid #fff;cursor:pointer}
+  .tl-slider input[type=range]::-webkit-slider-thumb{pointer-events:auto;-webkit-appearance:none;width:20px;height:20px;margin-top:4px;border-radius:50%;background:var(--nd-gold);border:2.5px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.4);cursor:grab}
+  .tl-slider input[type=range]::-webkit-slider-thumb:active{cursor:grabbing;transform:scale(1.12)}
+  .tl-slider input[type=range]::-moz-range-thumb{pointer-events:auto;width:20px;height:20px;border-radius:50%;background:var(--nd-gold);border:2.5px solid #fff;cursor:grab}
   #timeline .tl-label{font-size:12.5px;color:var(--ink);min-width:172px;text-align:right;font-variant-numeric:tabular-nums}
   #timeline .tl-label b{color:var(--nd-gold-2)}
   #timeline .tl-cap{font-size:11px;color:var(--muted);white-space:nowrap;flex:none}
@@ -132,9 +135,9 @@
       <div id="timeline" hidden>
         <button id="tlPlay" title="Play / pause">▶</button>
         <div class="tl-slider">
-          <div class="track"></div><div class="fill" id="tlFill"></div>
-          <input type="range" id="tlLow" min="2020" max="2026" value="2020" step="1" aria-label="Start year" />
-          <input type="range" id="tlHigh" min="2020" max="2026" value="2026" step="1" aria-label="End year" />
+          <div class="track"></div><div class="fill" id="tlFill"></div><div class="ticks" id="tlTicks"></div>
+          <input type="range" id="tlLow" min="2020" max="2026" value="2020" step="any" aria-label="Start year" />
+          <input type="range" id="tlHigh" min="2020" max="2026" value="2026" step="any" aria-label="End year" />
         </div>
         <span class="tl-label" id="tlLabel"></span>
       </div>
@@ -304,7 +307,12 @@ function render(data){
   low.value=MINY; high.value=MAXY;
   let curLo=MINY, curHi=MAXY;
   const span=Math.max(1,MAXY-MINY);
-  const updFill=()=>{ const a=(curLo-MINY)/span, b=(curHi-MINY)/span; fill.style.left=(a*100)+"%"; fill.style.width=((b-a)*100)+"%"; };
+  // year tick marks
+  const ticks=document.getElementById("tlTicks");
+  for(let y=MINY;y<=MAXY;y++){ const i=document.createElement("i"); i.style.left=((y-MINY)/span*100)+"%"; ticks.appendChild(i); }
+  // fill tracks the raw (continuous) thumb positions for a smooth drag
+  const updFill=()=>{ const a=(+low.value-MINY)/span, b=(+high.value-MINY)/span;
+    fill.style.left=(Math.min(a,b)*100)+"%"; fill.style.width=(Math.abs(b-a)*100)+"%"; };
   // low handle at its minimum = "from the beginning" (include pre-2020 papers)
   const inWin=y=> y!=null && y<=curHi && (curLo<=MINY || y>=curLo);
   function refreshEdges(){
@@ -320,11 +328,15 @@ function render(data){
     lab.innerHTML = range + ` · ${activeLinks} link${activeLinks===1?"":"s"}, ${papers} paper${papers===1?"":"s"}`;
   }
   function onSlide(e){
-    let lo=+low.value, hi=+high.value;
-    if(lo>hi){ if(e && e.target===low){ hi=lo; high.value=hi; } else { lo=hi; low.value=lo; } }
-    curLo=lo; curHi=hi; updFill(); refreshEdges();
+    // prevent the thumbs from crossing (raw, continuous values)
+    if(+low.value > +high.value){ if(e && e.target===low) low.value=high.value; else high.value=low.value; }
+    curLo=Math.round(+low.value); curHi=Math.round(+high.value);   // filter snaps to the year
+    updFill(); refreshEdges();                                     // thumb/fill glide smoothly
   }
+  function snap(){ low.value=Math.round(+low.value); high.value=Math.round(+high.value);
+    curLo=+low.value; curHi=+high.value; updFill(); refreshEdges(); }   // land on a tick when released
   low.addEventListener("input",onSlide); high.addEventListener("input",onSlide);
+  low.addEventListener("change",snap);   high.addEventListener("change",snap);
   updFill();
 
   // ---- checkbox controls ----
