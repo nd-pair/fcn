@@ -18,8 +18,17 @@
   header h1{margin:0;font-size:19px;letter-spacing:.2px}
   header h1 .gold{color:var(--nd-gold)}
   header p{margin:5px 0 0;font-size:13px;color:var(--muted);max-width:940px}
-  .wrap{display:flex;height:calc(100% - 74px);min-height:520px}
+  #app{height:100%;display:flex;flex-direction:column}
+  .wrap{display:flex;flex:1;min-height:0}
   #graph{flex:1;position:relative;overflow:hidden}
+  #timeline{position:absolute;left:16px;right:16px;bottom:12px;z-index:6;display:flex;align-items:center;gap:12px;
+    background:rgba(18,26,43,.55);backdrop-filter:blur(7px);border:1px solid var(--line);border-radius:11px;padding:8px 14px;box-shadow:0 4px 18px rgba(0,0,0,.14)}
+  @media (prefers-color-scheme: light){ #timeline{background:rgba(255,255,255,.78)} }
+  #timeline button{background:var(--nd-gold);color:#241a00;border:none;border-radius:7px;width:32px;height:28px;cursor:pointer;font-size:12px;flex:none}
+  #timeline input[type=range]{flex:1;accent-color:var(--nd-gold);cursor:pointer}
+  #timeline .tl-label{font-size:12.5px;color:var(--ink);min-width:150px;text-align:right;font-variant-numeric:tabular-nums}
+  #timeline .tl-label b{color:var(--nd-gold-2)}
+  #timeline .tl-cap{font-size:11px;color:var(--muted);white-space:nowrap;flex:none}
   aside{width:330px;border-left:1px solid var(--line);background:var(--panel);padding:16px 16px 24px;overflow-y:auto}
   aside h2{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:18px 0 8px}
   aside h2:first-child{margin-top:0}
@@ -110,7 +119,14 @@
     <span style="margin-left:auto" class="legend" id="legend"></span>
   </div>
   <div class="wrap">
-    <div id="graph"><div id="tip"></div></div>
+    <div id="graph">
+      <div id="tip"></div>
+      <div id="timeline" hidden>
+        <button id="tlPlay" title="Play / pause">▶</button>
+        <input type="range" id="tlRange" min="2020" max="2026" value="2026" step="1" aria-label="Year" />
+        <span class="tl-label" id="tlLabel"></span>
+      </div>
+    </div>
     <aside>
       <div id="detail" hidden></div>
       <div id="overview">
@@ -266,14 +282,51 @@ function render(data){
     node.attr("transform",d=>`translate(${d.x},${d.y})`);
   });
 
-  // ---- controls ----
+  // ---- timeline: filter edges by year (cumulative, papers through year Y) ----
+  const nowY = new Date().getFullYear();
+  const maxDataY = d3.max(links, l=>d3.max(l.papers, p=>p.year)) || nowY;
+  const MAXY = Math.max(nowY, maxDataY);
+  let curY = MAXY;
+  const rng=document.getElementById("tlRange"), lab=document.getElementById("tlLabel");
+  rng.max=MAXY; rng.value=MAXY;
+  const weightAt=(l,Y)=>{ let c=0; for(const p of l.papers){ if(p.year==null||p.year<=Y) c++; } return c; };
+  function refreshEdges(){
+    const showLabels=document.getElementById("tEdgeLabels").checked;
+    let activeLinks=0, papers=0;
+    link.each(function(l){ l._wY=weightAt(l,curY); if(l._wY>0){activeLinks++; papers+=l._wY;} });
+    link.attr("stroke-width",l=> l._wY>0 ? (1+8*l._wY/maxW) : 0)
+        .style("display",l=> l._wY>0 ? null : "none");
+    elabel.text(l=>l._wY).style("display",l=> (l._wY>0 && showLabels) ? null : "none");
+    lab.innerHTML = (curY>=MAXY ? "Today" : "through <b>"+curY+"</b>")
+      + ` · ${activeLinks} link${activeLinks===1?"":"s"}, ${papers} paper${papers===1?"":"s"}`;
+  }
+  rng.addEventListener("input",()=>{ curY=+rng.value; refreshEdges(); });
+
+  // ---- checkbox controls ----
   const upd=()=>{
     node.select("text").style("display",document.getElementById("tLabels").checked?null:"none");
-    elabel.style("display",document.getElementById("tEdgeLabels").checked?null:"none");
     const showIso=document.getElementById("tIsolates").checked;
     node.style("display",d=>(!showIso&&d.degree===0)?"none":null);
+    refreshEdges();
   };
   ["tLabels","tEdgeLabels","tIsolates"].forEach(id=>document.getElementById(id).addEventListener("change",upd));
+
+  // ---- play / pause auto-sweep ----
+  const playBtn=document.getElementById("tlPlay"); let timer=null;
+  const stopPlay=()=>{ if(timer){clearInterval(timer);timer=null;} playBtn.textContent="▶"; };
+  playBtn.addEventListener("click",()=>{
+    if(timer){ stopPlay(); return; }
+    playBtn.textContent="⏸";
+    if(curY>=MAXY){ curY=+rng.min; }
+    timer=setInterval(()=>{
+      curY++;
+      if(curY>MAXY){ curY=MAXY; rng.value=curY; refreshEdges(); stopPlay(); return; }
+      rng.value=curY; refreshEdges();
+    }, 650);
+  });
+
+  document.getElementById("timeline").hidden=false;
+  refreshEdges();
 
   // ---- recent news ----
   const byId=new Map(nodes.map(n=>[n.id,n]));
