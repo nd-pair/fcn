@@ -8,7 +8,7 @@
   "works_count": 52,
   "cited_by_count": 1302,
   "photo": "assets/faculty/zhi-zheng.jpg",
-  "num_works_fetched": 52,
+  "num_works_fetched": 53,
   "works": [
     {
       "id": "https://openalex.org/W2063238761",
@@ -883,38 +883,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1566088435",
-      "title": "Robot-mediated mixed gesture imitation skill training for young children with ASD",
-      "year": 2015,
-      "date": "2015-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5015239299",
-          "name": "Eric M. Young"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2515165417",
       "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
       "year": 2016,
@@ -943,6 +911,38 @@
         {
           "id": "https://openalex.org/A5005610402",
           "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1566088435",
+      "title": "Robot-mediated mixed gesture imitation skill training for young children with ASD",
+      "year": 2015,
+      "date": "2015-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -1663,6 +1663,34 @@
         {
           "id": "https://openalex.org/A5123017837",
           "name": "Ze Zhou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7196939210",
+      "title": "Design of a lightweight wearable exoskeleton with virtual reality feedback for post-stroke hand rehabilitation",
+      "year": 2026,
+      "date": "2026-08-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5145850381",
+          "name": "Lin Yu"
+        },
+        {
+          "id": "https://openalex.org/A5144812807",
+          "name": "Mengjie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5109758896",
+          "name": "Lingfang Xu"
+        },
+        {
+          "id": "https://openalex.org/A5101880055",
+          "name": "Ziwei Yu"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
         }
       ]
     }

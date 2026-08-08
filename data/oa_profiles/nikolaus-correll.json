@@ -3523,6 +3523,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4318347849",
+      "title": "Optimal decision making in robotic assembly and other trial-and-error tasks",
+      "year": 2023,
+      "date": "2023-01-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5003271212",
+          "name": "James Watson"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1991082013",
       "title": "Cells and Robots: Modeling and Control of Large-Size Agent Populations (Dejan L.J. Milutinovic and P. Lima; 2007) [Book Review]",
       "year": 2008,
@@ -4143,22 +4159,6 @@
         {
           "id": "https://openalex.org/A5005851458",
           "name": "Christoph Keplinger"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4318347849",
-      "title": "Optimal decision making in robotic assembly and other trial-and-error tasks",
-      "year": 2023,
-      "date": "2023-01-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5003271212",
-          "name": "James Watson"
         },
         {
           "id": "https://openalex.org/A5047458039",

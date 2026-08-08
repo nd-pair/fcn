@@ -1731,6 +1731,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4416750068",
+      "title": "Simultaneous Locomotion Mode Classification and Continuous Gait Phase Estimation for Transtibial Prostheses",
+      "year": 2025,
+      "date": "2025-10-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5028164463",
+          "name": "Shenggao Li"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2521503884",
       "title": "Optimization and Control of Dynamic Humanoid Running and Jumping",
       "year": 2014,
@@ -3583,26 +3603,6 @@
         {
           "id": "https://openalex.org/A5100752965",
           "name": "Hua Chen"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416750068",
-      "title": "Simultaneous Locomotion Mode Classification and Continuous Gait Phase Estimation for Transtibial Prostheses",
-      "year": 2025,
-      "date": "2025-10-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082932297",
-          "name": "Ryan R. Posh"
-        },
-        {
-          "id": "https://openalex.org/A5028164463",
-          "name": "Shenggao Li"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
         }
       ]
     },

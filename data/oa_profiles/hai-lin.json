@@ -379,6 +379,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4400486435",
+      "title": "Quantum-enhanced forecasting: Leveraging quantum gramian angular field and CNNs for stock return predictions",
+      "year": 2024,
+      "date": "2024-07-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100577823",
+          "name": "Zhengmeng Xu"
+        },
+        {
+          "id": "https://openalex.org/A5100373831",
+          "name": "Yu-Jie Wang"
+        },
+        {
+          "id": "https://openalex.org/A5101293975",
+          "name": "Xiaotong Feng"
+        },
+        {
+          "id": "https://openalex.org/A5100449855",
+          "name": "Yilin Wang"
+        },
+        {
+          "id": "https://openalex.org/A5014167486",
+          "name": "Yanli Li"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4405835592",
       "title": "Porosity evolution mechanisms, influencing factors, and ultrasonic-assisted regulation in joining high Mg-content aluminum alloys",
       "year": 2024,
@@ -1035,38 +1067,6 @@
         {
           "id": "https://openalex.org/A5066409796",
           "name": "Xiangpeng Xie"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4400486435",
-      "title": "Quantum-enhanced forecasting: Leveraging quantum gramian angular field and CNNs for stock return predictions",
-      "year": 2024,
-      "date": "2024-07-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100577823",
-          "name": "Zhengmeng Xu"
-        },
-        {
-          "id": "https://openalex.org/A5100373831",
-          "name": "Yu-Jie Wang"
-        },
-        {
-          "id": "https://openalex.org/A5101293975",
-          "name": "Xiaotong Feng"
-        },
-        {
-          "id": "https://openalex.org/A5100449855",
-          "name": "Yilin Wang"
-        },
-        {
-          "id": "https://openalex.org/A5014167486",
-          "name": "Yanli Li"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },

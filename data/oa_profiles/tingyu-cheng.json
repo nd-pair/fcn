@@ -8,7 +8,7 @@
   "works_count": 52,
   "cited_by_count": 697,
   "photo": "assets/faculty/tingyu-cheng.jpg",
-  "num_works_fetched": 52,
+  "num_works_fetched": 53,
   "works": [
     {
       "id": "https://openalex.org/W2795511690",
@@ -2051,6 +2051,30 @@
         {
           "id": "https://openalex.org/A5066036682",
           "name": "Jonathan Rivnay"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7197001892",
+      "title": "Navigating Sustainability in Shape-Changing Interfaces: Choices, Challenges, Futures",
+      "year": 2026,
+      "date": "2026-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5145182912",
+          "name": "Qingyu Fang"
+        },
+        {
+          "id": "https://openalex.org/A5044495445",
+          "name": "Zeyu Yan"
+        },
+        {
+          "id": "https://openalex.org/A5067580146",
+          "name": "Huaishu Peng"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
         }
       ]
     }

@@ -2023,6 +2023,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4405601112",
+      "title": "Supporting Software Maintenance with Dynamically Generated Document Hierarchies",
+      "year": 2024,
+      "date": "2024-10-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066938164",
+          "name": "Katherine R. Dearstyne"
+        },
+        {
+          "id": "https://openalex.org/A5109596027",
+          "name": "Alberto D. Rodriguez"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4405279250",
       "title": "An Evaluation of Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems",
       "year": 2024,
@@ -2555,6 +2575,58 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2789520420",
+      "title": "How do practitioners perceive assurance cases in safety-critical software systems?",
+      "year": 2018,
+      "date": "2018-05-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101411842",
+          "name": "Jinghui Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5032105479",
+          "name": "Micayla Goodrum"
+        },
+        {
+          "id": "https://openalex.org/A5018871532",
+          "name": "Ronald Metoyer"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2955226868",
+      "title": "Leveraging Artifact Trees to Evolve and Reuse Safety Cases",
+      "year": 2019,
+      "date": "2019-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5006976036",
+          "name": "Seyedehzahra Khoshmanesh"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5102905826",
+          "name": "Mona Rahimi"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5013390075",
+          "name": "Robyn R. Lutz"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4237460980",
       "title": "A Visual Traceability Modeling Language",
       "year": 2010,
@@ -2663,58 +2735,6 @@
         {
           "id": "https://openalex.org/A5076752202",
           "name": "Didar Zowghi"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2789520420",
-      "title": "How do practitioners perceive assurance cases in safety-critical software systems?",
-      "year": 2018,
-      "date": "2018-05-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101411842",
-          "name": "Jinghui Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5032105479",
-          "name": "Micayla Goodrum"
-        },
-        {
-          "id": "https://openalex.org/A5018871532",
-          "name": "Ronald Metoyer"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2955226868",
-      "title": "Leveraging Artifact Trees to Evolve and Reuse Safety Cases",
-      "year": 2019,
-      "date": "2019-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5006976036",
-          "name": "Seyedehzahra Khoshmanesh"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5102905826",
-          "name": "Mona Rahimi"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5013390075",
-          "name": "Robyn R. Lutz"
         }
       ]
     },
@@ -3303,26 +3323,6 @@
         {
           "id": "https://openalex.org/A5091572610",
           "name": "Thomas Mehofer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4405601112",
-      "title": "Supporting Software Maintenance with Dynamically Generated Document Hierarchies",
-      "year": 2024,
-      "date": "2024-10-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066938164",
-          "name": "Katherine R. Dearstyne"
-        },
-        {
-          "id": "https://openalex.org/A5109596027",
-          "name": "Alberto D. Rodriguez"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },

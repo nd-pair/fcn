@@ -735,6 +735,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2082188879",
+      "title": "Hybrid Extrusion Force-Velocity Control Using Freeze-Form Extrusion Fabrication for Functionally Graded Material Parts",
+      "year": 2013,
+      "date": "2013-07-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5000161879",
+          "name": "Bradley K. Deuser"
+        },
+        {
+          "id": "https://openalex.org/A5103223915",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5082067008",
+          "name": "Ming C. Leu"
+        },
+        {
+          "id": "https://openalex.org/A5058971939",
+          "name": "Gregory E. Hilmas"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3095644653",
       "title": "Correlation of SWIR imaging with LPBF 304L stainless steel part properties",
       "year": 2020,
@@ -771,34 +799,6 @@
         {
           "id": "https://openalex.org/A5002415526",
           "name": "Edward C. Kinzel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2082188879",
-      "title": "Hybrid Extrusion Force-Velocity Control Using Freeze-Form Extrusion Fabrication for Functionally Graded Material Parts",
-      "year": 2013,
-      "date": "2013-07-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5000161879",
-          "name": "Bradley K. Deuser"
-        },
-        {
-          "id": "https://openalex.org/A5103223915",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5082067008",
-          "name": "Ming C. Leu"
-        },
-        {
-          "id": "https://openalex.org/A5058971939",
-          "name": "Gregory E. Hilmas"
         }
       ]
     },

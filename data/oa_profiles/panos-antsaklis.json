@@ -1135,18 +1135,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2007576974",
-      "title": "Goals and Challenges in Cyber-Physical Systems Research Editorial of the Editor in Chief",
-      "year": 2014,
-      "date": "2014-11-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2000975219",
       "title": "Optimal control of switched systems via non-linear optimization based on direct differentiations of value functions",
       "year": 2002,
@@ -1156,6 +1144,18 @@
           "id": "https://openalex.org/A5072462741",
           "name": "Xuping Xu"
         },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2007576974",
+      "title": "Goals and Challenges in Cyber-Physical Systems Research Editorial of the Editor in Chief",
+      "year": 2014,
+      "date": "2014-11-26",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
