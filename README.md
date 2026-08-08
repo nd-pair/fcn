@@ -14,7 +14,7 @@ Per-faculty *publication totals are intentionally not shown*: OpenAlex
 over-counts them (name over-merging). Collaboration counts, which are not
 hallucinated, are what the site displays.
 
-**Live site:** https://nd-pair.github.io/web/ — **internal page, password: `pair@nd`.**
+**Live site:** https://nd-pair.github.io/fcn/ — **internal page, password: `pair@nd`.**
 
 > **Note on the password.** This is a *soft* gate: the site is a public GitHub
 > Pages repo, so anyone can read `data/graph.json` directly regardless of the
