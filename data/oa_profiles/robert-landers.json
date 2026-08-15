@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5020875577",
   "openalex_name": "Robert G. Landers",
   "affiliation": "University of Notre Dame",
-  "works_count": 302,
-  "cited_by_count": 5796,
+  "works_count": 301,
+  "cited_by_count": 5819,
   "photo": "assets/faculty/robert-landers.jpg",
   "num_works_fetched": 302,
   "works": [
@@ -439,6 +439,34 @@
         {
           "id": "https://openalex.org/A5002415526",
           "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4408733089",
+      "title": "Do multimodal large language models understand welding?",
+      "year": 2025,
+      "date": "2025-03-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114633670",
+          "name": "Grigorii Khvatskii"
+        },
+        {
+          "id": "https://openalex.org/A5114859126",
+          "name": "Yong Suk Lee"
+        },
+        {
+          "id": "https://openalex.org/A5116748346",
+          "name": "Corey Angst"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5068157871",
+          "name": "Nitesh V. Chawla"
         }
       ]
     },
@@ -1299,34 +1327,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4408733089",
-      "title": "Do multimodal large language models understand welding?",
-      "year": 2025,
-      "date": "2025-03-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114633670",
-          "name": "Grigorii Khvatskii"
-        },
-        {
-          "id": "https://openalex.org/A5114859126",
-          "name": "Yong Suk Lee"
-        },
-        {
-          "id": "https://openalex.org/A5116748346",
-          "name": "Corey Angst"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5068157871",
-          "name": "Nitesh V. Chawla"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4365814487",
       "title": "Vision-based thermal drift monitoring method for machine tools",
       "year": 2023,
@@ -2171,30 +2171,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2054852758",
-      "title": "Extrusion Process Modeling for Aqueous-Based Ceramic Pastes\u2014Part 1: Constitutive Model",
-      "year": 2013,
-      "date": "2013-09-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100443438",
-          "name": "Mingyang Li"
-        },
-        {
-          "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5082067008",
-          "name": "Ming C. Leu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2022244384",
       "title": "Layer-to-layer height control of Laser Metal Deposition processes",
       "year": 2009,
@@ -2219,6 +2195,30 @@
         {
           "id": "https://openalex.org/A5073156141",
           "name": "Frank Liou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2054852758",
+      "title": "Extrusion Process Modeling for Aqueous-Based Ceramic Pastes\u2014Part 1: Constitutive Model",
+      "year": 2013,
+      "date": "2013-09-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100443438",
+          "name": "Mingyang Li"
+        },
+        {
+          "id": "https://openalex.org/A5082169793",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5082067008",
+          "name": "Ming C. Leu"
         }
       ]
     },
@@ -2263,26 +2263,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2112384869",
-      "title": "Optimal Control Approach for Turning Process Planning Optimization",
-      "year": 2013,
-      "date": "2013-10-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021898086",
-          "name": "Ali Heydari"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5051014865",
-          "name": "S.N. Balakrishnan"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2261489731",
       "title": "Wire-Fed Additive Manufacturing of Transparent Glass Parts",
       "year": 2015,
@@ -2315,6 +2295,26 @@
         {
           "id": "https://openalex.org/A5002415526",
           "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2112384869",
+      "title": "Optimal Control Approach for Turning Process Planning Optimization",
+      "year": 2013,
+      "date": "2013-10-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021898086",
+          "name": "Ali Heydari"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5051014865",
+          "name": "S.N. Balakrishnan"
         }
       ]
     },
@@ -2691,6 +2691,26 @@
         {
           "id": "https://openalex.org/A5008112862",
           "name": "Douglas A. Bristow"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1970091284",
+      "title": "Clearance Regulation of Mechanical Gas Face Seals: Part I\u2014Modeling",
+      "year": 2006,
+      "date": "2006-05-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082216791",
+          "name": "Sachin S. Yelma"
+        },
+        {
+          "id": "https://openalex.org/A5110183509",
+          "name": "B. Miller"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
         }
       ]
     },
@@ -4175,26 +4195,6 @@
         {
           "id": "https://openalex.org/A5082169793",
           "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1970091284",
-      "title": "Clearance Regulation of Mechanical Gas Face Seals: Part I\u2014Modeling",
-      "year": 2006,
-      "date": "2006-05-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082216791",
-          "name": "Sachin S. Yelma"
-        },
-        {
-          "id": "https://openalex.org/A5110183509",
-          "name": "B. Miller"
         },
         {
           "id": "https://openalex.org/A5020875577",

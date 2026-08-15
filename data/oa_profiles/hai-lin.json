@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5045445273",
   "openalex_name": "Hai Lin",
   "affiliation": "University of Notre Dame",
-  "works_count": 886,
-  "cited_by_count": 9155,
+  "works_count": 885,
+  "cited_by_count": 9196,
   "photo": "assets/faculty/hai-lin.jpg",
   "num_works_fetched": 885,
   "works": [
@@ -1095,10 +1095,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2972868728",
-      "title": "Toward Verifiable Real-Time Obstacle Motion Prediction for Dynamic Collision Avoidance",
-      "year": 2019,
-      "date": "2019-07-01",
+      "id": "https://openalex.org/W4312857607",
+      "title": "Contact-Implicit Trajectory Optimization with Hydroelastic Contact and iLQR",
+      "year": 2022,
+      "date": "2022-10-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021639238",
@@ -1111,10 +1111,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4312857607",
-      "title": "Contact-Implicit Trajectory Optimization with Hydroelastic Contact and iLQR",
-      "year": 2022,
-      "date": "2022-10-23",
+      "id": "https://openalex.org/W2972868728",
+      "title": "Toward Verifiable Real-Time Obstacle Motion Prediction for Dynamic Collision Avoidance",
+      "year": 2019,
+      "date": "2019-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021639238",
@@ -1195,22 +1195,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2013202293",
-      "title": "Automatic synthesis of cooperative multi-agent systems",
-      "year": 2014,
-      "date": "2014-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5120101396",
-          "name": "Jin Dai"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4385063004",
       "title": "Temporal Logic Motion Planning With Convex Optimization via Graphs of Convex Sets",
       "year": 2023,
@@ -1219,6 +1203,22 @@
         {
           "id": "https://openalex.org/A5021639238",
           "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2013202293",
+      "title": "Automatic synthesis of cooperative multi-agent systems",
+      "year": 2014,
+      "date": "2014-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5120101396",
+          "name": "Jin Dai"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1263,6 +1263,38 @@
         {
           "id": "https://openalex.org/A5101864702",
           "name": "Qing Han"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399601763",
+      "title": "Multirobot-Guided Crowd Evacuation: Two-Scale Modeling and Control",
+      "year": 2024,
+      "date": "2024-06-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5045036436",
+          "name": "Zhenyuan Yuan"
+        },
+        {
+          "id": "https://openalex.org/A5025314458",
+          "name": "Mollik Nayyar"
+        },
+        {
+          "id": "https://openalex.org/A5045198429",
+          "name": "Alan R. Wagner"
+        },
+        {
+          "id": "https://openalex.org/A5101766328",
+          "name": "Minghui Zhu"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1879,6 +1911,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3114705960",
+      "title": "Approximate Simulation for Template-Based Whole-Body Control",
+      "year": 2020,
+      "date": "2020-12-29",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3217403887",
+      "title": "A More Scalable Mixed-Integer Encoding for Metric Temporal Logic",
+      "year": 2021,
+      "date": "2021-12-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2099353660",
       "title": "A switched system approach to scheduling of networked control systems with communication constraints",
       "year": 2009,
@@ -1908,22 +1976,6 @@
           "id": "https://openalex.org/A5005085816",
           "name": "Rafael Rodrigues da Silva"
         },
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3217403887",
-      "title": "A More Scalable Mixed-Integer Encoding for Metric Temporal Logic",
-      "year": 2021,
-      "date": "2021-12-06",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5021639238",
           "name": "Vince Kurtz"
@@ -1983,6 +2035,22 @@
         {
           "id": "https://openalex.org/A5100400416",
           "name": "Zhiyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4315471768",
+      "title": "PDE-based Dynamic Control and Estimation of Soft Robotic Arms",
+      "year": 2022,
+      "date": "2022-12-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -2059,6 +2127,22 @@
         {
           "id": "https://openalex.org/A5029236194",
           "name": "Rodrigo Xavier"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3183357579",
+      "title": "Distributed Density Filtering for Large-Scale Systems Using Mean-Filed Models",
+      "year": 2021,
+      "date": "2021-05-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -2159,54 +2243,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3183357579",
-      "title": "Distributed Density Filtering for Large-Scale Systems Using Mean-Filed Models",
-      "year": 2021,
-      "date": "2021-05-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4399601763",
-      "title": "Multirobot-Guided Crowd Evacuation: Two-Scale Modeling and Control",
-      "year": 2024,
-      "date": "2024-06-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045036436",
-          "name": "Zhenyuan Yuan"
-        },
-        {
-          "id": "https://openalex.org/A5025314458",
-          "name": "Mollik Nayyar"
-        },
-        {
-          "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
-        },
-        {
-          "id": "https://openalex.org/A5101766328",
-          "name": "Minghui Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -2331,6 +2367,30 @@
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406961235",
+      "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
+      "year": 2025,
+      "date": "2025-01-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -2819,26 +2879,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3114705960",
-      "title": "Approximate Simulation for Template-Based Whole-Body Control",
-      "year": 2020,
-      "date": "2020-12-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2044592721",
       "title": "Bisimilarity enforcing supervisory control of nondeterministic discrete event systems",
       "year": 2012,
@@ -3027,22 +3067,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4315471768",
-      "title": "PDE-based Dynamic Control and Estimation of Soft Robotic Arms",
-      "year": 2022,
-      "date": "2022-12-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4315472274",
       "title": "On-line Estimation of Stability and Passivity Metrics",
       "year": 2022,
@@ -3195,6 +3219,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4225273155",
+      "title": "Fracture Interference and Refracturing of Horizontal Wells",
+      "year": 2022,
+      "date": "2022-05-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5054542465",
+          "name": "Yakai Tian"
+        },
+        {
+          "id": "https://openalex.org/A5100953871",
+          "name": "Zhenwei Sun"
+        },
+        {
+          "id": "https://openalex.org/A5077374092",
+          "name": "Fujian Zhou"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2743132191",
       "title": "Spatially\u2013temporally online fault detection using timed multivariate statistical logic",
       "year": 2017,
@@ -3235,30 +3283,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4225273155",
-      "title": "Fracture Interference and Refracturing of Horizontal Wells",
-      "year": 2022,
-      "date": "2022-05-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5054542465",
-          "name": "Yakai Tian"
-        },
-        {
-          "id": "https://openalex.org/A5100953871",
-          "name": "Zhenwei Sun"
-        },
-        {
-          "id": "https://openalex.org/A5077374092",
-          "name": "Fujian Zhou"
         }
       ]
     },
@@ -3331,26 +3355,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4406961235",
-      "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
-      "year": 2025,
-      "date": "2025-01-30",
+      "id": "https://openalex.org/W2593473422",
+      "title": "Stability and \u2112 2 Gain Analysis for Discrete-Time LTI Systems with Controller Failures",
+      "year": 2004,
+      "date": "2004-07-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
+          "id": "https://openalex.org/A5046218317",
+          "name": "Guisheng Zhai"
         },
         {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
+          "id": "https://openalex.org/A5005678368",
+          "name": "Xinkai Chen"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -3499,6 +3519,30 @@
         {
           "id": "https://openalex.org/A5100376036",
           "name": "Shasha Li"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401540252",
+      "title": "Design and Modeling of a Balloon Robot with Wheel Paddles for Agricultural Use",
+      "year": 2024,
+      "date": "2024-06-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101412228",
+          "name": "Xiaoling Huang"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5087250534",
+          "name": "Jun Luo"
+        },
+        {
+          "id": "https://openalex.org/A5019475373",
+          "name": "Dongming Gan"
         }
       ]
     },
@@ -4291,30 +4335,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2011323063",
-      "title": "Computation for Supremal Simulation-Based Controllable Subautomata",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015505211",
-          "name": "Yajuan Sun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5049612324",
-          "name": "Fuchun Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100428803",
-          "name": "Ben M. Chen"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2062200697",
       "title": "A smooth hybrid symbolic control for the formation of UAVs over a partitioned space",
       "year": 2013,
@@ -4511,6 +4531,30 @@
         {
           "id": "https://openalex.org/A5025987638",
           "name": "Yu Kang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2011323063",
+      "title": "Computation for Supremal Simulation-Based Controllable Subautomata",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015505211",
+          "name": "Yajuan Sun"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5049612324",
+          "name": "Fuchun Liu"
+        },
+        {
+          "id": "https://openalex.org/A5100428803",
+          "name": "Ben M. Chen"
         }
       ]
     },
@@ -4899,6 +4943,30 @@
         {
           "id": "https://openalex.org/A5109119591",
           "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4407950010",
+      "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
+      "year": 2024,
+      "date": "2024-12-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5371,26 +5439,6 @@
         {
           "id": "https://openalex.org/A5060738325",
           "name": "T. H. Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2593473422",
-      "title": "Stability and \u2112 2 Gain Analysis for Discrete-Time LTI Systems with Controller Failures",
-      "year": 2004,
-      "date": "2004-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046218317",
-          "name": "Guisheng Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5005678368",
-          "name": "Xinkai Chen"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -16639,30 +16687,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4401540252",
-      "title": "Design and Modeling of a Balloon Robot with Wheel Paddles for Agricultural Use",
-      "year": 2024,
-      "date": "2024-06-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101412228",
-          "name": "Xiaoling Huang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5087250534",
-          "name": "Jun Luo"
-        },
-        {
-          "id": "https://openalex.org/A5019475373",
-          "name": "Dongming Gan"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4401767773",
       "title": "A FEM-CZM Based Coupled Thermal-Hydro-Mechanical Model for Deep Offshore Hydraulic Fracturing",
       "year": 2024,
@@ -16739,30 +16763,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4407950010",
-      "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
-      "year": 2024,
-      "date": "2024-12-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },

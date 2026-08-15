@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5047458039",
   "openalex_name": "Nikolaus Correll",
   "affiliation": null,
-  "works_count": 174,
-  "cited_by_count": 6186,
+  "works_count": 171,
+  "cited_by_count": 6206,
   "photo": "assets/faculty/nikolaus-correll.jpg",
   "num_works_fetched": 174,
   "works": [
@@ -1103,6 +1103,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4285268956",
+      "title": "Electro-Hydraulic Rolling Soft Wheel: Design, Hybrid Dynamic Modeling, and Model Predictive Control",
+      "year": 2022,
+      "date": "2022-05-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040368638",
+          "name": "Khoi Ly"
+        },
+        {
+          "id": "https://openalex.org/A5008647363",
+          "name": "Jatin V. Mayekar"
+        },
+        {
+          "id": "https://openalex.org/A5067095589",
+          "name": "Sarah Aguasvivas"
+        },
+        {
+          "id": "https://openalex.org/A5005851458",
+          "name": "Christoph Keplinger"
+        },
+        {
+          "id": "https://openalex.org/A5041822706",
+          "name": "Mark E. Rentschler"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2410928708",
       "title": "Distributed Autonomous Robotic Systems: The 10th International Symposium",
       "year": 2012,
@@ -1139,38 +1171,6 @@
         {
           "id": "https://openalex.org/A5068789326",
           "name": "Kasper Sty"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4285268956",
-      "title": "Electro-Hydraulic Rolling Soft Wheel: Design, Hybrid Dynamic Modeling, and Model Predictive Control",
-      "year": 2022,
-      "date": "2022-05-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5040368638",
-          "name": "Khoi Ly"
-        },
-        {
-          "id": "https://openalex.org/A5008647363",
-          "name": "Jatin V. Mayekar"
-        },
-        {
-          "id": "https://openalex.org/A5067095589",
-          "name": "Sarah Aguasvivas"
-        },
-        {
-          "id": "https://openalex.org/A5005851458",
-          "name": "Christoph Keplinger"
-        },
-        {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -1427,26 +1427,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2028658459",
-      "title": "Flutter",
-      "year": 2015,
-      "date": "2015-01-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5013647146",
-          "name": "Halley Profita"
-        },
-        {
-          "id": "https://openalex.org/A5014641617",
-          "name": "Nicholas Farrow"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2738751727",
       "title": "Recognizing social touch gestures using recurrent and convolutional neural networks",
       "year": 2017,
@@ -1459,6 +1439,26 @@
         {
           "id": "https://openalex.org/A5091567610",
           "name": "Alon Krauthammer"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2028658459",
+      "title": "Flutter",
+      "year": 2015,
+      "date": "2015-01-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5013647146",
+          "name": "Halley Profita"
+        },
+        {
+          "id": "https://openalex.org/A5014641617",
+          "name": "Nicholas Farrow"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -1623,26 +1623,6 @@
         {
           "id": "https://openalex.org/A5036897495",
           "name": "Dana Hughes"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2963705825",
-      "title": "Materials that make robots smart",
-      "year": 2019,
-      "date": "2019-06-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5036897495",
-          "name": "Dana Hughes"
-        },
-        {
-          "id": "https://openalex.org/A5009328815",
-          "name": "Christoffer Heckman"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2015,6 +1995,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2963705825",
+      "title": "Materials that make robots smart",
+      "year": 2019,
+      "date": "2019-06-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5036897495",
+          "name": "Dana Hughes"
+        },
+        {
+          "id": "https://openalex.org/A5009328815",
+          "name": "Christoffer Heckman"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2062077211",
       "title": "Truss assembly and welding by Intelligent Precision Jigging Robots",
       "year": 2014,
@@ -2283,6 +2283,26 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4377089301",
+      "title": "Distributed Tactile Sensors for Palmar Surfaces of Prosthetic Hands",
+      "year": 2023,
+      "date": "2023-04-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5113268159",
+          "name": "Hoang Truong"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5079006320",
+          "name": "Jacob L. Segil"
         }
       ]
     },
@@ -2599,26 +2619,6 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4377089301",
-      "title": "Distributed Tactile Sensors for Palmar Surfaces of Prosthetic Hands",
-      "year": 2023,
-      "date": "2023-04-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5113268159",
-          "name": "Hoang Truong"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5079006320",
-          "name": "Jacob L. Segil"
         }
       ]
     },

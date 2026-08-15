@@ -6,7 +6,7 @@
   "openalex_name": "Michael Lemmon",
   "affiliation": "University of Notre Dame",
   "works_count": 199,
-  "cited_by_count": 7437,
+  "cited_by_count": 7447,
   "photo": "assets/faculty/michael-lemmon.jpg",
   "num_works_fetched": 199,
   "works": [
@@ -899,30 +899,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1990626091",
-      "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
-      "year": 2013,
-      "date": "2013-09-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5084010923",
-          "name": "Alice Nightingale"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5041911210",
-          "name": "Eric Jumper"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3203035817",
       "title": "Towards scalable, secure, and smart mission-critical IoT systems",
       "year": 2021,
@@ -955,6 +931,30 @@
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1990626091",
+      "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
+      "year": 2013,
+      "date": "2013-09-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5084010923",
+          "name": "Alice Nightingale"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5041911210",
+          "name": "Eric Jumper"
         }
       ]
     },
@@ -1051,6 +1051,22 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2150093018",
+      "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
+      "year": 2002,
+      "date": "2002-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010488126",
+          "name": "Kaiyan He"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael Lemmon"
         }
       ]
     },
@@ -1288,22 +1304,6 @@
       "year": 1991,
       "date": "1991-09-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2150093018",
-      "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
-      "year": 2002,
-      "date": "2002-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010488126",
-          "name": "Kaiyan He"
-        },
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael Lemmon"

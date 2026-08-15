@@ -4,9 +4,9 @@
   "query_name": "Zhi Zheng",
   "openalex_id": "https://openalex.org/A5065741205",
   "openalex_name": "Zhi Zheng",
-  "affiliation": "Wuhan University",
-  "works_count": 52,
-  "cited_by_count": 1302,
+  "affiliation": "Central South University",
+  "works_count": 53,
+  "cited_by_count": 1310,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 53,
   "works": [
@@ -715,6 +715,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2515165417",
+      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
+      "year": 2016,
+      "date": "2016-08-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary Warren"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5002623953",
+          "name": "Qiang Fu"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4366826851",
       "title": "An Exploration of Robot-Mediated Tai Chi Exercise for Older Adults",
       "year": 2023,
@@ -875,42 +911,6 @@
         {
           "id": "https://openalex.org/A5050040186",
           "name": "Zachary Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2515165417",
-      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
-      "year": 2016,
-      "date": "2016-08-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5002623953",
-          "name": "Qiang Fu"
-        },
-        {
-          "id": "https://openalex.org/A5002625566",
-          "name": "Huan Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
         },
         {
           "id": "https://openalex.org/A5076622286",

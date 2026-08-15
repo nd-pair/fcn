@@ -6,54 +6,10 @@
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
   "works_count": 35,
-  "cited_by_count": 165,
+  "cited_by_count": 177,
   "photo": "assets/faculty/mengxue-hou.jpg",
   "num_works_fetched": 35,
   "works": [
-    {
-      "id": "https://openalex.org/W2907924447",
-      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
-      "year": 2018,
-      "date": "2018-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032499799",
-          "name": "Qiuyang Tao"
-        },
-        {
-          "id": "https://openalex.org/A5070056911",
-          "name": "Jaeseok Cha"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4387448093",
-      "title": "Data-Driven High-Order Point-to-Point ILC With Higher Computational Efficiency",
-      "year": 2023,
-      "date": "2023-10-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5041213364",
-          "name": "Xueming Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5082706113",
-          "name": "Zhongsheng Hou"
-        }
-      ]
-    },
     {
       "id": "https://openalex.org/W4406864698",
       "title": "OceanPlan: Hierarchical Planning and Replanning for Natural Language AUV Piloting in Large-scale Unexplored Ocean Environments",
@@ -99,6 +55,50 @@
         {
           "id": "https://openalex.org/A5114618475",
           "name": "Carl Vondrick"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2907924447",
+      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
+      "year": 2018,
+      "date": "2018-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5070056911",
+          "name": "Jaeseok Cha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387448093",
+      "title": "Data-Driven High-Order Point-to-Point ILC With Higher Computational Efficiency",
+      "year": 2023,
+      "date": "2023-10-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5041213364",
+          "name": "Xueming Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5082706113",
+          "name": "Zhongsheng Hou"
         }
       ]
     },
@@ -175,6 +175,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4283834141",
+      "title": "Human pointing motion during interaction with an autonomous blimp",
+      "year": 2022,
+      "date": "2022-07-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2994185948",
       "title": "Modeling Pointing Tasks in Human-Blimp Interactions",
       "year": 2019,
@@ -191,26 +211,6 @@
         {
           "id": "https://openalex.org/A5084672543",
           "name": "Paul Varnell"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4283834141",
-      "title": "Human pointing motion during interaction with an autonomous blimp",
-      "year": 2022,
-      "date": "2022-07-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5032499799",
-          "name": "Qiuyang Tao"
         },
         {
           "id": "https://openalex.org/A5068994727",
@@ -291,6 +291,34 @@
         {
           "id": "https://openalex.org/A5079446319",
           "name": "Jun\u2010Hong Cui"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382935669",
+      "title": "An Interleaved Algorithm for Integration of Robotic Task and Motion Planning",
+      "year": 2023,
+      "date": "2023-05-31",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5101908192",
+          "name": "Yingke Li"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5076731201",
+          "name": "Shreyas Sundaram"
+        },
+        {
+          "id": "https://openalex.org/A5070733769",
+          "name": "Shaoshuai Mou"
         }
       ]
     },
@@ -607,34 +635,6 @@
         {
           "id": "https://openalex.org/A5068994727",
           "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4382935669",
-      "title": "An Interleaved Algorithm for Integration of Robotic Task and Motion Planning",
-      "year": 2023,
-      "date": "2023-05-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5101908192",
-          "name": "Yingke Li"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5076731201",
-          "name": "Shreyas Sundaram"
-        },
-        {
-          "id": "https://openalex.org/A5070733769",
-          "name": "Shaoshuai Mou"
         }
       ]
     },

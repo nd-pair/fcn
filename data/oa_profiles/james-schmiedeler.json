@@ -6,26 +6,10 @@
   "openalex_name": "James P. Schmiedeler",
   "affiliation": "University of Notre Dame",
   "works_count": 147,
-  "cited_by_count": 2053,
+  "cited_by_count": 2056,
   "photo": "assets/faculty/james-schmiedeler.jpg",
   "num_works_fetched": 147,
   "works": [
-    {
-      "id": "https://openalex.org/W2168070094",
-      "title": "Predicting human walking gaits with a simple planar model",
-      "year": 2014,
-      "date": "2014-02-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066054419",
-          "name": "Anne E. Martin"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
     {
       "id": "https://openalex.org/W1974902982",
       "title": "Design and control of a planar bipedal robot ERNIE with\u00a0parallel\u00a0knee compliance",
@@ -47,6 +31,22 @@
         {
           "id": "https://openalex.org/A5023309564",
           "name": "R. A. Bockbrader"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2168070094",
+      "title": "Predicting human walking gaits with a simple planar model",
+      "year": 2014,
+      "date": "2014-02-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         }
       ]
     },
@@ -1115,6 +1115,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2981407045",
+      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
+      "year": 2019,
+      "date": "2019-10-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029245145",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2053850353",
       "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
       "year": 2013,
@@ -1151,26 +1171,6 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2981407045",
-      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
-      "year": 2019,
-      "date": "2019-10-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029245145",
-          "name": "Tan Chen"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
         }
       ]
     },

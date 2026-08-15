@@ -6,7 +6,7 @@
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
   "works_count": 35,
-  "cited_by_count": 302,
+  "cited_by_count": 305,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
   "num_works_fetched": 35,
   "works": [
@@ -175,6 +175,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4294690890",
+      "title": "Convex Optimization for Spring Design of Parallel Elastic Actuators",
+      "year": 2022,
+      "date": "2022-06-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043312150",
+          "name": "Sicong Guo"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4412605479",
       "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
       "year": 2025,
@@ -299,26 +319,6 @@
         {
           "id": "https://openalex.org/A5051369788",
           "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4294690890",
-      "title": "Convex Optimization for Spring Design of Parallel Elastic Actuators",
-      "year": 2022,
-      "date": "2022-06-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043312150",
-          "name": "Sicong Guo"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
         }
       ]
     },

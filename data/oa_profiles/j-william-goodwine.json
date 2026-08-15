@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5042951623",
   "openalex_name": "Bill Goodwine",
   "affiliation": "University of Notre Dame",
-  "works_count": 136,
-  "cited_by_count": 1725,
+  "works_count": 135,
+  "cited_by_count": 1726,
   "photo": "assets/faculty/j-william-goodwine.jpg",
   "num_works_fetched": 136,
   "works": [
@@ -531,6 +531,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3135716329",
+      "title": "Robust gait design for a compass gait biped on slippery surfaces",
+      "year": 2021,
+      "date": "2021-03-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100763142",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2883183014",
       "title": "Implicit and fractional-derivative operators in infinite networks of integer-order components",
       "year": 2018,
@@ -555,14 +571,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3135716329",
-      "title": "Robust gait design for a compass gait biped on slippery surfaces",
-      "year": 2021,
-      "date": "2021-03-05",
+      "id": "https://openalex.org/W2981407045",
+      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
+      "year": 2019,
+      "date": "2019-10-23",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100763142",
+          "id": "https://openalex.org/A5029245145",
           "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         },
         {
           "id": "https://openalex.org/A5042951623",
@@ -583,26 +603,6 @@
         {
           "id": "https://openalex.org/A5033117424",
           "name": "Richard Hind"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2981407045",
-      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
-      "year": 2019,
-      "date": "2019-10-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029245145",
-          "name": "Tan Chen"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
         },
         {
           "id": "https://openalex.org/A5042951623",

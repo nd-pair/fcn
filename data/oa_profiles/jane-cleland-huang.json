@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5037363688",
   "openalex_name": "Jane Cleland\u2010Huang",
   "affiliation": "University of Notre Dame",
-  "works_count": 310,
-  "cited_by_count": 7430,
+  "works_count": 306,
+  "cited_by_count": 7434,
   "photo": "assets/faculty/jane-cleland-huang.jpeg",
   "num_works_fetched": 310,
   "works": [
@@ -271,6 +271,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2964064835",
+      "title": "Traceability in the wild",
+      "year": 2018,
+      "date": "2018-05-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082629071",
+          "name": "Michael Rath"
+        },
+        {
+          "id": "https://openalex.org/A5032569584",
+          "name": "Jacob Rendall"
+        },
+        {
+          "id": "https://openalex.org/A5010572058",
+          "name": "Jin Guo"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5063243817",
+          "name": "Patrick M\u00e4der"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1487731568",
       "title": "Supporting software evolution through dynamically retrieving traces to UML artifacts",
       "year": 2004,
@@ -299,34 +327,6 @@
         {
           "id": "https://openalex.org/A5008377860",
           "name": "C. DePalma"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2964064835",
-      "title": "Traceability in the wild",
-      "year": 2018,
-      "date": "2018-05-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082629071",
-          "name": "Michael Rath"
-        },
-        {
-          "id": "https://openalex.org/A5032569584",
-          "name": "Jacob Rendall"
-        },
-        {
-          "id": "https://openalex.org/A5010572058",
-          "name": "Jin Guo"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5063243817",
-          "name": "Patrick M\u00e4der"
         }
       ]
     },
@@ -1371,26 +1371,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2103660088",
-      "title": "Goal-Centric Traceability: Using Virtual Plumblines to Maintain Critical Systemic Qualities",
-      "year": 2008,
-      "date": "2008-08-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5113484814",
-          "name": "W. Marrero"
-        },
-        {
-          "id": "https://openalex.org/A5071890533",
-          "name": "Brian Berenbach"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2071604149",
       "title": "Using tactic traceability information models to reduce the risk of architectural degradation during system maintenance",
       "year": 2011,
@@ -1423,6 +1403,46 @@
         {
           "id": "https://openalex.org/A5020844039",
           "name": "Yonghee Shin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2923071719",
+      "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces",
+      "year": 2019,
+      "date": "2019-03-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5007138186",
+          "name": "Sean Bayley"
+        },
+        {
+          "id": "https://openalex.org/A5010758567",
+          "name": "Jane Wyngaard"
+        },
+        {
+          "id": "https://openalex.org/A5001217402",
+          "name": "Wandi Xiong"
+        },
+        {
+          "id": "https://openalex.org/A5101411842",
+          "name": "Jinghui Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5054422283",
+          "name": "Joshua Huseman"
+        },
+        {
+          "id": "https://openalex.org/A5013390075",
+          "name": "Robyn R. Lutz"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -1499,46 +1519,6 @@
         {
           "id": "https://openalex.org/A5005248504",
           "name": "Michael Vierhauser"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2923071719",
-      "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces",
-      "year": 2019,
-      "date": "2019-03-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5007138186",
-          "name": "Sean Bayley"
-        },
-        {
-          "id": "https://openalex.org/A5010758567",
-          "name": "Jane Wyngaard"
-        },
-        {
-          "id": "https://openalex.org/A5001217402",
-          "name": "Wandi Xiong"
-        },
-        {
-          "id": "https://openalex.org/A5101411842",
-          "name": "Jinghui Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5054422283",
-          "name": "Joshua Huseman"
-        },
-        {
-          "id": "https://openalex.org/A5013390075",
-          "name": "Robyn R. Lutz"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -1907,26 +1887,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3217524179",
-      "title": "Leveraging Intermediate Artifacts to Improve Automated Trace Link Retrieval",
-      "year": 2021,
-      "date": "2021-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109596027",
-          "name": "Alberto D. Rodriguez"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5075793467",
-          "name": "Davide Falessi"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4408815477",
       "title": "Natural Language Processing for Requirements Traceability",
       "year": 2025,
@@ -1947,6 +1907,26 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3217524179",
+      "title": "Leveraging Intermediate Artifacts to Improve Automated Trace Link Retrieval",
+      "year": 2021,
+      "date": "2021-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109596027",
+          "name": "Alberto D. Rodriguez"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5075793467",
+          "name": "Davide Falessi"
         }
       ]
     },
@@ -1975,6 +1955,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4394625841",
+      "title": "NOMAD: A Natural, Occluded, Multi-scale Aerial Dataset, for Emergency Response Scenarios",
+      "year": 2024,
+      "date": "2024-01-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065580041",
+          "name": "Arturo Miguel Russell Bernal"
+        },
+        {
+          "id": "https://openalex.org/A5091513740",
+          "name": "Walter J. Scheirer"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4312911443",
       "title": "Flexible model-driven runtime monitoring support for cyber-physical systems",
       "year": 2022,
@@ -1995,26 +1995,6 @@
         {
           "id": "https://openalex.org/A5023093639",
           "name": "Manuel Wimmer"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4394625841",
-      "title": "NOMAD: A Natural, Occluded, Multi-scale Aerial Dataset, for Emergency Response Scenarios",
-      "year": 2024,
-      "date": "2024-01-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065580041",
-          "name": "Arturo Miguel Russell Bernal"
-        },
-        {
-          "id": "https://openalex.org/A5091513740",
-          "name": "Walter J. Scheirer"
         },
         {
           "id": "https://openalex.org/A5037363688",
@@ -2251,6 +2231,26 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2103660088",
+      "title": "Goal-Centric Traceability: Using Virtual Plumblines to Maintain Critical Systemic Qualities",
+      "year": 2008,
+      "date": "2008-08-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5113484814",
+          "name": "W. Marrero"
+        },
+        {
+          "id": "https://openalex.org/A5071890533",
+          "name": "Brian Berenbach"
         }
       ]
     },
@@ -3135,30 +3135,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4387123318",
-      "title": "A Requirements-Driven Platform for Validating Field Operations of Small Uncrewed Aerial Vehicles",
-      "year": 2023,
-      "date": "2023-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023623211",
-          "name": "Bohan Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5112952979",
-          "name": "Y. N. Shivalingaiah"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4396833034",
       "title": "HIFuzz: Human Interaction Fuzzing for Small Unmanned Aerial Vehicles",
       "year": 2024,
@@ -3191,6 +3167,30 @@
         {
           "id": "https://openalex.org/A5020147981",
           "name": "Myra B. Cohen"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387123318",
+      "title": "A Requirements-Driven Platform for Validating Field Operations of Small Uncrewed Aerial Vehicles",
+      "year": 2023,
+      "date": "2023-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023623211",
+          "name": "Bohan Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5112952979",
+          "name": "Y. N. Shivalingaiah"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
         },
         {
           "id": "https://openalex.org/A5037363688",
@@ -3291,6 +3291,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4409262703",
+      "title": "Psych-Occlusion: Using Visual Psychophysics for Aerial Detection of Occluded Persons During Search and Rescue",
+      "year": 2025,
+      "date": "2025-02-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065580041",
+          "name": "Arturo Miguel Russell Bernal"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5091513740",
+          "name": "Walter J. Scheirer"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4367310994",
       "title": "ProCon: An automated process-centric quality constraints checking framework",
       "year": 2023,
@@ -3323,26 +3343,6 @@
         {
           "id": "https://openalex.org/A5091572610",
           "name": "Thomas Mehofer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4409262703",
-      "title": "Psych-Occlusion: Using Visual Psychophysics for Aerial Detection of Occluded Persons During Search and Rescue",
-      "year": 2025,
-      "date": "2025-02-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065580041",
-          "name": "Arturo Miguel Russell Bernal"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5091513740",
-          "name": "Walter J. Scheirer"
         }
       ]
     },
@@ -5935,130 +5935,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4416255789",
-      "title": "Coverage Path Planning for Holonomic UAVs via Uniaxial-Feasible, Gap-Severity Guided Decomposition",
-      "year": 2025,
-      "date": "2025-05-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5106625006",
-          "name": "Pedro Antonio Alarc\u00f3n Granadeno"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2040643359",
-      "title": "On whose shoulders? (Keynote)",
-      "year": 2015,
-      "date": "2015-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2796177046",
-      "title": "Dronology: An Incubator for Cyber-Physical System Research",
-      "year": 2018,
-      "date": "2018-04-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5007138186",
-          "name": "Sean Bayley"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3202505027",
-      "title": "RescueAR: Augmented Reality Supported Collaboration for UAV Driven Emergency Response Systems",
-      "year": 2021,
-      "date": "2021-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4386875751",
-      "title": "NOMAD: A Natural, Occluded, Multi-scale Aerial Dataset, for Emergency Response Scenarios",
-      "year": 2023,
-      "date": "2023-09-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065580041",
-          "name": "Arturo Miguel Russell Bernal"
-        },
-        {
-          "id": "https://openalex.org/A5091513740",
-          "name": "Walter J. Scheirer"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4398157493",
-      "title": "Natural Language Processing for Requirements Traceability",
-      "year": 2024,
-      "date": "2024-05-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010572058",
-          "name": "Jin Guo"
-        },
-        {
-          "id": "https://openalex.org/A5033422210",
-          "name": "Jan-Philipp Stegh\u00f6fer"
-        },
-        {
-          "id": "https://openalex.org/A5022998651",
-          "name": "Andreas Vogelsang"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4402387124",
-      "title": "Supporting Software Maintenance with Dynamically Generated Document Hierarchies",
-      "year": 2024,
-      "date": "2024-08-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066938164",
-          "name": "Katherine R. Dearstyne"
-        },
-        {
-          "id": "https://openalex.org/A5109596027",
-          "name": "Alberto D. Rodriguez"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4415343716",
       "title": "LLMs4All: A Review of Large Language Models Across Academic Disciplines",
       "year": 2025,
@@ -6183,6 +6059,130 @@
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416255789",
+      "title": "Coverage Path Planning for Holonomic UAVs via Uniaxial-Feasible, Gap-Severity Guided Decomposition",
+      "year": 2025,
+      "date": "2025-05-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5106625006",
+          "name": "Pedro Antonio Alarc\u00f3n Granadeno"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2040643359",
+      "title": "On whose shoulders? (Keynote)",
+      "year": 2015,
+      "date": "2015-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2796177046",
+      "title": "Dronology: An Incubator for Cyber-Physical System Research",
+      "year": 2018,
+      "date": "2018-04-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5007138186",
+          "name": "Sean Bayley"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3202505027",
+      "title": "RescueAR: Augmented Reality Supported Collaboration for UAV Driven Emergency Response Systems",
+      "year": 2021,
+      "date": "2021-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4386875751",
+      "title": "NOMAD: A Natural, Occluded, Multi-scale Aerial Dataset, for Emergency Response Scenarios",
+      "year": 2023,
+      "date": "2023-09-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065580041",
+          "name": "Arturo Miguel Russell Bernal"
+        },
+        {
+          "id": "https://openalex.org/A5091513740",
+          "name": "Walter J. Scheirer"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4398157493",
+      "title": "Natural Language Processing for Requirements Traceability",
+      "year": 2024,
+      "date": "2024-05-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010572058",
+          "name": "Jin Guo"
+        },
+        {
+          "id": "https://openalex.org/A5033422210",
+          "name": "Jan-Philipp Stegh\u00f6fer"
+        },
+        {
+          "id": "https://openalex.org/A5022998651",
+          "name": "Andreas Vogelsang"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4402387124",
+      "title": "Supporting Software Maintenance with Dynamically Generated Document Hierarchies",
+      "year": 2024,
+      "date": "2024-08-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066938164",
+          "name": "Katherine R. Dearstyne"
+        },
+        {
+          "id": "https://openalex.org/A5109596027",
+          "name": "Alberto D. Rodriguez"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },

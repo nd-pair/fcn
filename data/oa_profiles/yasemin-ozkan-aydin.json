@@ -6,7 +6,7 @@
   "openalex_name": "Yasemin Ozkan-Aydin",
   "affiliation": "University of Notre Dame",
   "works_count": 83,
-  "cited_by_count": 1191,
+  "cited_by_count": 1203,
   "photo": "assets/faculty/yasemin-ozkan-aydin.jpeg",
   "num_works_fetched": 82,
   "works": [
@@ -215,6 +215,22 @@
         {
           "id": "https://openalex.org/A5010640110",
           "name": "Rebecca Kramer\u2010Bottiglio"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412708550",
+      "title": "A bio-inspired adjustable posture quadruped robot with laterally undulating spine for terradynamically challenging environments",
+      "year": 2025,
+      "date": "2025-07-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063375023",
+          "name": "Saurav Kumar Dutta"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -703,22 +719,6 @@
         {
           "id": "https://openalex.org/A5026611490",
           "name": "Hoeseok Yang"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412708550",
-      "title": "A bio-inspired adjustable posture quadruped robot with laterally undulating spine for terradynamically challenging environments",
-      "year": 2025,
-      "date": "2025-07-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063375023",
-          "name": "Saurav Kumar Dutta"
         },
         {
           "id": "https://openalex.org/A5031304323",

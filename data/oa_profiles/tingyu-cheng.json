@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5011017276",
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
-  "works_count": 52,
-  "cited_by_count": 697,
+  "works_count": 56,
+  "cited_by_count": 706,
   "photo": "assets/faculty/tingyu-cheng.jpg",
-  "num_works_fetched": 53,
+  "num_works_fetched": 56,
   "works": [
     {
       "id": "https://openalex.org/W2795511690",
@@ -1115,6 +1115,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4409181746",
+      "title": "Evolutionary Game Analysis for Power Battery Recycling of New Energy Vehicle in China",
+      "year": 2025,
+      "date": "2025-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101513442",
+          "name": "Hongxia Sun"
+        },
+        {
+          "id": "https://openalex.org/A5102925765",
+          "name": "Yan Miao"
+        },
+        {
+          "id": "https://openalex.org/A5009899837",
+          "name": "Li Cui"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4307485828",
       "title": "Environmental physical intelligence: Seamlessly deploying sensors and actuators to our everyday life",
       "year": 2022,
@@ -1323,30 +1347,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4409181746",
-      "title": "Evolutionary Game Analysis for Power Battery Recycling of New Energy Vehicle in China",
-      "year": 2025,
-      "date": "2025-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101513442",
-          "name": "Hongxia Sun"
-        },
-        {
-          "id": "https://openalex.org/A5102925765",
-          "name": "Yan Miao"
-        },
-        {
-          "id": "https://openalex.org/A5009899837",
-          "name": "Li Cui"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3213517745",
       "title": "A Simulation and Prototyping Toolkit for Airflow Energy Harvesting in Vehicles",
       "year": 2021,
@@ -1499,6 +1499,78 @@
         {
           "id": "https://openalex.org/A5026852792",
           "name": "Josiah Hester"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154116567",
+      "title": "Circuit2Yarn: From Planar Circuits to Electronic Yarns for Textile-Based Interactions",
+      "year": 2026,
+      "date": "2026-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5133486370",
+          "name": "Zhechen Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5074055921",
+          "name": "Jingyi Liu"
+        },
+        {
+          "id": "https://openalex.org/A5077097352",
+          "name": "Tianhong Catherine Yu"
+        },
+        {
+          "id": "https://openalex.org/A5133505978",
+          "name": "Jiaqing Liu"
+        },
+        {
+          "id": "https://openalex.org/A5044495445",
+          "name": "Zeyu Yan"
+        },
+        {
+          "id": "https://openalex.org/A5067580146",
+          "name": "Huaishu Peng"
+        },
+        {
+          "id": "https://openalex.org/A5007246518",
+          "name": "Yiyue Luo"
+        },
+        {
+          "id": "https://openalex.org/A5101798380",
+          "name": "Zhihan Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154160380",
+      "title": "3D Printing Soap: Exploring New Biodegrdable Materials and Creative Possibilities",
+      "year": 2026,
+      "date": "2026-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5070662022",
+          "name": "Jing Xie"
+        },
+        {
+          "id": "https://openalex.org/A5101380907",
+          "name": "Yingting Gao"
+        },
+        {
+          "id": "https://openalex.org/A5102169470",
+          "name": "Jin Yu"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5123842626",
+          "name": "HyunJoo Oh"
         }
       ]
     },
@@ -1787,6 +1859,34 @@
         {
           "id": "https://openalex.org/A5128108216",
           "name": "Connie J. Chang-Hasnain"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7153822423",
+      "title": "Interactive 3D-Printed Soap: Exploring Biodegradable and Ephemeral Material Interactions",
+      "year": 2026,
+      "date": "2026-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5070662022",
+          "name": "Jing Xie"
+        },
+        {
+          "id": "https://openalex.org/A5101380907",
+          "name": "Yingting Gao"
+        },
+        {
+          "id": "https://openalex.org/A5102169470",
+          "name": "Jin Yu"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5123842626",
+          "name": "HyunJoo Oh"
         }
       ]
     },

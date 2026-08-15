@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08 17:51 UTC",
+  "generated": "2026-08-15 06:57 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Physical AI and Robotics Initiative faculty collaboration network. Node size = number of papers co-authored with ND colleagues; edge weight = number of papers the two faculty co-authored.",
-  "nodeCount": 16,
-  "edgeCount": 15,
+  "nodeCount": 17,
+  "edgeCount": 16,
   "nodes": [
     {
       "id": "Panos Antsaklis",
@@ -12,7 +12,7 @@
       "photo": "assets/faculty/panos-antsaklis.jpg",
       "weightedDegree": 101,
       "degree": 3,
-      "group": 1
+      "group": 0
     },
     {
       "id": "Hai Lin",
@@ -21,16 +21,16 @@
       "photo": "assets/faculty/hai-lin.jpg",
       "weightedDegree": 84,
       "degree": 6,
-      "group": 1
+      "group": 0
     },
     {
       "id": "Mike Lemmon",
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5022295836",
       "photo": "assets/faculty/michael-lemmon.jpg",
-      "weightedDegree": 38,
-      "degree": 4,
-      "group": 1
+      "weightedDegree": 40,
+      "degree": 5,
+      "group": 0
     },
     {
       "id": "Jim Schmiedeler",
@@ -39,7 +39,7 @@
       "photo": "assets/faculty/james-schmiedeler.jpg",
       "weightedDegree": 29,
       "degree": 4,
-      "group": 0
+      "group": 1
     },
     {
       "id": "Pat Wensing",
@@ -48,7 +48,7 @@
       "photo": "assets/faculty/patrick-wensing.jpg",
       "weightedDegree": 26,
       "degree": 3,
-      "group": 0
+      "group": 1
     },
     {
       "id": "Bill Goodwine",
@@ -57,7 +57,7 @@
       "photo": "assets/faculty/j-william-goodwine.jpg",
       "weightedDegree": 18,
       "degree": 3,
-      "group": 0
+      "group": 1
     },
     {
       "id": "Yasemin Ozkan-Aydin",
@@ -82,6 +82,15 @@
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5076214359",
       "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
+      "weightedDegree": 2,
+      "degree": 1,
+      "group": 1
+    },
+    {
+      "id": "Fanxin Kong",
+      "affiliation": null,
+      "openalex": "https://openalex.org/A5007560139",
+      "photo": "assets/faculty/fanxin-kong.jpg",
       "weightedDegree": 2,
       "degree": 1,
       "group": 0
@@ -142,7 +151,7 @@
     },
     {
       "id": "Zhi Zheng",
-      "affiliation": "Wuhan University",
+      "affiliation": "Central South University",
       "openalex": "https://openalex.org/A5065741205",
       "photo": "assets/faculty/zhi-zheng.jpg",
       "weightedDegree": 0,
@@ -229,14 +238,14 @@
           "date": "2023-06-26"
         },
         {
-          "id": "https://openalex.org/W4382936209",
-          "title": "Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
+          "id": "https://openalex.org/W4382936125",
+          "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
           "year": 2023,
           "date": "2023-05-31"
         },
         {
-          "id": "https://openalex.org/W4382936125",
-          "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
+          "id": "https://openalex.org/W4382936209",
+          "title": "Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
           "year": 2023,
           "date": "2023-05-31"
         },
@@ -301,14 +310,14 @@
           "date": "2022-03-04"
         },
         {
-          "id": "https://openalex.org/W3217722183",
-          "title": "Modeling of Hybrid Systems",
+          "id": "https://openalex.org/W3215338932",
+          "title": "Stability and Stabilization",
           "year": 2021,
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W4200531256",
-          "title": "Formal Verification",
+          "id": "https://openalex.org/W4200447063",
+          "title": "Optimal Control",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -325,14 +334,14 @@
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W3215338932",
-          "title": "Stability and Stabilization",
+          "id": "https://openalex.org/W4200531256",
+          "title": "Formal Verification",
           "year": 2021,
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W4200447063",
-          "title": "Optimal Control",
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -433,14 +442,14 @@
           "date": "2005-07-27"
         },
         {
-          "id": "https://openalex.org/W2036404606",
-          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
+          "id": "https://openalex.org/W2084315257",
+          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
           "year": 2005,
           "date": "2005-01-01"
         },
         {
-          "id": "https://openalex.org/W2084315257",
-          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
+          "id": "https://openalex.org/W2036404606",
+          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
           "year": 2005,
           "date": "2005-01-01"
         },
@@ -487,12 +496,6 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2142607709",
-          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
-          "year": 2004,
-          "date": "2004-01-01"
-        },
-        {
           "id": "https://openalex.org/W2155969328",
           "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
           "year": 2004,
@@ -501,6 +504,12 @@
         {
           "id": "https://openalex.org/W2171506252",
           "title": "Persistent disturbance attenuation properties for networked control systems",
+          "year": 2004,
+          "date": "2004-01-01"
+        },
+        {
+          "id": "https://openalex.org/W2142607709",
+          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -529,8 +538,8 @@
           "date": "2003-06-25"
         },
         {
-          "id": "https://openalex.org/W2157269445",
-          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
+          "id": "https://openalex.org/W2039015886",
+          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
           "year": 2003,
           "date": "2003-01-01"
         },
@@ -541,8 +550,8 @@
           "date": "2003-01-01"
         },
         {
-          "id": "https://openalex.org/W2039015886",
-          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
+          "id": "https://openalex.org/W2157269445",
+          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
           "year": 2003,
           "date": "2003-01-01"
         },
@@ -578,14 +587,14 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W1927720263",
-          "title": "Event identification in hybrid control systems",
+          "id": "https://openalex.org/W1568282822",
+          "title": "Hybrid systems and intelligent control",
           "year": 2002,
           "date": "2002-12-30"
         },
         {
-          "id": "https://openalex.org/W1568282822",
-          "title": "Hybrid systems and intelligent control",
+          "id": "https://openalex.org/W1927720263",
+          "title": "Event identification in hybrid control systems",
           "year": 2002,
           "date": "2002-12-30"
         },
@@ -602,14 +611,14 @@
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W2168331226",
-          "title": "A computationally efficient framework for hybrid controller design",
+          "id": "https://openalex.org/W1847814538",
+          "title": "Digital control from a hybrid perspective",
           "year": 2002,
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W1847814538",
-          "title": "Digital control from a hybrid perspective",
+          "id": "https://openalex.org/W2168331226",
+          "title": "A computationally efficient framework for hybrid controller design",
           "year": 2002,
           "date": "2002-12-17"
         },
@@ -626,6 +635,12 @@
           "date": "2002-11-22"
         },
         {
+          "id": "https://openalex.org/W2125291333",
+          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
+          "year": 2002,
+          "date": "2002-11-19"
+        },
+        {
           "id": "https://openalex.org/W2126888592",
           "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
           "year": 2002,
@@ -634,12 +649,6 @@
         {
           "id": "https://openalex.org/W1533742649",
           "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
-          "year": 2002,
-          "date": "2002-11-19"
-        },
-        {
-          "id": "https://openalex.org/W2125291333",
-          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -668,14 +677,14 @@
           "date": "1998-01-05"
         },
         {
-          "id": "https://openalex.org/W2115329200",
-          "title": "A logical DES approach to the design of hybrid control systems",
+          "id": "https://openalex.org/W2733303269",
+          "title": "Petri Net Feedback Controller Design for a Manufacturing System",
           "year": 1996,
           "date": "1996-06-01"
         },
         {
-          "id": "https://openalex.org/W2733303269",
-          "title": "Petri Net Feedback Controller Design for a Manufacturing System",
+          "id": "https://openalex.org/W2115329200",
+          "title": "A logical DES approach to the design of hybrid control systems",
           "year": 1996,
           "date": "1996-06-01"
         },
@@ -686,14 +695,14 @@
           "date": "1996-06-01"
         },
         {
-          "id": "https://openalex.org/W4236164983",
-          "title": "Feedback control of petri nets based on place invariants",
+          "id": "https://openalex.org/W1601320657",
+          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
           "year": 1996,
           "date": "1996-01-01"
         },
         {
-          "id": "https://openalex.org/W1601320657",
-          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
+          "id": "https://openalex.org/W4236164983",
+          "title": "Feedback control of petri nets based on place invariants",
           "year": 1996,
           "date": "1996-01-01"
         },
@@ -728,14 +737,14 @@
           "date": "1995-01-01"
         },
         {
-          "id": "https://openalex.org/W1559815321",
-          "title": "Hybrid system modeling and autonomous control systems",
+          "id": "https://openalex.org/W1549769098",
+          "title": "Event identification and intelligent hybrid control",
           "year": 1993,
           "date": "1993-01-01"
         },
         {
-          "id": "https://openalex.org/W1549769098",
-          "title": "Event identification and intelligent hybrid control",
+          "id": "https://openalex.org/W1559815321",
+          "title": "Hybrid system modeling and autonomous control systems",
           "year": 1993,
           "date": "1993-01-01"
         }
@@ -777,14 +786,14 @@
           "date": "2023-09-27"
         },
         {
-          "id": "https://openalex.org/W4381327754",
-          "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
+          "id": "https://openalex.org/W4382994864",
+          "title": "Data-efficient human walking speed intent identification",
           "year": 2023,
           "date": "2023-01-01"
         },
         {
-          "id": "https://openalex.org/W4382994864",
-          "title": "Data-efficient human walking speed intent identification",
+          "id": "https://openalex.org/W4381327754",
+          "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
           "year": 2023,
           "date": "2023-01-01"
         },
@@ -1081,6 +1090,25 @@
           "title": "Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
           "year": 2024,
           "date": "2024-09-13"
+        }
+      ]
+    },
+    {
+      "source": "Fanxin Kong",
+      "target": "Mike Lemmon",
+      "weight": 2,
+      "papers": [
+        {
+          "id": "https://openalex.org/W3213124734",
+          "title": "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision : (Special Session Paper)",
+          "year": 2021,
+          "date": "2021-10-01"
+        },
+        {
+          "id": "https://openalex.org/W3203035817",
+          "title": "Towards scalable, secure, and smart mission-critical IoT systems",
+          "year": 2021,
+          "date": "2021-09-30"
         }
       ]
     },
