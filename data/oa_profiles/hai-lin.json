@@ -6,7 +6,7 @@
   "openalex_name": "Hai Lin",
   "affiliation": "University of Notre Dame",
   "works_count": 885,
-  "cited_by_count": 9196,
+  "cited_by_count": 9222,
   "photo": "assets/faculty/hai-lin.jpg",
   "num_works_fetched": 885,
   "works": [
@@ -88,7 +88,7 @@
     },
     {
       "id": "https://openalex.org/W2906700374",
-      "title": "H<sub>\u221e</sub> Consensus for Multiagent-Based Supply Chain Systems Under Switching Topology and Uncertain Demands",
+      "title": "H \u221e Consensus for Multiagent-Based Supply Chain Systems Under Switching Topology and Uncertain Demands",
       "year": 2018,
       "date": "2018-12-27",
       "coauthors": [
@@ -530,7 +530,7 @@
       "id": "https://openalex.org/W1999823604",
       "title": "Controllability of multi-agent systems with time-delay in state and switching topology",
       "year": 2009,
-      "date": "2009-11-08",
+      "date": "2009-11-07",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063831056",
@@ -920,7 +920,7 @@
     },
     {
       "id": "https://openalex.org/W2555167683",
-      "title": "On <i>l</i><sub>1</sub> stability of switched positive singular systems with time\u2010varying delay",
+      "title": "On l1 stability of switched positive singular systems with time\u2010varying delay",
       "year": 2016,
       "date": "2016-11-08",
       "coauthors": [
@@ -1023,6 +1023,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2608070462",
+      "title": "$H_{\\infty }$ Control of Two-Time-Scale Markovian Switching Production-Inventory Systems",
+      "year": 2017,
+      "date": "2017-04-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5087602121",
+          "name": "Qingkui Li"
+        },
+        {
+          "id": "https://openalex.org/A5017435748",
+          "name": "Yugang Li"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2975594471",
       "title": "CollabDrone: A Collaborative Spatiotemporal-Aware Drone Sensing System Driven by Social Sensing Signals",
       "year": 2019,
@@ -1047,26 +1067,6 @@
         {
           "id": "https://openalex.org/A5100391517",
           "name": "Dong Wang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2330763348",
-      "title": "Sampled-Data Fuzzy Stabilization of Nonlinear Systems Under Nonuniform Sampling",
-      "year": 2016,
-      "date": "2016-04-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5004906606",
-          "name": "Xunlin Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5066409796",
-          "name": "Xiangpeng Xie"
         }
       ]
     },
@@ -1115,6 +1115,22 @@
       "title": "Toward Verifiable Real-Time Obstacle Motion Prediction for Dynamic Collision Avoidance",
       "year": 2019,
       "date": "2019-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4385063004",
+      "title": "Temporal Logic Motion Planning With Convex Optimization via Graphs of Convex Sets",
+      "year": 2023,
+      "date": "2023-07-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021639238",
@@ -1195,38 +1211,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4385063004",
-      "title": "Temporal Logic Motion Planning With Convex Optimization via Graphs of Convex Sets",
-      "year": 2023,
-      "date": "2023-07-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2013202293",
-      "title": "Automatic synthesis of cooperative multi-agent systems",
-      "year": 2014,
-      "date": "2014-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5120101396",
-          "name": "Jin Dai"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4410879364",
       "title": "Inverse dynamics trajectory optimization for contact-implicit model predictive control",
       "year": 2025,
@@ -1243,6 +1227,22 @@
         {
           "id": "https://openalex.org/A5002854777",
           "name": "Aykut \u00d6zg\u00fcn \u00d6nol"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2013202293",
+      "title": "Automatic synthesis of cooperative multi-agent systems",
+      "year": 2014,
+      "date": "2014-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5120101396",
+          "name": "Jin Dai"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1335,30 +1335,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4409535204",
-      "title": "Fault detection for hybrid-triggered networked systems subject to delay and deception attacks",
-      "year": 2025,
-      "date": "2025-04-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5103809359",
-          "name": "Shifang Dai"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100766086",
-          "name": "Jinliang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5050172715",
-          "name": "Engang Tian"
         }
       ]
     },
@@ -1523,26 +1499,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2608070462",
-      "title": "&lt;inline-formula&gt; &lt;tex-math notation=\"LaTeX\"&gt;$H_{\\infty }$ &lt;/tex-math&gt; &lt;/inline-formula&gt; Control of Two-Time-Scale Markovian Switching Production-Inventory Systems",
-      "year": 2017,
-      "date": "2017-04-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5087602121",
-          "name": "Qingkui Li"
-        },
-        {
-          "id": "https://openalex.org/A5017435748",
-          "name": "Yugang Li"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2116085638",
       "title": "An Improved Flux Observer for Sensorless Permanent Magnet Synchronous Motor Drives with Parameter Identification",
       "year": 2013,
@@ -1559,6 +1515,26 @@
         {
           "id": "https://openalex.org/A5006063194",
           "name": "Byung\u2010il Kwon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2330763348",
+      "title": "Sampled-Data Fuzzy Stabilization of Nonlinear Systems Under Nonuniform Sampling",
+      "year": 2016,
+      "date": "2016-04-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5004906606",
+          "name": "Xunlin Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5066409796",
+          "name": "Xiangpeng Xie"
         }
       ]
     },
@@ -1931,6 +1907,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3127548410",
+      "title": "Automatic Trajectory Synthesis for Real-Time Temporal Logic",
+      "year": 2021,
+      "date": "2021-02-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005085816",
+          "name": "Rafael Rodrigues da Silva"
+        },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3217403887",
       "title": "A More Scalable Mixed-Integer Encoding for Metric Temporal Logic",
       "year": 2021,
@@ -1963,26 +1959,6 @@
         {
           "id": "https://openalex.org/A5008501506",
           "name": "Shuzhi Sam Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3127548410",
-      "title": "Automatic Trajectory Synthesis for Real-Time Temporal Logic",
-      "year": 2021,
-      "date": "2021-02-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005085816",
-          "name": "Rafael Rodrigues da Silva"
-        },
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -2247,6 +2223,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4406961235",
+      "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
+      "year": 2025,
+      "date": "2025-01-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4290729279",
       "title": "Jiawei Runjing Decoction Improves Spermatogenesis of Cryptozoospermia With Varicocele by Regulating the Testicular Microenvironment: Two-Center Prospective Cohort Study",
       "year": 2022,
@@ -2371,30 +2371,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4406961235",
-      "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
-      "year": 2025,
-      "date": "2025-01-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4399745665",
       "title": "Adaptive Neural Network Prescribed Time Control for Constrained Multi-Robotics Systems with Parametric Uncertainties",
       "year": 2024,
@@ -2423,38 +2399,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W654753609",
-      "title": "The impact of periphyton attached on &lt;i&gt;Potamogeton crispus&lt;/i&gt; on nitrogen and phosphorus loads in water",
-      "year": 2013,
-      "date": "2013-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5105499299",
-          "name": "\u8463\u5f6c"
-        },
-        {
-          "id": "https://openalex.org/A5105917851",
-          "name": "\u9646\u5168\u5e73"
-        },
-        {
-          "id": "https://openalex.org/A5100762883",
-          "name": "\u738b\u56fd\u7965"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5105395641",
-          "name": "\u5468\u950b"
-        },
-        {
-          "id": "https://openalex.org/A5105139112",
-          "name": "\u9b4f\u5b8f\u519c"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4396875104",
       "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
       "year": 2024,
@@ -2471,26 +2415,6 @@
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4398249762",
-      "title": "Finite-step approximately bi-similar symbolic model for switched systems",
-      "year": 2024,
-      "date": "2024-05-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5036266680",
-          "name": "Yongzhuang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5011255752",
-          "name": "Yang Song"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -3287,6 +3211,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3185092232",
+      "title": "Symbolic Control of Hybrid Systems from Signal Temporal Logic Specifications",
+      "year": 2021,
+      "date": "2021-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005085816",
+          "name": "Rafael Rodrigues da Silva"
+        },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4376851233",
       "title": "Continuous-Observation One-Sided Two-Player Zero-Sum Partially Observable Stochastic Game With Public Actions",
       "year": 2023,
@@ -3308,7 +3252,7 @@
     },
     {
       "id": "https://openalex.org/W2990914639",
-      "title": "Privacy Verification and Enforcement via\u00a0Belief Manipulation",
+      "title": "Privacy Verification and Enforcement via Belief Manipulation",
       "year": 2019,
       "date": "2019-11-21",
       "coauthors": [
@@ -3351,6 +3295,38 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W654753609",
+      "title": "The impact of periphyton attached on Potamogeton crispus on nitrogen and phosphorus loads in water",
+      "year": 2013,
+      "date": "2013-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5105499299",
+          "name": "\u8463\u5f6c"
+        },
+        {
+          "id": "https://openalex.org/A5105917851",
+          "name": "\u9646\u5168\u5e73"
+        },
+        {
+          "id": "https://openalex.org/A5100762883",
+          "name": "\u738b\u56fd\u7965"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5105395641",
+          "name": "\u5468\u950b"
+        },
+        {
+          "id": "https://openalex.org/A5105139112",
+          "name": "\u9b4f\u5b8f\u519c"
         }
       ]
     },
@@ -3519,6 +3495,50 @@
         {
           "id": "https://openalex.org/A5100376036",
           "name": "Shasha Li"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409535204",
+      "title": "Fault detection for hybrid-triggered networked systems subject to delay and deception attacks",
+      "year": 2025,
+      "date": "2025-04-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5103809359",
+          "name": "Shifang Dai"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100766086",
+          "name": "Jinliang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5050172715",
+          "name": "Engang Tian"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4398249762",
+      "title": "Finite-step approximately bi-similar symbolic model for switched systems",
+      "year": 2024,
+      "date": "2024-05-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5036266680",
+          "name": "Yongzhuang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5011255752",
+          "name": "Yang Song"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -4279,26 +4299,6 @@
         {
           "id": "https://openalex.org/A5100606923",
           "name": "Xiaoyang Li"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3185092232",
-      "title": "Symbolic Control of Hybrid Systems from Signal Temporal Logic Specifications",
-      "year": 2021,
-      "date": "2021-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005085816",
-          "name": "Rafael Rodrigues da Silva"
-        },
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -5580,7 +5580,7 @@
     },
     {
       "id": "https://openalex.org/W1582177925",
-      "title": "Simultaneous H&amp;#x221E; stabilization for uncertain systems",
+      "title": "Simultaneous H\u221e stabilization for uncertain systems",
       "year": 2015,
       "date": "2015-07-01",
       "coauthors": [
@@ -15448,7 +15448,7 @@
     },
     {
       "id": "https://openalex.org/W4283219460",
-      "title": "Front Cover: <i>Clostridium butyricum</i> Inhibits Fat Deposition via Increasing the Frequency of Adipose Tissue\u2010Resident Regulatory T Cells",
+      "title": "Front Cover: Clostridium butyricum Inhibits Fat Deposition via Increasing the Frequency of Adipose Tissue\u2010Resident Regulatory T Cells",
       "year": 2022,
       "date": "2022-06-01",
       "coauthors": [
@@ -17216,7 +17216,7 @@
     },
     {
       "id": "https://openalex.org/W7166534255",
-      "title": "Off-Policy Reinforcement Learning <i>H</i> <sub>\u221e</sub> Control for Two-Time-Scale Supply Chain Systems Subject to Design Change",
+      "title": "Off-Policy Reinforcement Learning H \u221e Control for Two-Time-Scale Supply Chain Systems Subject to Design Change",
       "year": 2026,
       "date": "2026-01-01",
       "coauthors": [

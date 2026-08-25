@@ -6,7 +6,7 @@
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
   "works_count": 56,
-  "cited_by_count": 706,
+  "cited_by_count": 709,
   "photo": "assets/faculty/tingyu-cheng.jpg",
   "num_works_fetched": 56,
   "works": [
@@ -504,7 +504,7 @@
     },
     {
       "id": "https://openalex.org/W4385614497",
-      "title": "Making computing visible &amp; tangible: A paper-based computing toolkit for codesigning inclusive computing education activities",
+      "title": "Making computing visible & tangible: A paper-based computing toolkit for codesigning inclusive computing education activities",
       "year": 2023,
       "date": "2023-08-06",
       "coauthors": [
@@ -691,62 +691,6 @@
         {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4410427641",
-      "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
-      "year": 2025,
-      "date": "2025-05-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056021955",
-          "name": "Luyao Huang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5072375914",
-          "name": "Xianzhe Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5052624521",
-          "name": "Haichao Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5022363109",
-          "name": "Yuanqiao Li"
-        },
-        {
-          "id": "https://openalex.org/A5101902368",
-          "name": "Zhi Xu"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5005379781",
-          "name": "Yun Fu"
-        },
-        {
-          "id": "https://openalex.org/A5018630603",
-          "name": "Yongmin Liu"
-        },
-        {
-          "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
-        },
-        {
-          "id": "https://openalex.org/A5100434713",
-          "name": "Jun Li"
-        },
-        {
-          "id": "https://openalex.org/A5028366101",
-          "name": "Hongli Zhu"
         }
       ]
     },
@@ -955,50 +899,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4205834318",
-      "title": "Applying Compute-Proximal Energy Harvesting to Develop Self-Sustained Systems for Automobiles",
-      "year": 2021,
-      "date": "2021-12-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082801999",
-          "name": "Jung Wook Park"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5070875931",
-          "name": "Dingtian Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5069459679",
-          "name": "Yuhui Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5091262280",
-          "name": "Rosa I. Arriaga"
-        },
-        {
-          "id": "https://openalex.org/A5045801671",
-          "name": "Thad\ufeff Starner\ufeff\ufeff"
-        },
-        {
-          "id": "https://openalex.org/A5045020883",
-          "name": "Mohit Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5100354637",
-          "name": "Yang Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4361770602",
       "title": "Exergy",
       "year": 2023,
@@ -1083,6 +983,62 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4410427641",
+      "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
+      "year": 2025,
+      "date": "2025-05-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056021955",
+          "name": "Luyao Huang"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5072375914",
+          "name": "Xianzhe Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5052624521",
+          "name": "Haichao Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5022363109",
+          "name": "Yuanqiao Li"
+        },
+        {
+          "id": "https://openalex.org/A5101902368",
+          "name": "Zhi Xu"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5005379781",
+          "name": "Yun Fu"
+        },
+        {
+          "id": "https://openalex.org/A5018630603",
+          "name": "Yongmin Liu"
+        },
+        {
+          "id": "https://openalex.org/A5026852792",
+          "name": "Josiah Hester"
+        },
+        {
+          "id": "https://openalex.org/A5100434713",
+          "name": "Jun Li"
+        },
+        {
+          "id": "https://openalex.org/A5028366101",
+          "name": "Hongli Zhu"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4413019846",
       "title": "From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens",
       "year": 2025,
@@ -1111,6 +1067,98 @@
         {
           "id": "https://openalex.org/A5035704218",
           "name": "Udit Gupta"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7164505325",
+      "title": "Sustainability assessment using multimodal artificial intelligence agents",
+      "year": 2026,
+      "date": "2026-06-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101798380",
+          "name": "Zhihan Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5075991861",
+          "name": "Alexander Le Metzger"
+        },
+        {
+          "id": "https://openalex.org/A5025755106",
+          "name": "Yuxuan Mei"
+        },
+        {
+          "id": "https://openalex.org/A5056412427",
+          "name": "Felix H\u00e4hnlein"
+        },
+        {
+          "id": "https://openalex.org/A5064340493",
+          "name": "Zachary Englhardt"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5039879761",
+          "name": "Shwetak Patel"
+        },
+        {
+          "id": "https://openalex.org/A5043809595",
+          "name": "Adriana Schulz"
+        },
+        {
+          "id": "https://openalex.org/A5080282367",
+          "name": "Vikram Iyer"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4205834318",
+      "title": "Applying Compute-Proximal Energy Harvesting to Develop Self-Sustained Systems for Automobiles",
+      "year": 2021,
+      "date": "2021-12-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082801999",
+          "name": "Jung Wook Park"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5070875931",
+          "name": "Dingtian Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5069459679",
+          "name": "Yuhui Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5091262280",
+          "name": "Rosa I. Arriaga"
+        },
+        {
+          "id": "https://openalex.org/A5045801671",
+          "name": "Thad\ufeff Starner\ufeff\ufeff"
+        },
+        {
+          "id": "https://openalex.org/A5045020883",
+          "name": "Mohit Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5100354637",
+          "name": "Yang Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
         }
       ]
     },
@@ -1275,54 +1323,6 @@
         {
           "id": "https://openalex.org/A5011017276",
           "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7164505325",
-      "title": "Sustainability assessment using multimodal artificial intelligence agents",
-      "year": 2026,
-      "date": "2026-06-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101798380",
-          "name": "Zhihan Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5075991861",
-          "name": "Alexander Le Metzger"
-        },
-        {
-          "id": "https://openalex.org/A5025755106",
-          "name": "Yuxuan Mei"
-        },
-        {
-          "id": "https://openalex.org/A5056412427",
-          "name": "Felix H\u00e4hnlein"
-        },
-        {
-          "id": "https://openalex.org/A5064340493",
-          "name": "Zachary Englhardt"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5039879761",
-          "name": "Shwetak Patel"
-        },
-        {
-          "id": "https://openalex.org/A5043809595",
-          "name": "Adriana Schulz"
-        },
-        {
-          "id": "https://openalex.org/A5080282367",
-          "name": "Vikram Iyer"
         }
       ]
     },
@@ -1600,7 +1600,7 @@
     },
     {
       "id": "https://openalex.org/W4312296478",
-      "title": "Making Computing Visible &amp; Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
+      "title": "Making Computing Visible & Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
       "year": 2022,
       "date": "2022-01-01",
       "coauthors": [
@@ -1688,7 +1688,7 @@
     },
     {
       "id": "https://openalex.org/W4394879318",
-      "title": "Research on Visual Function Anomaly Classification Based on SMOTE\u2009+\u2009Boosting Multiple Sampling Algorithm",
+      "title": "Research on Visual Function Anomaly Classification Based on SMOTE + Boosting Multiple Sampling Algorithm",
       "year": 2024,
       "date": "2024-01-01",
       "coauthors": [

@@ -6,7 +6,7 @@
   "openalex_name": "Michael Lemmon",
   "affiliation": "University of Notre Dame",
   "works_count": 199,
-  "cited_by_count": 7447,
+  "cited_by_count": 7454,
   "photo": "assets/faculty/michael-lemmon.jpg",
   "num_works_fetched": 199,
   "works": [
@@ -1231,6 +1231,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2045996677",
+      "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
+      "year": 2014,
+      "date": "2014-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101578562",
+          "name": "Bin Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2004613851",
       "title": "The distance-to-bifurcation problem in non-negative dynamical systems with kinetic realizations",
       "year": 2014,
@@ -1348,7 +1364,7 @@
     },
     {
       "id": "https://openalex.org/W1523125488",
-      "title": "Finite-gain L&lt;inf&gt;2&lt;/inf&gt; stability in distributed event-triggered networked control systems with data dropouts",
+      "title": "Finite-gain L2 stability in distributed event-triggered networked control systems with data dropouts",
       "year": 2009,
       "date": "2009-08-01",
       "coauthors": [
@@ -1459,22 +1475,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2045996677",
-      "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
-      "year": 2014,
-      "date": "2014-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101578562",
-          "name": "Bin Hu"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -2800,7 +2800,7 @@
     },
     {
       "id": "https://openalex.org/W2006980759",
-      "title": "&lt;title&gt;Interior-point competitive learning of control agents in colony-style systems&lt;/title&gt;",
+      "title": "Interior-point competitive learning of control agents in colony-style systems",
       "year": 1995,
       "date": "1995-04-17",
       "coauthors": [
@@ -3048,7 +3048,7 @@
     },
     {
       "id": "https://openalex.org/W2028708377",
-      "title": "&lt;title&gt;Alternation minimization training of radial basis function networks&lt;/title&gt;",
+      "title": "Alternation minimization training of radial basis function networks",
       "year": 1996,
       "date": "1996-03-22",
       "coauthors": [

@@ -6,7 +6,7 @@
   "openalex_name": "Nikolaus Correll",
   "affiliation": null,
   "works_count": 171,
-  "cited_by_count": 6206,
+  "cited_by_count": 6217,
   "photo": "assets/faculty/nikolaus-correll.jpg",
   "num_works_fetched": 174,
   "works": [
@@ -74,7 +74,7 @@
       "id": "https://openalex.org/W1964750332",
       "title": "Social Integration of Robots into Groups of Cockroaches to Control Self-Organized Choices",
       "year": 2007,
-      "date": "2007-11-16",
+      "date": "2007-11-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5001500450",
@@ -915,22 +915,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2409616265",
-      "title": "Integrated force and distance sensing using elastomer-embedded commodity proximity sensors",
-      "year": 2016,
-      "date": "2016-06-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022614297",
-          "name": "Radhen Patel"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3012297501",
       "title": "Identification and Control of a Nonlinear Soft Actuator and Sensor System",
       "year": 2020,
@@ -971,6 +955,22 @@
         {
           "id": "https://openalex.org/A5041822706",
           "name": "Mark E. Rentschler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2409616265",
+      "title": "Integrated force and distance sensing using elastomer-embedded commodity proximity sensors",
+      "year": 2016,
+      "date": "2016-06-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022614297",
+          "name": "Radhen Patel"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -1195,22 +1195,6 @@
         {
           "id": "https://openalex.org/A5085143303",
           "name": "Kristofer S. J. Pister"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2294621665",
-      "title": "Precise assembly of 3D truss structures using MLE-based error prediction and correction",
-      "year": 2015,
-      "date": "2015-10-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5091048049",
-          "name": "Erik Komendera"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -1631,6 +1615,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2909573358",
+      "title": "System Identification and Closed-Loop Control of a Hydraulically Amplified Self-Healing Electrostatic (HASEL) Actuator",
+      "year": 2018,
+      "date": "2018-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029096734",
+          "name": "Cosima Schunk"
+        },
+        {
+          "id": "https://openalex.org/A5026334856",
+          "name": "Levi Pearson"
+        },
+        {
+          "id": "https://openalex.org/A5021573797",
+          "name": "Eric Acome"
+        },
+        {
+          "id": "https://openalex.org/A5079040576",
+          "name": "Timothy G. Morrissey"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5005851458",
+          "name": "Christoph Keplinger"
+        },
+        {
+          "id": "https://openalex.org/A5041822706",
+          "name": "Mark E. Rentschler"
+        },
+        {
+          "id": "https://openalex.org/A5073287604",
+          "name": "J. Sean Humbert"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3136513942",
       "title": "Mobile Manipulation Hackathon: Moving into Real World Applications",
       "year": 2021,
@@ -1703,42 +1727,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2909573358",
-      "title": "System Identification and Closed-Loop Control of a Hydraulically Amplified Self-Healing Electrostatic (HASEL) Actuator",
-      "year": 2018,
-      "date": "2018-10-01",
+      "id": "https://openalex.org/W2294621665",
+      "title": "Precise assembly of 3D truss structures using MLE-based error prediction and correction",
+      "year": 2015,
+      "date": "2015-10-19",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5029096734",
-          "name": "Cosima Schunk"
-        },
-        {
-          "id": "https://openalex.org/A5026334856",
-          "name": "Levi Pearson"
-        },
-        {
-          "id": "https://openalex.org/A5021573797",
-          "name": "Eric Acome"
-        },
-        {
-          "id": "https://openalex.org/A5079040576",
-          "name": "Timothy G. Morrissey"
+          "id": "https://openalex.org/A5091048049",
+          "name": "Erik Komendera"
         },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2896753023",
+      "title": "Shape-Changing Materials Using Variable Stiffness and Distributed Control",
+      "year": 2018,
+      "date": "2018-10-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5111377884",
+          "name": "Michael McEvoy"
         },
         {
-          "id": "https://openalex.org/A5005851458",
-          "name": "Christoph Keplinger"
-        },
-        {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
-        },
-        {
-          "id": "https://openalex.org/A5073287604",
-          "name": "J. Sean Humbert"
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -1759,22 +1775,6 @@
         {
           "id": "https://openalex.org/A5006908310",
           "name": "Scott Slaby"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2896753023",
-      "title": "Shape-Changing Materials Using Variable Stiffness and Distributed Control",
-      "year": 2018,
-      "date": "2018-10-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5111377884",
-          "name": "Michael McEvoy"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -1879,42 +1879,6 @@
         {
           "id": "https://openalex.org/A5085205626",
           "name": "Richard Han"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4300594564",
-      "title": "Toward smart composites: Small-scale, untethered prediction and control for soft sensor/actuator systems",
-      "year": 2022,
-      "date": "2022-10-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046880071",
-          "name": "Sarah Aguasvivas Manzano"
-        },
-        {
-          "id": "https://openalex.org/A5043334100",
-          "name": "Vani Sundaram"
-        },
-        {
-          "id": "https://openalex.org/A5062490060",
-          "name": "Artemis Xu"
-        },
-        {
-          "id": "https://openalex.org/A5040368638",
-          "name": "Khoi Ly"
-        },
-        {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
-        },
-        {
-          "id": "https://openalex.org/A5060384896",
-          "name": "Robert F. Shepherd"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2199,6 +2163,42 @@
         {
           "id": "https://openalex.org/A5078006811",
           "name": "Andy Kaufman"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4300594564",
+      "title": "Toward smart composites: Small-scale, untethered prediction and control for soft sensor/actuator systems",
+      "year": 2022,
+      "date": "2022-10-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046880071",
+          "name": "Sarah Aguasvivas Manzano"
+        },
+        {
+          "id": "https://openalex.org/A5043334100",
+          "name": "Vani Sundaram"
+        },
+        {
+          "id": "https://openalex.org/A5062490060",
+          "name": "Artemis Xu"
+        },
+        {
+          "id": "https://openalex.org/A5040368638",
+          "name": "Khoi Ly"
+        },
+        {
+          "id": "https://openalex.org/A5041822706",
+          "name": "Mark E. Rentschler"
+        },
+        {
+          "id": "https://openalex.org/A5060384896",
+          "name": "Robert F. Shepherd"
         },
         {
           "id": "https://openalex.org/A5047458039",

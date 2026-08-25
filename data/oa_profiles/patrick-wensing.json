@@ -6,7 +6,7 @@
   "openalex_name": "Patrick M. Wensing",
   "affiliation": "University of Notre Dame",
   "works_count": 163,
-  "cited_by_count": 4920,
+  "cited_by_count": 4939,
   "photo": "assets/faculty/patrick-wensing.jpg",
   "num_works_fetched": 163,
   "works": [
@@ -427,26 +427,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4392207791",
-      "title": "On Second-Order Derivatives of Rigid-Body Dynamics: Theory and Implementation",
-      "year": 2024,
-      "date": "2024-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101570823",
-          "name": "Shubham Singh"
-        },
-        {
-          "id": "https://openalex.org/A5049959252",
-          "name": "Ryan P. Russell"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2747975657",
       "title": "Experimental evaluation of simple estimators for humanoid robots",
       "year": 2017,
@@ -599,6 +579,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3003294786",
+      "title": "One Robot for Many Tasks: Versatile Co-Design Through Stochastic Programming",
+      "year": 2020,
+      "date": "2020-01-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069796761",
+          "name": "Gabriel Bravo-Palacios"
+        },
+        {
+          "id": "https://openalex.org/A5038165484",
+          "name": "Andrea Del Prete"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3091395702",
       "title": "MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot",
       "year": 2019,
@@ -627,26 +627,6 @@
         {
           "id": "https://openalex.org/A5101912751",
           "name": "Sangbae Kim"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3003294786",
-      "title": "One Robot for Many Tasks: Versatile Co-Design Through Stochastic Programming",
-      "year": 2020,
-      "date": "2020-01-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069796761",
-          "name": "Gabriel Bravo-Palacios"
-        },
-        {
-          "id": "https://openalex.org/A5038165484",
-          "name": "Andrea Del Prete"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
         }
       ]
     },
@@ -911,6 +891,26 @@
         {
           "id": "https://openalex.org/A5040559111",
           "name": "Alexandre Janot"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392207791",
+      "title": "On Second-Order Derivatives of Rigid-Body Dynamics: Theory and Implementation",
+      "year": 2024,
+      "date": "2024-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101570823",
+          "name": "Shubham Singh"
+        },
+        {
+          "id": "https://openalex.org/A5049959252",
+          "name": "Ryan P. Russell"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -1363,26 +1363,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4389987534",
-      "title": "Second-Order Differential Dynamic Programming for Whole-Body MPC of Legged Robots",
-      "year": 2023,
-      "date": "2023-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5033623748",
-          "name": "John N. Nganga"
-        },
-        {
-          "id": "https://openalex.org/A5100661194",
-          "name": "He Li"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4392543670",
       "title": "Lower-Limb Myoelectric Calibration Postures for Transtibial Prostheses",
       "year": 2024,
@@ -1399,6 +1379,22 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404057712",
+      "title": "Center of mass kinematic reconstruction during steady-state walking using optimized template models",
+      "year": 2024,
+      "date": "2024-11-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114522368",
+          "name": "David J. Kelly"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -1432,7 +1428,7 @@
     },
     {
       "id": "https://openalex.org/W7123353085",
-      "title": "Coriolis Factorizations and Their <i>Connections</i> to Riemannian Geometry",
+      "title": "Coriolis Factorizations and Their Connections to Riemannian Geometry",
       "year": 2026,
       "date": "2026-01-12",
       "coauthors": [
@@ -1659,6 +1655,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4389987534",
+      "title": "Second-Order Differential Dynamic Programming for Whole-Body MPC of Legged Robots",
+      "year": 2023,
+      "date": "2023-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5033623748",
+          "name": "John N. Nganga"
+        },
+        {
+          "id": "https://openalex.org/A5100661194",
+          "name": "He Li"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4390481077",
       "title": "Whole-Body Dynamic Telelocomotion: A Step-to-Step Dynamics Approach to Human Walking Reference Generation",
       "year": 2023,
@@ -1751,22 +1767,6 @@
         {
           "id": "https://openalex.org/A5088087727",
           "name": "Richard Freuler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404057712",
-      "title": "Center of mass kinematic reconstruction during steady-state walking using optimized template models",
-      "year": 2024,
-      "date": "2024-11-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114522368",
-          "name": "David J. Kelly"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
         }
       ]
     },
@@ -3304,7 +3304,7 @@
     },
     {
       "id": "https://openalex.org/W4320854014",
-      "title": "On Second-Order Derivatives of Rigid-Body Dynamics: Theory &amp; Implementation",
+      "title": "On Second-Order Derivatives of Rigid-Body Dynamics: Theory & Implementation",
       "year": 2023,
       "date": "2023-02-12",
       "coauthors": [

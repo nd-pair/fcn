@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5020875577",
   "openalex_name": "Robert G. Landers",
   "affiliation": "University of Notre Dame",
-  "works_count": 301,
-  "cited_by_count": 5819,
+  "works_count": 303,
+  "cited_by_count": 5832,
   "photo": "assets/faculty/robert-landers.jpg",
-  "num_works_fetched": 302,
+  "num_works_fetched": 303,
   "works": [
     {
       "id": "https://openalex.org/W2783030034",
@@ -591,6 +591,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2516459580",
+      "title": "Reduced-Order Electrochemical Model-Based SOC Observer With Output Model Uncertainty Estimation",
+      "year": 2016,
+      "date": "2016-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102944220",
+          "name": "Nima Lotfi"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5100774549",
+          "name": "Jie Li"
+        },
+        {
+          "id": "https://openalex.org/A5100319940",
+          "name": "Jonghyun Park"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2033887829",
       "title": "Aqueous-based extrusion of high solids loading ceramic pastes: Process modeling and control",
       "year": 2008,
@@ -615,30 +639,6 @@
         {
           "id": "https://openalex.org/A5058971939",
           "name": "Gregory E. Hilmas"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2516459580",
-      "title": "Reduced-Order Electrochemical Model-Based SOC Observer With Output Model Uncertainty Estimation",
-      "year": 2016,
-      "date": "2016-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102944220",
-          "name": "Nima Lotfi"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5100774549",
-          "name": "Jie Li"
-        },
-        {
-          "id": "https://openalex.org/A5100319940",
-          "name": "Jonghyun Park"
         }
       ]
     },
@@ -831,38 +831,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2078852783",
-      "title": "Development of an Experimental Testbed for Research in Lithium-Ion Battery Management Systems",
-      "year": 2013,
-      "date": "2013-10-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102944220",
-          "name": "Nima Lotfi"
-        },
-        {
-          "id": "https://openalex.org/A5057375207",
-          "name": "Poria Fajri"
-        },
-        {
-          "id": "https://openalex.org/A5017472131",
-          "name": "Samuel Novosad"
-        },
-        {
-          "id": "https://openalex.org/A5052252083",
-          "name": "Jack Savage"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5082594439",
-          "name": "Mehdi Ferdowsi"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2521272891",
       "title": "Analytical Force Modeling of Fixed Abrasive Diamond Wire Saw Machining With Application to SiC Monocrystal Wafer Processing",
       "year": 2016,
@@ -891,6 +859,38 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2078852783",
+      "title": "Development of an Experimental Testbed for Research in Lithium-Ion Battery Management Systems",
+      "year": 2013,
+      "date": "2013-10-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102944220",
+          "name": "Nima Lotfi"
+        },
+        {
+          "id": "https://openalex.org/A5057375207",
+          "name": "Poria Fajri"
+        },
+        {
+          "id": "https://openalex.org/A5017472131",
+          "name": "Samuel Novosad"
+        },
+        {
+          "id": "https://openalex.org/A5052252083",
+          "name": "Jack Savage"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5082594439",
+          "name": "Mehdi Ferdowsi"
         }
       ]
     },
@@ -2147,6 +2147,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2738269904",
+      "title": "Empirical Modeling and Vision Based Control for Laser Aided Metal Deposition Process",
+      "year": 2001,
+      "date": "2001-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030743096",
+          "name": "Mallikharjuna R. Boddu"
+        },
+        {
+          "id": "https://openalex.org/A5044335452",
+          "name": "Srinivas Musti"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5073156141",
+          "name": "Frank Liou"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1969768404",
       "title": "Design and Implementation of a Nonlinear Axial Force Controller for Friction Stir Welding Processes",
       "year": 2007,
@@ -2243,6 +2267,42 @@
         {
           "id": "https://openalex.org/A5082067008",
           "name": "Ming C. Leu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2787617993",
+      "title": "Freeze-Form Extrusion Fabrication of Composite Structures",
+      "year": 2011,
+      "date": "2011-08-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005703976",
+          "name": "Ming-Chuan Leu"
+        },
+        {
+          "id": "https://openalex.org/A5082169793",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5000161879",
+          "name": "Bradley K. Deuser"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5058971939",
+          "name": "Gregory E. Hilmas"
+        },
+        {
+          "id": "https://openalex.org/A5088252448",
+          "name": "Shi C. Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5024176322",
+          "name": "Jeremy Watts"
         }
       ]
     },
@@ -2359,6 +2419,66 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2973100837",
+      "title": "Freeze-Form Extrusion Fabrication of Functionally Graded Material Composites Using Zirconium Carbide and Tungsten",
+      "year": 2012,
+      "date": "2012-08-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100664198",
+          "name": "Ang Li"
+        },
+        {
+          "id": "https://openalex.org/A5048702157",
+          "name": "Aaron Scott Thornton"
+        },
+        {
+          "id": "https://openalex.org/A5000161879",
+          "name": "Bradley K. Deuser"
+        },
+        {
+          "id": "https://openalex.org/A5024176322",
+          "name": "Jeremy Watts"
+        },
+        {
+          "id": "https://openalex.org/A5005703976",
+          "name": "Ming-Chuan Leu"
+        },
+        {
+          "id": "https://openalex.org/A5058971939",
+          "name": "Gregory E. Hilmas"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3202737039",
+      "title": "Numerical Simulation of Ram Extrusion Process for Ceramic Materials",
+      "year": 2011,
+      "date": "2011-08-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100443438",
+          "name": "Mingyang Li"
+        },
+        {
+          "id": "https://openalex.org/A5082169793",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5103184708",
+          "name": "Fei Xue"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1994210253",
       "title": "Control Oriented Thermal Modeling of Lithium Ion Batteries from a First Principle Model via Model Reduction by the Global Arnoldi Algorithm",
       "year": 2012,
@@ -2403,6 +2523,38 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W167108646",
+      "title": "Aqueous-Based Extrusion Fabrication of Ceramics on Demand",
+      "year": 2007,
+      "date": "2007-09-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5003446177",
+          "name": "Michael S. Mason"
+        },
+        {
+          "id": "https://openalex.org/A5032991805",
+          "name": "Tieshu Huang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5082067008",
+          "name": "Ming C. Leu"
+        },
+        {
+          "id": "https://openalex.org/A5058971939",
+          "name": "Gregory E. Hilmas"
+        },
+        {
+          "id": "https://openalex.org/A5103855100",
+          "name": "Michael W. Hayes"
         }
       ]
     },
@@ -2671,6 +2823,42 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2991242474",
+      "title": "Use of SWIR Imaging to Monitor Layer-to-Layer Part Quality During SLM of 304L Stainless Steel",
+      "year": 2018,
+      "date": "2018-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080562232",
+          "name": "Cody Lough"
+        },
+        {
+          "id": "https://openalex.org/A5100327945",
+          "name": "Xin Wang"
+        },
+        {
+          "id": "https://openalex.org/A5043190657",
+          "name": "Christopher Smith"
+        },
+        {
+          "id": "https://openalex.org/A5074915518",
+          "name": "Olaseni Adeniji"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
         }
       ]
     },
@@ -3035,6 +3223,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2601994684",
+      "title": "Applications of a Hybrid Manufacturing Process for Fabrication and Repair of Metallic Structures",
+      "year": 2006,
+      "date": "2006-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073156141",
+          "name": "Frank Liou"
+        },
+        {
+          "id": "https://openalex.org/A5108226460",
+          "name": "Kevin Slattery"
+        },
+        {
+          "id": "https://openalex.org/A5113793761",
+          "name": "Mary Kinsella"
+        },
+        {
+          "id": "https://openalex.org/A5020378239",
+          "name": "Joseph William Newkirk"
+        },
+        {
+          "id": "https://openalex.org/A5089468845",
+          "name": "Hsin\u2010Nan Chou"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2793422938",
       "title": "Quasistatic error modeling and model testing for a 5-axis machine with a redundant axis",
       "year": 2018,
@@ -3167,6 +3387,50 @@
         {
           "id": "https://openalex.org/A5005703976",
           "name": "Ming-Chuan Leu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3184456784",
+      "title": "Development of Extrusion-on-Demand for Ceramic Freeze-Form Extrusion Fabrication",
+      "year": 2009,
+      "date": "2009-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066328710",
+          "name": "Thomas W. Oakes"
+        },
+        {
+          "id": "https://openalex.org/A5012121183",
+          "name": "Parimal Sanjay Kulkarni"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5005703976",
+          "name": "Ming-Chuan Leu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3201701434",
+      "title": "Interactions of an Additive Manufacturing Program with Society",
+      "year": 2012,
+      "date": "2012-08-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073156141",
+          "name": "Frank Liou"
+        },
+        {
+          "id": "https://openalex.org/A5082067008",
+          "name": "Ming C. Leu"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
         }
       ]
     },
@@ -3815,6 +4079,54 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2993507898",
+      "title": "Fiber-Fed Printing of Free-Form Free-Standing Glass Structures",
+      "year": 2018,
+      "date": "2018-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080900890",
+          "name": "John M. Hostetler"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2993148969",
+      "title": "In-situ Local Part Qualification of SLM 304L Stainless Steel through Voxel Based Processing of SWIR Imaging Data",
+      "year": 2019,
+      "date": "2019-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080562232",
+          "name": "Cody Lough"
+        },
+        {
+          "id": "https://openalex.org/A5054362722",
+          "name": "Xinyu Wang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4387463107",
       "title": "Layer-to-Layer Norm-Optimal control of Incremental sheet forming with a Data-Driven model",
       "year": 2023,
@@ -4279,6 +4591,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2991091825",
+      "title": "In-Situ Optical Emission Spectroscopy during SLM of 304L Stainless Steel",
+      "year": 2018,
+      "date": "2018-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080562232",
+          "name": "Cody Lough"
+        },
+        {
+          "id": "https://openalex.org/A5089759312",
+          "name": "Luis I. Escano"
+        },
+        {
+          "id": "https://openalex.org/A5014718096",
+          "name": "Minglei Qu"
+        },
+        {
+          "id": "https://openalex.org/A5043190657",
+          "name": "Christopher Smith"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5056165412",
+          "name": "Lianyi Chen"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3000714193",
       "title": "Model Predictive Height Control for Direct Energy Deposition",
       "year": 2019,
@@ -4519,6 +4871,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2993303359",
+      "title": "Towards Defect Detection in Metal SLM Parts Using Modal Analysis \"Fingerprinting\"",
+      "year": 2017,
+      "date": "2017-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5002353670",
+          "name": "James S. Urban"
+        },
+        {
+          "id": "https://openalex.org/A5032083967",
+          "name": "Nick E. Capps"
+        },
+        {
+          "id": "https://openalex.org/A5083280226",
+          "name": "Brian West"
+        },
+        {
+          "id": "https://openalex.org/A5046428797",
+          "name": "Troy Hartwig"
+        },
+        {
+          "id": "https://openalex.org/A5090813460",
+          "name": "Ben Brown"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3041296441",
       "title": "Height Dependent Laser Metal Deposition Process Modeling",
       "year": 2012,
@@ -4599,6 +4991,74 @@
         {
           "id": "https://openalex.org/A5100328022",
           "name": "Xin Wang"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3185340099",
+      "title": "Modeling for the Control of the Laser Aided Manufacturing Process(LAMP)",
+      "year": 2003,
+      "date": "2003-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030743096",
+          "name": "Mallikharjuna R. Boddu"
+        },
+        {
+          "id": "https://openalex.org/A5054846076",
+          "name": "Vishnu Thayalan"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3216541985",
+      "title": "Frequency Response Inspection of Additively Manufactured Parts for Defect Identification",
+      "year": 2018,
+      "date": "2018-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5003094984",
+          "name": "Kevin Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5009020533",
+          "name": "Jason Blough"
+        },
+        {
+          "id": "https://openalex.org/A5102838005",
+          "name": "Andrew Barnard"
+        },
+        {
+          "id": "https://openalex.org/A5046428797",
+          "name": "Troy Hartwig"
+        },
+        {
+          "id": "https://openalex.org/A5109776919",
+          "name": "Ben Brown"
+        },
+        {
+          "id": "https://openalex.org/A5036264589",
+          "name": "David Soine"
+        },
+        {
+          "id": "https://openalex.org/A5057666767",
+          "name": "Tristan Collum"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
         },
         {
           "id": "https://openalex.org/A5008112862",
@@ -4731,6 +5191,50 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2601375665",
+      "title": "Comparison of Thermal Properties of Laser Deposition and Traditional Welding Process via Thermal Diffusivity Measurement",
+      "year": 2006,
+      "date": "2006-09-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101558510",
+          "name": "Yang Yu"
+        },
+        {
+          "id": "https://openalex.org/A5082492463",
+          "name": "Omoghene Osaze Obahor"
+        },
+        {
+          "id": "https://openalex.org/A5002207554",
+          "name": "Yaxin Bao"
+        },
+        {
+          "id": "https://openalex.org/A5016365923",
+          "name": "Todd E. Sparks"
+        },
+        {
+          "id": "https://openalex.org/A5008888444",
+          "name": "Jianzhong Ruan"
+        },
+        {
+          "id": "https://openalex.org/A5023294756",
+          "name": "Jacquelyn K. Stroble"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5020378239",
+          "name": "Joseph William Newkirk"
+        },
+        {
+          "id": "https://openalex.org/A5073156141",
+          "name": "Frank Liou"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2736402079",
       "title": "Modeling of Absolute Distance Meter Shift Inside a Laser Tracker",
       "year": 2017,
@@ -4791,6 +5295,58 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3216783313",
+      "title": "Frequency Inspection of Additively Manufactured Parts for Layer Defect Identification",
+      "year": 2019,
+      "date": "2019-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5064584773",
+          "name": "Aimee Allen"
+        },
+        {
+          "id": "https://openalex.org/A5003094984",
+          "name": "Kevin Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5009020533",
+          "name": "Jason Blough"
+        },
+        {
+          "id": "https://openalex.org/A5102838005",
+          "name": "Andrew Barnard"
+        },
+        {
+          "id": "https://openalex.org/A5046428797",
+          "name": "Troy Hartwig"
+        },
+        {
+          "id": "https://openalex.org/A5090813460",
+          "name": "Ben Brown"
+        },
+        {
+          "id": "https://openalex.org/A5036264589",
+          "name": "David Soine"
+        },
+        {
+          "id": "https://openalex.org/A5025120080",
+          "name": "Tristan Cullom"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
         }
       ]
     },
@@ -4927,190 +5483,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2738269904",
-      "title": "Empirical Modeling and Vision Based Control for Laser Aided Metal Deposition Process",
-      "year": 2001,
-      "date": "2001-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030743096",
-          "name": "Mallikharjuna R. Boddu"
-        },
-        {
-          "id": "https://openalex.org/A5044335452",
-          "name": "Srinivas Musti"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5073156141",
-          "name": "Frank Liou"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2787617993",
-      "title": "Freeze-Form Extrusion Fabrication of Composite Structures",
-      "year": 2011,
-      "date": "2011-08-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005703976",
-          "name": "Ming-Chuan Leu"
-        },
-        {
-          "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5000161879",
-          "name": "Bradley K. Deuser"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5058971939",
-          "name": "Gregory E. Hilmas"
-        },
-        {
-          "id": "https://openalex.org/A5088252448",
-          "name": "Shi C. Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5024176322",
-          "name": "Jeremy Watts"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2973100837",
-      "title": "Freeze-Form Extrusion Fabrication of Functionally Graded Material Composites Using Zirconium Carbide and Tungsten",
-      "year": 2012,
-      "date": "2012-08-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100664198",
-          "name": "Ang Li"
-        },
-        {
-          "id": "https://openalex.org/A5048702157",
-          "name": "Aaron Scott Thornton"
-        },
-        {
-          "id": "https://openalex.org/A5000161879",
-          "name": "Bradley K. Deuser"
-        },
-        {
-          "id": "https://openalex.org/A5024176322",
-          "name": "Jeremy Watts"
-        },
-        {
-          "id": "https://openalex.org/A5005703976",
-          "name": "Ming-Chuan Leu"
-        },
-        {
-          "id": "https://openalex.org/A5058971939",
-          "name": "Gregory E. Hilmas"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3202737039",
-      "title": "Numerical Simulation of Ram Extrusion Process for Ceramic Materials",
-      "year": 2011,
-      "date": "2011-08-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100443438",
-          "name": "Mingyang Li"
-        },
-        {
-          "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5103184708",
-          "name": "Fei Xue"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W167108646",
-      "title": "Aqueous-Based Extrusion Fabrication of Ceramics on Demand",
-      "year": 2007,
-      "date": "2007-09-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5003446177",
-          "name": "Michael S. Mason"
-        },
-        {
-          "id": "https://openalex.org/A5032991805",
-          "name": "Tieshu Huang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5082067008",
-          "name": "Ming C. Leu"
-        },
-        {
-          "id": "https://openalex.org/A5058971939",
-          "name": "Gregory E. Hilmas"
-        },
-        {
-          "id": "https://openalex.org/A5103855100",
-          "name": "Michael W. Hayes"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2601994684",
-      "title": "Applications of a Hybrid Manufacturing Process for Fabrication and Repair of Metallic Structures",
-      "year": 2006,
-      "date": "2006-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073156141",
-          "name": "Frank Liou"
-        },
-        {
-          "id": "https://openalex.org/A5108226460",
-          "name": "Kevin Slattery"
-        },
-        {
-          "id": "https://openalex.org/A5113793761",
-          "name": "Mary Kinsella"
-        },
-        {
-          "id": "https://openalex.org/A5020378239",
-          "name": "Joseph William Newkirk"
-        },
-        {
-          "id": "https://openalex.org/A5089468845",
-          "name": "Hsin\u2010Nan Chou"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2741678039",
       "title": "System Integration and Real-Time Control Architecture of a Laser Aided Manufacturing Process",
       "year": 2002,
@@ -5139,50 +5511,6 @@
         {
           "id": "https://openalex.org/A5073156141",
           "name": "Frank Liou"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3184456784",
-      "title": "Development of Extrusion-on-Demand for Ceramic Freeze-Form Extrusion Fabrication",
-      "year": 2009,
-      "date": "2009-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066328710",
-          "name": "Thomas W. Oakes"
-        },
-        {
-          "id": "https://openalex.org/A5012121183",
-          "name": "Parimal Sanjay Kulkarni"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5005703976",
-          "name": "Ming-Chuan Leu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3201701434",
-      "title": "Interactions of an Additive Manufacturing Program with Society",
-      "year": 2012,
-      "date": "2012-08-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073156141",
-          "name": "Frank Liou"
-        },
-        {
-          "id": "https://openalex.org/A5082067008",
-          "name": "Ming C. Leu"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
         }
       ]
     },
@@ -5283,42 +5611,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2991242474",
-      "title": "Use of SWIR Imaging to Monitor Layer-to-Layer Part Quality During SLM of 304L Stainless Steel",
-      "year": 2018,
-      "date": "2018-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080562232",
-          "name": "Cody Lough"
-        },
-        {
-          "id": "https://openalex.org/A5100327945",
-          "name": "Xin Wang"
-        },
-        {
-          "id": "https://openalex.org/A5043190657",
-          "name": "Christopher Smith"
-        },
-        {
-          "id": "https://openalex.org/A5074915518",
-          "name": "Olaseni Adeniji"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2093669104",
       "title": "Automatic Feedback Control of Mechanical Gas Face Seals via Clearance Control",
       "year": 2004,
@@ -5355,70 +5647,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2991091825",
-      "title": "In-Situ Optical Emission Spectroscopy during SLM of 304L Stainless Steel",
-      "year": 2018,
-      "date": "2018-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080562232",
-          "name": "Cody Lough"
-        },
-        {
-          "id": "https://openalex.org/A5089759312",
-          "name": "Luis I. Escano"
-        },
-        {
-          "id": "https://openalex.org/A5014718096",
-          "name": "Minglei Qu"
-        },
-        {
-          "id": "https://openalex.org/A5043190657",
-          "name": "Christopher Smith"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5056165412",
-          "name": "Lianyi Chen"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2993507898",
-      "title": "Fiber-Fed Printing of Free-Form Free-Standing Glass Structures",
-      "year": 2018,
-      "date": "2018-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080900890",
-          "name": "John M. Hostetler"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2127838214",
       "title": "Supervisory Control of a Face Milling Operation in Different Manufacturing Environments",
       "year": 2001,
@@ -5431,138 +5659,6 @@
         {
           "id": "https://openalex.org/A5067097078",
           "name": "A. Galip Ulsoy"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2993148969",
-      "title": "In-situ Local Part Qualification of SLM 304L Stainless Steel through Voxel Based Processing of SWIR Imaging Data",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080562232",
-          "name": "Cody Lough"
-        },
-        {
-          "id": "https://openalex.org/A5054362722",
-          "name": "Xinyu Wang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2993303359",
-      "title": "Towards Defect Detection in Metal SLM Parts Using Modal Analysis \"Fingerprinting\"",
-      "year": 2017,
-      "date": "2017-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5002353670",
-          "name": "James S. Urban"
-        },
-        {
-          "id": "https://openalex.org/A5032083967",
-          "name": "Nick E. Capps"
-        },
-        {
-          "id": "https://openalex.org/A5083280226",
-          "name": "Brian West"
-        },
-        {
-          "id": "https://openalex.org/A5046428797",
-          "name": "Troy Hartwig"
-        },
-        {
-          "id": "https://openalex.org/A5090813460",
-          "name": "Ben Brown"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3185340099",
-      "title": "Modeling for the Control of the Laser Aided Manufacturing Process(LAMP)",
-      "year": 2003,
-      "date": "2003-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030743096",
-          "name": "Mallikharjuna R. Boddu"
-        },
-        {
-          "id": "https://openalex.org/A5054846076",
-          "name": "Vishnu Thayalan"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3216541985",
-      "title": "Frequency Response Inspection of Additively Manufactured Parts for Defect Identification",
-      "year": 2018,
-      "date": "2018-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5003094984",
-          "name": "Kevin Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5009020533",
-          "name": "Jason Blough"
-        },
-        {
-          "id": "https://openalex.org/A5102838005",
-          "name": "Andrew Barnard"
-        },
-        {
-          "id": "https://openalex.org/A5046428797",
-          "name": "Troy Hartwig"
-        },
-        {
-          "id": "https://openalex.org/A5109776919",
-          "name": "Ben Brown"
-        },
-        {
-          "id": "https://openalex.org/A5036264589",
-          "name": "David Soine"
-        },
-        {
-          "id": "https://openalex.org/A5057666767",
-          "name": "Tristan Collum"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
         }
       ]
     },
@@ -5655,50 +5751,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2601375665",
-      "title": "Comparison of Thermal Properties of Laser Deposition and Traditional Welding Process via Thermal Diffusivity Measurement",
-      "year": 2006,
-      "date": "2006-09-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101558510",
-          "name": "Yang Yu"
-        },
-        {
-          "id": "https://openalex.org/A5082492463",
-          "name": "Omoghene Osaze Obahor"
-        },
-        {
-          "id": "https://openalex.org/A5002207554",
-          "name": "Yaxin Bao"
-        },
-        {
-          "id": "https://openalex.org/A5016365923",
-          "name": "Todd E. Sparks"
-        },
-        {
-          "id": "https://openalex.org/A5008888444",
-          "name": "Jianzhong Ruan"
-        },
-        {
-          "id": "https://openalex.org/A5023294756",
-          "name": "Jacquelyn K. Stroble"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5020378239",
-          "name": "Joseph William Newkirk"
-        },
-        {
-          "id": "https://openalex.org/A5073156141",
-          "name": "Frank Liou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3013478474",
       "title": "Direct 3D Layer Metal Deposition",
       "year": 2008,
@@ -5755,58 +5807,6 @@
         {
           "id": "https://openalex.org/A5005703976",
           "name": "Ming-Chuan Leu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3216783313",
-      "title": "Frequency Inspection of Additively Manufactured Parts for Layer Defect Identification",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5064584773",
-          "name": "Aimee Allen"
-        },
-        {
-          "id": "https://openalex.org/A5003094984",
-          "name": "Kevin Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5009020533",
-          "name": "Jason Blough"
-        },
-        {
-          "id": "https://openalex.org/A5102838005",
-          "name": "Andrew Barnard"
-        },
-        {
-          "id": "https://openalex.org/A5046428797",
-          "name": "Troy Hartwig"
-        },
-        {
-          "id": "https://openalex.org/A5090813460",
-          "name": "Ben Brown"
-        },
-        {
-          "id": "https://openalex.org/A5036264589",
-          "name": "David Soine"
-        },
-        {
-          "id": "https://openalex.org/A5025120080",
-          "name": "Tristan Cullom"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
         }
       ]
     },
@@ -7224,7 +7224,7 @@
     },
     {
       "id": "https://openalex.org/W4401436465",
-      "title": "Laser Induced Breakdown Spectroscopy for Chemistry and Composition Monitoring of Laser Powder Bed FusionProcessing",
+      "title": "Laser Induced Breakdown Spectroscopy for Chemistry and Composition Monitoring of Laser Powder Bed Fusion Processing",
       "year": 2024,
       "date": "2024-08-01",
       "coauthors": [
@@ -7819,46 +7819,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7149210214",
-      "title": "Temperature Control of Digital Glass Forming Processes",
-      "year": 2026,
-      "date": "2026-03-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5113354969",
-          "name": "Balark Tiwari"
-        },
-        {
-          "id": "https://openalex.org/A5040883873",
-          "name": "Nishan Khadka"
-        },
-        {
-          "id": "https://openalex.org/A5134442203",
-          "name": "Nicholas Capps"
-        },
-        {
-          "id": "https://openalex.org/A5036544906",
-          "name": "Andre Bos"
-        },
-        {
-          "id": "https://openalex.org/A5108757944",
-          "name": "Douglas Meredith"
-        },
-        {
-          "id": "https://openalex.org/A5132769402",
-          "name": "John Bernardin"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W7155372763",
       "title": "Temperature Control of Digital Glass Forming Processes",
       "year": 2026,
@@ -8031,6 +7991,62 @@
         {
           "id": "https://openalex.org/A5002415526",
           "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7203572540",
+      "title": "Feedforward-Feedback Control Methodology for Low-Volume Precision Plate Bending - Code and Experimental Data",
+      "year": 2026,
+      "date": "2026-08-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5111275442",
+          "name": "Partho Kundu"
+        },
+        {
+          "id": "https://openalex.org/A5122087857",
+          "name": "Nafis Iqbal"
+        },
+        {
+          "id": "https://openalex.org/A5147270715",
+          "name": "Zongze Li"
+        },
+        {
+          "id": "https://openalex.org/A5147280963",
+          "name": "Balark Tiwari"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7203582866",
+      "title": "Feedforward-Feedback Control Methodology for Low-Volume Precision Plate Bending - Code and Experimental Data",
+      "year": 2026,
+      "date": "2026-08-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5111275442",
+          "name": "Partho Kundu"
+        },
+        {
+          "id": "https://openalex.org/A5122087857",
+          "name": "Nafis Iqbal"
+        },
+        {
+          "id": "https://openalex.org/A5147270715",
+          "name": "Zongze Li"
+        },
+        {
+          "id": "https://openalex.org/A5147280963",
+          "name": "Balark Tiwari"
         },
         {
           "id": "https://openalex.org/A5020875577",

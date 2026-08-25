@@ -6,7 +6,7 @@
   "openalex_name": "Margaret M. Coad",
   "affiliation": null,
   "works_count": 37,
-  "cited_by_count": 369,
+  "cited_by_count": 370,
   "photo": "assets/faculty/margaret-coad.jpg",
   "num_works_fetched": 39,
   "works": [
@@ -358,7 +358,7 @@
       "id": "https://openalex.org/W4411019324",
       "title": "Soft Everting Prosthetic Hand and Comparison with Existing Body-Powered Terminal Devices",
       "year": 2025,
-      "date": "2025-04-22",
+      "date": "2025-04-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5117826518",

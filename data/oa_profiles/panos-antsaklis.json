@@ -6,7 +6,7 @@
   "openalex_name": "Panos J. Antsaklis",
   "affiliation": "University of Notre Dame",
   "works_count": 619,
-  "cited_by_count": 25922,
+  "cited_by_count": 25941,
   "photo": "assets/faculty/panos-antsaklis.jpg",
   "num_works_fetched": 628,
   "works": [
@@ -1135,6 +1135,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2007576974",
+      "title": "Goals and Challenges in Cyber-Physical Systems Research Editorial of the Editor in Chief",
+      "year": 2014,
+      "date": "2014-11-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2000975219",
       "title": "Optimal control of switched systems via non-linear optimization based on direct differentiations of value functions",
       "year": 2002,
@@ -1144,18 +1156,6 @@
           "id": "https://openalex.org/A5072462741",
           "name": "Xuping Xu"
         },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2007576974",
-      "title": "Goals and Challenges in Cyber-Physical Systems Research Editorial of the Editor in Chief",
-      "year": 2014,
-      "date": "2014-11-26",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -1267,6 +1267,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2527328725",
+      "title": "Model-Based Predictive Control for building energy management. I: Energy modeling and optimal control",
+      "year": 2016,
+      "date": "2016-09-29",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078083915",
+          "name": "Saran Salakij"
+        },
+        {
+          "id": "https://openalex.org/A5101968614",
+          "name": "Na Yu"
+        },
+        {
+          "id": "https://openalex.org/A5032182943",
+          "name": "Samuel Paolucci"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1982824121",
       "title": "Control of cyberphysical systems using passivity and dissipativity based methods",
       "year": 2013,
@@ -1307,30 +1331,6 @@
         {
           "id": "https://openalex.org/A5031222391",
           "name": "Feng Zhu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2527328725",
-      "title": "Model-Based Predictive Control for building energy management. I: Energy modeling and optimal control",
-      "year": 2016,
-      "date": "2016-09-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078083915",
-          "name": "Saran Salakij"
-        },
-        {
-          "id": "https://openalex.org/A5101968614",
-          "name": "Na Yu"
-        },
-        {
-          "id": "https://openalex.org/A5032182943",
-          "name": "Samuel Paolucci"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -1479,22 +1479,6 @@
         {
           "id": "https://openalex.org/A5013370088",
           "name": "Thomas Parisini"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4245876913",
-      "title": "A Linear Systems Primer",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
         }
       ]
     },
@@ -2059,6 +2043,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2066475588",
+      "title": "Relationships between positive real, passive dissipative, & positive systems",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5006671851",
+          "name": "Nicholas Kottenstette"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2126153047",
       "title": "Event-triggered real-time scheduling for stabilization of passive and output feedback passive systems",
       "year": 2011,
@@ -2075,24 +2075,8 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2066475588",
-      "title": "Relationships between positive real, passive dissipative, &amp;amp; positive systems",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5006671851",
-          "name": "Nicholas Kottenstette"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1983502475",
-      "title": "Hybrid state feedback stabilization with<b><i>l</i></b><sub>2</sub>performance for discrete-time switched linear systems",
+      "title": "Hybrid state feedback stabilization with l 2 performance for discrete-time switched linear systems",
       "year": 2008,
       "date": "2008-06-21",
       "coauthors": [
@@ -2255,6 +2239,30 @@
         {
           "id": "https://openalex.org/A5013237840",
           "name": "J\u00e1nos Sztipanovits"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2921226743",
+      "title": "Distributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies",
+      "year": 2020,
+      "date": "2020-04-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
+        },
+        {
+          "id": "https://openalex.org/A5040417385",
+          "name": "S. Sivaranjani"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2683,30 +2691,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2921226743",
-      "title": "Distributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies",
-      "year": 2020,
-      "date": "2020-04-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5040417385",
-          "name": "S. Sivaranjani"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2153615099",
       "title": "Optimal control of hybrid autonomous systems with state jumps",
       "year": 2004,
@@ -2783,18 +2767,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3028022204",
-      "title": "Autonomy and metrics of autonomy",
-      "year": 2020,
-      "date": "2020-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2967763175",
       "title": "Passivity-Based Iterative Learning Control for Cycling Induced by Functional Electrical Stimulation With Electric Motor Assistance",
       "year": 2018,
@@ -2819,6 +2791,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3028022204",
+      "title": "Autonomy and metrics of autonomy",
+      "year": 2020,
+      "date": "2020-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2115369064",
       "title": "Petri Net Supervisors for Disjunctive Constraints",
       "year": 2007,
@@ -2831,6 +2815,22 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4245876913",
+      "title": "A Linear Systems Primer",
+      "year": 2007,
+      "date": "2007-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "A.N. Michel"
         }
       ]
     },
@@ -2987,26 +2987,6 @@
         {
           "id": "https://openalex.org/A5024301984",
           "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2344524878",
-      "title": "Large-Scale Dissipative and Passive Control Systems and the Role of Star and Cyclic Symmetries",
-      "year": 2016,
-      "date": "2016-02-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046877303",
-          "name": "Vahideh Ghanbari"
-        },
-        {
-          "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3320,7 +3300,7 @@
     },
     {
       "id": "https://openalex.org/W4413316401",
-      "title": "Added value of ophthalmic artery <scp>Doppler</scp> in prediction of pre\u2010eclampsia: systematic review and meta\u2010analysis",
+      "title": "Added value of ophthalmic artery Doppler in prediction of pre\u2010eclampsia: systematic review and meta\u2010analysis",
       "year": 2025,
       "date": "2025-08-19",
       "coauthors": [
@@ -3639,6 +3619,26 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2344524878",
+      "title": "Large-Scale Dissipative and Passive Control Systems and the Role of Star and Cyclic Symmetries",
+      "year": 2016,
+      "date": "2016-02-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046877303",
+          "name": "Vahideh Ghanbari"
+        },
+        {
+          "id": "https://openalex.org/A5102158189",
+          "name": "Po Wu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4044,7 +4044,7 @@
     },
     {
       "id": "https://openalex.org/W4212835756",
-      "title": "Prenatal diagnosis of aberrant right subclavian artery: a literature review\u00a0",
+      "title": "Prenatal diagnosis of aberrant right subclavian artery: a literature review",
       "year": 2022,
       "date": "2022-02-13",
       "coauthors": [
@@ -4459,6 +4459,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2091583467",
+      "title": "Some relations satisfied by prime polynomial matrices and their role in linear multivariable system theory",
+      "year": 1979,
+      "date": "1979-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2010668289",
       "title": "Fault detection and identification in an intelligent restructurable controller",
       "year": 1988,
@@ -4643,26 +4655,6 @@
         {
           "id": "https://openalex.org/A5046850315",
           "name": "A.N. Michel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2109829084",
-      "title": "An introduction to autonomous control systems",
-      "year": 2002,
-      "date": "2002-12-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5043940203",
-          "name": "Kevin M. Passino"
-        },
-        {
-          "id": "https://openalex.org/A5008831799",
-          "name": "S.J. Wang"
         }
       ]
     },
@@ -5683,6 +5675,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2109829084",
+      "title": "An introduction to autonomous control systems",
+      "year": 2002,
+      "date": "2002-12-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5043940203",
+          "name": "Kevin M. Passino"
+        },
+        {
+          "id": "https://openalex.org/A5008831799",
+          "name": "S.J. Wang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W8635843",
       "title": "Petri net supervisors for discrete event systems",
       "year": 1998,
@@ -6284,7 +6296,7 @@
     },
     {
       "id": "https://openalex.org/W2116028483",
-      "title": "Passivity and L&lt;inf&gt;2&lt;/inf&gt; stability of networked dissipative systems",
+      "title": "Passivity and L2 stability of networked dissipative systems",
       "year": 2010,
       "date": "2010-06-01",
       "coauthors": [
@@ -6652,7 +6664,7 @@
     },
     {
       "id": "https://openalex.org/W2052345418",
-      "title": "On the reliable decentralised stabilisation of<i>n</i>MIMO systems",
+      "title": "On the reliable decentralised stabilisation ofnMIMO systems",
       "year": 2014,
       "date": "2014-01-10",
       "coauthors": [
@@ -7584,7 +7596,7 @@
     },
     {
       "id": "https://openalex.org/W2026516335",
-      "title": "Hybrid H&lt;sub&gt;&amp;#x0221E;&lt;/sub&gt; state feedback control for discrete-time switched linear systems",
+      "title": "Hybrid H\u221e state feedback control for discrete-time switched linear systems",
       "year": 2007,
       "date": "2007-10-01",
       "coauthors": [
@@ -8392,18 +8404,6 @@
           "id": "https://openalex.org/A5015383229",
           "name": "Hasan Zakeri"
         },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2091583467",
-      "title": "Some relations satisfied by prime polynomial matrices and their role in linear multivariable system theory",
-      "year": 1979,
-      "date": "1979-08-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -10300,7 +10300,7 @@
     },
     {
       "id": "https://openalex.org/W1519319465",
-      "title": "<scp>P</scp>02.07: Adverse perinatal outcome in fetuses with normal nuchal translucency",
+      "title": "P 02.07: Adverse perinatal outcome in fetuses with normal nuchal translucency",
       "year": 2014,
       "date": "2014-09-01",
       "coauthors": [

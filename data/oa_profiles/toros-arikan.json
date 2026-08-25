@@ -75,18 +75,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3119897449",
-      "title": "Receiver Designs for Low-Latency HF Communications",
-      "year": 2020,
-      "date": "2020-12-31",
+      "id": "https://openalex.org/W4318220080",
+      "title": "An architecture for passive joint localization and structure learning in reverberant environments",
+      "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
           "name": "Toros Arikan"
         },
         {
+          "id": "https://openalex.org/A5081331925",
+          "name": "Amir Weiss"
+        },
+        {
+          "id": "https://openalex.org/A5026947423",
+          "name": "Hari Vishnu"
+        },
+        {
+          "id": "https://openalex.org/A5023569373",
+          "name": "Grant B. Deane"
+        },
+        {
           "id": "https://openalex.org/A5028083945",
           "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5066172831",
+          "name": "Gregory W. Wornell"
         }
       ]
     },
@@ -115,6 +131,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3119897449",
+      "title": "Receiver Designs for Low-Latency HF Communications",
+      "year": 2020,
+      "date": "2020-12-31",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4312451640",
       "title": "Direct Localization in Underwater Acoustics Via Convolutional Neural Networks: A Data-Driven Approach",
       "year": 2022,
@@ -127,38 +159,6 @@
         {
           "id": "https://openalex.org/A5066250773",
           "name": "Toros Arikan"
-        },
-        {
-          "id": "https://openalex.org/A5066172831",
-          "name": "Gregory W. Wornell"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4318220080",
-      "title": "An architecture for passive joint localization and structure learning in reverberant environments",
-      "year": 2023,
-      "date": "2023-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066250773",
-          "name": "Toros Arikan"
-        },
-        {
-          "id": "https://openalex.org/A5081331925",
-          "name": "Amir Weiss"
-        },
-        {
-          "id": "https://openalex.org/A5026947423",
-          "name": "Hari Vishnu"
-        },
-        {
-          "id": "https://openalex.org/A5023569373",
-          "name": "Grant B. Deane"
-        },
-        {
-          "id": "https://openalex.org/A5028083945",
-          "name": "Andrew C. Singer"
         },
         {
           "id": "https://openalex.org/A5066172831",

@@ -6,7 +6,7 @@
   "openalex_name": "Zhi Zheng",
   "affiliation": "Central South University",
   "works_count": 53,
-  "cited_by_count": 1310,
+  "cited_by_count": 1312,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 53,
   "works": [
@@ -1560,7 +1560,7 @@
     },
     {
       "id": "https://openalex.org/W4285273580",
-      "title": "Theory of\u00a0Mind Assessment with\u00a0Human-Human and\u00a0Human-Robot Interactions",
+      "title": "Theory of Mind Assessment with Human-Human and Human-Robot Interactions",
       "year": 2022,
       "date": "2022-01-01",
       "coauthors": [

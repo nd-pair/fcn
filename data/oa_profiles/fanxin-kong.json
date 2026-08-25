@@ -4,9 +4,9 @@
   "query_name": "Fanxin Kong",
   "openalex_id": "https://openalex.org/A5007560139",
   "openalex_name": "Fanxin Kong",
-  "affiliation": null,
+  "affiliation": "University of Notre Dame",
   "works_count": 99,
-  "cited_by_count": 2921,
+  "cited_by_count": 2927,
   "photo": "assets/faculty/fanxin-kong.jpg",
   "num_works_fetched": 99,
   "works": [
@@ -275,6 +275,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2152696988",
+      "title": "Energy-efficient scheduling of real-time tasks on cluster-based multicores",
+      "year": 2011,
+      "date": "2011-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100364988",
+          "name": "Yi Wang"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2040597306",
       "title": "Quantity Versus Quality: Optimal Harvesting Wind Power for the Smart Grid",
       "year": 2014,
@@ -295,26 +315,6 @@
         {
           "id": "https://openalex.org/A5025405598",
           "name": "Haibo Zeng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2152696988",
-      "title": "Energy-efficient scheduling of real-time tasks on cluster-based multicores",
-      "year": 2011,
-      "date": "2011-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100364988",
-          "name": "Yi Wang"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1455,30 +1455,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2615645683",
-      "title": "Maximizing the lifetime of wireless sensor networks in trains for monitoring long-distance goods transportation",
-      "year": 2017,
-      "date": "2017-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102121154",
-          "name": "Huiting Xu"
-        },
-        {
-          "id": "https://openalex.org/A5100607357",
-          "name": "Xi Jin"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4404101567",
       "title": "Backdoor Attacks on Safe Reinforcement Learning-Enabled Cyber\u2013Physical Systems",
       "year": 2024,
@@ -1623,6 +1599,30 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2615645683",
+      "title": "Maximizing the lifetime of wireless sensor networks in trains for monitoring long-distance goods transportation",
+      "year": 2017,
+      "date": "2017-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102121154",
+          "name": "Huiting Xu"
+        },
+        {
+          "id": "https://openalex.org/A5100607357",
+          "name": "Xi Jin"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
         }
       ]
     },
@@ -2268,7 +2268,7 @@
     },
     {
       "id": "https://openalex.org/W4322505670",
-      "title": "High-sensitivity refractive index sensor based on 3\u00a0\u00d7\u00a03 microfiber coupler structure",
+      "title": "High-sensitivity refractive index sensor based on 3 \u00d7 3 microfiber coupler structure",
       "year": 2023,
       "date": "2023-02-27",
       "coauthors": [

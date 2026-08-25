@@ -6,7 +6,7 @@
   "openalex_name": "Yasemin Ozkan-Aydin",
   "affiliation": "University of Notre Dame",
   "works_count": 83,
-  "cited_by_count": 1203,
+  "cited_by_count": 1205,
   "photo": "assets/faculty/yasemin-ozkan-aydin.jpeg",
   "num_works_fetched": 82,
   "works": [
@@ -171,22 +171,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4392405426",
-      "title": "Utilizing Bioinspired Soft Modular Appendages for Grasping and Locomotion in Multi-Legged Robots on Ground and Underwater",
-      "year": 2024,
-      "date": "2024-03-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5018352007",
-          "name": "Abu Nayem Md. Asraf Siddiquee"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4407556905",
       "title": "Grand challenges for burrowing soft robots",
       "year": 2025,
@@ -215,22 +199,6 @@
         {
           "id": "https://openalex.org/A5010640110",
           "name": "Rebecca Kramer\u2010Bottiglio"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412708550",
-      "title": "A bio-inspired adjustable posture quadruped robot with laterally undulating spine for terradynamically challenging environments",
-      "year": 2025,
-      "date": "2025-07-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063375023",
-          "name": "Saurav Kumar Dutta"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -587,6 +555,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4394564142",
+      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+      "year": 2024,
+      "date": "2024-04-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2946908456",
       "title": "Nutation Aids Heterogeneous Substrate Exploration in a Robophysical Root",
       "year": 2019,
@@ -623,22 +611,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4394564142",
-      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+      "id": "https://openalex.org/W4392405426",
+      "title": "Utilizing Bioinspired Soft Modular Appendages for Grasping and Locomotion in Multi-Legged Robots on Ground and Underwater",
       "year": 2024,
-      "date": "2024-04-08",
+      "date": "2024-03-04",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5091946633",
-          "name": "Katalin Sch\u00e4ffer"
+          "id": "https://openalex.org/A5018352007",
+          "name": "Abu Nayem Md. Asraf Siddiquee"
         },
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
         }
       ]
     },
@@ -703,6 +687,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4412708550",
+      "title": "A bio-inspired adjustable posture quadruped robot with laterally undulating spine for terradynamically challenging environments",
+      "year": 2025,
+      "date": "2025-07-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063375023",
+          "name": "Saurav Kumar Dutta"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4401416886",
       "title": "Machine Learning-Driven Burrowing with a Snake-Like Robot",
       "year": 2024,
@@ -719,30 +719,6 @@
         {
           "id": "https://openalex.org/A5026611490",
           "name": "Hoeseok Yang"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416117953",
-      "title": "Flagellar swimming at low Reynolds numbers: zoospore-inspired robotic swimmers with dual flagella for high-speed locomotion",
-      "year": 2025,
-      "date": "2025-11-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012726821",
-          "name": "Nnamdi Chikere"
-        },
-        {
-          "id": "https://openalex.org/A5115087094",
-          "name": "Sofia Lozano Voticky"
-        },
-        {
-          "id": "https://openalex.org/A5090066042",
-          "name": "Quang D. Tran"
         },
         {
           "id": "https://openalex.org/A5031304323",
@@ -927,6 +903,30 @@
         {
           "id": "https://openalex.org/A5012726821",
           "name": "Nnamdi Chikere"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416117953",
+      "title": "Flagellar swimming at low Reynolds numbers: zoospore-inspired robotic swimmers with dual flagella for high-speed locomotion",
+      "year": 2025,
+      "date": "2025-11-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012726821",
+          "name": "Nnamdi Chikere"
+        },
+        {
+          "id": "https://openalex.org/A5115087094",
+          "name": "Sofia Lozano Voticky"
+        },
+        {
+          "id": "https://openalex.org/A5090066042",
+          "name": "Quang D. Tran"
         },
         {
           "id": "https://openalex.org/A5031304323",

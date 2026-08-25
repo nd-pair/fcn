@@ -5,31 +5,11 @@
   "openalex_id": "https://openalex.org/A5076214359",
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
-  "works_count": 35,
-  "cited_by_count": 305,
+  "works_count": 36,
+  "cited_by_count": 306,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
-  "num_works_fetched": 35,
+  "num_works_fetched": 36,
   "works": [
-    {
-      "id": "https://openalex.org/W3194165539",
-      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026757426",
-          "name": "Shihao Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
     {
       "id": "https://openalex.org/W2963106632",
       "title": "Minimizing Energy Consumption and Peak Power of Series Elastic Actuators: A Convex Optimization Framework for Elastic Element Design",
@@ -43,6 +23,26 @@
         {
           "id": "https://openalex.org/A5065372242",
           "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3194165539",
+      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026757426",
+          "name": "Shihao Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -847,6 +847,42 @@
         {
           "id": "https://openalex.org/A5091376006",
           "name": "Larry L. Howell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7203469132",
+      "title": "Embroidered textile sensors for real-time multiaxial force mapping in prosthetics",
+      "year": 2026,
+      "date": "2026-08-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090875881",
+          "name": "Tianhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5128867853",
+          "name": "Axel Gonz\u00e1lez Cornejo"
+        },
+        {
+          "id": "https://openalex.org/A5070883033",
+          "name": "Hyeonseo Joo"
+        },
+        {
+          "id": "https://openalex.org/A5147140876",
+          "name": "Ziheng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5101757403",
+          "name": "Yumin Dai"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5088885773",
+          "name": "Chi Hwan Lee"
         }
       ]
     }

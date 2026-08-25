@@ -6,7 +6,7 @@
   "openalex_name": "Jane Cleland\u2010Huang",
   "affiliation": "University of Notre Dame",
   "works_count": 306,
-  "cited_by_count": 7434,
+  "cited_by_count": 7454,
   "photo": "assets/faculty/jane-cleland-huang.jpeg",
   "num_works_fetched": 310,
   "works": [
@@ -331,30 +331,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2167417301",
-      "title": "Towards automated requirements prioritization and triage",
-      "year": 2009,
-      "date": "2009-03-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5075831614",
-          "name": "Chuan Duan"
-        },
-        {
-          "id": "https://openalex.org/A5006106575",
-          "name": "Paula Laurent"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5015535084",
-          "name": "Charles Kwiatkowski"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1993344876",
       "title": "Supporting Domain Analysis through Mining and Recommending Features from Online Product Listings",
       "year": 2013,
@@ -379,6 +355,30 @@
         {
           "id": "https://openalex.org/A5082580430",
           "name": "Bamshad Mobasher"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2167417301",
+      "title": "Towards automated requirements prioritization and triage",
+      "year": 2009,
+      "date": "2009-03-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5075831614",
+          "name": "Chuan Duan"
+        },
+        {
+          "id": "https://openalex.org/A5006106575",
+          "name": "Paula Laurent"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5015535084",
+          "name": "Charles Kwiatkowski"
         }
       ]
     },
@@ -1407,6 +1407,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2145813135",
+      "title": "Meet Elaine: A Persona-Driven Approach to Exploring Architecturally Significant Requirements",
+      "year": 2013,
+      "date": "2013-06-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2923071719",
       "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces",
       "year": 2019,
@@ -1467,18 +1479,6 @@
         {
           "id": "https://openalex.org/A5110848758",
           "name": "Mike Prieto"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2145813135",
-      "title": "Meet Elaine: A Persona-Driven Approach to Exploring Architecturally Significant Requirements",
-      "year": 2013,
-      "date": "2013-06-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -2739,6 +2739,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3034088340",
+      "title": "Visualizing Change in Agile Safety-Critical Systems",
+      "year": 2020,
+      "date": "2020-06-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5001710775",
+          "name": "Christoph Mayr\u2010Dorn"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3138108548",
       "title": "Supporting Quality Assurance with Automated Process-Centric Quality Constraints Checking",
       "year": 2021,
@@ -2795,6 +2815,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1989534721",
+      "title": "How Well Do You Know Your Personae Non Gratae?",
+      "year": 2014,
+      "date": "2014-06-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2087385696",
       "title": "A recommender system for dynamically evolving online forums",
       "year": 2009,
@@ -2831,26 +2863,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3034088340",
-      "title": "Visualizing Change in Agile Safety-Critical Systems",
-      "year": 2020,
-      "date": "2020-06-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5001710775",
-          "name": "Christoph Mayr\u2010Dorn"
         }
       ]
     },
@@ -2936,6 +2948,38 @@
       "year": 2006,
       "date": "2006-09-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2756989338",
+      "title": "Crowd Sourcing the Creation of Personae Non Gratae for Requirements-Phase Threat Modeling",
+      "year": 2017,
+      "date": "2017-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010008033",
+          "name": "Nancy R. Mead"
+        },
+        {
+          "id": "https://openalex.org/A5027573308",
+          "name": "Forrest Shull"
+        },
+        {
+          "id": "https://openalex.org/A5053311163",
+          "name": "Janine L. Spears"
+        },
+        {
+          "id": "https://openalex.org/A5032343245",
+          "name": "Stefan Heibl"
+        },
+        {
+          "id": "https://openalex.org/A5110701470",
+          "name": "Sam Weber"
+        },
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
@@ -3423,6 +3467,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2117648525",
+      "title": "Function-class decomposition: a hybrid software engineering method",
+      "year": 2001,
+      "date": "2001-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5039676788",
+          "name": "Carl K. Chang"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5058715428",
+          "name": "Shiyan Hua"
+        },
+        {
+          "id": "https://openalex.org/A5044469332",
+          "name": "Annie Kuntzmann-Combelles"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4235556981",
       "title": "A heterogeneous solution for improving the return on investment of requirements traceability",
       "year": 2004,
@@ -3511,18 +3579,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1989534721",
-      "title": "How Well Do You Know Your Personae Non Gratae?",
-      "year": 2014,
-      "date": "2014-06-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2013700847",
       "title": "Decision-Centric Traceability of architectural concerns",
       "year": 2013,
@@ -3603,38 +3659,6 @@
         {
           "id": "https://openalex.org/A5063243817",
           "name": "Patrick M\u00e4der"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2756989338",
-      "title": "Crowd Sourcing the Creation of Personae Non Gratae for Requirements-Phase Threat Modeling",
-      "year": 2017,
-      "date": "2017-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010008033",
-          "name": "Nancy R. Mead"
-        },
-        {
-          "id": "https://openalex.org/A5027573308",
-          "name": "Forrest Shull"
-        },
-        {
-          "id": "https://openalex.org/A5053311163",
-          "name": "Janine L. Spears"
-        },
-        {
-          "id": "https://openalex.org/A5032343245",
-          "name": "Stefan Heibl"
-        },
-        {
-          "id": "https://openalex.org/A5110701470",
-          "name": "Sam Weber"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -4299,6 +4323,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4415004251",
+      "title": "QUESTRL: A Q&A Framework for Designing Trustworthy Reinforcement Learning Systems",
+      "year": 2025,
+      "date": "2025-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066938164",
+          "name": "Katherine R. Dearstyne"
+        },
+        {
+          "id": "https://openalex.org/A5118212474",
+          "name": "Pedro Tony Alarcon Granadeno"
+        },
+        {
+          "id": "https://openalex.org/A5008225984",
+          "name": "Theodore Chambers"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2144975464",
       "title": "Visualization and Analysis in Automated Trace Retrieval",
       "year": 2006,
@@ -4311,30 +4359,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2117648525",
-      "title": "Function-class decomposition: a hybrid software engineering method",
-      "year": 2001,
-      "date": "2001-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5039676788",
-          "name": "Carl K. Chang"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5058715428",
-          "name": "Shiyan Hua"
-        },
-        {
-          "id": "https://openalex.org/A5044469332",
-          "name": "Annie Kuntzmann-Combelles"
         }
       ]
     },
@@ -6556,7 +6580,7 @@
     },
     {
       "id": "https://openalex.org/W4226088611",
-      "title": "Amon:\u00a0A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems",
+      "title": "Amon: A Domain-Specific Language and Framework for Adaptive Monitoring of Cyber-Physical Systems",
       "year": 2022,
       "date": "2022-01-01",
       "coauthors": [
@@ -7235,30 +7259,6 @@
         {
           "id": "https://openalex.org/A5020147981",
           "name": "Myra B. Cohen"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4415004251",
-      "title": "QUESTRL: A Q&amp;A Framework for Designing Trustworthy Reinforcement Learning Systems",
-      "year": 2025,
-      "date": "2025-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066938164",
-          "name": "Katherine R. Dearstyne"
-        },
-        {
-          "id": "https://openalex.org/A5118212474",
-          "name": "Pedro Tony Alarcon Granadeno"
-        },
-        {
-          "id": "https://openalex.org/A5008225984",
-          "name": "Theodore Chambers"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },

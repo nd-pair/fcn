@@ -6,7 +6,7 @@
   "openalex_name": "Bill Goodwine",
   "affiliation": "University of Notre Dame",
   "works_count": 135,
-  "cited_by_count": 1726,
+  "cited_by_count": 1732,
   "photo": "assets/faculty/j-william-goodwine.jpg",
   "num_works_fetched": 136,
   "works": [
@@ -1996,7 +1996,7 @@
     },
     {
       "id": "https://openalex.org/W2035783114",
-      "title": "&lt;title&gt;Nonholonomic camera-space manipulation using cameras mounted on a mobile base&lt;/title&gt;",
+      "title": "Nonholonomic camera-space manipulation using cameras mounted on a mobile base",
       "year": 1998,
       "date": "1998-10-09",
       "coauthors": [

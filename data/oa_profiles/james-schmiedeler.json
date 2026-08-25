@@ -6,13 +6,13 @@
   "openalex_name": "James P. Schmiedeler",
   "affiliation": "University of Notre Dame",
   "works_count": 147,
-  "cited_by_count": 2056,
+  "cited_by_count": 2060,
   "photo": "assets/faculty/james-schmiedeler.jpg",
   "num_works_fetched": 147,
   "works": [
     {
       "id": "https://openalex.org/W1974902982",
-      "title": "Design and control of a planar bipedal robot ERNIE with\u00a0parallel\u00a0knee compliance",
+      "title": "Design and control of a planar bipedal robot ERNIE with parallel knee compliance",
       "year": 2008,
       "date": "2008-07-09",
       "coauthors": [
@@ -152,7 +152,7 @@
     },
     {
       "id": "https://openalex.org/W2157144668",
-      "title": "A framework for the control of stable aperiodic walking in\u00a0underactuated planar bipeds",
+      "title": "A framework for the control of stable aperiodic walking in underactuated planar bipeds",
       "year": 2009,
       "date": "2009-07-28",
       "coauthors": [
@@ -375,22 +375,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2517750521",
-      "title": "Reaction Wheel Actuation for Improving Planar Biped Walking Efficiency",
-      "year": 2016,
-      "date": "2016-08-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5067699324",
-          "name": "Travis Brown"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4381327754",
       "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
       "year": 2023,
@@ -591,6 +575,22 @@
         {
           "id": "https://openalex.org/A5028963289",
           "name": "Kenneth J. Waldron"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2517750521",
+      "title": "Reaction Wheel Actuation for Improving Planar Biped Walking Efficiency",
+      "year": 2016,
+      "date": "2016-08-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067699324",
+          "name": "Travis Brown"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         }
       ]
     },
@@ -851,6 +851,30 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2053850353",
+      "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
+      "year": 2013,
+      "date": "2013-12-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5005674485",
+          "name": "Barrett C. Clark"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
         }
       ]
     },
@@ -1131,30 +1155,6 @@
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2053850353",
-      "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
-      "year": 2013,
-      "date": "2013-12-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5005674485",
-          "name": "Barrett C. Clark"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        },
-        {
-          "id": "https://openalex.org/A5020209574",
-          "name": "Gordon R. Pennock"
         }
       ]
     },
