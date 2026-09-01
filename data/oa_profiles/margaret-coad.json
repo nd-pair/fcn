@@ -6,7 +6,7 @@
   "openalex_name": "Margaret M. Coad",
   "affiliation": null,
   "works_count": 37,
-  "cited_by_count": 370,
+  "cited_by_count": 371,
   "photo": "assets/faculty/margaret-coad.jpg",
   "num_works_fetched": 39,
   "works": [
@@ -35,6 +35,30 @@
         {
           "id": "https://openalex.org/A5088329417",
           "name": "Elliot W. Hawkes"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404953693",
+      "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
+      "year": 2024,
+      "date": "2024-11-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5113308646",
+          "name": "Riya Kumari"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5065894510",
+          "name": "Nathaniel Hanson"
         }
       ]
     },
@@ -75,30 +99,6 @@
         {
           "id": "https://openalex.org/A5019438521",
           "name": "Jee-Hwan Ryu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404953693",
-      "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
-      "year": 2024,
-      "date": "2024-11-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085630453",
-          "name": "Ciera McFarland"
-        },
-        {
-          "id": "https://openalex.org/A5113308646",
-          "name": "Riya Kumari"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5065894510",
-          "name": "Nathaniel Hanson"
         }
       ]
     },

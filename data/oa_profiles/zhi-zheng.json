@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5065741205",
   "openalex_name": "Zhi Zheng",
   "affiliation": "Central South University",
-  "works_count": 53,
-  "cited_by_count": 1312,
+  "works_count": 54,
+  "cited_by_count": 1313,
   "photo": "assets/faculty/zhi-zheng.jpg",
-  "num_works_fetched": 53,
+  "num_works_fetched": 54,
   "works": [
     {
       "id": "https://openalex.org/W2063238761",
@@ -1691,6 +1691,74 @@
         {
           "id": "https://openalex.org/A5065741205",
           "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7204727217",
+      "title": "The Agile Stage Model: A Minimally Viable Framework for Developing and Governing Digital Therapeutics, Including Agentic Artificial Intelligence Systems (Preprint)",
+      "year": 2026,
+      "date": "2026-08-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5148719228",
+          "name": "Mark J Seidman"
+        },
+        {
+          "id": "https://openalex.org/A5019055956",
+          "name": "Malaz Boustani"
+        },
+        {
+          "id": "https://openalex.org/A5015210707",
+          "name": "Edmond Ramly"
+        },
+        {
+          "id": "https://openalex.org/A5081469237",
+          "name": "Richard J. Holden"
+        },
+        {
+          "id": "https://openalex.org/A5044546280",
+          "name": "Melissa M. Pangelinan"
+        },
+        {
+          "id": "https://openalex.org/A5064156865",
+          "name": "Andrew A. Gonzalez"
+        },
+        {
+          "id": "https://openalex.org/A5006993479",
+          "name": "Hyesun Chung"
+        },
+        {
+          "id": "https://openalex.org/A5148687431",
+          "name": "Alicia Hyun Jin Lee"
+        },
+        {
+          "id": "https://openalex.org/A5148636589",
+          "name": "Nick Stewart"
+        },
+        {
+          "id": "https://openalex.org/A5140754064",
+          "name": "Fereshtehossadat Shojaei"
+        },
+        {
+          "id": "https://openalex.org/A5040437369",
+          "name": "Fatemehalsadat Shojaei"
+        },
+        {
+          "id": "https://openalex.org/A5107437763",
+          "name": "Diana Summanwar"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5083472980",
+          "name": "Zina Ben Miled"
+        },
+        {
+          "id": "https://openalex.org/A5000141831",
+          "name": "Yiyu Shi"
         }
       ]
     }

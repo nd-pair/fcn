@@ -1,0 +1,202 @@
+{
+  "slug": "nishanth-gadiyar",
+  "display": "Nishanth Gadiyar",
+  "query_name": "Nishanth Gadiyar",
+  "openalex_id": "https://openalex.org/A5136202971",
+  "openalex_name": "Nishanth Gadiyar",
+  "affiliation": "Oak Ridge National Laboratory",
+  "works_count": 4,
+  "cited_by_count": 1,
+  "photo": "assets/faculty/nishanth-gadiyar.jpg",
+  "num_works_fetched": 4,
+  "works": [
+    {
+      "id": "https://openalex.org/W7161340809",
+      "title": "Multi-Objective Optimization Framework for the Design of Wireless Power Transfer Systems",
+      "year": 2026,
+      "date": "2026-02-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5136206204",
+          "name": "Lidya M. Weldehawaryat"
+        },
+        {
+          "id": "https://openalex.org/A5136259553",
+          "name": "Subho Mukherjee"
+        },
+        {
+          "id": "https://openalex.org/A5088254237",
+          "name": "Wajiha Shireen"
+        },
+        {
+          "id": "https://openalex.org/A5136202971",
+          "name": "Nishanth Gadiyar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7164921925",
+      "title": "Impact of eddy current minimizing stator teeth in additively manufactured electric machines",
+      "year": 2026,
+      "date": "2026-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5136202971",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5030674238",
+          "name": "Alexander D. Goodall"
+        },
+        {
+          "id": "https://openalex.org/A5138727441",
+          "name": "Eric L. Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7165932578",
+      "title": "Toward Next-Generation AI Data Centers: Power Delivery Architecture Shifts, Emerging Technologies, and Challenges",
+      "year": 2026,
+      "date": "2026-06-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071046098",
+          "name": "Sangwhee Lee"
+        },
+        {
+          "id": "https://openalex.org/A5139319452",
+          "name": "Rafal P. Wojda"
+        },
+        {
+          "id": "https://openalex.org/A5033612283",
+          "name": "Cheol-Hee Jo"
+        },
+        {
+          "id": "https://openalex.org/A5052947508",
+          "name": "S. Inoue"
+        },
+        {
+          "id": "https://openalex.org/A5100665022",
+          "name": "Pedro Ribeiro"
+        },
+        {
+          "id": "https://openalex.org/A5109238204",
+          "name": "Gui-Jia Su"
+        },
+        {
+          "id": "https://openalex.org/A5051611639",
+          "name": "Mostak Mohammad"
+        },
+        {
+          "id": "https://openalex.org/A5091048970",
+          "name": "Himel Barua"
+        },
+        {
+          "id": "https://openalex.org/A5136202971",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5139383659",
+          "name": "Praveen Kumar"
+        },
+        {
+          "id": "https://openalex.org/A5139322424",
+          "name": "Spencer Cochran"
+        },
+        {
+          "id": "https://openalex.org/A5136259553",
+          "name": "Subho Mukherjee"
+        },
+        {
+          "id": "https://openalex.org/A5139380432",
+          "name": "Whit Vinson"
+        },
+        {
+          "id": "https://openalex.org/A5139321318",
+          "name": "Vandana Rallabandi"
+        },
+        {
+          "id": "https://openalex.org/A5139383700",
+          "name": "Shajjad Chowdhury"
+        },
+        {
+          "id": "https://openalex.org/A5000404906",
+          "name": "Burak Ozpineci"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7166252938",
+      "title": "Toward Next-Generation AI Data Centers: Power Delivery Architecture Shifts, Emerging Technologies, and Challenges",
+      "year": 2026,
+      "date": "2026-06-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071046098",
+          "name": "Sangwhee Lee"
+        },
+        {
+          "id": "https://openalex.org/A5139319452",
+          "name": "Rafal P. Wojda"
+        },
+        {
+          "id": "https://openalex.org/A5033612283",
+          "name": "Cheol-Hee Jo"
+        },
+        {
+          "id": "https://openalex.org/A5052947508",
+          "name": "S. Inoue"
+        },
+        {
+          "id": "https://openalex.org/A5100665022",
+          "name": "Pedro Ribeiro"
+        },
+        {
+          "id": "https://openalex.org/A5109238204",
+          "name": "Gui-Jia Su"
+        },
+        {
+          "id": "https://openalex.org/A5051611639",
+          "name": "Mostak Mohammad"
+        },
+        {
+          "id": "https://openalex.org/A5091048970",
+          "name": "Himel Barua"
+        },
+        {
+          "id": "https://openalex.org/A5136202971",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5139450445",
+          "name": "Praveen Kumar"
+        },
+        {
+          "id": "https://openalex.org/A5139322424",
+          "name": "Spencer Cochran"
+        },
+        {
+          "id": "https://openalex.org/A5136259553",
+          "name": "Subho Mukherjee"
+        },
+        {
+          "id": "https://openalex.org/A5139380432",
+          "name": "Whit Vinson"
+        },
+        {
+          "id": "https://openalex.org/A5139321318",
+          "name": "Vandana Rallabandi"
+        },
+        {
+          "id": "https://openalex.org/A5139383700",
+          "name": "Shajjad Chowdhury"
+        },
+        {
+          "id": "https://openalex.org/A5000404906",
+          "name": "Burak Ozpineci"
+        }
+      ]
+    }
+  ]
+}

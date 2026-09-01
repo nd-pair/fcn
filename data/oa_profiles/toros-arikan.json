@@ -4,11 +4,11 @@
   "query_name": "Toros Arikan",
   "openalex_id": "https://openalex.org/A5066250773",
   "openalex_name": "Toros Arikan",
-  "affiliation": "Rice University",
-  "works_count": 15,
-  "cited_by_count": 78,
+  "affiliation": "University of Notre Dame",
+  "works_count": 16,
+  "cited_by_count": 79,
   "photo": "assets/faculty/toros-arikan.jpg",
-  "num_works_fetched": 15,
+  "num_works_fetched": 16,
   "works": [
     {
       "id": "https://openalex.org/W4285371564",
@@ -391,6 +391,18 @@
         {
           "id": "https://openalex.org/A5072713767",
           "name": "Richard G. Baraniuk"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7204199016",
+      "title": "Shallow-water underwater acoustic estimation of the number and locations of reflective surfaces via deep learning",
+      "year": 2026,
+      "date": "2026-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
         }
       ]
     }

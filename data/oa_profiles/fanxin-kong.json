@@ -6,7 +6,7 @@
   "openalex_name": "Fanxin Kong",
   "affiliation": "University of Notre Dame",
   "works_count": 99,
-  "cited_by_count": 2927,
+  "cited_by_count": 2933,
   "photo": "assets/faculty/fanxin-kong.jpg",
   "num_works_fetched": 99,
   "works": [
@@ -895,6 +895,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3180026872",
+      "title": "Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks",
+      "year": 2021,
+      "date": "2021-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100707154",
+          "name": "Ruixuan Wang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5046095947",
+          "name": "Hasshi Sudler"
+        },
+        {
+          "id": "https://openalex.org/A5016146461",
+          "name": "Xun Jiao"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2800846291",
       "title": "Software Defined Wi-V2G: A V2G Network Architecture",
       "year": 2018,
@@ -927,30 +951,6 @@
         {
           "id": "https://openalex.org/A5108376919",
           "name": "Ming Wan"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3180026872",
-      "title": "Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks",
-      "year": 2021,
-      "date": "2021-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100707154",
-          "name": "Ruixuan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5046095947",
-          "name": "Hasshi Sudler"
-        },
-        {
-          "id": "https://openalex.org/A5016146461",
-          "name": "Xun Jiao"
         }
       ]
     },
@@ -1359,46 +1359,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4306894667",
-      "title": "Optical fiber temperature sensor with Vernier effect formed by Mach\u2013Zehnder interferometer cascaded Sagnac interferometer based on Hollow-core photonic crystal fiber",
-      "year": 2022,
-      "date": "2022-10-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069377886",
-          "name": "Hang Su"
-        },
-        {
-          "id": "https://openalex.org/A5062739087",
-          "name": "Laixu Gao"
-        },
-        {
-          "id": "https://openalex.org/A5008453377",
-          "name": "Zhaorong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100631017",
-          "name": "Zhen Dong"
-        },
-        {
-          "id": "https://openalex.org/A5100308158",
-          "name": "Chunlong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5014006534",
-          "name": "Dehang Xiao"
-        },
-        {
-          "id": "https://openalex.org/A5100343310",
-          "name": "Chunyu Liu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4224115426",
       "title": "Attack-resilient Fusion of Sensor Data with Uncertain Delays",
       "year": 2022,
@@ -1579,6 +1539,46 @@
         {
           "id": "https://openalex.org/A5074723677",
           "name": "Sheng Bing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4306894667",
+      "title": "Optical fiber temperature sensor with Vernier effect formed by Mach\u2013Zehnder interferometer cascaded Sagnac interferometer based on Hollow-core photonic crystal fiber",
+      "year": 2022,
+      "date": "2022-10-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069377886",
+          "name": "Hang Su"
+        },
+        {
+          "id": "https://openalex.org/A5062739087",
+          "name": "Laixu Gao"
+        },
+        {
+          "id": "https://openalex.org/A5008453377",
+          "name": "Zhaorong Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100631017",
+          "name": "Zhen Dong"
+        },
+        {
+          "id": "https://openalex.org/A5100308158",
+          "name": "Chunlong Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5014006534",
+          "name": "Dehang Xiao"
+        },
+        {
+          "id": "https://openalex.org/A5100343310",
+          "name": "Chunyu Liu"
         }
       ]
     },

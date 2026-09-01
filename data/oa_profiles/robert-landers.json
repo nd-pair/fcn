@@ -6,7 +6,7 @@
   "openalex_name": "Robert G. Landers",
   "affiliation": "University of Notre Dame",
   "works_count": 303,
-  "cited_by_count": 5832,
+  "cited_by_count": 5837,
   "photo": "assets/faculty/robert-landers.jpg",
   "num_works_fetched": 303,
   "works": [
@@ -679,30 +679,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2094627939",
-      "title": "Optimal Tracking Control of Motion Systems",
-      "year": 2011,
-      "date": "2011-10-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5057268574",
-          "name": "Anusha Mannava"
-        },
-        {
-          "id": "https://openalex.org/A5051014865",
-          "name": "S.N. Balakrishnan"
-        },
-        {
-          "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2035884946",
       "title": "Automatic gap detection in friction stir butt welding operations",
       "year": 2008,
@@ -723,6 +699,30 @@
         {
           "id": "https://openalex.org/A5043416007",
           "name": "K. Krishnamurthy"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2094627939",
+      "title": "Optimal Tracking Control of Motion Systems",
+      "year": 2011,
+      "date": "2011-10-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057268574",
+          "name": "Anusha Mannava"
+        },
+        {
+          "id": "https://openalex.org/A5051014865",
+          "name": "S.N. Balakrishnan"
+        },
+        {
+          "id": "https://openalex.org/A5082169793",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
         }
       ]
     },
@@ -1363,34 +1363,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4385445613",
-      "title": "Cutting force modeling and control of single crystal silicon using wire saw velocity reciprocation",
-      "year": 2023,
-      "date": "2023-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5079240215",
-          "name": "Jiabin Wang"
-        },
-        {
-          "id": "https://openalex.org/A5100631619",
-          "name": "Shujuan Li"
-        },
-        {
-          "id": "https://openalex.org/A5025329631",
-          "name": "Lie Liang"
-        },
-        {
-          "id": "https://openalex.org/A5034495815",
-          "name": "Feilong Liu"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4402669227",
       "title": "Effects of Ti and Y on resistance to corrosion in Fe\u2013Cr-X Alloys",
       "year": 2024,
@@ -1495,38 +1467,6 @@
         {
           "id": "https://openalex.org/A5114168865",
           "name": "Tongxin Guan"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4399350559",
-      "title": "Volumetric heating in digital glass forming",
-      "year": 2024,
-      "date": "2024-06-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5095113284",
-          "name": "Luis Deutsch-Garcia"
-        },
-        {
-          "id": "https://openalex.org/A5093590245",
-          "name": "Sergio Salinas-S\u00e1enz"
-        },
-        {
-          "id": "https://openalex.org/A5099020650",
-          "name": "Brian M. Hlifka"
-        },
-        {
-          "id": "https://openalex.org/A5086484477",
-          "name": "Horacio Ahuett\u2010Garza"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
         }
       ]
     },
@@ -1655,22 +1595,6 @@
         {
           "id": "https://openalex.org/A5073156141",
           "name": "Frank Liou"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2040022452",
-      "title": "Nonlinear Feed Effect in Machining Chatter Analysis",
-      "year": 2008,
-      "date": "2008-02-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5067097078",
-          "name": "A. Galip Ulsoy"
         }
       ]
     },
@@ -1887,22 +1811,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2102290281",
-      "title": "Design and implementation of a general tracking controller for Friction Stir Welding processes",
-      "year": 2009,
-      "date": "2009-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5013984470",
-          "name": "Thomas Oakes"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2727730759",
       "title": "Modal analysis of metal additive manufactured parts",
       "year": 2017,
@@ -1947,6 +1855,22 @@
         {
           "id": "https://openalex.org/A5002415526",
           "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2102290281",
+      "title": "Design and implementation of a general tracking controller for Friction Stir Welding processes",
+      "year": 2009,
+      "date": "2009-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5013984470",
+          "name": "Thomas Oakes"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
         }
       ]
     },
@@ -2023,6 +1947,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4385445613",
+      "title": "Cutting force modeling and control of single crystal silicon using wire saw velocity reciprocation",
+      "year": 2023,
+      "date": "2023-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5079240215",
+          "name": "Jiabin Wang"
+        },
+        {
+          "id": "https://openalex.org/A5100631619",
+          "name": "Shujuan Li"
+        },
+        {
+          "id": "https://openalex.org/A5025329631",
+          "name": "Lie Liang"
+        },
+        {
+          "id": "https://openalex.org/A5034495815",
+          "name": "Feilong Liu"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2731724751",
       "title": "Quasistatic Error Modeling and Model Testing for a 5-Axis Machine",
       "year": 2017,
@@ -2063,6 +2015,38 @@
         {
           "id": "https://openalex.org/A5079436322",
           "name": "Placid M. Ferreira"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399350559",
+      "title": "Volumetric heating in digital glass forming",
+      "year": 2024,
+      "date": "2024-06-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5095113284",
+          "name": "Luis Deutsch-Garcia"
+        },
+        {
+          "id": "https://openalex.org/A5093590245",
+          "name": "Sergio Salinas-S\u00e1enz"
+        },
+        {
+          "id": "https://openalex.org/A5099020650",
+          "name": "Brian M. Hlifka"
+        },
+        {
+          "id": "https://openalex.org/A5086484477",
+          "name": "Horacio Ahuett\u2010Garza"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
         }
       ]
     },
@@ -2120,6 +2104,22 @@
           "id": "https://openalex.org/A5087741164",
           "name": "Sung I. Kim"
         },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5067097078",
+          "name": "A. Galip Ulsoy"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2040022452",
+      "title": "Nonlinear Feed Effect in Machining Chatter Analysis",
+      "year": 2008,
+      "date": "2008-02-01",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
@@ -4127,26 +4127,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4387463107",
-      "title": "Layer-to-Layer Norm-Optimal control of Incremental sheet forming with a Data-Driven model",
-      "year": 2023,
-      "date": "2023-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5059432782",
-          "name": "Joseph D. Fischer"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2137074634",
       "title": "Real-Time Force and Moment Estimation for Mechanical Gas Face Seal Systems Using Reduced-Order Kalman Filters",
       "year": 2007,
@@ -5095,6 +5075,26 @@
         {
           "id": "https://openalex.org/A5100319940",
           "name": "Jonghyun Park"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387463107",
+      "title": "Layer-to-Layer Norm-Optimal control of Incremental sheet forming with a Data-Driven model",
+      "year": 2023,
+      "date": "2023-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5059432782",
+          "name": "Joseph D. Fischer"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
         }
       ]
     },

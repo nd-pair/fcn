@@ -6,7 +6,7 @@
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
   "works_count": 35,
-  "cited_by_count": 177,
+  "cited_by_count": 179,
   "photo": "assets/faculty/mengxue-hou.jpg",
   "num_works_fetched": 35,
   "works": [
@@ -243,30 +243,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4294405895",
-      "title": "Method of evolving junction on optimal path planning in flows fields",
-      "year": 2022,
-      "date": "2022-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5071027206",
-          "name": "Haoyan Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5102878627",
-          "name": "Haomin Zhou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4406388852",
       "title": "Hamiltonian based AUV navigation using adaptive finite-time trajectory tracking control",
       "year": 2025,
@@ -291,6 +267,30 @@
         {
           "id": "https://openalex.org/A5079446319",
           "name": "Jun\u2010Hong Cui"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4294405895",
+      "title": "Method of evolving junction on optimal path planning in flows fields",
+      "year": 2022,
+      "date": "2022-09-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071027206",
+          "name": "Haoyan Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5102878627",
+          "name": "Haomin Zhou"
         }
       ]
     },

@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5077171773",
   "openalex_name": "Panos J. Antsaklis",
   "affiliation": "University of Notre Dame",
-  "works_count": 619,
-  "cited_by_count": 25941,
+  "works_count": 617,
+  "cited_by_count": 25844,
   "photo": "assets/faculty/panos-antsaklis.jpg",
-  "num_works_fetched": 628,
+  "num_works_fetched": 626,
   "works": [
     {
       "id": "https://openalex.org/W2062974796",
@@ -1179,6 +1179,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1504928013",
+      "title": "Supervisory Control of Concurrent Systems: A Petri Net Structural Approach",
+      "year": 2006,
+      "date": "2006-06-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043787244",
+          "name": "Marian V. Iordache"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1501079528",
       "title": "Improved detection rate of structural abnormalities in the first trimester using an extended examination protocol",
       "year": 2013,
@@ -1227,22 +1243,6 @@
         {
           "id": "https://openalex.org/A5043787244",
           "name": "Marian V. Iordache"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1550397500",
-      "title": "Optimal control of switched autonomous systems",
-      "year": 2004,
-      "date": "2004-01-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1683,6 +1683,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1550397500",
+      "title": "Optimal control of switched autonomous systems",
+      "year": 2004,
+      "date": "2004-01-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1995106898",
       "title": "Report on the NSF/CSS Workshop on new directions in control engineering education",
       "year": 1999,
@@ -2107,26 +2123,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2051296765",
-      "title": "Passivity analysis and passivation of feedback systems using passivity indices",
-      "year": 2014,
-      "date": "2014-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031222391",
-          "name": "Feng Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5080268090",
-          "name": "Meng Xia"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2061025884",
       "title": "Passivity indices and passivation of systems with application to systems with input/output delay",
       "year": 2014,
@@ -2143,6 +2139,26 @@
         {
           "id": "https://openalex.org/A5024301984",
           "name": "Vijay Gupta"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2051296765",
+      "title": "Passivity analysis and passivation of feedback systems using passivity indices",
+      "year": 2014,
+      "date": "2014-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031222391",
+          "name": "Feng Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5080268090",
+          "name": "Meng Xia"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -3223,82 +3239,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4297988173",
-      "title": "Cancer Treatment and Immunotherapy during Pregnancy",
-      "year": 2022,
-      "date": "2022-09-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5068767535",
-          "name": "Antonios Koutras"
-        },
-        {
-          "id": "https://openalex.org/A5071899233",
-          "name": "Thomas Ntounis"
-        },
-        {
-          "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
-        },
-        {
-          "id": "https://openalex.org/A5050759649",
-          "name": "Theodoros Papalios"
-        },
-        {
-          "id": "https://openalex.org/A5023519733",
-          "name": "Savia Pittokopitou"
-        },
-        {
-          "id": "https://openalex.org/A5041813663",
-          "name": "Ioannis Prokopakis"
-        },
-        {
-          "id": "https://openalex.org/A5058824130",
-          "name": "Athanasios Syllaios"
-        },
-        {
-          "id": "https://openalex.org/A5071671313",
-          "name": "Asimina Valsamaki"
-        },
-        {
-          "id": "https://openalex.org/A5083280969",
-          "name": "Athanasios Chionis"
-        },
-        {
-          "id": "https://openalex.org/A5089671783",
-          "name": "Panagiotis D. Symeonidis"
-        },
-        {
-          "id": "https://openalex.org/A5002588485",
-          "name": "Athina A. Samara"
-        },
-        {
-          "id": "https://openalex.org/A5064506534",
-          "name": "Athanasios Pagkalos"
-        },
-        {
-          "id": "https://openalex.org/A5040168210",
-          "name": "Vasilios Pergialiotis"
-        },
-        {
-          "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5104507531",
-          "name": "G. Daskalakis"
-        },
-        {
-          "id": "https://openalex.org/A5087113948",
-          "name": "Emmanuel N. Kontomanolis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4413316401",
       "title": "Added value of ophthalmic artery Doppler in prediction of pre\u2010eclampsia: systematic review and meta\u2010analysis",
       "year": 2025,
@@ -3352,18 +3292,6 @@
           "id": "https://openalex.org/A5078145160",
           "name": "M.D. Peek"
         },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W44659885",
-      "title": "Hybrid Systems V",
-      "year": 1999,
-      "date": "1999-01-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -3640,18 +3568,6 @@
           "id": "https://openalex.org/A5102158189",
           "name": "Po Wu"
         },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2492460409",
-      "title": "Networked Embedded Sensing and Control",
-      "year": 2006,
-      "date": "2006-01-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -4083,6 +3999,82 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4297988173",
+      "title": "Cancer Treatment and Immunotherapy during Pregnancy",
+      "year": 2022,
+      "date": "2022-09-29",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5068767535",
+          "name": "Antonios Koutras"
+        },
+        {
+          "id": "https://openalex.org/A5071899233",
+          "name": "Thomas Ntounis"
+        },
+        {
+          "id": "https://openalex.org/A5071853161",
+          "name": "Zacharias Fasoulakis"
+        },
+        {
+          "id": "https://openalex.org/A5050759649",
+          "name": "Theodoros Papalios"
+        },
+        {
+          "id": "https://openalex.org/A5023519733",
+          "name": "Savia Pittokopitou"
+        },
+        {
+          "id": "https://openalex.org/A5041813663",
+          "name": "Ioannis Prokopakis"
+        },
+        {
+          "id": "https://openalex.org/A5058824130",
+          "name": "Athanasios Syllaios"
+        },
+        {
+          "id": "https://openalex.org/A5071671313",
+          "name": "Asimina Valsamaki"
+        },
+        {
+          "id": "https://openalex.org/A5083280969",
+          "name": "Athanasios Chionis"
+        },
+        {
+          "id": "https://openalex.org/A5089671783",
+          "name": "Panagiotis D. Symeonidis"
+        },
+        {
+          "id": "https://openalex.org/A5002588485",
+          "name": "Athina A. Samara"
+        },
+        {
+          "id": "https://openalex.org/A5064506534",
+          "name": "Athanasios Pagkalos"
+        },
+        {
+          "id": "https://openalex.org/A5040168210",
+          "name": "Vasilios Pergialiotis"
+        },
+        {
+          "id": "https://openalex.org/A5109600214",
+          "name": "Marianna Theodora"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5104507531",
+          "name": "G. Daskalakis"
+        },
+        {
+          "id": "https://openalex.org/A5087113948",
+          "name": "Emmanuel N. Kontomanolis"
         }
       ]
     },
@@ -5263,22 +5255,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2096413802",
-      "title": "Model-based control of continuous-time systems with limited intermittent feedback",
-      "year": 2013,
-      "date": "2013-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023052551",
-          "name": "Eloy Garc\u00eda"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2492920332",
       "title": "Performance optimization based on passivation of systems with applications to systems with input/output delay",
       "year": 2016,
@@ -6223,6 +6199,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2096413802",
+      "title": "Model-based control of continuous-time systems with limited intermittent feedback",
+      "year": 2013,
+      "date": "2013-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023052551",
+          "name": "Eloy Garc\u00eda"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2103029626",
       "title": "HYSTAR: a toolbox for hierarchical control of piecewise linear hybrid dynamical systems",
       "year": 2003,
@@ -6931,26 +6923,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4405270176",
-      "title": "Port-Hamiltonian-Based Geometric Control for Rigid Body Platoons With Mesh Stability Guarantee",
-      "year": 2024,
-      "date": "2024-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -8411,6 +8383,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4405270176",
+      "title": "Port-Hamiltonian-Based Geometric Control for Rigid Body Platoons With Mesh Stability Guarantee",
+      "year": 2024,
+      "date": "2024-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1968972987",
       "title": "Optimal design of robust controllers for uncertain discrete-time systems",
       "year": 1996,
@@ -8555,22 +8547,6 @@
         {
           "id": "https://openalex.org/A5082347461",
           "name": "Anil Nerode"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1504928013",
-      "title": "Supervisory Control of Concurrent Systems: A Petri Net Structural Approach",
-      "year": 2006,
-      "date": "2006-06-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043787244",
-          "name": "Marian V. Iordache"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },

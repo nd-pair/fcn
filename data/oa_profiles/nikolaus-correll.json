@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5047458039",
   "openalex_name": "Nikolaus Correll",
   "affiliation": null,
-  "works_count": 171,
-  "cited_by_count": 6217,
+  "works_count": 170,
+  "cited_by_count": 6184,
   "photo": "assets/faculty/nikolaus-correll.jpg",
-  "num_works_fetched": 174,
+  "num_works_fetched": 173,
   "works": [
     {
       "id": "https://openalex.org/W2618733545",
@@ -755,26 +755,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1888497568",
-      "title": "Distributed Autonomous Robotic Systems",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5081950488",
-          "name": "Mac Schwager"
-        },
-        {
-          "id": "https://openalex.org/A5010568864",
-          "name": "Michael Otte"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2114953575",
       "title": "Decentralized self-repair to maintain connectivity and coverage in networked multi-robot systems",
       "year": 2011,
@@ -975,30 +955,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2769044080",
-      "title": "Will robots be bodies with brains or brains with bodies?",
-      "year": 2017,
-      "date": "2017-11-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005135113",
-          "name": "Yi\u011fit Meng\u00fc\u00e7"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5110705035",
-          "name": "Rebecca K. Kramer"
-        },
-        {
-          "id": "https://openalex.org/A5025220023",
-          "name": "Jamie Paik"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2163173276",
       "title": "Miniature six-channel range and bearing system: Algorithm, analysis and experimental validation",
       "year": 2014,
@@ -1019,6 +975,30 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2769044080",
+      "title": "Will robots be bodies with brains or brains with bodies?",
+      "year": 2017,
+      "date": "2017-11-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005135113",
+          "name": "Yi\u011fit Meng\u00fc\u00e7"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5110705035",
+          "name": "Rebecca K. Kramer"
+        },
+        {
+          "id": "https://openalex.org/A5025220023",
+          "name": "Jamie Paik"
         }
       ]
     },
@@ -1195,46 +1175,6 @@
         {
           "id": "https://openalex.org/A5085143303",
           "name": "Kristofer S. J. Pister"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4295036252",
-      "title": "Embedded Magnetic Sensing for Feedback Control of Soft HASEL Actuators",
-      "year": 2022,
-      "date": "2022-09-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043334100",
-          "name": "Vani Sundaram"
-        },
-        {
-          "id": "https://openalex.org/A5040368638",
-          "name": "Khoi Ly"
-        },
-        {
-          "id": "https://openalex.org/A5027505300",
-          "name": "Brian K. Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5065590647",
-          "name": "Mantas Naris"
-        },
-        {
-          "id": "https://openalex.org/A5001870346",
-          "name": "Maxwell P. Anderson"
-        },
-        {
-          "id": "https://openalex.org/A5073287604",
-          "name": "J. Sean Humbert"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
         }
       ]
     },
@@ -1723,6 +1663,46 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4295036252",
+      "title": "Embedded Magnetic Sensing for Feedback Control of Soft HASEL Actuators",
+      "year": 2022,
+      "date": "2022-09-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043334100",
+          "name": "Vani Sundaram"
+        },
+        {
+          "id": "https://openalex.org/A5040368638",
+          "name": "Khoi Ly"
+        },
+        {
+          "id": "https://openalex.org/A5027505300",
+          "name": "Brian K. Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5065590647",
+          "name": "Mantas Naris"
+        },
+        {
+          "id": "https://openalex.org/A5001870346",
+          "name": "Maxwell P. Anderson"
+        },
+        {
+          "id": "https://openalex.org/A5073287604",
+          "name": "J. Sean Humbert"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5041822706",
+          "name": "Mark E. Rentschler"
         }
       ]
     },
