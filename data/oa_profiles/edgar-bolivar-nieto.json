@@ -6,7 +6,7 @@
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
   "works_count": 36,
-  "cited_by_count": 306,
+  "cited_by_count": 307,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
   "num_works_fetched": 36,
   "works": [
@@ -603,18 +603,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3201966778",
-      "title": "Attalea: Revista de Divulgaci\u00f3n Cient\u00edfica n\u00b0 1 (2020)",
-      "year": 2020,
-      "date": "2020-07-01",
+      "id": "https://openalex.org/W3210206521",
+      "title": "Attalea: Revista de Divulgaci\u00f3n Cient\u00edfica n\u00b0 3 (2021)",
+      "year": 2021,
+      "date": "2021-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5048802615",
           "name": "Manuel Mart\u00edn Bra\u00f1as"
-        },
-        {
-          "id": "https://openalex.org/A5090814140",
-          "name": "Carmen Rosa GARC\u00cdA-D\u00c1VILA"
         },
         {
           "id": "https://openalex.org/A5062916607",
@@ -629,16 +625,12 @@
           "name": "Juan Jos\u00e9 Bellido Collahuacho"
         },
         {
-          "id": "https://openalex.org/A5141731126",
+          "id": "https://openalex.org/A5077490774",
           "name": "Ana\u00ed Gonzales"
         },
         {
           "id": "https://openalex.org/A5061698776",
           "name": "Marcos Tavares Dias"
-        },
-        {
-          "id": "https://openalex.org/A5141848319",
-          "name": "Elsa Rengifo"
         },
         {
           "id": "https://openalex.org/A5040690755",
@@ -653,23 +645,23 @@
           "name": "Napole\u00f3n Vela Mendoza"
         },
         {
-          "id": "https://openalex.org/A5141340690",
+          "id": "https://openalex.org/A5007276673",
           "name": "Dirce L. Komura"
         },
         {
-          "id": "https://openalex.org/A5076406076",
-          "name": "Angela R\u00edos Cardozo"
+          "id": "https://openalex.org/A5032167831",
+          "name": "\u00c1ngela R\u00edos Cardozo"
         },
         {
           "id": "https://openalex.org/A5052307031",
           "name": "Enrique Solano Lorente"
         },
         {
-          "id": "https://openalex.org/A5063235066",
-          "name": "Italo Cardama"
+          "id": "https://openalex.org/A5012368618",
+          "name": "\u00cdtalo Cardama"
         },
         {
-          "id": "https://openalex.org/A5141691668",
+          "id": "https://openalex.org/A5070498627",
           "name": "Rutherford del Castillo"
         },
         {
@@ -693,7 +685,7 @@
           "name": "Manuel Gabriel Vel\u00e1squez Ram\u00edrez"
         },
         {
-          "id": "https://openalex.org/A5141600527",
+          "id": "https://openalex.org/A5110813122",
           "name": "Edwin Becerra"
         },
         {

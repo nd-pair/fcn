@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5047458039",
   "openalex_name": "Nikolaus Correll",
   "affiliation": null,
-  "works_count": 170,
-  "cited_by_count": 6184,
+  "works_count": 169,
+  "cited_by_count": 6175,
   "photo": "assets/faculty/nikolaus-correll.jpg",
-  "num_works_fetched": 173,
+  "num_works_fetched": 172,
   "works": [
     {
       "id": "https://openalex.org/W2618733545",
@@ -543,22 +543,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1982707864",
-      "title": "Multirobot inspection of industrial machinery",
-      "year": 2009,
-      "date": "2009-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2063637049",
       "title": "A One-Year Introductory Robotics Curriculum for Computer Science Upperclassmen",
       "year": 2012,
@@ -575,6 +559,22 @@
         {
           "id": "https://openalex.org/A5108932755",
           "name": "David Coleman"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1982707864",
+      "title": "Multirobot inspection of industrial machinery",
+      "year": 2009,
+      "date": "2009-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5080713076",
+          "name": "Alcherio Martinoli"
         }
       ]
     },
@@ -979,30 +979,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2769044080",
-      "title": "Will robots be bodies with brains or brains with bodies?",
-      "year": 2017,
-      "date": "2017-11-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005135113",
-          "name": "Yi\u011fit Meng\u00fc\u00e7"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5110705035",
-          "name": "Rebecca K. Kramer"
-        },
-        {
-          "id": "https://openalex.org/A5025220023",
-          "name": "Jamie Paik"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2398344989",
       "title": "Shape Change Through Programmable Stiffness",
       "year": 2015,
@@ -1315,15 +1291,11 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2157559538",
-      "title": "Distributed boundary coverage with a team of networked miniature robots using a robust market-based algorithm",
+      "id": "https://openalex.org/W2240328051",
+      "title": "Modeling and Optimization of a Swarm-Intelligent Inspection System",
       "year": 2008,
-      "date": "2008-04-01",
+      "date": "2008-01-23",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5034978799",
-          "name": "Patrick Amstutz"
-        },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
@@ -1335,11 +1307,39 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2240328051",
-      "title": "Modeling and Optimization of a Swarm-Intelligent Inspection System",
-      "year": 2008,
-      "date": "2008-01-23",
+      "id": "https://openalex.org/W2769044080",
+      "title": "Will robots be bodies with brains or brains with bodies?",
+      "year": 2017,
+      "date": "2017-11-22",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5005135113",
+          "name": "Yi\u011fit Meng\u00fc\u00e7"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5110705035",
+          "name": "Rebecca K. Kramer"
+        },
+        {
+          "id": "https://openalex.org/A5025220023",
+          "name": "Jamie Paik"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2157559538",
+      "title": "Distributed boundary coverage with a team of networked miniature robots using a robust market-based algorithm",
+      "year": 2008,
+      "date": "2008-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034978799",
+          "name": "Patrick Amstutz"
+        },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
@@ -1507,22 +1507,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2128635427",
-      "title": "Any-Com Multi-robot Path-Planning: Maximizing Collaboration for Variable Bandwidth",
-      "year": 2012,
-      "date": "2012-09-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010568864",
-          "name": "Michael Otte"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1448371888",
       "title": "Probabilistic Modeling of Swarming Systems",
       "year": 2015,
@@ -1547,6 +1531,22 @@
         {
           "id": "https://openalex.org/A5036897495",
           "name": "Dana Hughes"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2128635427",
+      "title": "Any-Com Multi-robot Path-Planning: Maximizing Collaboration for Variable Bandwidth",
+      "year": 2012,
+      "date": "2012-09-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010568864",
+          "name": "Michael Otte"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -1803,22 +1803,6 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2141517821",
-      "title": "Any-com multi-robot path planning",
-      "year": 2011,
-      "date": "2011-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5010568864",
-          "name": "Michael Otte"
         }
       ]
     },

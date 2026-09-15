@@ -6,7 +6,7 @@
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
   "works_count": 35,
-  "cited_by_count": 179,
+  "cited_by_count": 182,
   "photo": "assets/faculty/mengxue-hou.jpg",
   "num_works_fetched": 35,
   "works": [
@@ -295,34 +295,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4382935669",
-      "title": "An Interleaved Algorithm for Integration of Robotic Task and Motion Planning",
-      "year": 2023,
-      "date": "2023-05-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5101908192",
-          "name": "Yingke Li"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5076731201",
-          "name": "Shreyas Sundaram"
-        },
-        {
-          "id": "https://openalex.org/A5070733769",
-          "name": "Shaoshuai Mou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3207900478",
       "title": "Belief Space Partitioning for Symbolic Motion Planning",
       "year": 2021,
@@ -431,54 +403,30 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4366818296",
-      "title": "Anomaly Detection of Underwater Gliders Verified by Deployment Data",
+      "id": "https://openalex.org/W4382935669",
+      "title": "An Interleaved Algorithm for Integration of Robotic Task and Motion Planning",
       "year": 2023,
-      "date": "2023-03-06",
+      "date": "2023-05-31",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5040769000",
-          "name": "Ruochu Yang"
-        },
         {
           "id": "https://openalex.org/A5063884621",
           "name": "Mengxue Hou"
         },
-        {
-          "id": "https://openalex.org/A5033568950",
-          "name": "Chad Lembke"
-        },
-        {
-          "id": "https://openalex.org/A5030894761",
-          "name": "Catherine Edwards"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4382936192",
-      "title": "Integrated Task and Motion Planning for Process-aware Source Seeking",
-      "year": 2023,
-      "date": "2023-05-31",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5101908192",
           "name": "Yingke Li"
         },
         {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5083807807",
-          "name": "Enlu Zhou"
-        },
-        {
           "id": "https://openalex.org/A5068994727",
           "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5076731201",
+          "name": "Shreyas Sundaram"
+        },
+        {
+          "id": "https://openalex.org/A5070733769",
+          "name": "Shaoshuai Mou"
         }
       ]
     },
@@ -507,6 +455,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4366818296",
+      "title": "Anomaly Detection of Underwater Gliders Verified by Deployment Data",
+      "year": 2023,
+      "date": "2023-03-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040769000",
+          "name": "Ruochu Yang"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5033568950",
+          "name": "Chad Lembke"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2910279689",
       "title": "Path Tracking Error Analysis for Underwater Glider Navigation in a Spatially and Temporally Varying Flow Field",
       "year": 2018,
@@ -527,6 +503,30 @@
         {
           "id": "https://openalex.org/A5030894761",
           "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382936192",
+      "title": "Integrated Task and Motion Planning for Process-aware Source Seeking",
+      "year": 2023,
+      "date": "2023-05-31",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101908192",
+          "name": "Yingke Li"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5083807807",
+          "name": "Enlu Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
         }
       ]
     },

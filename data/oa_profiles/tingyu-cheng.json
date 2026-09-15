@@ -6,7 +6,7 @@
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
   "works_count": 56,
-  "cited_by_count": 711,
+  "cited_by_count": 713,
   "photo": "assets/faculty/tingyu-cheng.jpg",
   "num_works_fetched": 56,
   "works": [
@@ -1163,30 +1163,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4409181746",
-      "title": "Evolutionary Game Analysis for Power Battery Recycling of New Energy Vehicle in China",
-      "year": 2025,
-      "date": "2025-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101513442",
-          "name": "Hongxia Sun"
-        },
-        {
-          "id": "https://openalex.org/A5102925765",
-          "name": "Yan Miao"
-        },
-        {
-          "id": "https://openalex.org/A5009899837",
-          "name": "Li Cui"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4307485828",
       "title": "Environmental physical intelligence: Seamlessly deploying sensors and actuators to our everyday life",
       "year": 2022,
@@ -1343,6 +1319,30 @@
         {
           "id": "https://openalex.org/A5073611411",
           "name": "Ashutosh Dhekne"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409181746",
+      "title": "Evolutionary Game Analysis for Power Battery Recycling of New Energy Vehicle in China",
+      "year": 2025,
+      "date": "2025-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101513442",
+          "name": "Hongxia Sun"
+        },
+        {
+          "id": "https://openalex.org/A5102925765",
+          "name": "Yan Miao"
+        },
+        {
+          "id": "https://openalex.org/A5009899837",
+          "name": "Li Cui"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
         }
       ]
     },

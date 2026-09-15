@@ -6,7 +6,7 @@
   "openalex_name": "Toros Arikan",
   "affiliation": "University of Notre Dame",
   "works_count": 16,
-  "cited_by_count": 79,
+  "cited_by_count": 80,
   "photo": "assets/faculty/toros-arikan.jpg",
   "num_works_fetched": 16,
   "works": [
@@ -167,10 +167,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4372259844",
-      "title": "Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network",
-      "year": 2023,
-      "date": "2023-05-05",
+      "id": "https://openalex.org/W4400204880",
+      "title": "A deep learning method for reflective boundary estimation",
+      "year": 2024,
+      "date": "2024-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",
@@ -199,10 +199,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4400204880",
-      "title": "A deep learning method for reflective boundary estimation",
-      "year": 2024,
-      "date": "2024-07-01",
+      "id": "https://openalex.org/W4372259844",
+      "title": "Learning Environmental Structure Using Acoustic Probes with a Deep Neural Network",
+      "year": 2023,
+      "date": "2023-05-05",
       "coauthors": [
         {
           "id": "https://openalex.org/A5066250773",

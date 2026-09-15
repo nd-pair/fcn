@@ -6,7 +6,7 @@
   "openalex_name": "Zhi Zheng",
   "affiliation": "Central South University",
   "works_count": 54,
-  "cited_by_count": 1313,
+  "cited_by_count": 1315,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 54,
   "works": [
@@ -1139,26 +1139,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4382240165",
-      "title": "Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns",
-      "year": 2023,
-      "date": "2023-06-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5058779290",
-          "name": "Ervine Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5101210353",
-          "name": "Qi Yu"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2529160023",
       "title": "Longitudinal Impact of Autonomous Robot-Mediated Joint Attention Intervention for Young Children with ASD",
       "year": 2016,
@@ -1231,6 +1211,26 @@
         {
           "id": "https://openalex.org/A5059093534",
           "name": "Maria Testa"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382240165",
+      "title": "Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns",
+      "year": 2023,
+      "date": "2023-06-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058779290",
+          "name": "Ervine Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101210353",
+          "name": "Qi Yu"
         },
         {
           "id": "https://openalex.org/A5065741205",

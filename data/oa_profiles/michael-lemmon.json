@@ -6,7 +6,7 @@
   "openalex_name": "Michael Lemmon",
   "affiliation": "University of Notre Dame",
   "works_count": 199,
-  "cited_by_count": 7456,
+  "cited_by_count": 7453,
   "photo": "assets/faculty/michael-lemmon.jpg",
   "num_works_fetched": 199,
   "works": [
@@ -724,10 +724,6 @@
       "year": 2008,
       "date": "2008-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5100685703",
-          "name": "Xiaofeng Wang"
-        },
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael Lemmon"

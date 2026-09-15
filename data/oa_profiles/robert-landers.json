@@ -6,7 +6,7 @@
   "openalex_name": "Robert G. Landers",
   "affiliation": "University of Notre Dame",
   "works_count": 303,
-  "cited_by_count": 5837,
+  "cited_by_count": 5853,
   "photo": "assets/faculty/robert-landers.jpg",
   "num_works_fetched": 303,
   "works": [
@@ -375,6 +375,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2521272891",
+      "title": "Analytical Force Modeling of Fixed Abrasive Diamond Wire Saw Machining With Application to SiC Monocrystal Wafer Processing",
+      "year": 2016,
+      "date": "2016-09-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100631619",
+          "name": "Shujuan Li"
+        },
+        {
+          "id": "https://openalex.org/A5110512019",
+          "name": "Aofei Tang"
+        },
+        {
+          "id": "https://openalex.org/A5037041475",
+          "name": "Yong Liu"
+        },
+        {
+          "id": "https://openalex.org/A5100731522",
+          "name": "Jiabin Wang"
+        },
+        {
+          "id": "https://openalex.org/A5101874563",
+          "name": "Dan Cui"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3170658257",
       "title": "Physical-based training data collection approach for data-driven lithium-ion battery state-of-charge prediction",
       "year": 2021,
@@ -535,6 +567,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2170277640",
+      "title": "Layer-to-Layer Height Control for Laser Metal Deposition Process",
+      "year": 2011,
+      "date": "2011-03-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5103223915",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2605465252",
       "title": "Extrusion-on-demand methods for high solids loading ceramic paste in freeform extrusion fabrication",
       "year": 2017,
@@ -566,22 +614,6 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2170277640",
-      "title": "Layer-to-Layer Height Control for Laser Metal Deposition Process",
-      "year": 2011,
-      "date": "2011-03-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5103223915",
           "name": "Lie Tang"
         },
         {
@@ -831,38 +863,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2521272891",
-      "title": "Analytical Force Modeling of Fixed Abrasive Diamond Wire Saw Machining With Application to SiC Monocrystal Wafer Processing",
-      "year": 2016,
-      "date": "2016-09-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100631619",
-          "name": "Shujuan Li"
-        },
-        {
-          "id": "https://openalex.org/A5110512019",
-          "name": "Aofei Tang"
-        },
-        {
-          "id": "https://openalex.org/A5037041475",
-          "name": "Yong Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100731522",
-          "name": "Jiabin Wang"
-        },
-        {
-          "id": "https://openalex.org/A5101874563",
-          "name": "Dan Cui"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2078852783",
       "title": "Development of an Experimental Testbed for Research in Lithium-Ion Battery Management Systems",
       "year": 2013,
@@ -1063,30 +1063,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2073602806",
-      "title": "Direct Three-Dimensional Layer Metal Deposition",
-      "year": 2010,
-      "date": "2010-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008888444",
-          "name": "Jianzhong Ruan"
-        },
-        {
-          "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5073156141",
-          "name": "Frank Liou"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2160453557",
       "title": "Electrohydraulic Control Using Neural MRAC Based on a Modified State Observer",
       "year": 2012,
@@ -1103,6 +1079,30 @@
         {
           "id": "https://openalex.org/A5082169793",
           "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2073602806",
+      "title": "Direct Three-Dimensional Layer Metal Deposition",
+      "year": 2010,
+      "date": "2010-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5008888444",
+          "name": "Jianzhong Ruan"
+        },
+        {
+          "id": "https://openalex.org/A5082169793",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5073156141",
+          "name": "Frank Liou"
         },
         {
           "id": "https://openalex.org/A5020875577",
@@ -1627,26 +1627,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2504602853",
-      "title": "Process Monitoring and Control of Machining Operations",
-      "year": 2017,
-      "date": "2017-12-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5067097078",
-          "name": "A. Galip Ulsoy"
-        },
-        {
-          "id": "https://openalex.org/A5058986442",
-          "name": "Richard Furness"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2087684543",
       "title": "Iterative learning control of bead morphology in Laser Metal Deposition processes",
       "year": 2013,
@@ -1687,6 +1667,26 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2504602853",
+      "title": "Process Monitoring and Control of Machining Operations",
+      "year": 2017,
+      "date": "2017-12-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5067097078",
+          "name": "A. Galip Ulsoy"
+        },
+        {
+          "id": "https://openalex.org/A5058986442",
+          "name": "Richard Furness"
         }
       ]
     },
@@ -1971,6 +1971,30 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3175370915",
+      "title": "Computationally efficient battery model for microgrid applications using the Chebyshev spectral method",
+      "year": 2021,
+      "date": "2021-06-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5014483826",
+          "name": "Damola M. Ajiboye"
+        },
+        {
+          "id": "https://openalex.org/A5067936853",
+          "name": "Jonathan W. Kimball"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5100695871",
+          "name": "Junyong Park"
         }
       ]
     },
@@ -2903,58 +2927,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3175370915",
-      "title": "Computationally efficient battery model for microgrid applications using the Chebyshev spectral method",
-      "year": 2021,
-      "date": "2021-06-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5014483826",
-          "name": "Damola M. Ajiboye"
-        },
-        {
-          "id": "https://openalex.org/A5067936853",
-          "name": "Jonathan W. Kimball"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5100695871",
-          "name": "Junyong Park"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2199950795",
-      "title": "Implementation And Evaluation Of A Linear Axis Rapid Development System",
-      "year": 2020,
-      "date": "2020-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5112009376",
-          "name": "Mike Fleming"
-        },
-        {
-          "id": "https://openalex.org/A5078701185",
-          "name": "Vedant Jain"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5090028076",
-          "name": "Hong Sheng"
-        },
-        {
-          "id": "https://openalex.org/A5041295737",
-          "name": "Richard H. Hall"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2919105691",
       "title": "Direct write of photonics using a filament-fed laser-heated process",
       "year": 2019,
@@ -3003,38 +2975,30 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4407789809",
-      "title": "Experiment-based superposition thermal modeling of laser powder bed fusion",
-      "year": 2025,
-      "date": "2025-02-20",
+      "id": "https://openalex.org/W2199950795",
+      "title": "Implementation And Evaluation Of A Linear Axis Rapid Development System",
+      "year": 2020,
+      "date": "2020-09-03",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5080562232",
-          "name": "Cody Lough"
+          "id": "https://openalex.org/A5112009376",
+          "name": "Mike Fleming"
         },
         {
-          "id": "https://openalex.org/A5100735053",
-          "name": "Tao Liu"
+          "id": "https://openalex.org/A5078701185",
+          "name": "Vedant Jain"
         },
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
         },
         {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
+          "id": "https://openalex.org/A5090028076",
+          "name": "Hong Sheng"
         },
         {
-          "id": "https://openalex.org/A5057772473",
-          "name": "J. A. Drallmeier"
-        },
-        {
-          "id": "https://openalex.org/A5090813460",
-          "name": "Ben Brown"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
+          "id": "https://openalex.org/A5041295737",
+          "name": "Richard H. Hall"
         }
       ]
     },
@@ -3663,34 +3627,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2972889714",
-      "title": "Online Melt Pool Temperature Control for Laser Metal Deposition Processes",
-      "year": 2009,
-      "date": "2009-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082169793",
-          "name": "Lie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5016365923",
-          "name": "Todd E. Sparks"
-        },
-        {
-          "id": "https://openalex.org/A5008888444",
-          "name": "Jianzhong Ruan"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
-        },
-        {
-          "id": "https://openalex.org/A5073156141",
-          "name": "Frank Liou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2991553918",
       "title": "Bubble Formation in Additive Manufacturing of Borosilicate Glass",
       "year": 2016,
@@ -3835,6 +3771,34 @@
         {
           "id": "https://openalex.org/A5020875577",
           "name": "Robert G. Landers"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2972889714",
+      "title": "Online Melt Pool Temperature Control for Laser Metal Deposition Processes",
+      "year": 2009,
+      "date": "2009-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082169793",
+          "name": "Lie Tang"
+        },
+        {
+          "id": "https://openalex.org/A5016365923",
+          "name": "Todd E. Sparks"
+        },
+        {
+          "id": "https://openalex.org/A5008888444",
+          "name": "Jianzhong Ruan"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5073156141",
+          "name": "Frank Liou"
         }
       ]
     },
@@ -4007,6 +3971,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4407789809",
+      "title": "Experiment-based superposition thermal modeling of laser powder bed fusion",
+      "year": 2025,
+      "date": "2025-02-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080562232",
+          "name": "Cody Lough"
+        },
+        {
+          "id": "https://openalex.org/A5100735053",
+          "name": "Tao Liu"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5057772473",
+          "name": "J. A. Drallmeier"
+        },
+        {
+          "id": "https://openalex.org/A5090813460",
+          "name": "Ben Brown"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2084855532",
       "title": "Clearance Regulation of Mechanical Gas Face Seals: Part II\u2014Analysis and Control",
       "year": 2006,
@@ -4123,6 +4123,26 @@
         {
           "id": "https://openalex.org/A5008112862",
           "name": "Douglas A. Bristow"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387463107",
+      "title": "Layer-to-Layer Norm-Optimal control of Incremental sheet forming with a Data-Driven model",
+      "year": 2023,
+      "date": "2023-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5059432782",
+          "name": "Joseph D. Fischer"
+        },
+        {
+          "id": "https://openalex.org/A5008112862",
+          "name": "Douglas A. Bristow"
+        },
+        {
+          "id": "https://openalex.org/A5020875577",
+          "name": "Robert G. Landers"
         }
       ]
     },
@@ -5075,26 +5095,6 @@
         {
           "id": "https://openalex.org/A5100319940",
           "name": "Jonghyun Park"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4387463107",
-      "title": "Layer-to-Layer Norm-Optimal control of Incremental sheet forming with a Data-Driven model",
-      "year": 2023,
-      "date": "2023-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5059432782",
-          "name": "Joseph D. Fischer"
-        },
-        {
-          "id": "https://openalex.org/A5008112862",
-          "name": "Douglas A. Bristow"
-        },
-        {
-          "id": "https://openalex.org/A5020875577",
-          "name": "Robert G. Landers"
         }
       ]
     },

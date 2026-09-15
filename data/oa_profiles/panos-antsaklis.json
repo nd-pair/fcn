@@ -6,7 +6,7 @@
   "openalex_name": "Panos J. Antsaklis",
   "affiliation": "University of Notre Dame",
   "works_count": 617,
-  "cited_by_count": 25844,
+  "cited_by_count": 25843,
   "photo": "assets/faculty/panos-antsaklis.jpg",
   "num_works_fetched": 626,
   "works": [
@@ -319,6 +319,22 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W108791095",
+      "title": "An introduction to intelligent and autonomous control",
+      "year": 1993,
+      "date": "1993-01-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5043940203",
+          "name": "Kevin M. Passino"
         }
       ]
     },
@@ -1659,6 +1675,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1550397500",
+      "title": "Optimal control of switched autonomous systems",
+      "year": 2004,
+      "date": "2004-01-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2110007106",
       "title": "Robust stabilizing control laws for a class of second-order switched systems",
       "year": 1999,
@@ -1679,22 +1711,6 @@
         {
           "id": "https://openalex.org/A5046850315",
           "name": "A.N. Michel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1550397500",
-      "title": "Optimal control of switched autonomous systems",
-      "year": 2004,
-      "date": "2004-01-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -1955,26 +1971,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2162461221",
-      "title": "A practical controller for explicit rate congestion control",
-      "year": 2002,
-      "date": "2002-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011555662",
-          "name": "Kenneth P. Laberteaux"
-        },
-        {
-          "id": "https://openalex.org/A5109256299",
-          "name": "C.E. Rohrs"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2485195230",
       "title": "Networked State Estimation Over a Shared Communication Medium",
       "year": 2016,
@@ -2179,6 +2175,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2921226743",
+      "title": "Distributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies",
+      "year": 2020,
+      "date": "2020-04-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
+        },
+        {
+          "id": "https://openalex.org/A5040417385",
+          "name": "S. Sivaranjani"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1742307920",
       "title": "Autonomy and machine intelligence in complex systems: A tutorial",
       "year": 2015,
@@ -2255,30 +2275,6 @@
         {
           "id": "https://openalex.org/A5013237840",
           "name": "J\u00e1nos Sztipanovits"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2921226743",
-      "title": "Distributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies",
-      "year": 2020,
-      "date": "2020-04-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5040417385",
-          "name": "S. Sivaranjani"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3331,6 +3327,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2162461221",
+      "title": "A practical controller for explicit rate congestion control",
+      "year": 2002,
+      "date": "2002-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011555662",
+          "name": "Kenneth P. Laberteaux"
+        },
+        {
+          "id": "https://openalex.org/A5109256299",
+          "name": "C.E. Rohrs"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1629938527",
       "title": "Stability analysis for a class of nonlinear switched systems",
       "year": 2003,
@@ -3855,22 +3871,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2050554350",
-      "title": "Stability of Model-Based Networked Control Systems with Intermittent Feedback",
-      "year": 2008,
-      "date": "2008-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5038159174",
-          "name": "Tomas Estrada"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2978467472",
       "title": "Analysis of Two-Dimensional Feedback Systems Over Networks Using Dissipativity",
       "year": 2019,
@@ -3887,6 +3887,22 @@
         {
           "id": "https://openalex.org/A5024301984",
           "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2050554350",
+      "title": "Stability of Model-Based Networked Control Systems with Intermittent Feedback",
+      "year": 2008,
+      "date": "2008-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5038159174",
+          "name": "Tomas Estrada"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4267,6 +4283,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4399404206",
+      "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
+      "year": 2024,
+      "date": "2024-06-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2108044273",
       "title": "On the optimal control of discrete event systems",
       "year": 2003,
@@ -4444,18 +4480,6 @@
           "id": "https://openalex.org/A5022295836",
           "name": "Michael Lemmon"
         },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2091583467",
-      "title": "Some relations satisfied by prime polynomial matrices and their role in linear multivariable system theory",
-      "year": 1979,
-      "date": "1979-08-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -5351,82 +5375,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4399404206",
-      "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
-      "year": 2024,
-      "date": "2024-06-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4379645769",
-      "title": "Glycosylated Fibronectin as a wide-spectrum biomarker in pregnancy",
-      "year": 2023,
-      "date": "2023-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5034543307",
-          "name": "D. Karoutsos"
-        },
-        {
-          "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
-        },
-        {
-          "id": "https://openalex.org/A5065752582",
-          "name": "Stavroula Michala"
-        },
-        {
-          "id": "https://openalex.org/A5019777602",
-          "name": "K. Stefanidis"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4379799629",
-      "title": "Non immune hydrops fetalis due to Parvovirus B19 infection. A case report",
-      "year": 2023,
-      "date": "2023-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5111001608",
-          "name": "Maria Ioanna Chatziioannou"
-        },
-        {
-          "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
-        },
-        {
-          "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
-        },
-        {
-          "id": "https://openalex.org/A5114020260",
-          "name": "George Daskalakis"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2226434238",
       "title": "System Models, Differential Equations, and Initial-Value Problems",
       "year": 2007,
@@ -5512,6 +5460,18 @@
           "id": "https://openalex.org/A5072462741",
           "name": "Xuping Xu"
         },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2091583467",
+      "title": "Some relations satisfied by prime polynomial matrices and their role in linear multivariable system theory",
+      "year": 1979,
+      "date": "1979-08-01",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -5723,26 +5683,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2073455351",
-      "title": "HIERARCHICAL CONTROL FOR A CLASS OF UNCERTAIN PIECEWISE LINEAR HYBRID DYNAMICAL SYSTEMS",
-      "year": 2002,
-      "date": "2002-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2154185682",
       "title": "Stability of discrete-time plants using model-based control with intermittent feedback",
       "year": 2008,
@@ -5791,6 +5731,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2073455351",
+      "title": "HIERARCHICAL CONTROL FOR A CLASS OF UNCERTAIN PIECEWISE LINEAR HYBRID DYNAMICAL SYSTEMS",
+      "year": 2002,
+      "date": "2002-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2101574607",
       "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance",
       "year": 2004,
@@ -5819,22 +5779,6 @@
         {
           "id": "https://openalex.org/A5023397404",
           "name": "Xenofon Koutsoukos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1561757462",
-      "title": "An Optimization Approach to Control Reconfiguration",
-      "year": 1999,
-      "date": "1999-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019726685",
-          "name": "Ioannis K. Konstantopoulos"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5879,6 +5823,22 @@
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1561757462",
+      "title": "An Optimization Approach to Control Reconfiguration",
+      "year": 1999,
+      "date": "1999-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019726685",
+          "name": "Ioannis K. Konstantopoulos"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -6135,22 +6095,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1531667683",
-      "title": "Hybrid Control Systems Using Timed Petri Nets: Supervisory Control Design Based on Invariant Properties",
-      "year": 1999,
-      "date": "1999-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2008266947",
       "title": "Output feedback networked control with persistent disturbance attenuation",
       "year": 2013,
@@ -6159,6 +6103,22 @@
         {
           "id": "https://openalex.org/A5023052551",
           "name": "Eloy Garc\u00eda"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1531667683",
+      "title": "Hybrid Control Systems Using Timed Petri Nets: Supervisory Control Design Based on Invariant Properties",
+      "year": 1999,
+      "date": "1999-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6351,38 +6311,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2346219790",
-      "title": "Complete longitudinal vaginal septum resection. Description of a bloodless new technique",
-      "year": 2016,
-      "date": "2016-04-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082733820",
-          "name": "Ioannis Chatzipapas"
-        },
-        {
-          "id": "https://openalex.org/A5051217884",
-          "name": "D. Zacharakis"
-        },
-        {
-          "id": "https://openalex.org/A5049010571",
-          "name": "Lina Michala"
-        },
-        {
-          "id": "https://openalex.org/A5065544850",
-          "name": "Themos Grigoriadis"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5038347666",
-          "name": "\u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2 \u03a0\u03c1\u03c9\u03c4\u03cc\u03c0\u03b1\u03c0\u03b1\u03c2"
         }
       ]
     },
@@ -6719,26 +6647,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2958393285",
-      "title": "Invasive Prenatal Diagnosis: Amniocentesis",
-      "year": 2015,
-      "date": "2015-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5108261432",
-          "name": "Mariana Theodora"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4256133983",
       "title": "Modeling and Control of Unmanned Aerial Vehicles",
       "year": 2007,
@@ -6803,6 +6711,94 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4379645769",
+      "title": "Glycosylated Fibronectin as a wide-spectrum biomarker in pregnancy",
+      "year": 2023,
+      "date": "2023-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034543307",
+          "name": "D. Karoutsos"
+        },
+        {
+          "id": "https://openalex.org/A5071853161",
+          "name": "Zacharias Fasoulakis"
+        },
+        {
+          "id": "https://openalex.org/A5065752582",
+          "name": "Stavroula Michala"
+        },
+        {
+          "id": "https://openalex.org/A5019777602",
+          "name": "K. Stefanidis"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4379799629",
+      "title": "Non immune hydrops fetalis due to Parvovirus B19 infection. A case report",
+      "year": 2023,
+      "date": "2023-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5111001608",
+          "name": "Maria Ioanna Chatziioannou"
+        },
+        {
+          "id": "https://openalex.org/A5071853161",
+          "name": "Zacharias Fasoulakis"
+        },
+        {
+          "id": "https://openalex.org/A5109600214",
+          "name": "Marianna Theodora"
+        },
+        {
+          "id": "https://openalex.org/A5114020260",
+          "name": "George Daskalakis"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2346219790",
+      "title": "Complete longitudinal vaginal septum resection. Description of a bloodless new technique",
+      "year": 2016,
+      "date": "2016-04-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082733820",
+          "name": "Ioannis Chatzipapas"
+        },
+        {
+          "id": "https://openalex.org/A5051217884",
+          "name": "D. Zacharakis"
+        },
+        {
+          "id": "https://openalex.org/A5049010571",
+          "name": "Lina Michala"
+        },
+        {
+          "id": "https://openalex.org/A5065544850",
+          "name": "Themos Grigoriadis"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5038347666",
+          "name": "\u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2 \u03a0\u03c1\u03c9\u03c4\u03cc\u03c0\u03b1\u03c0\u03b1\u03c2"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2736628338",
       "title": "Dissipativity of finite and hybrid automata: An overview",
       "year": 2017,
@@ -6819,6 +6815,26 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2958393285",
+      "title": "Invasive Prenatal Diagnosis: Amniocentesis",
+      "year": 2015,
+      "date": "2015-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5041219169",
+          "name": "Aris Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5108261432",
+          "name": "Mariana Theodora"
         }
       ]
     },
@@ -8507,22 +8523,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W108791095",
-      "title": "An introduction to intelligent and autonomous control",
-      "year": 1993,
-      "date": "1993-01-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5043940203",
-          "name": "Kevin M. Passino"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2064427240",
       "title": "Special issue on hybrid systems: theory and applications a brief introduction to the theory and applications of hybrid systems",
       "year": 2000,
@@ -8835,22 +8835,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W205132550",
-      "title": "Hybrid control of a robotic manufacturing system",
-      "year": 1999,
-      "date": "1999-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2161297370",
       "title": "Neural network training via quadratic optimization",
       "year": 2003,
@@ -8875,6 +8859,22 @@
         {
           "id": "https://openalex.org/A5043940203",
           "name": "Kevin M. Passino"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W205132550",
+      "title": "Hybrid control of a robotic manufacturing system",
+      "year": 1999,
+      "date": "1999-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
         },
         {
           "id": "https://openalex.org/A5077171773",

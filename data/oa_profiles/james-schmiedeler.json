@@ -6,7 +6,7 @@
   "openalex_name": "James P. Schmiedeler",
   "affiliation": "University of Notre Dame",
   "works_count": 147,
-  "cited_by_count": 2060,
+  "cited_by_count": 2062,
   "photo": "assets/faculty/james-schmiedeler.jpg",
   "num_works_fetched": 147,
   "works": [
@@ -1428,7 +1428,7 @@
     },
     {
       "id": "https://openalex.org/W2886750625",
-      "title": "The mechanics of and robotic design for quadrupedal galloping /",
+      "title": "The mechanics of and robotic design for quadrupedal galloping",
       "year": 2001,
       "date": "2001-01-01",
       "coauthors": [
@@ -2733,8 +2733,8 @@
     {
       "id": "https://openalex.org/W2523573385",
       "title": "Determination of minimum time rendezvous points for multiple agents via level set methods",
-      "year": 2024,
-      "date": "2024-02-07",
+      "year": 2011,
+      "date": "2011-02-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5039186588",

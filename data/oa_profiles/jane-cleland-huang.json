@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5037363688",
   "openalex_name": "Jane Cleland\u2010Huang",
   "affiliation": "University of Notre Dame",
-  "works_count": 306,
-  "cited_by_count": 7463,
+  "works_count": 307,
+  "cited_by_count": 7532,
   "photo": "assets/faculty/jane-cleland-huang.jpeg",
-  "num_works_fetched": 310,
+  "num_works_fetched": 311,
   "works": [
     {
       "id": "https://openalex.org/W2005569040",
@@ -191,6 +191,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3162044134",
+      "title": "Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models",
+      "year": 2021,
+      "date": "2021-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5088923915",
+          "name": "Jinfeng Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100677480",
+          "name": "Yalin Liu"
+        },
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1979100395",
       "title": "Feature model extraction from large collections of informal product descriptions",
       "year": 2013,
@@ -223,34 +251,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3162044134",
-      "title": "Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models",
-      "year": 2021,
-      "date": "2021-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5088923915",
-          "name": "Jinfeng Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100677480",
-          "name": "Yalin Liu"
-        },
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1965177473",
       "title": "Improving automated requirements trace retrieval: a study of term-based enhancement methods",
       "year": 2009,
@@ -267,34 +267,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2964064835",
-      "title": "Traceability in the wild",
-      "year": 2018,
-      "date": "2018-05-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082629071",
-          "name": "Michael Rath"
-        },
-        {
-          "id": "https://openalex.org/A5032569584",
-          "name": "Jacob Rendall"
-        },
-        {
-          "id": "https://openalex.org/A5010572058",
-          "name": "Jin Guo"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5063243817",
-          "name": "Patrick M\u00e4der"
         }
       ]
     },
@@ -515,6 +487,34 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2964064835",
+      "title": "Traceability in the wild",
+      "year": 2018,
+      "date": "2018-05-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082629071",
+          "name": "Michael Rath"
+        },
+        {
+          "id": "https://openalex.org/A5032569584",
+          "name": "Jacob Rendall"
+        },
+        {
+          "id": "https://openalex.org/A5010572058",
+          "name": "Jin Guo"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5063243817",
+          "name": "Patrick M\u00e4der"
         }
       ]
     },
@@ -839,6 +839,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2964279195",
+      "title": "Dronology",
+      "year": 2018,
+      "date": "2018-05-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5007138186",
+          "name": "Sean Bayley"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2015792225",
       "title": "Toward improved traceability of non-functional requirements",
       "year": 2005,
@@ -871,26 +891,6 @@
         {
           "id": "https://openalex.org/A5082580430",
           "name": "Bamshad Mobasher"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2964279195",
-      "title": "Dronology",
-      "year": 2018,
-      "date": "2018-05-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5007138186",
-          "name": "Sean Bayley"
         }
       ]
     },
@@ -1275,6 +1275,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1983419770",
+      "title": "Automated extraction and visualization of quality concerns from requirements specifications",
+      "year": 2014,
+      "date": "2014-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102905826",
+          "name": "Mona Rahimi"
+        },
+        {
+          "id": "https://openalex.org/A5088410123",
+          "name": "Mehdi Mirakhorli"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1656916165",
       "title": "Trace Queries for Safety Requirements in High Assurance Systems",
       "year": 2012,
@@ -1299,26 +1319,6 @@
         {
           "id": "https://openalex.org/A5011124194",
           "name": "Patrick Maeder"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1983419770",
-      "title": "Automated extraction and visualization of quality concerns from requirements specifications",
-      "year": 2014,
-      "date": "2014-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102905826",
-          "name": "Mona Rahimi"
-        },
-        {
-          "id": "https://openalex.org/A5088410123",
-          "name": "Mehdi Mirakhorli"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -1371,6 +1371,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2923071719",
+      "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces",
+      "year": 2019,
+      "date": "2019-03-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5007138186",
+          "name": "Sean Bayley"
+        },
+        {
+          "id": "https://openalex.org/A5010758567",
+          "name": "Jane Wyngaard"
+        },
+        {
+          "id": "https://openalex.org/A5001217402",
+          "name": "Wandi Xiong"
+        },
+        {
+          "id": "https://openalex.org/A5101411842",
+          "name": "Jinghui Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5054422283",
+          "name": "Joshua Huseman"
+        },
+        {
+          "id": "https://openalex.org/A5013390075",
+          "name": "Robyn R. Lutz"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2071604149",
       "title": "Using tactic traceability information models to reduce the risk of architectural degradation during system maintenance",
       "year": 2011,
@@ -1419,42 +1459,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2923071719",
-      "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces",
-      "year": 2019,
-      "date": "2019-03-26",
+      "id": "https://openalex.org/W3195041733",
+      "title": "Hazard analysis for human-on-the-loop interactions in sUAS systems",
+      "year": 2021,
+      "date": "2021-08-18",
       "coauthors": [
         {
           "id": "https://openalex.org/A5005248504",
           "name": "Michael Vierhauser"
         },
         {
-          "id": "https://openalex.org/A5007138186",
-          "name": "Sean Bayley"
-        },
-        {
-          "id": "https://openalex.org/A5010758567",
-          "name": "Jane Wyngaard"
-        },
-        {
-          "id": "https://openalex.org/A5001217402",
-          "name": "Wandi Xiong"
-        },
-        {
-          "id": "https://openalex.org/A5101411842",
-          "name": "Jinghui Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5054422283",
-          "name": "Joshua Huseman"
-        },
-        {
-          "id": "https://openalex.org/A5013390075",
-          "name": "Robyn R. Lutz"
+          "id": "https://openalex.org/A5008349040",
+          "name": "Md Nafee Al Islam"
         },
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5071247728",
+          "name": "James Mason"
         }
       ]
     },
@@ -1483,30 +1507,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3195041733",
-      "title": "Hazard analysis for human-on-the-loop interactions in sUAS systems",
-      "year": 2021,
-      "date": "2021-08-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5008349040",
-          "name": "Md Nafee Al Islam"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5071247728",
-          "name": "James Mason"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3093500498",
       "title": "Requirements-driven configuration of emergency response missions with small aerial vehicles",
       "year": 2020,
@@ -1531,6 +1531,26 @@
         {
           "id": "https://openalex.org/A5005248504",
           "name": "Michael Vierhauser"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3097200240",
+      "title": "Model-Driven Requirements for Humans-on-The-Loop Multi-UAV Missions",
+      "year": 2020,
+      "date": "2020-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057210905",
+          "name": "A.K. Agrawal"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5033422210",
+          "name": "Jan-Philipp Stegh\u00f6fer"
         }
       ]
     },
@@ -1695,38 +1715,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2896375370",
-      "title": "Monitoring CPS at Runtime - A Case Study in the UAV Domain",
-      "year": 2018,
-      "date": "2018-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5007138186",
-          "name": "Sean Bayley"
-        },
-        {
-          "id": "https://openalex.org/A5013603383",
-          "name": "Thomas Krismayer"
-        },
-        {
-          "id": "https://openalex.org/A5024243792",
-          "name": "Rick Rabiser"
-        },
-        {
-          "id": "https://openalex.org/A5017108223",
-          "name": "Paul Gr\u00fcnbacher"
         }
       ]
     },
@@ -2511,6 +2499,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2896375370",
+      "title": "Monitoring CPS at Runtime - A Case Study in the UAV Domain",
+      "year": 2018,
+      "date": "2018-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5007138186",
+          "name": "Sean Bayley"
+        },
+        {
+          "id": "https://openalex.org/A5013603383",
+          "name": "Thomas Krismayer"
+        },
+        {
+          "id": "https://openalex.org/A5024243792",
+          "name": "Rick Rabiser"
+        },
+        {
+          "id": "https://openalex.org/A5017108223",
+          "name": "Paul Gr\u00fcnbacher"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1990298985",
       "title": "Utilizing recommender systems to support software requirements elicitation",
       "year": 2010,
@@ -2520,18 +2540,6 @@
           "id": "https://openalex.org/A5000440212",
           "name": "Carlos Castro-Herrera"
         },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2005151101",
-      "title": "Mining Domain Knowledge [Requirements]",
-      "year": 2015,
-      "date": "2015-04-23",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
@@ -2559,6 +2567,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2005151101",
+      "title": "Mining Domain Knowledge [Requirements]",
+      "year": 2015,
+      "date": "2015-04-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2157576206",
       "title": "A Clustering Technique for Early Detection of Dominant and Recessive Cross-Cutting Concerns",
       "year": 2007,
@@ -2571,6 +2591,42 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2375692754",
+      "title": "Probing for requirements knowledge to stimulate architectural thinking",
+      "year": 2016,
+      "date": "2016-05-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031939006",
+          "name": "Preethu Rose Anish"
+        },
+        {
+          "id": "https://openalex.org/A5009689081",
+          "name": "Balaji Balasubramaniam"
+        },
+        {
+          "id": "https://openalex.org/A5064434873",
+          "name": "Abhishek Sainani"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5022044172",
+          "name": "Maya Daneva"
+        },
+        {
+          "id": "https://openalex.org/A5000853046",
+          "name": "Roel Wieringa"
+        },
+        {
+          "id": "https://openalex.org/A5089477311",
+          "name": "Smita Ghaisas"
         }
       ]
     },
@@ -2667,42 +2723,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2375692754",
-      "title": "Probing for requirements knowledge to stimulate architectural thinking",
-      "year": 2016,
-      "date": "2016-05-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031939006",
-          "name": "Preethu Rose Anish"
-        },
-        {
-          "id": "https://openalex.org/A5009689081",
-          "name": "Balaji Balasubramaniam"
-        },
-        {
-          "id": "https://openalex.org/A5064434873",
-          "name": "Abhishek Sainani"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5022044172",
-          "name": "Maya Daneva"
-        },
-        {
-          "id": "https://openalex.org/A5000853046",
-          "name": "Roel Wieringa"
-        },
-        {
-          "id": "https://openalex.org/A5089477311",
-          "name": "Smita Ghaisas"
         }
       ]
     },
@@ -2815,6 +2835,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1932558065",
+      "title": "What you ask is what you get: Understanding architecturally significant functional requirements",
+      "year": 2015,
+      "date": "2015-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031939006",
+          "name": "Preethu Rose Anish"
+        },
+        {
+          "id": "https://openalex.org/A5022044172",
+          "name": "Maya Daneva"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5000853046",
+          "name": "Roel Wieringa"
+        },
+        {
+          "id": "https://openalex.org/A5089477311",
+          "name": "Smita Ghaisas"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1989534721",
       "title": "How Well Do You Know Your Personae Non Gratae?",
       "year": 2014,
@@ -2867,30 +2915,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1932558065",
-      "title": "What you ask is what you get: Understanding architecturally significant functional requirements",
-      "year": 2015,
-      "date": "2015-08-01",
+      "id": "https://openalex.org/W2756989338",
+      "title": "Crowd Sourcing the Creation of Personae Non Gratae for Requirements-Phase Threat Modeling",
+      "year": 2017,
+      "date": "2017-09-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5031939006",
-          "name": "Preethu Rose Anish"
+          "id": "https://openalex.org/A5010008033",
+          "name": "Nancy R. Mead"
         },
         {
-          "id": "https://openalex.org/A5022044172",
-          "name": "Maya Daneva"
+          "id": "https://openalex.org/A5027573308",
+          "name": "Forrest Shull"
+        },
+        {
+          "id": "https://openalex.org/A5053311163",
+          "name": "Janine L. Spears"
+        },
+        {
+          "id": "https://openalex.org/A5032343245",
+          "name": "Stefan Heibl"
+        },
+        {
+          "id": "https://openalex.org/A5110701470",
+          "name": "Sam Weber"
         },
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5000853046",
-          "name": "Roel Wieringa"
-        },
-        {
-          "id": "https://openalex.org/A5089477311",
-          "name": "Smita Ghaisas"
         }
       ]
     },
@@ -2948,38 +3000,6 @@
       "year": 2006,
       "date": "2006-09-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2756989338",
-      "title": "Crowd Sourcing the Creation of Personae Non Gratae for Requirements-Phase Threat Modeling",
-      "year": 2017,
-      "date": "2017-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010008033",
-          "name": "Nancy R. Mead"
-        },
-        {
-          "id": "https://openalex.org/A5027573308",
-          "name": "Forrest Shull"
-        },
-        {
-          "id": "https://openalex.org/A5053311163",
-          "name": "Janine L. Spears"
-        },
-        {
-          "id": "https://openalex.org/A5032343245",
-          "name": "Stefan Heibl"
-        },
-        {
-          "id": "https://openalex.org/A5110701470",
-          "name": "Sam Weber"
-        },
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
@@ -3103,54 +3123,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2166086478",
-      "title": "Toward actionable, broadly accessible contests in software engineering",
-      "year": 2012,
-      "date": "2012-06-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5020844039",
-          "name": "Yonghee Shin"
-        },
-        {
-          "id": "https://openalex.org/A5085483825",
-          "name": "Ed Keenan"
-        },
-        {
-          "id": "https://openalex.org/A5051133116",
-          "name": "Adam Czauderna"
-        },
-        {
-          "id": "https://openalex.org/A5056644128",
-          "name": "Greg Leach"
-        },
-        {
-          "id": "https://openalex.org/A5085489535",
-          "name": "Evan Moritz"
-        },
-        {
-          "id": "https://openalex.org/A5014243963",
-          "name": "Malcom Gethers"
-        },
-        {
-          "id": "https://openalex.org/A5041262116",
-          "name": "Denys Poshyvanyk"
-        },
-        {
-          "id": "https://openalex.org/A5012089296",
-          "name": "Jane Huffman Hayes"
-        },
-        {
-          "id": "https://openalex.org/A5100463006",
-          "name": "Wenbin Li"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4383888916",
       "title": "Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems",
       "year": 2023,
@@ -3215,6 +3187,54 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2166086478",
+      "title": "Toward actionable, broadly accessible contests in software engineering",
+      "year": 2012,
+      "date": "2012-06-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5020844039",
+          "name": "Yonghee Shin"
+        },
+        {
+          "id": "https://openalex.org/A5085483825",
+          "name": "Ed Keenan"
+        },
+        {
+          "id": "https://openalex.org/A5051133116",
+          "name": "Adam Czauderna"
+        },
+        {
+          "id": "https://openalex.org/A5056644128",
+          "name": "Greg Leach"
+        },
+        {
+          "id": "https://openalex.org/A5085489535",
+          "name": "Evan Moritz"
+        },
+        {
+          "id": "https://openalex.org/A5014243963",
+          "name": "Malcom Gethers"
+        },
+        {
+          "id": "https://openalex.org/A5041262116",
+          "name": "Denys Poshyvanyk"
+        },
+        {
+          "id": "https://openalex.org/A5012089296",
+          "name": "Jane Huffman Hayes"
+        },
+        {
+          "id": "https://openalex.org/A5100463006",
+          "name": "Wenbin Li"
         }
       ]
     },
@@ -3907,94 +3927,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2910293723",
-      "title": "Requirements Engineering (RE) for Social Good: RE Cares [Requirements]",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102292649",
-          "name": "Alexander Dekhtyar"
-        },
-        {
-          "id": "https://openalex.org/A5012089296",
-          "name": "Jane Huffman Hayes"
-        },
-        {
-          "id": "https://openalex.org/A5084995846",
-          "name": "Irit Hadar"
-        },
-        {
-          "id": "https://openalex.org/A5081935270",
-          "name": "Erin Combs"
-        },
-        {
-          "id": "https://openalex.org/A5040962321",
-          "name": "Alessio Ferrari"
-        },
-        {
-          "id": "https://openalex.org/A5063260054",
-          "name": "Sarah Gregory"
-        },
-        {
-          "id": "https://openalex.org/A5007649650",
-          "name": "Jennifer Horkoff"
-        },
-        {
-          "id": "https://openalex.org/A5050797232",
-          "name": "Meira Levy"
-        },
-        {
-          "id": "https://openalex.org/A5020523240",
-          "name": "Maleknaz Nayebi"
-        },
-        {
-          "id": "https://openalex.org/A5076861639",
-          "name": "Barbara Paech"
-        },
-        {
-          "id": "https://openalex.org/A5076749450",
-          "name": "Jared Payne"
-        },
-        {
-          "id": "https://openalex.org/A5008563972",
-          "name": "Matt Primrose"
-        },
-        {
-          "id": "https://openalex.org/A5057896873",
-          "name": "Paola Spoletini"
-        },
-        {
-          "id": "https://openalex.org/A5047022458",
-          "name": "Shell Clarke"
-        },
-        {
-          "id": "https://openalex.org/A5049393919",
-          "name": "Chuck Brophy"
-        },
-        {
-          "id": "https://openalex.org/A5043523779",
-          "name": "Daniel Amyot"
-        },
-        {
-          "id": "https://openalex.org/A5025426825",
-          "name": "Walid Maalej"
-        },
-        {
-          "id": "https://openalex.org/A5063455671",
-          "name": "Guenther Ruhe"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5076752202",
-          "name": "Didar Zowghi"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3089993422",
       "title": "Traceability Support for Multi-Lingual Software Projects",
       "year": 2020,
@@ -4091,22 +4023,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4318966501",
-      "title": "Towards flexible runtime monitoring support for ROS-based applications",
-      "year": 2022,
-      "date": "2022-05-09",
+      "id": "https://openalex.org/W4393134114",
+      "title": "Self-Adaptation of Loosely Coupled Systems across a System of Small Uncrewed Aerial Systems",
+      "year": 2024,
+      "date": "2024-04-14",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5090948235",
-          "name": "Marco Stadler"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
+          "id": "https://openalex.org/A5008225984",
+          "name": "Theodore Chambers"
         },
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
         }
       ]
     },
@@ -4167,26 +4099,6 @@
         {
           "id": "https://openalex.org/A5013689261",
           "name": "Lilly Spirkovska"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4393134114",
-      "title": "Self-Adaptation of Loosely Coupled Systems across a System of Small Uncrewed Aerial Systems",
-      "year": 2024,
-      "date": "2024-04-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008225984",
-          "name": "Theodore Chambers"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
         }
       ]
     },
@@ -4463,6 +4375,94 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2910293723",
+      "title": "Requirements Engineering (RE) for Social Good: RE Cares [Requirements]",
+      "year": 2019,
+      "date": "2019-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102292649",
+          "name": "Alexander Dekhtyar"
+        },
+        {
+          "id": "https://openalex.org/A5012089296",
+          "name": "Jane Huffman Hayes"
+        },
+        {
+          "id": "https://openalex.org/A5084995846",
+          "name": "Irit Hadar"
+        },
+        {
+          "id": "https://openalex.org/A5081935270",
+          "name": "Erin Combs"
+        },
+        {
+          "id": "https://openalex.org/A5040962321",
+          "name": "Alessio Ferrari"
+        },
+        {
+          "id": "https://openalex.org/A5063260054",
+          "name": "Sarah Gregory"
+        },
+        {
+          "id": "https://openalex.org/A5007649650",
+          "name": "Jennifer Horkoff"
+        },
+        {
+          "id": "https://openalex.org/A5050797232",
+          "name": "Meira Levy"
+        },
+        {
+          "id": "https://openalex.org/A5020523240",
+          "name": "Maleknaz Nayebi"
+        },
+        {
+          "id": "https://openalex.org/A5076861639",
+          "name": "Barbara Paech"
+        },
+        {
+          "id": "https://openalex.org/A5076749450",
+          "name": "Jared Payne"
+        },
+        {
+          "id": "https://openalex.org/A5008563972",
+          "name": "Matt Primrose"
+        },
+        {
+          "id": "https://openalex.org/A5057896873",
+          "name": "Paola Spoletini"
+        },
+        {
+          "id": "https://openalex.org/A5047022458",
+          "name": "Shell Clarke"
+        },
+        {
+          "id": "https://openalex.org/A5049393919",
+          "name": "Chuck Brophy"
+        },
+        {
+          "id": "https://openalex.org/A5043523779",
+          "name": "Daniel Amyot"
+        },
+        {
+          "id": "https://openalex.org/A5025426825",
+          "name": "Walid Maalej"
+        },
+        {
+          "id": "https://openalex.org/A5063455671",
+          "name": "Guenther Ruhe"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5076752202",
+          "name": "Didar Zowghi"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2071072011",
       "title": "Are Requirements Alive and Kicking?",
       "year": 2013,
@@ -4471,6 +4471,30 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2970998487",
+      "title": "The Interplay of Design and Runtime Traceability for Non-Functional Requirements",
+      "year": 2019,
+      "date": "2019-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5021501207",
+          "name": "Janet E. Burge"
+        },
+        {
+          "id": "https://openalex.org/A5017108223",
+          "name": "Paul Gr\u00fcnbacher"
         }
       ]
     },
@@ -4555,11 +4579,47 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2970998487",
-      "title": "The Interplay of Design and Runtime Traceability for Non-Functional Requirements",
-      "year": 2019,
-      "date": "2019-05-01",
+      "id": "https://openalex.org/W3093486972",
+      "title": "SENET: A Semantic Web for Supporting Automation of Software Engineering Tasks",
+      "year": 2020,
+      "date": "2020-09-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5100677480",
+          "name": "Yalin Liu"
+        },
+        {
+          "id": "https://openalex.org/A5088923915",
+          "name": "Jinfeng Lin"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5010572058",
+          "name": "Jin Guo"
+        },
+        {
+          "id": "https://openalex.org/A5048108949",
+          "name": "Sugandha Lohar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4318966501",
+      "title": "Towards flexible runtime monitoring support for ROS-based applications",
+      "year": 2022,
+      "date": "2022-05-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090948235",
+          "name": "Marco Stadler"
+        },
         {
           "id": "https://openalex.org/A5005248504",
           "name": "Michael Vierhauser"
@@ -4567,14 +4627,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5021501207",
-          "name": "Janet E. Burge"
-        },
-        {
-          "id": "https://openalex.org/A5017108223",
-          "name": "Paul Gr\u00fcnbacher"
         }
       ]
     },
@@ -4843,6 +4895,58 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4412485516",
+      "title": "Automated On-Entry Decision-Making for UTM Zones Based on Reputations and Certifications",
+      "year": 2025,
+      "date": "2025-07-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5008225984",
+          "name": "Theodore Chambers"
+        },
+        {
+          "id": "https://openalex.org/A5106625006",
+          "name": "Pedro Antonio Alarc\u00f3n Granadeno"
+        },
+        {
+          "id": "https://openalex.org/A5088196515",
+          "name": "Usman Gohar"
+        },
+        {
+          "id": "https://openalex.org/A5102864560",
+          "name": "Michael C. Hunter"
+        },
+        {
+          "id": "https://openalex.org/A5065580041",
+          "name": "Arturo Miguel Russell Bernal"
+        },
+        {
+          "id": "https://openalex.org/A5057316351",
+          "name": "Wenyi Tang"
+        },
+        {
+          "id": "https://openalex.org/A5008349040",
+          "name": "Md Nafee Al Islam"
+        },
+        {
+          "id": "https://openalex.org/A5020147981",
+          "name": "Myra B. Cohen"
+        },
+        {
+          "id": "https://openalex.org/A5102709988",
+          "name": "Taeho Jung"
+        },
+        {
+          "id": "https://openalex.org/A5013390075",
+          "name": "Robyn R. Lutz"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2809412732",
       "title": "Interlocking safety cases for unmanned autonomous systems in urban environments",
       "year": 2018,
@@ -4879,38 +4983,6 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3093486972",
-      "title": "SENET: A Semantic Web for Supporting Automation of Software Engineering Tasks",
-      "year": 2020,
-      "date": "2020-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100677480",
-          "name": "Yalin Liu"
-        },
-        {
-          "id": "https://openalex.org/A5088923915",
-          "name": "Jinfeng Lin"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5010572058",
-          "name": "Jin Guo"
-        },
-        {
-          "id": "https://openalex.org/A5048108949",
-          "name": "Sugandha Lohar"
         }
       ]
     },
@@ -6003,6 +6075,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4416255789",
+      "title": "Coverage Path Planning for Holonomic UAVs via Uniaxial-Feasible, Gap-Severity Guided Decomposition",
+      "year": 2025,
+      "date": "2025-05-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5106625006",
+          "name": "Pedro Antonio Alarc\u00f3n Granadeno"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2341266021",
       "title": "Software by Numbers: Strategies for High Return, Low Risk Application Development",
       "year": 2003,
@@ -6079,22 +6167,6 @@
         {
           "id": "https://openalex.org/A5066938164",
           "name": "Katherine R. Dearstyne"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416255789",
-      "title": "Coverage Path Planning for Holonomic UAVs via Uniaxial-Feasible, Gap-Severity Guided Decomposition",
-      "year": 2025,
-      "date": "2025-05-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5106625006",
-          "name": "Pedro Antonio Alarc\u00f3n Granadeno"
         },
         {
           "id": "https://openalex.org/A5037363688",
@@ -7163,58 +7235,6 @@
         {
           "id": "https://openalex.org/A5008225984",
           "name": "Theodore Chambers"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412485516",
-      "title": "Automated On-Entry Decision-Making for UTM Zones Based on Reputations and Certifications",
-      "year": 2025,
-      "date": "2025-07-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008225984",
-          "name": "Theodore Chambers"
-        },
-        {
-          "id": "https://openalex.org/A5106625006",
-          "name": "Pedro Antonio Alarc\u00f3n Granadeno"
-        },
-        {
-          "id": "https://openalex.org/A5088196515",
-          "name": "Usman Gohar"
-        },
-        {
-          "id": "https://openalex.org/A5102864560",
-          "name": "Michael C. Hunter"
-        },
-        {
-          "id": "https://openalex.org/A5065580041",
-          "name": "Arturo Miguel Russell Bernal"
-        },
-        {
-          "id": "https://openalex.org/A5057316351",
-          "name": "Wenyi Tang"
-        },
-        {
-          "id": "https://openalex.org/A5008349040",
-          "name": "Md Nafee Al Islam"
-        },
-        {
-          "id": "https://openalex.org/A5020147981",
-          "name": "Myra B. Cohen"
-        },
-        {
-          "id": "https://openalex.org/A5102709988",
-          "name": "Taeho Jung"
-        },
-        {
-          "id": "https://openalex.org/A5013390075",
-          "name": "Robyn R. Lutz"
         },
         {
           "id": "https://openalex.org/A5037363688",

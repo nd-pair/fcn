@@ -6,7 +6,7 @@
   "openalex_name": "Margaret M. Coad",
   "affiliation": null,
   "works_count": 37,
-  "cited_by_count": 371,
+  "cited_by_count": 373,
   "photo": "assets/faculty/margaret-coad.jpg",
   "num_works_fetched": 39,
   "works": [
@@ -355,6 +355,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4396853608",
+      "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
+      "year": 2024,
+      "date": "2024-04-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5094105848",
+          "name": "Ultan Fallon"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4411019324",
       "title": "Soft Everting Prosthetic Hand and Comparison with Existing Body-Powered Terminal Devices",
       "year": 2025,
@@ -403,26 +423,6 @@
         {
           "id": "https://openalex.org/A5085630453",
           "name": "Ciera McFarland"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4396853608",
-      "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
-      "year": 2024,
-      "date": "2024-04-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5091946633",
-          "name": "Katalin Sch\u00e4ffer"
-        },
-        {
-          "id": "https://openalex.org/A5094105848",
-          "name": "Ultan Fallon"
         },
         {
           "id": "https://openalex.org/A5062756806",

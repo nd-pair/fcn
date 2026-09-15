@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-01 11:39 UTC",
+  "generated": "2026-09-15 11:45 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Physical AI and Robotics Initiative faculty collaboration network. Node size = number of papers co-authored with ND colleagues; edge weight = number of papers the two faculty co-authored.",
-  "nodeCount": 18,
-  "edgeCount": 16,
+  "nodeCount": 19,
+  "edgeCount": 18,
   "nodes": [
     {
       "id": "Panos Antsaklis",
@@ -19,8 +19,8 @@
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5045445273",
       "photo": "assets/faculty/hai-lin.jpg",
-      "weightedDegree": 84,
-      "degree": 6,
+      "weightedDegree": 86,
+      "degree": 7,
       "group": 0
     },
     {
@@ -60,6 +60,15 @@
       "group": 1
     },
     {
+      "id": "Meng Jiang",
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5074821819",
+      "photo": "assets/faculty/meng-jiang.jpg",
+      "weightedDegree": 5,
+      "degree": 2,
+      "group": 3
+    },
+    {
       "id": "Yasemin Ozkan-Aydin",
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5031304323",
@@ -76,6 +85,15 @@
       "weightedDegree": 4,
       "degree": 2,
       "group": 2
+    },
+    {
+      "id": "Jane Cleland-Huang",
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5037363688",
+      "photo": "assets/faculty/jane-cleland-huang.jpeg",
+      "weightedDegree": 3,
+      "degree": 1,
+      "group": 3
     },
     {
       "id": "Edgar Bol\u00edvar-Nieto",
@@ -103,15 +121,6 @@
       "weightedDegree": 1,
       "degree": 1,
       "group": 2
-    },
-    {
-      "id": "Jane Cleland-Huang",
-      "affiliation": "University of Notre Dame",
-      "openalex": "https://openalex.org/A5037363688",
-      "photo": "assets/faculty/jane-cleland-huang.jpeg",
-      "weightedDegree": 0,
-      "degree": 0,
-      "group": -1
     },
     {
       "id": "Mengxue Hou",
@@ -319,12 +328,6 @@
           "date": "2022-03-04"
         },
         {
-          "id": "https://openalex.org/W4200531256",
-          "title": "Formal Verification",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
           "id": "https://openalex.org/W4200447063",
           "title": "Optimal Control",
           "year": 2021,
@@ -337,20 +340,26 @@
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W3217722183",
-          "title": "Modeling of Hybrid Systems",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
           "id": "https://openalex.org/W4200110885",
           "title": "Formal Synthesis",
           "year": 2021,
           "date": "2021-11-18"
         },
         {
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
           "id": "https://openalex.org/W4200597480",
           "title": "Introduction",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W4200531256",
+          "title": "Formal Verification",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -451,14 +460,14 @@
           "date": "2005-07-27"
         },
         {
-          "id": "https://openalex.org/W2036404606",
-          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
+          "id": "https://openalex.org/W2084315257",
+          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
           "year": 2005,
           "date": "2005-01-01"
         },
         {
-          "id": "https://openalex.org/W2084315257",
-          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
+          "id": "https://openalex.org/W2036404606",
+          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
           "year": 2005,
           "date": "2005-01-01"
         },
@@ -475,14 +484,14 @@
           "date": "2004-07-08"
         },
         {
-          "id": "https://openalex.org/W2166330312",
-          "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
+          "id": "https://openalex.org/W1562722129",
+          "title": "Disturbance attenuation properties for discrete-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-06-21"
         },
         {
-          "id": "https://openalex.org/W1562722129",
-          "title": "Disturbance attenuation properties for discrete-time uncertain switched linear systems",
+          "id": "https://openalex.org/W2166330312",
+          "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-06-21"
         },
@@ -505,12 +514,6 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2142607709",
-          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
-          "year": 2004,
-          "date": "2004-01-01"
-        },
-        {
           "id": "https://openalex.org/W2171506252",
           "title": "Persistent disturbance attenuation properties for networked control systems",
           "year": 2004,
@@ -523,20 +526,26 @@
           "date": "2004-01-01"
         },
         {
+          "id": "https://openalex.org/W2142607709",
+          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
+          "year": 2004,
+          "date": "2004-01-01"
+        },
+        {
           "id": "https://openalex.org/W2114930528",
           "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance and measurement noise",
           "year": 2003,
           "date": "2003-11-01"
         },
         {
-          "id": "https://openalex.org/W2098718154",
-          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
+          "id": "https://openalex.org/W1506290449",
+          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
           "year": 2003,
           "date": "2003-08-27"
         },
         {
-          "id": "https://openalex.org/W1506290449",
-          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+          "id": "https://openalex.org/W2098718154",
+          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
           "year": 2003,
           "date": "2003-08-27"
         },
@@ -553,14 +562,14 @@
           "date": "2003-01-01"
         },
         {
-          "id": "https://openalex.org/W2157269445",
-          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
+          "id": "https://openalex.org/W2039015886",
+          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
           "year": 2003,
           "date": "2003-01-01"
         },
         {
-          "id": "https://openalex.org/W2039015886",
-          "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
+          "id": "https://openalex.org/W2157269445",
+          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
           "year": 2003,
           "date": "2003-01-01"
         },
@@ -614,14 +623,14 @@
           "date": "2002-12-23"
         },
         {
-          "id": "https://openalex.org/W2124901174",
-          "title": "Feedback control of Petri nets based on place invariants",
+          "id": "https://openalex.org/W1847814538",
+          "title": "Digital control from a hybrid perspective",
           "year": 2002,
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W1847814538",
-          "title": "Digital control from a hybrid perspective",
+          "id": "https://openalex.org/W2124901174",
+          "title": "Feedback control of Petri nets based on place invariants",
           "year": 2002,
           "date": "2002-12-17"
         },
@@ -644,14 +653,14 @@
           "date": "2002-11-22"
         },
         {
-          "id": "https://openalex.org/W2126888592",
-          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
+          "id": "https://openalex.org/W1533742649",
+          "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
           "year": 2002,
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W2125291333",
-          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
+          "id": "https://openalex.org/W2126888592",
+          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -662,8 +671,8 @@
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W1533742649",
-          "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
+          "id": "https://openalex.org/W2125291333",
+          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -728,12 +737,6 @@
           "date": "1995-02-01"
         },
         {
-          "id": "https://openalex.org/W1524165851",
-          "title": "Interface and controller design for hybrid control systems",
-          "year": 1995,
-          "date": "1995-01-01"
-        },
-        {
           "id": "https://openalex.org/W2138456650",
           "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
           "year": 1995,
@@ -746,14 +749,20 @@
           "date": "1995-01-01"
         },
         {
-          "id": "https://openalex.org/W1559815321",
-          "title": "Hybrid system modeling and autonomous control systems",
-          "year": 1993,
-          "date": "1993-01-01"
+          "id": "https://openalex.org/W1524165851",
+          "title": "Interface and controller design for hybrid control systems",
+          "year": 1995,
+          "date": "1995-01-01"
         },
         {
           "id": "https://openalex.org/W1549769098",
           "title": "Event identification and intelligent hybrid control",
+          "year": 1993,
+          "date": "1993-01-01"
+        },
+        {
+          "id": "https://openalex.org/W1559815321",
+          "title": "Hybrid system modeling and autonomous control systems",
           "year": 1993,
           "date": "1993-01-01"
         }
@@ -1084,6 +1093,31 @@
       ]
     },
     {
+      "source": "Jane Cleland-Huang",
+      "target": "Meng Jiang",
+      "weight": 3,
+      "papers": [
+        {
+          "id": "https://openalex.org/W3168349005",
+          "title": "Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations",
+          "year": 2021,
+          "date": "2021-08-13"
+        },
+        {
+          "id": "https://openalex.org/W3162044134",
+          "title": "Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models",
+          "year": 2021,
+          "date": "2021-05-01"
+        },
+        {
+          "id": "https://openalex.org/W3092220769",
+          "title": "Towards Semantically Guided Traceability",
+          "year": 2020,
+          "date": "2020-08-01"
+        }
+      ]
+    },
+    {
       "source": "Edgar Bol\u00edvar-Nieto",
       "target": "Jim Schmiedeler",
       "weight": 2,
@@ -1137,6 +1171,25 @@
           "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
           "year": 2023,
           "date": "2023-11-02"
+        }
+      ]
+    },
+    {
+      "source": "Hai Lin",
+      "target": "Meng Jiang",
+      "weight": 2,
+      "papers": [
+        {
+          "id": "https://openalex.org/W3042922880",
+          "title": "Specification mining and automated task planning for autonomous robots based on a graph-based spatial temporal logic",
+          "year": 2020,
+          "date": "2020-07-16"
+        },
+        {
+          "id": "https://openalex.org/W3001572532",
+          "title": "A graph-based spatial temporal logic for knowledge representation and automated reasoning in cognitive robots",
+          "year": 2020,
+          "date": "2020-01-20"
         }
       ]
     },

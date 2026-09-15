@@ -6,7 +6,7 @@
   "openalex_name": "Fanxin Kong",
   "affiliation": "University of Notre Dame",
   "works_count": 99,
-  "cited_by_count": 2933,
+  "cited_by_count": 2940,
   "photo": "assets/faculty/fanxin-kong.jpg",
   "num_works_fetched": 99,
   "works": [
@@ -503,34 +503,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2090122286",
-      "title": "Study on formability of vertical parts formed by multi-stage incremental forming",
-      "year": 2014,
-      "date": "2014-08-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5110176450",
-          "name": "Xiaofan Shi"
-        },
-        {
-          "id": "https://openalex.org/A5002240908",
-          "name": "Ghulam Hussain"
-        },
-        {
-          "id": "https://openalex.org/A5008531073",
-          "name": "Guangcheng Zha"
-        },
-        {
-          "id": "https://openalex.org/A5102795613",
-          "name": "Mengling Wu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3216164788",
       "title": "High-sensitivity optical fiber temperature sensor with cascaded configuration of MZI and FPI based on Vernier effect",
       "year": 2021,
@@ -887,6 +859,34 @@
         {
           "id": "https://openalex.org/A5030456600",
           "name": "Insup Lee"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2090122286",
+      "title": "Study on formability of vertical parts formed by multi-stage incremental forming",
+      "year": 2014,
+      "date": "2014-08-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110176450",
+          "name": "Xiaofan Shi"
+        },
+        {
+          "id": "https://openalex.org/A5002240908",
+          "name": "Ghulam Hussain"
+        },
+        {
+          "id": "https://openalex.org/A5008531073",
+          "name": "Guangcheng Zha"
+        },
+        {
+          "id": "https://openalex.org/A5102795613",
+          "name": "Mengling Wu"
         },
         {
           "id": "https://openalex.org/A5007560139",
