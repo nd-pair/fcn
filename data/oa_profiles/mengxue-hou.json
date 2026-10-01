@@ -6,7 +6,7 @@
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
   "works_count": 35,
-  "cited_by_count": 182,
+  "cited_by_count": 181,
   "photo": "assets/faculty/mengxue-hou.jpg",
   "num_works_fetched": 35,
   "works": [
@@ -27,34 +27,6 @@
         {
           "id": "https://openalex.org/A5063884621",
           "name": "Mengxue Hou"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413917919",
-      "title": "Self-Improving Autonomous Underwater Manipulation",
-      "year": 2025,
-      "date": "2025-05-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5017865140",
-          "name": "Ruoshi Liu"
-        },
-        {
-          "id": "https://openalex.org/A5042636645",
-          "name": "Ho Kyung Ha"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5113083211",
-          "name": "Shuran Song"
-        },
-        {
-          "id": "https://openalex.org/A5114618475",
-          "name": "Carl Vondrick"
         }
       ]
     },
@@ -99,6 +71,30 @@
         {
           "id": "https://openalex.org/A5082706113",
           "name": "Zhongsheng Hou"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413917919",
+      "title": "Self-Improving Autonomous Underwater Manipulation",
+      "year": 2025,
+      "date": "2025-05-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5017865140",
+          "name": "Ruoshi Liu"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5113083211",
+          "name": "Shuran Song"
+        },
+        {
+          "id": "https://openalex.org/A5051997905",
+          "name": "Carl Vondrick"
         }
       ]
     },
@@ -243,6 +239,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4294405895",
+      "title": "Method of evolving junction on optimal path planning in flows fields",
+      "year": 2022,
+      "date": "2022-09-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071027206",
+          "name": "Haoyan Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5102878627",
+          "name": "Haomin Zhou"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4406388852",
       "title": "Hamiltonian based AUV navigation using adaptive finite-time trajectory tracking control",
       "year": 2025,
@@ -271,30 +291,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4294405895",
-      "title": "Method of evolving junction on optimal path planning in flows fields",
-      "year": 2022,
-      "date": "2022-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5071027206",
-          "name": "Haoyan Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5102878627",
-          "name": "Haomin Zhou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3207900478",
       "title": "Belief Space Partitioning for Symbolic Motion Planning",
       "year": 2021,
@@ -314,7 +310,7 @@
         },
         {
           "id": "https://openalex.org/A5118983736",
-          "name": "Wei Zhang"
+          "name": "Wei Dong Zhang"
         },
         {
           "id": "https://openalex.org/A5030894761",
@@ -470,7 +466,7 @@
         },
         {
           "id": "https://openalex.org/A5033568950",
-          "name": "Chad Lembke"
+          "name": "Chad E. Lembke"
         },
         {
           "id": "https://openalex.org/A5030894761",
@@ -717,10 +713,6 @@
           "name": "Ruoshi Liu"
         },
         {
-          "id": "https://openalex.org/A5042636645",
-          "name": "Ho Kyung Ha"
-        },
-        {
           "id": "https://openalex.org/A5063884621",
           "name": "Mengxue Hou"
         },
@@ -729,7 +721,7 @@
           "name": "Shuran Song"
         },
         {
-          "id": "https://openalex.org/A5114618475",
+          "id": "https://openalex.org/A5051997905",
           "name": "Carl Vondrick"
         }
       ]
@@ -750,7 +742,7 @@
       "id": "https://openalex.org/W4416726457",
       "title": "Uncertainty-Aware 3D Gaussian Splatting (3DGS) Based Pose Estimation for Underwater Vehicles",
       "year": 2025,
-      "date": "2025-09-29",
+      "date": "2025-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100581509",
@@ -766,7 +758,7 @@
       "id": "https://openalex.org/W4416726780",
       "title": "Active Perception for Underwater Vehicle Navigation based on Belief Space Planning",
       "year": 2025,
-      "date": "2025-09-29",
+      "date": "2025-09-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5089297052",

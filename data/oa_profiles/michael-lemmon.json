@@ -3,12 +3,12 @@
   "display": "Mike Lemmon",
   "query_name": "Michael Lemmon",
   "openalex_id": "https://openalex.org/A5022295836",
-  "openalex_name": "Michael Lemmon",
+  "openalex_name": "Michael D. Lemmon",
   "affiliation": "University of Notre Dame",
-  "works_count": 199,
-  "cited_by_count": 7453,
+  "works_count": 200,
+  "cited_by_count": 7462,
   "photo": "assets/faculty/michael-lemmon.jpg",
-  "num_works_fetched": 199,
+  "num_works_fetched": 198,
   "works": [
     {
       "id": "https://openalex.org/W2116601658",
@@ -22,7 +22,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -38,7 +38,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -54,11 +54,11 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -74,7 +74,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5012705776",
@@ -82,7 +82,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -110,7 +110,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -122,7 +122,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -133,10 +133,6 @@
       "date": "2005-11-22",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101624498",
-          "name": "Lei Fang"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
@@ -146,11 +142,11 @@
         },
         {
           "id": "https://openalex.org/A5079169288",
-          "name": "M.B. McMickell"
+          "name": "M. Brett McMickell"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052553992",
@@ -171,10 +167,122 @@
         {
           "id": "https://openalex.org/A5070592593",
           "name": "Min Xie"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2084865983",
+      "title": "On event design in event-triggered feedback systems",
+      "year": 2011,
+      "date": "2011-08-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100333260",
+          "name": "Xiaofeng Wang"
         },
         {
-          "id": "https://openalex.org/A5063161231",
-          "name": "Xiaojuan Xie"
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2114963607",
+      "title": "Event design in event-triggered feedback control systems",
+      "year": 2008,
+      "date": "2008-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100333208",
+          "name": "Xiaofeng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2114469976",
+      "title": "Self-Triggering Under State-Independent Disturbances",
+      "year": 2010,
+      "date": "2010-03-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100333260",
+          "name": "Xiaofeng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2123605074",
+      "title": "Event-triggered broadcasting across distributed networked control systems",
+      "year": 2008,
+      "date": "2008-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100333208",
+          "name": "Xiaofeng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1539427630",
+      "title": "Event-Triggering in Distributed Networked Systems with Data Dropouts and Delays",
+      "year": 2009,
+      "date": "2009-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100333260",
+          "name": "Xiaofeng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2149519261",
+      "title": "Event-triggered distributed optimization in sensor networks",
+      "year": 2009,
+      "date": "2009-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030450582",
+          "name": "Pu Wan"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2075111064",
+      "title": "Event-triggered state estimation in vector linear processes",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5072379639",
+          "name": "Xiaofeng Wang"
         }
       ]
     },
@@ -194,139 +302,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2084865983",
-      "title": "On event design in event-triggered feedback systems",
-      "year": 2011,
-      "date": "2011-08-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100333260",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2114963607",
-      "title": "Event design in event-triggered feedback control systems",
-      "year": 2008,
-      "date": "2008-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100333208",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2114469976",
-      "title": "Self-Triggering Under State-Independent Disturbances",
-      "year": 2010,
-      "date": "2010-03-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100333260",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2123605074",
-      "title": "Event-triggered broadcasting across distributed networked control systems",
-      "year": 2008,
-      "date": "2008-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100333208",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1539427630",
-      "title": "Event-Triggering in Distributed Networked Systems with Data Dropouts and Delays",
-      "year": 2009,
-      "date": "2009-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100333260",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2149519261",
-      "title": "Event-triggered distributed optimization in sensor networks",
-      "year": 2009,
-      "date": "2009-04-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030450582",
-          "name": "Pu Wan"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2075111064",
-      "title": "Event-triggered state estimation in vector linear processes",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5072379639",
-          "name": "Xiaofeng Wang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1553787959",
-      "title": "Robust performance of soft real-time networked control systems with data dropouts",
-      "year": 2003,
-      "date": "2003-08-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -342,7 +318,23 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1553787959",
+      "title": "Robust performance of soft real-time networked control systems with data dropouts",
+      "year": 2003,
+      "date": "2003-08-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -358,7 +350,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -374,7 +366,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -386,7 +378,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052459444",
@@ -406,7 +398,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5047344565",
@@ -434,7 +426,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -446,31 +438,11 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5085867442",
           "name": "Joydeep Ganguly"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2103052126",
-      "title": "Generalized Elastic Scheduling for Real-Time Tasks",
-      "year": 2008,
-      "date": "2008-09-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047344565",
-          "name": "Thidapat Chantem"
-        },
-        {
-          "id": "https://openalex.org/A5100600905",
-          "name": "Xiaobo Sharon Hu"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -490,7 +462,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -506,11 +478,11 @@
         },
         {
           "id": "https://openalex.org/A5113585141",
-          "name": "Caitlyn Shea"
+          "name": "Caitlyn A. Shea"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5060414047",
@@ -534,7 +506,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -550,7 +522,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -566,7 +538,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -582,7 +554,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -598,7 +570,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5100600905",
@@ -618,27 +590,27 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W2036542986",
-      "title": "Voltage stability of weak power distribution networks with inverter connected sources",
-      "year": 2013,
-      "date": "2013-06-01",
+      "id": "https://openalex.org/W2103052126",
+      "title": "Generalized Elastic Scheduling for Real-Time Tasks",
+      "year": 2008,
+      "date": "2008-09-26",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100676984",
-          "name": "Wang Zhao"
+          "id": "https://openalex.org/A5047344565",
+          "name": "Thidapat Chantem"
         },
         {
-          "id": "https://openalex.org/A5080268090",
-          "name": "Meng Xia"
+          "id": "https://openalex.org/A5100600905",
+          "name": "Xiaobo Sharon Hu"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -658,7 +630,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -678,27 +650,11 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5007719477",
           "name": "Qiang Ling"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2124226195",
-      "title": "A Necessary and Sufficient Feedback Dropout Condition to Stabilize Quantized Linear Control Systems With Bounded Noise",
-      "year": 2010,
-      "date": "2010-08-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -714,7 +670,23 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2124226195",
+      "title": "A Necessary and Sufficient Feedback Dropout Condition to Stabilize Quantized Linear Control Systems With Bounded Noise",
+      "year": 2010,
+      "date": "2010-08-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -726,7 +698,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -742,7 +714,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -758,7 +730,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -774,7 +746,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -790,7 +762,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -806,7 +778,27 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2036542986",
+      "title": "Voltage stability of weak power distribution networks with inverter connected sources",
+      "year": 2013,
+      "date": "2013-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100676984",
+          "name": "Wang Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5080268090",
+          "name": "Meng Xia"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -822,7 +814,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -842,7 +834,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -858,7 +850,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -886,7 +878,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5100623628",
@@ -926,31 +918,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1990626091",
-      "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
-      "year": 2013,
-      "date": "2013-09-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5084010923",
-          "name": "Alice Nightingale"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5041911210",
-          "name": "Eric Jumper"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -966,7 +934,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -986,7 +954,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1002,7 +970,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1022,7 +990,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1042,27 +1010,11 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2150093018",
-      "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
-      "year": 2002,
-      "date": "2002-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010488126",
-          "name": "Kaiyan He"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -1078,7 +1030,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1098,7 +1050,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5100600905",
@@ -1118,7 +1070,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1134,7 +1086,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1150,7 +1102,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1166,7 +1118,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1182,7 +1134,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1202,7 +1154,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1222,23 +1174,31 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W2045996677",
-      "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
-      "year": 2014,
-      "date": "2014-12-01",
+      "id": "https://openalex.org/W1990626091",
+      "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
+      "year": 2013,
+      "date": "2013-09-23",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101578562",
-          "name": "Bin Hu"
+          "id": "https://openalex.org/A5084010923",
+          "name": "Alice M. Nightingale"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5041911210",
+          "name": "Eric J. Jumper"
         }
       ]
     },
@@ -1254,7 +1214,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1270,7 +1230,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1290,7 +1250,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1302,11 +1262,27 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5055345322",
           "name": "B. V. K. Vijaya Kumar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2150093018",
+      "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
+      "year": 2002,
+      "date": "2002-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010488126",
+          "name": "Kaiyan He"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1318,7 +1294,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1330,7 +1306,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5007719477",
@@ -1354,7 +1330,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1370,7 +1346,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1390,7 +1366,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5007719477",
@@ -1406,7 +1382,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108321271",
@@ -1422,7 +1398,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1430,7 +1406,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1446,7 +1422,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1466,11 +1442,27 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2045996677",
+      "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
+      "year": 2014,
+      "date": "2014-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101578562",
+          "name": "Bin Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1490,7 +1482,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1510,7 +1502,23 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2129035339",
+      "title": "Adaptive mixtures of local experts are source coding solutions",
+      "year": 2002,
+      "date": "2002-12-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090415241",
+          "name": "Peter T. Szymanski"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1526,11 +1534,11 @@
         },
         {
           "id": "https://openalex.org/A5110433984",
-          "name": "David D. Yao"
+          "name": "David D. W. Yao"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1546,7 +1554,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1562,51 +1570,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2140739342",
-      "title": "Competitive learning with generalized winner-take-all activation",
-      "year": 1992,
-      "date": "1992-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5055345322",
-          "name": "B. V. K. Vijaya Kumar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2012295901",
-      "title": "Adaptive-Optic Correction of a Regularized Compressible Shear Layer",
-      "year": 2006,
-      "date": "2006-06-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5084010923",
-          "name": "Alice Nightingale"
-        },
-        {
-          "id": "https://openalex.org/A5060327936",
-          "name": "Daniel Duffin"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5041911210",
-          "name": "Eric Jumper"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1626,7 +1590,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1638,7 +1602,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5011661477",
@@ -1651,6 +1615,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2140739342",
+      "title": "Competitive learning with generalized winner-take-all activation",
+      "year": 1992,
+      "date": "1992-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5055345322",
+          "name": "B. V. K. Vijaya Kumar"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1998760935",
       "title": "Inductively inferring valid logical models of continuous-state dynamical systems",
       "year": 1995,
@@ -1658,7 +1638,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1678,7 +1658,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1690,7 +1670,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5007719477",
@@ -1706,7 +1686,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5084010923",
-          "name": "Alice Nightingale"
+          "name": "Alice M. Nightingale"
         },
         {
           "id": "https://openalex.org/A5042951623",
@@ -1714,11 +1694,11 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5041911210",
-          "name": "Eric Jumper"
+          "name": "Eric J. Jumper"
         }
       ]
     },
@@ -1730,7 +1710,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1750,7 +1730,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1762,7 +1742,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1786,27 +1766,11 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5007719477",
           "name": "Qiang Ling"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2140272029",
-      "title": "Optimal Dynamic Bit Assignment in Second-order Noise-free Quantized Linear Control Systems",
-      "year": 2006,
-      "date": "2006-10-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -1818,7 +1782,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1826,7 +1790,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1846,23 +1810,35 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W2148512359",
-      "title": "Stability of quantized linear systems with bounded noise under dynamic bit assignment",
-      "year": 2004,
-      "date": "2004-01-01",
+      "id": "https://openalex.org/W2012295901",
+      "title": "Adaptive-Optic Correction of a Regularized Compressible Shear Layer",
+      "year": 2006,
+      "date": "2006-06-05",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
+          "id": "https://openalex.org/A5084010923",
+          "name": "Alice M. Nightingale"
+        },
+        {
+          "id": "https://openalex.org/A5060327936",
+          "name": "Daniel Duffin"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5041911210",
+          "name": "Eric J. Jumper"
         }
       ]
     },
@@ -1878,7 +1854,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1894,7 +1870,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1906,7 +1882,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052459444",
@@ -1926,7 +1902,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052553992",
@@ -1942,7 +1918,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1966,7 +1942,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1974,7 +1950,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1986,39 +1962,11 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5013581554",
           "name": "Ivan Markovsky"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2129035339",
-      "title": "Adaptive mixtures of local experts are source coding solutions",
-      "year": 2002,
-      "date": "2002-12-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5090415241",
-          "name": "Peter T. Szymanski"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3021930077",
-      "title": "Event-Triggered Feedback in Control, Estimation, and Optimization",
-      "year": 2010,
-      "date": "2010-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -2034,7 +1982,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2050,7 +1998,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2066,7 +2014,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5103531366",
@@ -2086,7 +2034,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2102,7 +2050,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2118,27 +2066,11 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2227376638",
-      "title": "Distributed coordination of multi-agent systems based on estimation over ad-hoc communication networks",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5052553992",
-          "name": "Yashan Sun"
         }
       ]
     },
@@ -2154,7 +2086,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2170,7 +2102,115 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4244978024",
+      "title": "Overload management in sensor-actuator networks used for spatially-distributed control systems",
+      "year": 2003,
+      "date": "2003-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5052553992",
+          "name": "Yashan Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2140272029",
+      "title": "Optimal Dynamic Bit Assignment in Second-order Noise-free Quantized Linear Control Systems",
+      "year": 2006,
+      "date": "2006-10-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2148512359",
+      "title": "Stability of quantized linear systems with bounded noise under dynamic bit assignment",
+      "year": 2004,
+      "date": "2004-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1568282822",
+      "title": "Hybrid systems and intelligent control",
+      "year": 2002,
+      "date": "2002-12-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2137487543",
+      "title": "Inductive Inference of Invariant Subspaces",
+      "year": 1993,
+      "date": "1993-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2138536041",
+      "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
+      "year": 1991,
+      "date": "1991-12-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2227376638",
+      "title": "Distributed coordination of multi-agent systems based on estimation over ad-hoc communication networks",
+      "year": 2007,
+      "date": "2007-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5052553992",
+          "name": "Yashan Sun"
         }
       ]
     },
@@ -2206,55 +2246,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4244978024",
-      "title": "Overload management in sensor-actuator networks used for spatially-distributed control systems",
-      "year": 2003,
-      "date": "2003-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5052553992",
-          "name": "Yashan Sun"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1568282822",
-      "title": "Hybrid systems and intelligent control",
-      "year": 2002,
-      "date": "2002-12-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2138536041",
-      "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
-      "year": 1991,
-      "date": "1991-12-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2274,7 +2266,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2290,7 +2282,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2310,7 +2302,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2322,7 +2314,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2334,7 +2326,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2349,12 +2341,8 @@
       "date": "1995-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5075317738",
-          "name": "Xiaojun Yang"
-        },
-        {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2370,7 +2358,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2406,7 +2394,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2418,7 +2406,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2434,7 +2422,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2450,7 +2438,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2466,7 +2454,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2482,7 +2470,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5090415241",
@@ -2498,7 +2486,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2518,7 +2506,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2530,7 +2518,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2542,7 +2530,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2557,10 +2545,6 @@
       "date": "2004-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101624498",
-          "name": "Lei Fang"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
@@ -2574,7 +2558,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052553992",
@@ -2595,10 +2579,6 @@
         {
           "id": "https://openalex.org/A5070592593",
           "name": "Min Xie"
-        },
-        {
-          "id": "https://openalex.org/A5063161231",
-          "name": "Xiaojuan Xie"
         }
       ]
     },
@@ -2610,7 +2590,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5055345322",
@@ -2626,7 +2606,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2638,7 +2618,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2658,7 +2638,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2674,19 +2654,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2137487543",
-      "title": "Inductive Inference of Invariant Subspaces",
-      "year": 1993,
-      "date": "1993-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2702,7 +2670,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2718,7 +2686,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2730,7 +2698,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2746,7 +2714,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5010488126",
@@ -2766,7 +2734,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2778,7 +2746,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5019362963",
@@ -2802,15 +2770,15 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5090415241",
           "name": "Peter T. Szymanski"
         },
         {
-          "id": "https://openalex.org/A5108204053",
-          "name": "Chris Bett"
+          "id": "https://openalex.org/A5108194644",
+          "name": "Christopher J. Bett"
         }
       ]
     },
@@ -2826,7 +2794,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2842,7 +2810,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2858,7 +2826,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2870,7 +2838,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2886,7 +2854,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2902,7 +2870,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2918,7 +2886,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2930,7 +2898,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -2950,7 +2918,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2966,7 +2934,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2978,7 +2946,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2998,7 +2966,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3014,7 +2982,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3038,7 +3006,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3054,7 +3022,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3074,7 +3042,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3086,7 +3054,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5055345322",
@@ -3110,7 +3078,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3126,7 +3094,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3138,7 +3106,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5055345322",
@@ -3153,12 +3121,8 @@
       "date": "2002-11-27",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100893032",
-          "name": "Kangli He"
-        },
-        {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3170,7 +3134,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3182,7 +3146,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3194,7 +3158,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3206,7 +3170,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3222,7 +3186,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3234,7 +3198,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5034652649",
@@ -3250,7 +3214,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3266,7 +3230,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5025702566",
@@ -3282,7 +3246,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5030450582",
@@ -3302,7 +3266,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3318,7 +3282,7 @@
         },
         {
           "id": "https://openalex.org/A5100441829",
-          "name": "Wei Zhang"
+          "name": "Wei David Zhang"
         },
         {
           "id": "https://openalex.org/A5086321981",
@@ -3330,7 +3294,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5013169538",
@@ -3358,7 +3322,7 @@
         },
         {
           "id": "https://openalex.org/A5079098245",
-          "name": "Vadim Utkin"
+          "name": "Vadim I. Utkin"
         }
       ]
     },
@@ -3370,7 +3334,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3386,7 +3350,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3402,7 +3366,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3422,7 +3386,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5060414047",
@@ -3442,7 +3406,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3454,7 +3418,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3466,7 +3430,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3478,7 +3442,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3490,7 +3454,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3502,7 +3466,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3514,7 +3478,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3526,7 +3490,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -3535,10 +3499,6 @@
         {
           "id": "https://openalex.org/A5021639238",
           "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5019584569",
-          "name": "Huan Lin"
         }
       ]
     },
@@ -3550,7 +3510,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3562,7 +3522,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3574,7 +3534,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     }

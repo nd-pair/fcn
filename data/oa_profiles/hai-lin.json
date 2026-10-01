@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5045445273",
   "openalex_name": "Hai Lin",
   "affiliation": "University of Notre Dame",
-  "works_count": 897,
-  "cited_by_count": 9228,
+  "works_count": 859,
+  "cited_by_count": 9128,
   "photo": "assets/faculty/hai-lin.jpg",
-  "num_works_fetched": 897,
+  "num_works_fetched": 859,
   "works": [
     {
       "id": "https://openalex.org/W2062974796",
@@ -235,26 +235,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3034174753",
-      "title": "A Smooth Robustness Measure of Signal Temporal Logic for Symbolic Control",
-      "year": 2020,
-      "date": "2020-06-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056960147",
-          "name": "Yann Gilpin"
-        },
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3008058795",
       "title": "The Complexity in Complete Graphic Characterizations of Multiagent Controllability",
       "year": 2020,
@@ -279,6 +259,26 @@
         {
           "id": "https://openalex.org/A5055037158",
           "name": "Huizi Ma"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3034174753",
+      "title": "A Smooth Robustness Measure of Signal Temporal Logic for Symbolic Control",
+      "year": 2020,
+      "date": "2020-06-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056960147",
+          "name": "Yann Gilpin"
+        },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -401,10 +401,6 @@
           "name": "Yilin Wang"
         },
         {
-          "id": "https://openalex.org/A5014167486",
-          "name": "Yanli Li"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         }
@@ -451,46 +447,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2135623575",
-      "title": "Influence of topology on bacterial social interaction",
-      "year": 2003,
-      "date": "2003-11-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5087157024",
-          "name": "Sungsu Park"
-        },
-        {
-          "id": "https://openalex.org/A5083170411",
-          "name": "Peter M. Wolanin"
-        },
-        {
-          "id": "https://openalex.org/A5011018320",
-          "name": "Emil A. Yuzbashyan"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5063639625",
-          "name": "Nicholas C. Darnton"
-        },
-        {
-          "id": "https://openalex.org/A5090299931",
-          "name": "Jeffry B. Stock"
-        },
-        {
-          "id": "https://openalex.org/A5051926579",
-          "name": "Pascal Silberzan"
-        },
-        {
-          "id": "https://openalex.org/A5081117311",
-          "name": "Robert H. Austin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1544149452",
       "title": "Robust stability and disturbance attenuation analysis of a class of networked control systems",
       "year": 2004,
@@ -503,22 +459,6 @@
         {
           "id": "https://openalex.org/A5046218317",
           "name": "Guisheng Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2132821960",
-      "title": "Stability and Stabilizability of Switched Linear Systems: A Short Survey of Recent Results",
-      "year": 2005,
-      "date": "2005-07-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -675,30 +615,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2006144895",
-      "title": "Analysis and design of switched normal systems",
-      "year": 2006,
-      "date": "2006-08-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046218317",
-          "name": "Guisheng Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2158990917",
       "title": "The Car-Following and Lane-Changing Collision Prevention System Based on the Cascaded Fuzzy Inference System",
       "year": 2005,
@@ -735,26 +651,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2039918649",
-      "title": "Switching control of closed quantum systems via the Lyapunov method",
-      "year": 2012,
-      "date": "2012-06-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101841046",
-          "name": "Shouwei Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5103101740",
-          "name": "Zhengui Xue"
         }
       ]
     },
@@ -828,6 +724,26 @@
       "year": 2014,
       "date": "2014-04-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3138973759",
+      "title": "Transporting Robotic Swarms Via Mean-Field Feedback Control",
+      "year": 2021,
+      "date": "2021-08-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101864702",
+          "name": "Qing Han"
+        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
@@ -946,35 +862,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W784903613",
-      "title": "Adaptive sparse principal component analysis for enhanced process monitoring and fault isolation",
-      "year": 2015,
-      "date": "2015-06-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5038045862",
-          "name": "Kangling Liu"
-        },
-        {
-          "id": "https://openalex.org/A5007460506",
-          "name": "Zhengshun Fei"
-        },
-        {
-          "id": "https://openalex.org/A5027489651",
-          "name": "Boxuan Yue"
-        },
-        {
-          "id": "https://openalex.org/A5101519378",
-          "name": "Jun Liang"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1031,10 +919,6 @@
         {
           "id": "https://openalex.org/A5087602121",
           "name": "Qingkui Li"
-        },
-        {
-          "id": "https://openalex.org/A5017435748",
-          "name": "Yugang Li"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1095,6 +979,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3204383275",
+      "title": "Control Barrier Functions for Singularity Avoidance in Passivity-Based Manipulator Control",
+      "year": 2021,
+      "date": "2021-12-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4312857607",
       "title": "Contact-Implicit Trajectory Optimization with Hydroelastic Contact and iLQR",
       "year": 2022,
@@ -1127,26 +1031,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3204383275",
-      "title": "Control Barrier Functions for Singularity Avoidance in Passivity-Based Manipulator Control",
-      "year": 2021,
-      "date": "2021-12-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4385063004",
       "title": "Temporal Logic Motion Planning With Convex Optimization via Graphs of Convex Sets",
       "year": 2023,
@@ -1159,54 +1043,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4309425361",
-      "title": "Fabrication of direct Z-scheme Ag2O/Bi2MoO6 heterostructured microsphere with enhanced visible-light photocatalytic activity",
-      "year": 2022,
-      "date": "2022-11-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085848273",
-          "name": "Junhui Yi"
-        },
-        {
-          "id": "https://openalex.org/A5088017465",
-          "name": "Haoxian Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100330265",
-          "name": "Minghao Li"
-        },
-        {
-          "id": "https://openalex.org/A5066020584",
-          "name": "Runkun Xie"
-        },
-        {
-          "id": "https://openalex.org/A5057200343",
-          "name": "Beifang Chen"
-        },
-        {
-          "id": "https://openalex.org/A5090044458",
-          "name": "Runsi Ding"
-        },
-        {
-          "id": "https://openalex.org/A5088313229",
-          "name": "Zhenghui Liu"
-        },
-        {
-          "id": "https://openalex.org/A5063970579",
-          "name": "Dehao Li"
-        },
-        {
-          "id": "https://openalex.org/A5100369040",
-          "name": "Ning Li"
         }
       ]
     },
@@ -1235,6 +1071,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4309425361",
+      "title": "Fabrication of direct Z-scheme Ag2O/Bi2MoO6 heterostructured microsphere with enhanced visible-light photocatalytic activity",
+      "year": 2022,
+      "date": "2022-11-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085848273",
+          "name": "Junhui Yi"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100330265",
+          "name": "Minghao Li"
+        },
+        {
+          "id": "https://openalex.org/A5066020584",
+          "name": "Runkun Xie"
+        },
+        {
+          "id": "https://openalex.org/A5090044458",
+          "name": "Runsi Ding"
+        },
+        {
+          "id": "https://openalex.org/A5088313229",
+          "name": "Zhenghui Liu"
+        },
+        {
+          "id": "https://openalex.org/A5063970579",
+          "name": "Dehao Li"
+        },
+        {
+          "id": "https://openalex.org/A5100369040",
+          "name": "Ning Li"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2013202293",
       "title": "Automatic synthesis of cooperative multi-agent systems",
       "year": 2014,
@@ -1247,6 +1123,26 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4224221017",
+      "title": "A Generalized Distributed Analysis and Control Synthesis Approach for Networked Systems with Arbitrary Interconnections",
+      "year": 2022,
+      "date": "2022-06-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -1271,6 +1167,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4388488606",
+      "title": "A Course Recommendation Algorithm for a Personalized Online Learning Platform for Students From the Perspective of Deep Learning",
+      "year": 2023,
+      "date": "2023-11-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100577823",
+          "name": "Zhengmeng Xu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100553345",
+          "name": "Meiping Wu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2132821960",
+      "title": "Stability and Stabilizability of Switched Linear Systems: A Short Survey of Recent Results",
+      "year": 2005,
+      "date": "2005-07-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2109709801",
       "title": "Stability analysis for switched systems with continuous-time and discrete-time subsystems",
       "year": 2004,
@@ -1286,11 +1218,55 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         },
         {
           "id": "https://openalex.org/A5011056961",
           "name": "Kazunori Yasuda"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2006144895",
+      "title": "Analysis and design of switched normal systems",
+      "year": 2006,
+      "date": "2006-08-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046218317",
+          "name": "Guisheng Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "Anthony N. MICHEL"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2039918649",
+      "title": "Switching control of closed quantum systems via the Lyapunov method",
+      "year": 2012,
+      "date": "2012-06-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101841046",
+          "name": "Shouwei Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5103101740",
+          "name": "Zhengui Xue"
         }
       ]
     },
@@ -1327,6 +1303,58 @@
       ]
     },
     {
+      "id": "https://openalex.org/W784903613",
+      "title": "Adaptive sparse principal component analysis for enhanced process monitoring and fault isolation",
+      "year": 2015,
+      "date": "2015-06-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5038045862",
+          "name": "Kangling Liu"
+        },
+        {
+          "id": "https://openalex.org/A5007460506",
+          "name": "Zhengshun Fei"
+        },
+        {
+          "id": "https://openalex.org/A5027489651",
+          "name": "Boxuan Yue"
+        },
+        {
+          "id": "https://openalex.org/A5101519378",
+          "name": "Jun Sheng Liang"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2797707796",
+      "title": "Privacy Verification in POMDPs via Barrier Certificates",
+      "year": 2018,
+      "date": "2018-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114803856",
+          "name": "Mohamadreza Ahmadi"
+        },
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5068441112",
+          "name": "Ufuk Topcu"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1537417465",
       "title": "Management of Dynamic Location Information in DOMINO",
       "year": 2002,
@@ -1354,7 +1382,7 @@
         },
         {
           "id": "https://openalex.org/A5090787101",
-          "name": "Naphtali Rishe"
+          "name": "Naphtali David Rishe"
         }
       ]
     },
@@ -1391,26 +1419,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2064254237",
-      "title": "Structural controllability of high order dynamic multi-agent systems",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073796748",
-          "name": "Alireza Partovi"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5063831056",
-          "name": "Zhijian Ji"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2088647041",
       "title": "Asymptotic stability and disturbance attenuation properties for a class of networked control systems",
       "year": 2006,
@@ -1431,22 +1439,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2116085638",
-      "title": "An Improved Flux Observer for Sensorless Permanent Magnet Synchronous Motor Drives with Parameter Identification",
-      "year": 2013,
-      "date": "2013-05-01",
+      "id": "https://openalex.org/W2064254237",
+      "title": "Structural controllability of high order dynamic multi-agent systems",
+      "year": 2010,
+      "date": "2010-06-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5073796748",
+          "name": "Alireza Partovi"
+        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5026398771",
-          "name": "Kyu-Yun Hwang"
-        },
-        {
-          "id": "https://openalex.org/A5006063194",
-          "name": "Byung\u2010il Kwon"
+          "id": "https://openalex.org/A5063831056",
+          "name": "Zhijian Ji"
         }
       ]
     },
@@ -1511,6 +1519,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2116085638",
+      "title": "An Improved Flux Observer for Sensorless Permanent Magnet Synchronous Motor Drives with Parameter Identification",
+      "year": 2013,
+      "date": "2013-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5026398771",
+          "name": "Kyu-Yun Hwang"
+        },
+        {
+          "id": "https://openalex.org/A5006063194",
+          "name": "Byung\u2010il Kwon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2964129231",
       "title": "POMDP Model Learning for Human Robot Collaboration",
       "year": 2018,
@@ -1531,22 +1559,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3145002751",
-      "title": "A graph-theoretic characterization of structural controllability for multi-agent system with switching topology",
-      "year": 2009,
-      "date": "2009-12-01",
+      "id": "https://openalex.org/W2886041768",
+      "title": "A Mean Field Game Approach to Swarming Robots Control",
+      "year": 2018,
+      "date": "2018-06-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100749518",
-          "name": "Xiaomeng Liu"
+          "id": "https://openalex.org/A5100400416",
+          "name": "Zhiyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100428803",
-          "name": "Ben M. Chen"
         }
       ]
     },
@@ -1575,22 +1603,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2886041768",
-      "title": "A Mean Field Game Approach to Swarming Robots Control",
-      "year": 2018,
-      "date": "2018-06-01",
+      "id": "https://openalex.org/W3145002751",
+      "title": "A graph-theoretic characterization of structural controllability for multi-agent system with switching topology",
+      "year": 2009,
+      "date": "2009-12-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100400416",
-          "name": "Zhiyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
+          "id": "https://openalex.org/A5100749518",
+          "name": "Xiaomeng Liu"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100428803",
+          "name": "Ben M. Chen"
         }
       ]
     },
@@ -1635,34 +1663,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2089855820",
-      "title": "Design and control for rotor-fixed wing hybrid aircraft",
-      "year": 2011,
-      "date": "2011-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100395837",
-          "name": "Xinhua Wang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2103807413",
       "title": "Development of a Cross Style Quadrotor",
       "year": 2012,
       "date": "2012-08-13",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5010040351",
-          "name": "Ali Reza Partovi"
+          "id": "https://openalex.org/A5073796748",
+          "name": "Alireza Partovi"
         },
         {
-          "id": "https://openalex.org/A5097965282",
-          "name": "Ang Zong Yao Kevin"
+          "id": "https://openalex.org/A5019085812",
+          "name": "AngZong Yao Kevin"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1675,6 +1687,22 @@
         {
           "id": "https://openalex.org/A5101579301",
           "name": "Guowei Cai"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2089855820",
+      "title": "Design and control for rotor-fixed wing hybrid aircraft",
+      "year": 2011,
+      "date": "2011-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100395837",
+          "name": "Xinhua Wang"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -1698,7 +1726,7 @@
         },
         {
           "id": "https://openalex.org/A5008952174",
-          "name": "Tong H. Lee"
+          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -1775,26 +1803,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2114642362",
-      "title": "A bumpless hybrid supervisory control algorithm for the formation of unmanned helicopters",
-      "year": 2013,
-      "date": "2013-08-22",
+      "id": "https://openalex.org/W3166062394",
+      "title": "Distributed Mean-Field Density Estimation for Large-Scale Systems",
+      "year": 2021,
+      "date": "2021-10-27",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5082128797",
-          "name": "Ali Karimoddini"
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101864702",
+          "name": "Qing Han"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100428803",
-          "name": "Ben M. Chen"
-        },
-        {
-          "id": "https://openalex.org/A5026685411",
-          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -1819,34 +1843,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3114705960",
-      "title": "Approximate Simulation for Template-Based Whole-Body Control",
-      "year": 2020,
-      "date": "2020-12-29",
+      "id": "https://openalex.org/W4327831994",
+      "title": "A new integrated regulation strategy and modelling for wind turbine with battery energy storage system",
+      "year": 2023,
+      "date": "2023-03-17",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
+          "id": "https://openalex.org/A5011255752",
+          "name": "Yang Song"
         },
         {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
+          "id": "https://openalex.org/A5018122054",
+          "name": "Mingcong Du"
         },
         {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3217403887",
-      "title": "A More Scalable Mixed-Integer Encoding for Metric Temporal Logic",
-      "year": 2021,
-      "date": "2021-12-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
+          "id": "https://openalex.org/A5037885143",
+          "name": "Wanqing Zhao"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -1871,30 +1883,6 @@
         {
           "id": "https://openalex.org/A5008501506",
           "name": "Shuzhi Sam Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4327831994",
-      "title": "A new integrated regulation strategy and modelling for wind turbine with battery energy storage system",
-      "year": 2023,
-      "date": "2023-03-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011255752",
-          "name": "Yang Song"
-        },
-        {
-          "id": "https://openalex.org/A5018122054",
-          "name": "Mingcong Du"
-        },
-        {
-          "id": "https://openalex.org/A5037885143",
-          "name": "Wanqing Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -1955,22 +1943,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4315471768",
-      "title": "PDE-based Dynamic Control and Estimation of Soft Robotic Arms",
-      "year": 2022,
-      "date": "2022-12-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2588051178",
       "title": "Implicit Lyapunov\u2010based control strategy for closed quantum systems with dipole and polarizability coupling",
       "year": 2017,
@@ -1995,6 +1967,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2973459893",
+      "title": "Formal Connections between Template and Anchor Models via Approximate Simulation",
+      "year": 2019,
+      "date": "2019-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5005085816",
+          "name": "Rafael Rodrigues da Silva"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2022765575",
       "title": "Formal methods for stability analysis of networked control systems with IEEE 802.15.4 protocol",
       "year": 2014,
@@ -2010,7 +2006,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2035,10 +2031,6 @@
         {
           "id": "https://openalex.org/A5055609680",
           "name": "Vamshikrishna Thatikonda"
-        },
-        {
-          "id": "https://openalex.org/A5029236194",
-          "name": "Rodrigo Xavier"
         }
       ]
     },
@@ -2078,7 +2070,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         },
         {
           "id": "https://openalex.org/A5101766328",
@@ -2087,74 +2079,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4322628107",
-      "title": "Experimental Study of Acid Etching and Conductivity of High-Temperature-Resistant Cross-Linked Acid",
-      "year": 2023,
-      "date": "2023-02-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5113147551",
-          "name": "Tengfei Hou"
-        },
-        {
-          "id": "https://openalex.org/A5058670171",
-          "name": "Fuguo Wang"
-        },
-        {
-          "id": "https://openalex.org/A5114098243",
-          "name": "Long Yue"
-        },
-        {
-          "id": "https://openalex.org/A5030994796",
-          "name": "Shiduo Liu"
-        },
-        {
-          "id": "https://openalex.org/A5034482948",
-          "name": "Guide Yuan"
-        },
-        {
-          "id": "https://openalex.org/A5100334028",
-          "name": "Guoqing Wang"
-        },
-        {
-          "id": "https://openalex.org/A5100371093",
-          "name": "Yong Liu"
-        },
-        {
-          "id": "https://openalex.org/A5051635189",
-          "name": "Qing Wang"
-        },
-        {
-          "id": "https://openalex.org/A5077374092",
-          "name": "Fujian Zhou"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4382936125",
-      "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
-      "year": 2023,
-      "date": "2023-05-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -2178,7 +2102,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         },
         {
           "id": "https://openalex.org/A5101766328",
@@ -2187,26 +2111,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4388488606",
-      "title": "A Course Recommendation Algorithm for a Personalized Online Learning Platform for Students From the Perspective of Deep Learning",
-      "year": 2023,
-      "date": "2023-11-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100577823",
-          "name": "Zhengmeng Xu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100553345",
-          "name": "Meiping Wu"
         }
       ]
     },
@@ -2231,202 +2135,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4290729279",
-      "title": "Jiawei Runjing Decoction Improves Spermatogenesis of Cryptozoospermia With Varicocele by Regulating the Testicular Microenvironment: Two-Center Prospective Cohort Study",
-      "year": 2022,
-      "date": "2022-08-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101557016",
-          "name": "Huang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5023453733",
-          "name": "Zhongwang Huang"
-        },
-        {
-          "id": "https://openalex.org/A5011751775",
-          "name": "Houbin Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5100308498",
-          "name": "Zhiyong Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5100334957",
-          "name": "Hui Yang"
-        },
-        {
-          "id": "https://openalex.org/A5037169751",
-          "name": "Xingzhang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5031842962",
-          "name": "Tao Pang"
-        },
-        {
-          "id": "https://openalex.org/A5102269954",
-          "name": "Liping He"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5101636717",
-          "name": "Lei Hu"
-        },
-        {
-          "id": "https://openalex.org/A5028943016",
-          "name": "Qingqi Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5102923527",
-          "name": "Lanying Han"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4313224581",
-      "title": "\u201cDancing Coins?\u201d Unexpected Finding During microsurgery and Potential Risk of Sperm Damage: Intrascrotal Calculi: A Retrospective Analysis",
-      "year": 2022,
-      "date": "2022-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101557016",
-          "name": "Huang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5101655937",
-          "name": "Zhixing Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5055207576",
-          "name": "Wei Lv"
-        },
-        {
-          "id": "https://openalex.org/A5013906632",
-          "name": "Qianyi Li"
-        },
-        {
-          "id": "https://openalex.org/A5036913351",
-          "name": "Zhaohui Qing"
-        },
-        {
-          "id": "https://openalex.org/A5108103636",
-          "name": "Xiaolin Zhong"
-        },
-        {
-          "id": "https://openalex.org/A5090997117",
-          "name": "Shaoqin Peng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5011751775",
-          "name": "Houbin Zheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4389668019",
-      "title": "Stable Real-Time Feedback Control of a Pneumatic Soft Robot",
-      "year": 2023,
-      "date": "2023-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5034900098",
-          "name": "Sean Even"
-        },
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4399404206",
-      "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
-      "year": 2024,
-      "date": "2024-06-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4399745665",
-      "title": "Adaptive Neural Network Prescribed Time Control for Constrained Multi-Robotics Systems with Parametric Uncertainties",
-      "year": 2024,
-      "date": "2024-06-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085348399",
-          "name": "Ruizhi Tang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100423680",
-          "name": "Zheng Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100964943",
-          "name": "Xiaoyang Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5102689822",
-          "name": "Yixiang Gu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4396875104",
-      "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
-      "year": 2024,
-      "date": "2024-04-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5085630453",
-          "name": "Ciera McFarland"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -2457,16 +2165,12 @@
           "name": "Curtis Dyreson"
         },
         {
-          "id": "https://openalex.org/A5004497797",
-          "name": "William S. Evans"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5058823251",
-          "name": "Richard T. Snodgrass"
+          "name": "Richard Thomas Snodgrass"
         }
       ]
     },
@@ -2514,7 +2218,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         },
         {
           "id": "https://openalex.org/A5022804075",
@@ -2622,7 +2326,7 @@
         },
         {
           "id": "https://openalex.org/A5008952174",
-          "name": "Tong H. Lee"
+          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -2703,22 +2407,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2120120939",
-      "title": "Decentralized hybrid formation control of Unmanned Aerial Vehicles",
-      "year": 2014,
-      "date": "2014-06-01",
+      "id": "https://openalex.org/W2114642362",
+      "title": "A bumpless hybrid supervisory control algorithm for the formation of unmanned helicopters",
+      "year": 2013,
+      "date": "2013-08-22",
       "coauthors": [
         {
           "id": "https://openalex.org/A5082128797",
           "name": "Ali Karimoddini"
         },
         {
-          "id": "https://openalex.org/A5028192379",
-          "name": "Mohammad Karimadini"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100428803",
+          "name": "Ben M. Chen"
+        },
+        {
+          "id": "https://openalex.org/A5026685411",
+          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -2783,10 +2491,26 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3114705960",
+      "title": "Approximate Simulation for Template-Based Whole-Body Control",
+      "year": 2020,
+      "date": "2020-12-29",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
         },
         {
-          "id": "https://openalex.org/A5042575631",
-          "name": "Hui Tong"
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -2800,6 +2524,22 @@
           "id": "https://openalex.org/A5005085816",
           "name": "Rafael Rodrigues da Silva"
         },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3217403887",
+      "title": "A More Scalable Mixed-Integer Encoding for Metric Temporal Logic",
+      "year": 2021,
+      "date": "2021-12-06",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5021639238",
           "name": "Vince Kurtz"
@@ -2923,34 +2663,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2060375160",
-      "title": "Synchronized task decomposition for two cooperative agents",
-      "year": 2010,
-      "date": "2010-06-01",
+      "id": "https://openalex.org/W3105047841",
+      "title": "Trajectory Optimization for High-Dimensional Nonlinear Systems Under STL Specifications",
+      "year": 2020,
+      "date": "2020-11-17",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5028192379",
-          "name": "Mohammad Karimadini"
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2166330312",
-      "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
-      "year": 2004,
-      "date": "2004-06-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -2975,18 +2699,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3045568673",
-      "title": "Robust Approximate Simulation for Hierarchical Control of Linear Systems under Disturbances",
-      "year": 2020,
-      "date": "2020-07-01",
+      "id": "https://openalex.org/W4315471768",
+      "title": "PDE-based Dynamic Control and Estimation of Soft Robotic Arms",
+      "year": 2022,
+      "date": "2022-12-06",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -2995,18 +2715,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3105047841",
-      "title": "Trajectory Optimization for High-Dimensional Nonlinear Systems Under STL Specifications",
-      "year": 2020,
-      "date": "2020-11-17",
+      "id": "https://openalex.org/W2166330312",
+      "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
+      "year": 2004,
+      "date": "2004-06-21",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -3066,7 +2786,7 @@
         },
         {
           "id": "https://openalex.org/A5100358003",
-          "name": "Jun Zhao"
+          "name": "Jun Yan Zhao"
         }
       ]
     },
@@ -3173,7 +2893,7 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5054542465",
+          "id": "https://openalex.org/A5101771470",
           "name": "Yakai Tian"
         },
         {
@@ -3187,66 +2907,70 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2743132191",
-      "title": "Spatially\u2013temporally online fault detection using timed multivariate statistical logic",
-      "year": 2017,
-      "date": "2017-08-10",
+      "id": "https://openalex.org/W4322628107",
+      "title": "Experimental Study of Acid Etching and Conductivity of High-Temperature-Resistant Cross-Linked Acid",
+      "year": 2023,
+      "date": "2023-02-28",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5038045862",
-          "name": "Kangling Liu"
-        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5007460506",
-          "name": "Zhengshun Fei"
+          "id": "https://openalex.org/A5113147551",
+          "name": "Tengfei Hou"
         },
         {
-          "id": "https://openalex.org/A5101519378",
-          "name": "Jun Liang"
+          "id": "https://openalex.org/A5058670171",
+          "name": "Fuguo Wang"
+        },
+        {
+          "id": "https://openalex.org/A5114098243",
+          "name": "Long Yue"
+        },
+        {
+          "id": "https://openalex.org/A5030994796",
+          "name": "Shiduo Liu"
+        },
+        {
+          "id": "https://openalex.org/A5034482948",
+          "name": "Guide Yuan"
+        },
+        {
+          "id": "https://openalex.org/A5100334028",
+          "name": "Guoqing Wang"
+        },
+        {
+          "id": "https://openalex.org/A5100371093",
+          "name": "Yong Liu"
+        },
+        {
+          "id": "https://openalex.org/A5051635189",
+          "name": "Qing Wang"
+        },
+        {
+          "id": "https://openalex.org/A5077374092",
+          "name": "Fujian Zhou"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W3158874672",
-      "title": "Supervisor synthesis of POMDP via automata learning",
-      "year": 2021,
-      "date": "2021-05-03",
+      "id": "https://openalex.org/W4382936125",
+      "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
+      "year": 2023,
+      "date": "2023-05-31",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
-        },
-        {
-          "id": "https://openalex.org/A5100379593",
-          "name": "Xiaobin Zhang"
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3185092232",
-      "title": "Symbolic Control of Hybrid Systems from Signal Temporal Logic Specifications",
-      "year": 2021,
-      "date": "2021-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005085816",
-          "name": "Rafael Rodrigues da Silva"
         },
         {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -3271,70 +2995,122 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2990914639",
-      "title": "Privacy Verification and Enforcement via Belief Manipulation",
-      "year": 2019,
-      "date": "2019-11-21",
+      "id": "https://openalex.org/W4290729279",
+      "title": "Jiawei Runjing Decoction Improves Spermatogenesis of Cryptozoospermia With Varicocele by Regulating the Testicular Microenvironment: Two-Center Prospective Cohort Study",
+      "year": 2022,
+      "date": "2022-08-09",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
+          "id": "https://openalex.org/A5101557016",
+          "name": "Huang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5023453733",
+          "name": "Zhongwang Huang"
+        },
+        {
+          "id": "https://openalex.org/A5011751775",
+          "name": "Houbin Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5100308498",
+          "name": "Zhiyong Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5100334957",
+          "name": "Hui Yang"
+        },
+        {
+          "id": "https://openalex.org/A5037169751",
+          "name": "Xingzhang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5031842962",
+          "name": "Tao Pang"
+        },
+        {
+          "id": "https://openalex.org/A5102269954",
+          "name": "Liping He"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5068441112",
-          "name": "Ufuk Topcu"
+          "id": "https://openalex.org/A5101636717",
+          "name": "Lei Hu"
+        },
+        {
+          "id": "https://openalex.org/A5028943016",
+          "name": "Qingqi Zeng"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W4297614128",
-      "title": "Robust Approximate Simulation for Hierarchical Control of Piecewise Affine Systems under Bounded Disturbances",
-      "year": 2022,
-      "date": "2022-06-08",
+      "id": "https://openalex.org/W4389668019",
+      "title": "Stable Real-Time Feedback Control of a Pneumatic Soft Robot",
+      "year": 2023,
+      "date": "2023-10-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
+          "id": "https://openalex.org/A5034900098",
+          "name": "Sean Even"
         },
         {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
         },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399404206",
+      "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
+      "year": 2024,
+      "date": "2024-06-06",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5074601746",
           "name": "Shirantha Welikala"
         },
         {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W2593473422",
-      "title": "Stability and \u2112 2 Gain Analysis for Discrete-Time LTI Systems with Controller Failures",
-      "year": 2004,
-      "date": "2004-07-01",
+      "id": "https://openalex.org/W4399745665",
+      "title": "Adaptive Neural Network Prescribed Time Control for Constrained Multi-Robotics Systems with Parametric Uncertainties",
+      "year": 2024,
+      "date": "2024-06-17",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5046218317",
-          "name": "Guisheng Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5005678368",
-          "name": "Xinkai Chen"
-        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100423680",
+          "name": "Zheng Liu"
+        },
+        {
+          "id": "https://openalex.org/A5100964943",
+          "name": "Xiaoyang Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5102689822",
+          "name": "Yixiang Gu"
         }
       ]
     },
@@ -3346,7 +3122,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5088880876",
-          "name": "Yong Yu"
+          "name": "Yong Hui Yu"
         },
         {
           "id": "https://openalex.org/A5100653938",
@@ -3371,54 +3147,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4366777318",
-      "title": "Minimizing Environmental Impacts During Offshore Drilling and Production Using Innovative Waste Recycling and Reutilization Technology in China Bohai Oilfield",
-      "year": 2023,
-      "date": "2023-04-23",
+      "id": "https://openalex.org/W4396875104",
+      "title": "Estimating Infinite-Dimensional Continuum Robot States From the Tip",
+      "year": 2024,
+      "date": "2024-04-14",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5086796043",
-          "name": "Xinxin Hou"
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
         },
         {
-          "id": "https://openalex.org/A5003024415",
-          "name": "Hongbo Huo"
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
         },
         {
-          "id": "https://openalex.org/A5102822472",
-          "name": "Xiaocheng Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5055015997",
-          "name": "Tao Xie"
-        },
-        {
-          "id": "https://openalex.org/A5045048007",
-          "name": "Ruibing He"
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5032855719",
-          "name": "Dongsheng Xu"
-        },
-        {
-          "id": "https://openalex.org/A5100424310",
-          "name": "Yuchen Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5108054267",
-          "name": "Zhiheng Li"
-        },
-        {
-          "id": "https://openalex.org/A5029357369",
-          "name": "Chuang Song"
-        },
-        {
-          "id": "https://openalex.org/A5100409772",
-          "name": "Jia Liu"
         }
       ]
     },
@@ -3463,98 +3211,6 @@
         {
           "id": "https://openalex.org/A5100376036",
           "name": "Shasha Li"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4409535204",
-      "title": "Fault detection for hybrid-triggered networked systems subject to delay and deception attacks",
-      "year": 2025,
-      "date": "2025-04-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5103809359",
-          "name": "Shifang Dai"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100766086",
-          "name": "Jinliang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5050172715",
-          "name": "Engang Tian"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4398249762",
-      "title": "Finite-step approximately bi-similar symbolic model for switched systems",
-      "year": 2024,
-      "date": "2024-05-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5036266680",
-          "name": "Yongzhuang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5011255752",
-          "name": "Yang Song"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4406728948",
-      "title": "Online Aerial Target Trajectory Prediction Using Multiple Model-Based Filter",
-      "year": 2024,
-      "date": "2024-10-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5003025808",
-          "name": "Xinsong Yang"
-        },
-        {
-          "id": "https://openalex.org/A5115995329",
-          "name": "Enze Xue"
-        },
-        {
-          "id": "https://openalex.org/A5102399074",
-          "name": "Yaping Sun"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4414116801",
-      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
-      "year": 2025,
-      "date": "2025-09-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -3634,7 +3290,7 @@
         },
         {
           "id": "https://openalex.org/A5090787101",
-          "name": "Naphtali Rishe"
+          "name": "Naphtali David Rishe"
         }
       ]
     },
@@ -3719,6 +3375,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2120120939",
+      "title": "Decentralized hybrid formation control of Unmanned Aerial Vehicles",
+      "year": 2014,
+      "date": "2014-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082128797",
+          "name": "Ali Karimoddini"
+        },
+        {
+          "id": "https://openalex.org/A5028192379",
+          "name": "Mohammad Karimadini"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3146124143",
       "title": "Model-Based Control with Intermittent Feedback",
       "year": 2006,
@@ -3778,7 +3454,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -3813,7 +3489,7 @@
           "name": "Ben M. Chen"
         },
         {
-          "id": "https://openalex.org/A5026576438",
+          "id": "https://openalex.org/A5101579301",
           "name": "Guowei Cai"
         },
         {
@@ -3822,23 +3498,7 @@
         },
         {
           "id": "https://openalex.org/A5008952174",
-          "name": "Tong H. Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1506290449",
-      "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
-      "year": 2003,
-      "date": "2003-08-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
+          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -3857,7 +3517,7 @@
           "name": "Ben M. Chen"
         },
         {
-          "id": "https://openalex.org/A5026576438",
+          "id": "https://openalex.org/A5101579301",
           "name": "Guowei Cai"
         },
         {
@@ -3866,7 +3526,23 @@
         },
         {
           "id": "https://openalex.org/A5008952174",
-          "name": "Tong H. Lee"
+          "name": "Tong Heng Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2060375160",
+      "title": "Synchronized task decomposition for two cooperative agents",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028192379",
+          "name": "Mohammad Karimadini"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -3931,6 +3607,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3045568673",
+      "title": "Robust Approximate Simulation for Hierarchical Control of Linear Systems under Disturbances",
+      "year": 2020,
+      "date": "2020-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1506290449",
+      "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+      "year": 2003,
+      "date": "2003-08-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2171421159",
       "title": "Developments in hybrid modeling and control of Unmanned Aerial Vehicles",
       "year": 2009,
@@ -3951,22 +3663,6 @@
         {
           "id": "https://openalex.org/A5026685411",
           "name": "Tong Heng Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2942224903",
-      "title": "Vector Autoregressive POMDP Model Learning and Planning for Human\u2013Robot Collaboration",
-      "year": 2019,
-      "date": "2019-05-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019036867",
-          "name": "Wei Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -4022,7 +3718,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -4033,8 +3729,8 @@
       "date": "2011-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5010040351",
-          "name": "Ali Reza Partovi"
+          "id": "https://openalex.org/A5073796748",
+          "name": "Alireza Partovi"
         },
         {
           "id": "https://openalex.org/A5100395837",
@@ -4199,6 +3895,70 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2743132191",
+      "title": "Spatially\u2013temporally online fault detection using timed multivariate statistical logic",
+      "year": 2017,
+      "date": "2017-08-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5038045862",
+          "name": "Kangling Liu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5007460506",
+          "name": "Zhengshun Fei"
+        },
+        {
+          "id": "https://openalex.org/A5101519378",
+          "name": "Jun Sheng Liang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3158874672",
+      "title": "Supervisor synthesis of POMDP via automata learning",
+      "year": 2021,
+      "date": "2021-05-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
+        },
+        {
+          "id": "https://openalex.org/A5100379593",
+          "name": "Xiaobin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3185092232",
+      "title": "Symbolic Control of Hybrid Systems from Signal Temporal Logic Specifications",
+      "year": 2021,
+      "date": "2021-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005085816",
+          "name": "Rafael Rodrigues da Silva"
+        },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2105882375",
       "title": "Simultaneous stability of a collection of networked control systems with uncertain delays",
       "year": 2008,
@@ -4223,6 +3983,54 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2990914639",
+      "title": "Privacy Verification and Enforcement via Belief Manipulation",
+      "year": 2019,
+      "date": "2019-11-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5068441112",
+          "name": "Ufuk Topcu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4297614128",
+      "title": "Robust Approximate Simulation for Hierarchical Control of Piecewise Affine Systems under Bounded Disturbances",
+      "year": 2022,
+      "date": "2022-06-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2003865094",
       "title": "Implementation of formation flight of multiple unmanned aerial vehicles",
       "year": 2010,
@@ -4233,7 +4041,7 @@
           "name": "Xiangxu Dong"
         },
         {
-          "id": "https://openalex.org/A5026576438",
+          "id": "https://openalex.org/A5101579301",
           "name": "Guowei Cai"
         },
         {
@@ -4250,7 +4058,7 @@
         },
         {
           "id": "https://openalex.org/A5008952174",
-          "name": "Tong H. Lee"
+          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -4271,50 +4079,6 @@
         {
           "id": "https://openalex.org/A5100428803",
           "name": "Ben M. Chen"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3198278692",
-      "title": "An Open, Real-World Dataset of Cellular UAV Communication Properties",
-      "year": 2021,
-      "date": "2021-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037299618",
-          "name": "Gonzalo J. Martinez"
-        },
-        {
-          "id": "https://openalex.org/A5091080140",
-          "name": "Grigoriy Dubrovskiy"
-        },
-        {
-          "id": "https://openalex.org/A5051716922",
-          "name": "Shangyue Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5001324598",
-          "name": "Alamin Mohammed"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5076363259",
-          "name": "J. Nicholas Laneman"
-        },
-        {
-          "id": "https://openalex.org/A5048928683",
-          "name": "Aaron Striegel"
-        },
-        {
-          "id": "https://openalex.org/A5030792129",
-          "name": "Ravikumar Pragada"
-        },
-        {
-          "id": "https://openalex.org/A5065984316",
-          "name": "Douglas Castor"
         }
       ]
     },
@@ -4409,10 +4173,6 @@
       "date": "2023-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101803067",
-          "name": "H. Wu"
-        },
-        {
           "id": "https://openalex.org/A5050254061",
           "name": "Ahmet Taha Koru"
         },
@@ -4427,38 +4187,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W654753609",
-      "title": "The impact of periphyton attached on Potamogeton crispus on nitrogen and phosphorus loads in water",
-      "year": 2013,
-      "date": "2013-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5105499299",
-          "name": "\u8463\u5f6c"
-        },
-        {
-          "id": "https://openalex.org/A5105917851",
-          "name": "\u9646\u5168\u5e73"
-        },
-        {
-          "id": "https://openalex.org/A5100762883",
-          "name": "\u738b\u56fd\u7965"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5105395641",
-          "name": "\u5468\u950b"
-        },
-        {
-          "id": "https://openalex.org/A5105139112",
-          "name": "\u9b4f\u5b8f\u519c"
         }
       ]
     },
@@ -4527,22 +4255,74 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4287015853",
-      "title": "Backstepping Mean-Field Density Control for Large-Scale Heterogeneous Nonlinear Stochastic Systems",
-      "year": 2022,
-      "date": "2022-06-08",
+      "id": "https://openalex.org/W2593473422",
+      "title": "Stability and \u2112 2 Gain Analysis for Discrete-Time LTI Systems with Controller Failures",
+      "year": 2004,
+      "date": "2004-07-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
+          "id": "https://openalex.org/A5046218317",
+          "name": "Guisheng Zhai"
         },
         {
-          "id": "https://openalex.org/A5101864702",
-          "name": "Qing Han"
+          "id": "https://openalex.org/A5005678368",
+          "name": "Xinkai Chen"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4366777318",
+      "title": "Minimizing Environmental Impacts During Offshore Drilling and Production Using Innovative Waste Recycling and Reutilization Technology in China Bohai Oilfield",
+      "year": 2023,
+      "date": "2023-04-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086796043",
+          "name": "Xinxin Hou"
+        },
+        {
+          "id": "https://openalex.org/A5003024415",
+          "name": "Hongbo Huo"
+        },
+        {
+          "id": "https://openalex.org/A5102822472",
+          "name": "Xiaocheng Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5055015997",
+          "name": "Tao Xie"
+        },
+        {
+          "id": "https://openalex.org/A5045048007",
+          "name": "Ruibing He"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5032855719",
+          "name": "Dongsheng Xu"
+        },
+        {
+          "id": "https://openalex.org/A5100424310",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5108054267",
+          "name": "Zhiheng Li"
+        },
+        {
+          "id": "https://openalex.org/A5029357369",
+          "name": "Chuang Song"
+        },
+        {
+          "id": "https://openalex.org/A5100409772",
+          "name": "Jia Liu"
         }
       ]
     },
@@ -4566,7 +4346,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -4575,34 +4355,6 @@
         {
           "id": "https://openalex.org/A5101766328",
           "name": "Minghui Zhu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4408543843",
-      "title": "Research on the comprehensive dessert evaluation method in shale oil reservoirs based on fractal characteristics of conventional logging curves",
-      "year": 2025,
-      "date": "2025-03-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023421422",
-          "name": "Juhua Li"
-        },
-        {
-          "id": "https://openalex.org/A5022020314",
-          "name": "Zeng Xiao-qin"
-        },
-        {
-          "id": "https://openalex.org/A5116668697",
-          "name": "Lian Cui-hao"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5116668698",
-          "name": "Lei Fengyu"
         }
       ]
     },
@@ -4669,16 +4421,52 @@
       "date": "2023-10-16",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5027095108",
-          "name": "Zhong Wan"
-        },
-        {
-          "id": "https://openalex.org/A5101725149",
-          "name": "Peiqi Ge"
-        },
-        {
           "id": "https://openalex.org/A5003379072",
           "name": "Mingyu Gao"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409535204",
+      "title": "Fault detection for hybrid-triggered networked systems subject to delay and deception attacks",
+      "year": 2025,
+      "date": "2025-04-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5103809359",
+          "name": "Shifang Dai"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100766086",
+          "name": "Jinliang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5050172715",
+          "name": "Engang Tian"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4398249762",
+      "title": "Finite-step approximately bi-similar symbolic model for switched systems",
+      "year": 2024,
+      "date": "2024-05-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5036266680",
+          "name": "Yongzhuang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5011255752",
+          "name": "Yang Song"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -4693,20 +4481,72 @@
       "date": "2024-06-23",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101412228",
-          "name": "Xiaoling Huang"
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         },
+        {
+          "id": "https://openalex.org/A5019475373",
+          "name": "Dongming Gan"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406728948",
+      "title": "Online Aerial Target Trajectory Prediction Using Multiple Model-Based Filter",
+      "year": 2024,
+      "date": "2024-10-18",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5087250534",
-          "name": "Jun Luo"
+          "id": "https://openalex.org/A5003025808",
+          "name": "Xinsong Yang"
         },
         {
-          "id": "https://openalex.org/A5019475373",
-          "name": "Dongming Gan"
+          "id": "https://openalex.org/A5115995329",
+          "name": "Enze Xue"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414116801",
+      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
+      "year": 2025,
+      "date": "2025-09-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2942224903",
+      "title": "Vector Autoregressive POMDP Model Learning and Planning for Human\u2013Robot Collaboration",
+      "year": 2019,
+      "date": "2019-05-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019036867",
+          "name": "Wei Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -4731,186 +4571,62 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2012595096",
-      "title": "An Artificial Neural Network Model for Data Prediction",
-      "year": 2014,
-      "date": "2014-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3185752730",
-      "title": "Trajectory Optimization for High-Dimensional Nonlinear Systems under STL Specifications",
+      "id": "https://openalex.org/W3198278692",
+      "title": "An Open, Real-World Dataset of Cellular UAV Communication Properties",
       "year": 2021,
-      "date": "2021-05-25",
+      "date": "2021-07-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
+          "id": "https://openalex.org/A5037299618",
+          "name": "Gonzalo J. Martinez"
+        },
+        {
+          "id": "https://openalex.org/A5091080140",
+          "name": "Grigoriy Dubrovskiy"
+        },
+        {
+          "id": "https://openalex.org/A5051716922",
+          "name": "Shangyue Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5001324598",
+          "name": "Alamin Mohammed"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5076363259",
+          "name": "J. Nicholas Laneman"
+        },
+        {
+          "id": "https://openalex.org/A5048928683",
+          "name": "Aaron Striegel"
+        },
+        {
+          "id": "https://openalex.org/A5030792129",
+          "name": "Ravikumar V. Pragada"
+        },
+        {
+          "id": "https://openalex.org/A5065984316",
+          "name": "Douglas Castor"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W4297145706",
-      "title": "Research Progress of Central Insulin Resistance and Cognitive Impairment",
+      "id": "https://openalex.org/W4287015853",
+      "title": "Backstepping Mean-Field Density Control for Large-Scale Heterogeneous Nonlinear Stochastic Systems",
       "year": 2022,
-      "date": "2022-01-01",
+      "date": "2022-06-08",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100544433",
-          "name": "Tong Yu"
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
         },
         {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5050808427",
-          "name": "Yunyun Li"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4315815716",
-      "title": "Performance Evaluation of 5G Wireless Network Slices Carrying Power Services",
-      "year": 2022,
-      "date": "2022-08-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100614087",
-          "name": "Peng Sun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100532310",
-          "name": "Zhong You"
-        },
-        {
-          "id": "https://openalex.org/A5045203295",
-          "name": "Xiaoping Wu"
-        },
-        {
-          "id": "https://openalex.org/A5113967897",
-          "name": "Bing Sun"
-        },
-        {
-          "id": "https://openalex.org/A5100358630",
-          "name": "Zhao Zhao"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4388094079",
-      "title": "Three-level Vertical Cyber Security Protection Architecture Based on Power Grid Node Grading",
-      "year": 2023,
-      "date": "2023-09-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5101377586",
-          "name": "Hongyu Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5006058381",
-          "name": "Weiqiang Luo"
-        },
-        {
-          "id": "https://openalex.org/A5026570208",
-          "name": "Jianwei Tian"
-        },
-        {
-          "id": "https://openalex.org/A5100515634",
-          "name": "Mingguang Li"
-        },
-        {
-          "id": "https://openalex.org/A5110364505",
-          "name": "Yixiong Tang"
-        },
-        {
-          "id": "https://openalex.org/A5017557124",
-          "name": "Zhibang Yang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404257178",
-      "title": "Mobility and Method of Enhanced Oil Recovery for Yingxiongling Shale Oil",
-      "year": 2024,
-      "date": "2024-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5071162160",
-          "name": "Wenkai Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5010592999",
-          "name": "Fengjuan Jia"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100757058",
-          "name": "Zhisheng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5043815141",
-          "name": "Youyu Wan"
-        },
-        {
-          "id": "https://openalex.org/A5100606922",
-          "name": "Xiaoyang Li"
-        },
-        {
-          "id": "https://openalex.org/A5041387859",
-          "name": "Songtao Wu"
-        },
-        {
-          "id": "https://openalex.org/A5112833670",
-          "name": "Guojie Sui"
-        },
-        {
-          "id": "https://openalex.org/A5108836999",
-          "name": "Daqiang Feng"
-        },
-        {
-          "id": "https://openalex.org/A5101694052",
-          "name": "Shaobin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4407950010",
-      "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
-      "year": 2024,
-      "date": "2024-12-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
+          "id": "https://openalex.org/A5101864702",
+          "name": "Qing Han"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -4938,7 +4654,7 @@
       "id": "https://openalex.org/W1500515819",
       "title": "L/sub 2/ gain analysis for switched systems with continuous-time and discrete-time subsystems",
       "year": 2004,
-      "date": "2004-08-04",
+      "date": "2004-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5046218317",
@@ -5041,36 +4757,12 @@
       "date": "2009-04-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5109455808",
-          "name": "Xuan Guan"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5083131515",
           "name": "Yunsi Fei"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2065006922",
-      "title": "Optimal persistent disturbance attenuation control for linear hybrid systems",
-      "year": 2006,
-      "date": "2006-01-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5046218317",
-          "name": "Guisheng Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -5187,6 +4879,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2012595096",
+      "title": "An Artificial Neural Network Model for Data Prediction",
+      "year": 2014,
+      "date": "2014-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2051242440",
       "title": "Decentralized supervisory control of discrete event systems with unknown plants: A learning-based synthesis approach",
       "year": 2014,
@@ -5286,7 +4990,7 @@
         },
         {
           "id": "https://openalex.org/A5008952174",
-          "name": "Tong H. Lee"
+          "name": "Tong Heng Lee"
         }
       ]
     },
@@ -5304,18 +5008,6 @@
           "id": "https://openalex.org/A5049902919",
           "name": "Jitao Sun"
         },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2076320731",
-      "title": "Intelligent Data Prediction Based on Fuzzy Reasoning",
-      "year": 2014,
-      "date": "2014-06-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
@@ -5369,10 +5061,6 @@
       "date": "2012-11-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5062829885",
-          "name": "Zhi Xue"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
@@ -5399,14 +5087,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3184827455",
-      "title": "Field Estimation using Robotic Swarms through Bayesian Regression and Mean-Field Feedback",
+      "id": "https://openalex.org/W3185752730",
+      "title": "Trajectory Optimization for High-Dimensional Nonlinear Systems under STL Specifications",
       "year": 2021,
       "date": "2021-05-25",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -5431,34 +5119,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W753824816",
-      "title": "Monte Carlo simulation of chromatin fiber conformation affected by ionic strength",
-      "year": 2006,
-      "date": "2006-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5050994513",
-          "name": "Guan Zhi-Qiang"
-        },
-        {
-          "id": "https://openalex.org/A5098086169",
-          "name": "Xue Yan-Pin"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5098216838",
-          "name": "He Gui-Li"
-        },
-        {
-          "id": "https://openalex.org/A5064647434",
-          "name": "Chen\u2010Xu Wu"
         }
       ]
     },
@@ -5511,10 +5171,6 @@
         {
           "id": "https://openalex.org/A5087148236",
           "name": "Haisheng Yu"
-        },
-        {
-          "id": "https://openalex.org/A5070381470",
-          "name": "Likun Xiong"
         }
       ]
     },
@@ -5531,34 +5187,6 @@
         {
           "id": "https://openalex.org/A5029211507",
           "name": "Jincheng Wang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1815811014",
-      "title": "State transfer for closed quantum systems with dipole and polarizing coupling via implicit Lyapunov control",
-      "year": 2015,
-      "date": "2015-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1983526778",
-      "title": "An Empirical Study on Exponential Smoothing and Seasonal Model",
-      "year": 2014,
-      "date": "2014-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5006469983",
-          "name": "Bao Liang Mu"
         }
       ]
     },
@@ -5602,7 +5230,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -5643,30 +5271,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2797707796",
-      "title": "Privacy Verification in POMDPs via Barrier Certificates",
-      "year": 2018,
-      "date": "2018-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114803856",
-          "name": "Mohamadreza Ahmadi"
-        },
-        {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5068441112",
-          "name": "Ufuk Topcu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2810167277",
       "title": "Parameter Identification of Nonlinear Excitation System Based on Improved Adaptive Genetic Algorithm",
       "year": 2018,
@@ -5691,74 +5295,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3114678350",
-      "title": "\u81a8\u5316\u9972\u6599\u53ca\u5176\u6dfb\u52a0\u6297\u5e94\u6fc0\u5242\u5bf9\u56e2\u5934\u9c82\u751f\u957f\u6027\u80fd\u3001\u6d88\u5316\u9176\u6d3b\u6027\u3001\u5e94\u6fc0\u53ca\u751f\u957f\u4e0e\u6444\u98df\u76f8\u5173\u57fa\u56e0\u8868\u8fbe\u7684\u5f71\u54cd",
-      "year": 2020,
-      "date": "2020-11-30",
+      "id": "https://openalex.org/W4297145706",
+      "title": "Research Progress of Central Insulin Resistance and Cognitive Impairment",
+      "year": 2022,
+      "date": "2022-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5027423995",
-          "name": "\u4f55\u8d85\u51e1"
-        },
-        {
-          "id": "https://openalex.org/A5021428033",
-          "name": "HE Chaofan"
-        },
-        {
-          "id": "https://openalex.org/A5100775822",
-          "name": "Xiang\u2010Fei Li"
-        },
-        {
-          "id": "https://openalex.org/A5103944063",
-          "name": "Li Xiangfei"
-        },
-        {
-          "id": "https://openalex.org/A5012101473",
-          "name": "ZHANG Li"
-        },
-        {
-          "id": "https://openalex.org/A5100418954",
-          "name": "Zhang Li"
-        },
-        {
-          "id": "https://openalex.org/A5065865949",
-          "name": "\u90d1\u8096\u5ddd"
-        },
-        {
-          "id": "https://openalex.org/A5074538460",
-          "name": "Zheng Xiaochuan"
-        },
-        {
-          "id": "https://openalex.org/A5088247980",
-          "name": "\u8a79\u7389\u6625"
-        },
-        {
-          "id": "https://openalex.org/A5086094416",
-          "name": "Zhan Yuchun"
-        },
-        {
-          "id": "https://openalex.org/A5063243742",
-          "name": "\u9093\u767b"
-        },
-        {
-          "id": "https://openalex.org/A5091833492",
-          "name": "Deng Deng"
+          "id": "https://openalex.org/A5100544433",
+          "name": "Tong Yu"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5103090696",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5007194626",
-          "name": "\u5218\u6587\u658c"
-        },
-        {
-          "id": "https://openalex.org/A5103668599",
-          "name": "Liu Wen-bin"
+          "id": "https://openalex.org/A5050808427",
+          "name": "Yunyun Li"
         }
       ]
     },
@@ -5799,6 +5351,102 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4315815716",
+      "title": "Performance Evaluation of 5G Wireless Network Slices Carrying Power Services",
+      "year": 2022,
+      "date": "2022-08-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5045203295",
+          "name": "Xiaoping Wu"
+        },
+        {
+          "id": "https://openalex.org/A5100358630",
+          "name": "Zhao Zhao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388094079",
+      "title": "Three-level Vertical Cyber Security Protection Architecture Based on Power Grid Node Grading",
+      "year": 2023,
+      "date": "2023-09-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5101377586",
+          "name": "Hongyu Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5006058381",
+          "name": "Weiqiang Luo"
+        },
+        {
+          "id": "https://openalex.org/A5026570208",
+          "name": "Jianwei Tian"
+        },
+        {
+          "id": "https://openalex.org/A5110364505",
+          "name": "Yixiong Tang"
+        },
+        {
+          "id": "https://openalex.org/A5017557124",
+          "name": "Zhibang Yang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404257178",
+      "title": "Mobility and Method of Enhanced Oil Recovery for Yingxiongling Shale Oil",
+      "year": 2024,
+      "date": "2024-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071162160",
+          "name": "Wenkai Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5100757058",
+          "name": "Zhisheng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5043815141",
+          "name": "Youyu Wan"
+        },
+        {
+          "id": "https://openalex.org/A5100606922",
+          "name": "Xiaoyang Li"
+        },
+        {
+          "id": "https://openalex.org/A5041387859",
+          "name": "Songtao Wu"
+        },
+        {
+          "id": "https://openalex.org/A5112833670",
+          "name": "Guojie Sui"
+        },
+        {
+          "id": "https://openalex.org/A5108836999",
+          "name": "Daqiang Feng"
+        },
+        {
+          "id": "https://openalex.org/A5101694052",
+          "name": "Shaobin Zhang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4405270176",
       "title": "Port-Hamiltonian-Based Geometric Control for Rigid Body Platoons With Mesh Stability Guarantee",
       "year": 2024,
@@ -5815,6 +5463,106 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4407950010",
+      "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
+      "year": 2024,
+      "date": "2024-12-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2065006922",
+      "title": "Optimal persistent disturbance attenuation control for linear hybrid systems",
+      "year": 2006,
+      "date": "2006-01-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5046218317",
+          "name": "Guisheng Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2076320731",
+      "title": "Intelligent Data Prediction Based on Fuzzy Reasoning",
+      "year": 2014,
+      "date": "2014-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3184827455",
+      "title": "Field Estimation using Robotic Swarms through Bayesian Regression and Mean-Field Feedback",
+      "year": 2021,
+      "date": "2021-05-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056147954",
+          "name": "Tongjia Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1815811014",
+      "title": "State transfer for closed quantum systems with dipole and polarizing coupling via implicit Lyapunov control",
+      "year": 2015,
+      "date": "2015-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1983526778",
+      "title": "An Empirical Study on Exponential Smoothing and Seasonal Model",
+      "year": 2014,
+      "date": "2014-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5032816682",
+          "name": "Baoliang Mu"
         }
       ]
     },
@@ -5843,22 +5591,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2903907254",
-      "title": "Water Injection Fracture Pressure and Fracture Propagation Investigating in Poorly Consolidated Sandstone",
-      "year": 2018,
-      "date": "2018-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5104034697",
-          "name": "Sun Jin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3114889702",
       "title": "Point-Based Value Iteration for VAR-POMDPs",
       "year": 2020,
@@ -5867,26 +5599,6 @@
         {
           "id": "https://openalex.org/A5019036867",
           "name": "Wei Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3138973759",
-      "title": "Transporting Robotic Swarms Via Mean-Field Feedback Control",
-      "year": 2021,
-      "date": "2021-08-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5101864702",
-          "name": "Qing Han"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -5995,22 +5707,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4311034227",
-      "title": "Orthogonal Delay-Doppler Division Multiplexing Modulation",
-      "year": 2022,
-      "date": "2022-06-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5091837980",
-          "name": "Jinhong Yuan"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2582504501",
       "title": "Counterexample-guided Abstraction Refinement for POMDPs",
       "year": 2017,
@@ -6106,7 +5802,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         }
       ]
     },
@@ -6994,7 +6690,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         },
         {
           "id": "https://openalex.org/A5089479809",
@@ -7003,30 +6699,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4365143342",
-      "title": "Stable Real-Time Feedback Control of a Pneumatic Soft Robot",
-      "year": 2023,
-      "date": "2023-04-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5034900098",
-          "name": "Sean Even"
-        },
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -7051,10 +6723,6 @@
         {
           "id": "https://openalex.org/A5023014733",
           "name": "Junfei Liu"
-        },
-        {
-          "id": "https://openalex.org/A5051080809",
-          "name": "Qi Jin"
         },
         {
           "id": "https://openalex.org/A5018970288",
@@ -7085,8 +6753,8 @@
           "name": "\u77f3\u8273"
         },
         {
-          "id": "https://openalex.org/A5069966594",
-          "name": "\u82d7\u6625\u751f"
+          "id": "https://openalex.org/A5018760373",
+          "name": "Chunsheng Miao"
         },
         {
           "id": "https://openalex.org/A5036863956",
@@ -7273,7 +6941,7 @@
       "date": "2014-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5056031286",
+          "id": "https://openalex.org/A5052177562",
           "name": "\u9648\u51a0\u6587"
         },
         {
@@ -7393,7 +7061,7 @@
           "name": "\u91d1\u5e86\u534e"
         },
         {
-          "id": "https://openalex.org/A5011448876",
+          "id": "https://openalex.org/A5022267598",
           "name": "\u4e01\u5927\u540c"
         }
       ]
@@ -7481,11 +7149,11 @@
           "name": "\u7f57\u529b"
         },
         {
-          "id": "https://openalex.org/A5075692966",
+          "id": "https://openalex.org/A5085715480",
           "name": "\u767d\u5e38\u51ef"
         },
         {
-          "id": "https://openalex.org/A5022398473",
+          "id": "https://openalex.org/A5007315405",
           "name": "\u9a6c\u5b89\u5b81"
         },
         {
@@ -7881,11 +7549,11 @@
           "name": "\u90b5\u6676\u6676"
         },
         {
-          "id": "https://openalex.org/A5075692966",
+          "id": "https://openalex.org/A5085715480",
           "name": "\u767d\u5e38\u51ef"
         },
         {
-          "id": "https://openalex.org/A5022398473",
+          "id": "https://openalex.org/A5007315405",
           "name": "\u9a6c\u5b89\u5b81"
         },
         {
@@ -7913,7 +7581,7 @@
       "date": "1991-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5073405493",
+          "id": "https://openalex.org/A5060938663",
           "name": "\u5c39\u5149\u7433"
         },
         {
@@ -7923,10 +7591,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5025889572",
-          "name": "\u53f6\u6674"
         }
       ]
     },
@@ -8165,7 +7829,7 @@
           "name": "\u738b\u5148\u9f99"
         },
         {
-          "id": "https://openalex.org/A5072148790",
+          "id": "https://openalex.org/A5026125745",
           "name": "\u6bd5\u6811\u5e73"
         },
         {
@@ -8201,7 +7865,7 @@
           "name": "\u7167\u6e90"
         },
         {
-          "id": "https://openalex.org/A5040767046",
+          "id": "https://openalex.org/A5007821218",
           "name": "\u4e54\u632f\u5fe0"
         }
       ]
@@ -8225,7 +7889,7 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5011688180",
+          "id": "https://openalex.org/A5067775298",
           "name": "\u8463\u9896\u535a"
         },
         {
@@ -8439,38 +8103,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1481135013",
-      "title": "\u5c40\u7076\u6027\u8111\u7f3a\u8840\u518d\u704c\u6ce8\u540e\u767d\u7ec6\u80de\u4ecb\u7d20\u20146\uff0c\u80bf\u7624\u574f\u6b7b\u56e0\u5b50\u2014\u03b2\u7684\u8868\u8fbe\u53ca\u5ddd\u828e\u55ea\u5bf9\u5176\u8868\u8fbe\u7684\u5f71\u54cd",
-      "year": 2002,
-      "date": "2002-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5013822827",
-          "name": "\u5218\u715c"
-        },
-        {
-          "id": "https://openalex.org/A5061628209",
-          "name": "\u674e\u67f1\u4e00"
-        },
-        {
-          "id": "https://openalex.org/A5017872426",
-          "name": "\u6797\u5b8f"
-        },
-        {
-          "id": "https://openalex.org/A5041214548",
-          "name": "\u738b\u8005\u664b"
-        },
-        {
-          "id": "https://openalex.org/A5081110280",
-          "name": "\u82d7\u5efa\u4ead"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1482498717",
       "title": "Ca8Zn\uff08SiO4\uff094Cl2\uff1aEu^2\uff0b,Mn^2\u8367\u5149\u4f53\u4e2dMn^2\uff0b\u7684\u6676\u4f53\u5b66\u683c\u4f4d\u53caEu\u2026",
       "year": 1996,
@@ -8537,11 +8169,11 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5038921747",
+          "id": "https://openalex.org/A5028397916",
           "name": "\u5218\u6cc9\u5229"
         },
         {
-          "id": "https://openalex.org/A5015141550",
+          "id": "https://openalex.org/A5043268963",
           "name": "\u970d\u6c49\u946b"
         }
       ]
@@ -8871,30 +8503,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1567831563",
-      "title": "A Super-Resolution Method with EWA",
-      "year": 2003,
-      "date": "2003-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5057948801",
-          "name": "\u59dc\u5fe0\u9f0e"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5079994982",
-          "name": "\u9c8d\u864e\u519b"
-        },
-        {
-          "id": "https://openalex.org/A5013776969",
-          "name": "\u9a6c\u5229\u5e84"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1568254343",
       "title": "Ho^3\uff0b/Yb^3\uff0b\u63ba\u6742\u94cb\u9553\u9178\u76d0\u5149\u5b66\u73bb\u7483\u7684\u4e0a\u8f6c\u6362\u53d1\u5149",
       "year": 2008,
@@ -8953,7 +8561,7 @@
       "date": "2004-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5007682663",
+          "id": "https://openalex.org/A5001759251",
           "name": "\u5e9e\u4e7e\u6797"
         },
         {
@@ -8989,7 +8597,7 @@
           "name": "\u767d\u5e38\u51ef"
         },
         {
-          "id": "https://openalex.org/A5053254567",
+          "id": "https://openalex.org/A5032248083",
           "name": "\u82cc\u51e4\u6c34"
         },
         {
@@ -9023,10 +8631,6 @@
         {
           "id": "https://openalex.org/A5076135576",
           "name": "\u5218\u76ca\u950b"
-        },
-        {
-          "id": "https://openalex.org/A5001893452",
-          "name": "\u7530\u743c"
         },
         {
           "id": "https://openalex.org/A5036428666",
@@ -9329,8 +8933,8 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5006469983",
-          "name": "Bao Liang Mu"
+          "id": "https://openalex.org/A5032816682",
+          "name": "Baoliang Mu"
         }
       ]
     },
@@ -9418,7 +9022,7 @@
         },
         {
           "id": "https://openalex.org/A5100358003",
-          "name": "Jun Zhao"
+          "name": "Jun Yan Zhao"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -9785,7 +9389,7 @@
       "date": "2015-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5015141550",
+          "id": "https://openalex.org/A5043268963",
           "name": "\u970d\u6c49\u946b"
         },
         {
@@ -9793,11 +9397,11 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5048913486",
+          "id": "https://openalex.org/A5017752325",
           "name": "\u8463\u9896\u535a"
         },
         {
-          "id": "https://openalex.org/A5038921747",
+          "id": "https://openalex.org/A5028397916",
           "name": "\u5218\u6cc9\u5229"
         },
         {
@@ -9815,18 +9419,6 @@
         {
           "id": "https://openalex.org/A5023212827",
           "name": "\u5085\u5ddd"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2252871814",
-      "title": "\u201c\u4f60\u4eec\u751f\u6d3b\u8fc7\u5f97\u600e\u6837\uff1f\u6709\u4ec0\u4e48\u8981\u6c42\uff1f\u201d\u2014\u2014\u5e7f\u4e1c\u6d77\u4e8b\u5c40\u515a\u7ec4\u4e66\u8bb0\u5218\u6052\u4f1f\u7701\u603b\u5de5\u4f1a\u9886\u5bfc\u8096\u5efa\u8475\u5230\u8302\u540d\u8c03\u7814",
-      "year": 2010,
-      "date": "2010-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -10053,7 +9645,7 @@
           "name": "\u5b81\u65b0\u67f1"
         },
         {
-          "id": "https://openalex.org/A5037110316",
+          "id": "https://openalex.org/A5041086309",
           "name": "\u9093\u798f\u519b"
         },
         {
@@ -10061,7 +9653,7 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5084021243",
+          "id": "https://openalex.org/A5075137543",
           "name": "\u674e\u5409\u83b2"
         },
         {
@@ -10093,7 +9685,7 @@
           "name": "\u5468\u95ea\u95ea"
         },
         {
-          "id": "https://openalex.org/A5067434138",
+          "id": "https://openalex.org/A5067775298",
           "name": "\u8463\u9896\u535a"
         },
         {
@@ -10225,7 +9817,7 @@
           "name": "Zhe Chen"
         },
         {
-          "id": "https://openalex.org/A5012534891",
+          "id": "https://openalex.org/A5036311944",
           "name": "\u4f46\u5e74\u534e"
         },
         {
@@ -10245,11 +9837,11 @@
           "name": "\u6731\u5251"
         },
         {
-          "id": "https://openalex.org/A5052261967",
+          "id": "https://openalex.org/A5000390259",
           "name": "\u66fe\u777f"
         },
         {
-          "id": "https://openalex.org/A5078534168",
+          "id": "https://openalex.org/A5015488214",
           "name": "\u4f46\u536b\u534e"
         }
       ]
@@ -10393,7 +9985,7 @@
           "name": "\u91d1\u7ef4\u53ec"
         },
         {
-          "id": "https://openalex.org/A5089514610",
+          "id": "https://openalex.org/A5086264797",
           "name": "\u5218\u65fa"
         },
         {
@@ -10495,14 +10087,6 @@
         {
           "id": "https://openalex.org/A5000443930",
           "name": "Zhi Yang"
-        },
-        {
-          "id": "https://openalex.org/A5063530606",
-          "name": "He Liu"
-        },
-        {
-          "id": "https://openalex.org/A5074821255",
-          "name": "W. Dan"
         },
         {
           "id": "https://openalex.org/A5052414244",
@@ -10665,15 +10249,11 @@
           "name": "\u9648\u6708\u82b3"
         },
         {
-          "id": "https://openalex.org/A5033425172",
-          "name": "\u9ad8\u7428"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5048913486",
+          "id": "https://openalex.org/A5017752325",
           "name": "\u8463\u9896\u535a"
         },
         {
@@ -11005,11 +10585,11 @@
           "name": "\u674e\u5bf6\u6703"
         },
         {
-          "id": "https://openalex.org/A5083075868",
-          "name": "\u91d1\u6176\u83ef"
+          "id": "https://openalex.org/A5048248574",
+          "name": "\u91d1\u5e86\u534e"
         },
         {
-          "id": "https://openalex.org/A5011448876",
+          "id": "https://openalex.org/A5022267598",
           "name": "\u4e01\u5927\u540c"
         }
       ]
@@ -11053,7 +10633,7 @@
           "name": "\u5468\u6587\u5e38"
         },
         {
-          "id": "https://openalex.org/A5089335323",
+          "id": "https://openalex.org/A5000390259",
           "name": "\u66fe\u777f"
         },
         {
@@ -11061,7 +10641,7 @@
           "name": "\u5ed6\u9686\u7406"
         },
         {
-          "id": "https://openalex.org/A5067951656",
+          "id": "https://openalex.org/A5036311944",
           "name": "\u4f46\u5e74\u534e"
         },
         {
@@ -11201,7 +10781,7 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5087631908",
+          "id": "https://openalex.org/A5007169844",
           "name": "\u8463\u9896\u535a"
         },
         {
@@ -11257,11 +10837,11 @@
       "date": "2004-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5032926953",
-          "name": "\u4f46\u536b\u534e"
+          "id": "https://openalex.org/A5041947590",
+          "name": "Weihua Dan"
         },
         {
-          "id": "https://openalex.org/A5020113123",
+          "id": "https://openalex.org/A5000390259",
           "name": "\u66fe\u777f"
         },
         {
@@ -11315,6 +10895,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2346925125",
+      "title": "\u9170\u80fa\u591a\u80fa\u914d\u4f53Cu(II)\u914d\u5408\u7269\u7684\u7a33\u5b9a\u6027\u548c\u9178\u5206\u89e3\u52a8\u529b\u5b66",
+      "year": 2004,
+      "date": "2004-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043619499",
+          "name": "\u9ad8\u4e1c\u662d"
+        },
+        {
+          "id": "https://openalex.org/A5043619499",
+          "name": "\u9ad8\u4e1c\u662d"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5037461788",
+          "name": "\u76d6\u5e86\u6625"
+        },
+        {
+          "id": "https://openalex.org/A5086343780",
+          "name": "\u6797\u534e\u5bbd"
+        },
+        {
+          "id": "https://openalex.org/A5071560861",
+          "name": "\u6731\u5b88\u8363"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2347162484",
       "title": "\u80f6\u539f\u57fa\u590d\u5408\u6c34\u51dd\u80f6\u7684\u5236\u5907\u4e0e\u8868\u5f81\uff08II\uff09\uff08\u7eed\uff09--\u7ed3\u6784\u6027\u80fd\u5206\u6790\u4e0e\u751f\u7269\u5b66\u8bc4\u4ef7",
       "year": 2014,
@@ -11355,30 +10967,6 @@
         {
           "id": "https://openalex.org/A5078164720",
           "name": "\u6587\u5251\u94a2"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2414721990",
-      "title": "1,10-\u90bb\u83f2\u5570\u5549\u5e76\u54aa\u5511\u884d\u751f\u7269\u9634\u79bb\u5b50\u53d7\u4f53\u7684\u5408\u6210\u53ca\u8bc6\u522b\u6027\u80fd",
-      "year": 2012,
-      "date": "2012-06-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5090839851",
-          "name": "\u9648\u534e\u6885"
-        },
-        {
-          "id": "https://openalex.org/A5003406255",
-          "name": "\u5cb3\u51e1"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5086343780",
-          "name": "\u6797\u534e\u5bbd"
         }
       ]
     },
@@ -11427,38 +11015,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2461706550",
-      "title": "\u67e0\u6aac\u9178\u6539\u6027\u5564\u9152\u7cdf\u5bf9Pb~\uff082\uff0b\uff09/Zn~\uff082\uff0b\uff09\u7684\u5438\u9644\u5206\u79bb\u7814\u7a76",
-      "year": 2016,
-      "date": "2016-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5049893635",
-          "name": "\u5f90\u536b\u5a1f"
-        },
-        {
-          "id": "https://openalex.org/A5067775298",
-          "name": "\u8463\u9896\u535a"
-        },
-        {
-          "id": "https://openalex.org/A5070362066",
-          "name": "\u5468\u4e49\u534e"
-        },
-        {
-          "id": "https://openalex.org/A5052566073",
-          "name": "\u5f90\u9526\u6a21"
-        },
-        {
-          "id": "https://openalex.org/A5006134468",
-          "name": "Liang Wang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2464038134",
       "title": "The Design Challenges and Innovations in 400m High CRC Headquarter Tower",
       "year": 2016,
@@ -11473,7 +11029,7 @@
           "name": "Feng-Jun Lin"
         },
         {
-          "id": "https://openalex.org/A5056663801",
+          "id": "https://openalex.org/A5049362511",
           "name": "Man Kang"
         },
         {
@@ -11729,7 +11285,7 @@
       "date": "2007-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5043072677",
+          "id": "https://openalex.org/A5000171692",
           "name": "\u66fe\u7e41\u4e2d"
         },
         {
@@ -11909,7 +11465,7 @@
           "name": "\u5218\u632f\u4eae"
         },
         {
-          "id": "https://openalex.org/A5028716613",
+          "id": "https://openalex.org/A5046837532",
           "name": "\u738b\u6052\u8302"
         },
         {
@@ -12121,10 +11677,6 @@
           "name": "Jingcheng Wang"
         },
         {
-          "id": "https://openalex.org/A5014192623",
-          "name": "Qi Xia"
-        },
-        {
           "id": "https://openalex.org/A5057216347",
           "name": "Bohui Wang"
         },
@@ -12287,22 +11839,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2522093430",
-      "title": "Ammonia nitrogen removal from aqueous solution using zeolite modified by microwave-sodium acetate",
-      "year": 2016,
-      "date": "2016-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029215347",
-          "name": "\u8463\u9896\u535a"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2522890805",
       "title": "\u80c3\u764c\u7ec4\u7ec7\u4e2dmiRNA-21\u548cmiRNA-34\u7684\u8868\u8fbe\u53ca\u5176\u610f\u4e49",
       "year": 2016,
@@ -12401,7 +11937,7 @@
           "name": "\u865e\u7acb\u742a"
         },
         {
-          "id": "https://openalex.org/A5026287062",
+          "id": "https://openalex.org/A5002732883",
           "name": "\u79e6\u59d7"
         },
         {
@@ -12793,7 +12329,7 @@
       "date": "2002-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5073668604",
+          "id": "https://openalex.org/A5004963438",
           "name": "\u7267\u6b4c"
         },
         {
@@ -12863,38 +12399,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2742344770",
-      "title": "\u7a2e\u3005\u306e\u98df\u990c\u304a\u3088\u3073\u6442\u98df\u6761\u4ef6\u4e0b\u306e\u30cb\u30ef\u30c8\u30ea\u306b\u304a\u3051\u308b\u98df\u6b32\u95a2\u9023\u907a\u4f1d\u5b50\u306e\u8996\u5e8a\u4e0b\u90e8\u767a\u73fe\u306b\u53ca\u307c\u3059\u30c7\u30ad\u30b5\u30e1\u30bf\u30be\u30f3\u306e\u5f71\u97ff\u3010Powered by NICT\u3011",
-      "year": 2016,
-      "date": "2016-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114049233",
-          "name": "Liu Lei"
-        },
-        {
-          "id": "https://openalex.org/A5100543042",
-          "name": "Shaohua Xu"
-        },
-        {
-          "id": "https://openalex.org/A5100428970",
-          "name": "Xiaojuan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5017714022",
-          "name": "Jiao Hongchao"
-        },
-        {
-          "id": "https://openalex.org/A5055855918",
-          "name": "Zhao Jingpeng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2743624168",
       "title": "\u30e9\u30f3\u30c0\u30e0\u591a\u6bb5\u968e\u30bb\u30f3\u30b5\u9045\u5ef6\u3092\u6709\u3059\u308b\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u5316\u5236\u5fa1\u30b7\u30b9\u30c6\u30e0\u306e\u305f\u3081\u306e\u5e73\u6ed1\u5316\u56fa\u5b9a\u9045\u308c\u7dda\u5f62\u4e0d\u504f\u3010Powered by NICT\u3011",
       "year": 2016,
@@ -12933,80 +12437,12 @@
       "date": "2016-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5112312684",
-          "name": "Simin Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5100729329",
-          "name": "Ye Peng"
-        },
-        {
           "id": "https://openalex.org/A5102282339",
           "name": "Jin Guohua"
         },
         {
           "id": "https://openalex.org/A5088871390",
           "name": "Yuke Qi"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2749835308",
-      "title": "\u91d1nanoparticles-\u70ad\u7d20\u30ca\u30ce\u30b9\u30d5\u30a7\u30a2,phoS\u6a19\u8b58\u30d3\u30aa\u30c1\u30f3\u3068\u03b2\u2010\u30ac\u30e9\u30af\u30c8\u30b7\u30c0\u30fc\u30bc\u306b\u57fa\u3065\u3044\u305f\u86cb\u767d\u8cea\u30ad\u30ca\u30fc\u30bcA\u6d3b\u6027\u6e2c\u5b9a\u306e\u305f\u3081\u306e\u96fb\u6c17\u5316\u5b66\u7684\u30d0\u30a4\u30aa\u30bb\u30f3\u30b5\u3010Powered by NICT\u3011",
-      "year": 2016,
-      "date": "2016-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102864137",
-          "name": "Yunlei Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5102428182",
-          "name": "Yin Huanshun"
-        },
-        {
-          "id": "https://openalex.org/A5100372277",
-          "name": "Xue Li"
-        },
-        {
-          "id": "https://openalex.org/A5100382315",
-          "name": "Zhi Li"
-        },
-        {
-          "id": "https://openalex.org/A5084331170",
-          "name": "Ai Shiyun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2751956849",
-      "title": "\u98fc\u6599\u306e\u904a\u96e2\u30b4\u30b7\u30dd\u30fc\u30eb\u30ec\u30d9\u30eb\u306f\u751f\u7523\u6027\u304a\u3088\u3073\u5375\u54c1\u8cea\u306e\u5f71\u97ff\u3092\u7523\u5375\u9d8f\u306e\u809d\u81d3\u306b\u30b4\u30b7\u30dd\u30fc\u30eb\u304c\u84c4\u7a4d\u3059\u308b\u3010JST\u30fb\u4eac\u5927\u6a5f\u68b0\u7ffb\u8a33\u3011",
-      "year": 2015,
-      "date": "2015-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5017714022",
-          "name": "Jiao Hongchao"
-        },
-        {
-          "id": "https://openalex.org/A5065228556",
-          "name": "Hou Nannan"
-        },
-        {
-          "id": "https://openalex.org/A5101020928",
-          "name": "Jiang Mingjun"
-        },
-        {
-          "id": "https://openalex.org/A5101017996",
-          "name": "Song Zhigang"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -13023,10 +12459,6 @@
         {
           "id": "https://openalex.org/A5010567214",
           "name": "da Silva Rafael Rodrigues"
-        },
-        {
-          "id": "https://openalex.org/A5100404786",
-          "name": "Bo Wu"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -13233,7 +12665,7 @@
           "name": "\u5f20\u5c0f\u4f69"
         },
         {
-          "id": "https://openalex.org/A5063315905",
+          "id": "https://openalex.org/A5007169844",
           "name": "\u8463\u9896\u535a"
         },
         {
@@ -13249,7 +12681,7 @@
           "name": "\u5f20\u5c0f\u4f69"
         },
         {
-          "id": "https://openalex.org/A5063315905",
+          "id": "https://openalex.org/A5007169844",
           "name": "\u8463\u9896\u535a"
         },
         {
@@ -13395,10 +12827,6 @@
         {
           "id": "https://openalex.org/A5053840511",
           "name": "Zhigang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5058772567",
-          "name": "Lei Wang"
         }
       ]
     },
@@ -13491,30 +12919,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2973459893",
-      "title": "Formal Connections between Template and Anchor Models via Approximate Simulation",
-      "year": 2019,
-      "date": "2019-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5005085816",
-          "name": "Rafael Rodrigues da Silva"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W297693848",
       "title": "EDTA\u3001\u67e0\u6aac\u9178\u5bf9Cd\u3001Ni\u6c61\u67d3\u571f\u58e4\u690d\u7269\u4fee\u590d\u7684\u5f71\u54cd",
       "year": 2006,
@@ -13548,22 +12952,6 @@
       "year": 2011,
       "date": "2011-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2999754137",
-      "title": "\u201c\u5c0d\u63a5\u201d\u7684\u201c\u7236\u611b\u201d\uff0d\uff0d\u8a55\u300a\u4fb5\u6b0a\u8cac\u4efb\u6cd5\u300b\u7b2c56\u689d\u4e2d\u7684\u201c\u91ab\u7642\u6b0a\u201d",
-      "year": 2011,
-      "date": "2011-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065432793",
-          "name": "\u90ed\u6625\u93ae"
-        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
@@ -14063,42 +13451,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3032214804",
-      "title": "Significance of computed tomography in the nonoperative management of hepatic blunt trauma",
-      "year": 2009,
-      "date": "2009-09-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109462213",
-          "name": "Bing-bing Wu"
-        },
-        {
-          "id": "https://openalex.org/A5103109291",
-          "name": "Junjing Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5077797548",
-          "name": "Jianliang Qiao"
-        },
-        {
-          "id": "https://openalex.org/A5113746945",
-          "name": "Tan Fu-yong"
-        },
-        {
-          "id": "https://openalex.org/A5101031363",
-          "name": "Zheng Jun-quan"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5080757096",
-          "name": "Dexi Li"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3032842443",
       "title": "\u65e0\u529f\u80fd\u80f0\u5c9b\u7ec6\u80de\u7624",
       "year": 2006,
@@ -14201,7 +13553,7 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5043072741",
+          "id": "https://openalex.org/A5027255571",
           "name": "\u7ae5\u6c49\u534e"
         },
         {
@@ -14289,40 +13641,12 @@
       "date": "2000-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5055375980",
+          "id": "https://openalex.org/A5002784097",
           "name": "\u9a6c\u798f\u81e3"
         },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3143182654",
-      "title": "Characterization of graphene-based photonic crystal in THz spectrum with finite-difference time domain method",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5096415266",
-          "name": "\u5f90\u7b1b"
-        },
-        {
-          "id": "https://openalex.org/A5048187952",
-          "name": "Pantoja"
-        },
-        {
-          "id": "https://openalex.org/A5107911731",
-          "name": "Garc\u00eda"
-        },
-        {
-          "id": "https://openalex.org/A5003987320",
-          "name": "\u6768\u6cb3\u6797"
         }
       ]
     },
@@ -14415,38 +13739,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3148727049",
-      "title": "Corn cob modified by lauric acid and ethanediol for emulsified oil adsorption",
-      "year": 2015,
-      "date": "2015-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5027813253",
-          "name": "\u5b63\u632f"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5031425663",
-          "name": "\u9648\u6708\u82b3"
-        },
-        {
-          "id": "https://openalex.org/A5029215347",
-          "name": "\u8463\u9896\u535a"
-        },
-        {
-          "id": "https://openalex.org/A5100728842",
-          "name": "Muhammad Muhammad"
-        },
-        {
-          "id": "https://openalex.org/A5100710549",
-          "name": "Imran Ahmad"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3150726192",
       "title": "\u30ec\u30fc\u30b6\u7167\u5c04\u306e\u305f\u3081\u306e\u9280\u30ca\u30ce\u7c92\u5b50\u3092\u7d44\u307f\u8fbc\u3093\u3060Pr~3+\u3092\u30c9\u30fc\u30d7\u3057\u305f\u4e9c\u30c6\u30eb\u30eb\u9178\u5869\u30ac\u30e9\u30b9\u3010Powered by NICT\u3011",
       "year": 2017,
@@ -14467,38 +13759,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3150898116",
-      "title": "\u9170\u80fa\u591a\u80fa\u914d\u4f53Cu\uff08II\uff09\u914d\u5408\u7269\u7684\u7a33\u5b9a\u6027\u548c\u9178\u5206\u89e3\u52a8\u529b\u5b66",
-      "year": 2004,
-      "date": "2004-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077027220",
-          "name": "\u90ed\u5ef6\u6cb3"
-        },
-        {
-          "id": "https://openalex.org/A5043619499",
-          "name": "\u9ad8\u4e1c\u662d"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5037461788",
-          "name": "\u76d6\u5e86\u6625"
-        },
-        {
-          "id": "https://openalex.org/A5086343780",
-          "name": "\u6797\u534e\u5bbd"
-        },
-        {
-          "id": "https://openalex.org/A5071560861",
-          "name": "\u6731\u5b88\u8363"
         }
       ]
     },
@@ -14543,26 +13803,6 @@
         {
           "id": "https://openalex.org/A5108563022",
           "name": "Marcelo Tonelli"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3166062394",
-      "title": "Distributed Mean-Field Density Estimation for Large-Scale Systems",
-      "year": 2021,
-      "date": "2021-10-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056147954",
-          "name": "Tongjia Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5101864702",
-          "name": "Qing Han"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -14615,34 +13855,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3174239790",
-      "title": "\u7b49\u79bb\u5b50\u55b7\u6d82\u4e0d\u540c\u6bd4\u4f8b\u63ba\u6742G-Al 2 O 3 -13%TiO 2 \u590d\u5408\u6d82\u5c42\u7684\u8010\u8150\u8680\u6027\u80fd",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5088809134",
-          "name": "\u5f20\u660a"
-        },
-        {
-          "id": "https://openalex.org/A5016710137",
-          "name": "\u5f20\u6676\u6676"
-        },
-        {
-          "id": "https://openalex.org/A5085860286",
-          "name": "\u5218\u65ed"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5024001586",
-          "name": "\u674e\u5ef7\u4e3e"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3182521615",
       "title": "Reorientation of liquid/gas free surface in a storage tank under reduced gravity",
       "year": 2018,
@@ -14688,34 +13900,6 @@
       "year": 2014,
       "date": "2014-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3199250517",
-      "title": "\u98fc\u6599L-\u30b7\u30c8\u30eb\u30ea\u30f3\u88dc\u7d66\u306f\u590f\u5b63\u306e\u7523\u5375\u9d8f\u306e\u4e00\u9178\u5316\u7a92\u7d20\u5408\u6210\u3068\u6297\u9178\u5316\u72b6\u614b\u3092\u8abf\u7bc0\u3059\u308b\u3010JST\u30fb\u4eac\u5927\u6a5f\u68b0\u7ffb\u8a33\u3011",
-      "year": 2020,
-      "date": "2020-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5024918832",
-          "name": "A Uyanga Victoria"
-        },
-        {
-          "id": "https://openalex.org/A5017714022",
-          "name": "Jiao Hongchao"
-        },
-        {
-          "id": "https://openalex.org/A5055855918",
-          "name": "Zhao Jingpeng"
-        },
-        {
-          "id": "https://openalex.org/A5100428970",
-          "name": "Xiaojuan Wang"
-        },
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
@@ -15045,10 +14229,6 @@
       "date": "2022-03-05",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5045099804",
-          "name": "Zhuo Qu"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         }
@@ -15095,26 +14275,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4224221017",
-      "title": "A Generalized Distributed Analysis and Control Synthesis Approach for Networked Systems with Arbitrary Interconnections",
-      "year": 2022,
-      "date": "2022-06-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -15186,7 +14346,7 @@
         },
         {
           "id": "https://openalex.org/A5067782848",
-          "name": "Barbara B. Brown"
+          "name": "Barbara Berish Brown"
         },
         {
           "id": "https://openalex.org/A5041379647",
@@ -15198,7 +14358,7 @@
         },
         {
           "id": "https://openalex.org/A5024295368",
-          "name": "Amy H. Butler"
+          "name": "Amy Hawes Butler"
         },
         {
           "id": "https://openalex.org/A5101170620",
@@ -15210,7 +14370,7 @@
         },
         {
           "id": "https://openalex.org/A5033637812",
-          "name": "Andrew Charlton\u2010Perez"
+          "name": "Andrew James Charlton-Perez"
         },
         {
           "id": "https://openalex.org/A5043191959",
@@ -15227,10 +14387,6 @@
         {
           "id": "https://openalex.org/A5047035409",
           "name": "Erin Coughlan de Perez"
-        },
-        {
-          "id": "https://openalex.org/A5101100984",
-          "name": "Christopher R. Cunningham"
         },
         {
           "id": "https://openalex.org/A5014005543",
@@ -15250,7 +14406,7 @@
         },
         {
           "id": "https://openalex.org/A5006996867",
-          "name": "Paul A. Dirmeyer"
+          "name": "Paul Alan Dirmeyer"
         },
         {
           "id": "https://openalex.org/A5056514337",
@@ -15278,7 +14434,7 @@
         },
         {
           "id": "https://openalex.org/A5075371962",
-          "name": "Jorgen S. Frederiksen"
+          "name": "Jorgen Segerlund Frederiksen"
         },
         {
           "id": "https://openalex.org/A5035439029",
@@ -15290,7 +14446,7 @@
         },
         {
           "id": "https://openalex.org/A5073886109",
-          "name": "Edwin P. Gerber"
+          "name": "Edwin Paul Gerber"
         },
         {
           "id": "https://openalex.org/A5045772011",
@@ -15302,11 +14458,11 @@
         },
         {
           "id": "https://openalex.org/A5109893104",
-          "name": "Brian Golding"
+          "name": "Brian W. Golding"
         },
         {
           "id": "https://openalex.org/A5007336429",
-          "name": "Andreas Groth"
+          "name": "Andreas Velsing Groth"
         },
         {
           "id": "https://openalex.org/A5036666678",
@@ -15330,7 +14486,7 @@
         },
         {
           "id": "https://openalex.org/A5013282968",
-          "name": "Thomas Jung"
+          "name": "Thomas Josef Jung"
         },
         {
           "id": "https://openalex.org/A5038282044",
@@ -15374,7 +14530,7 @@
         },
         {
           "id": "https://openalex.org/A5033065924",
-          "name": "John Methven"
+          "name": "John A. Methven"
         },
         {
           "id": "https://openalex.org/A5102031142",
@@ -15417,8 +14573,8 @@
           "name": "Pascal Roucou"
         },
         {
-          "id": "https://openalex.org/A5056584291",
-          "name": "A.K. Sahai"
+          "id": "https://openalex.org/A5011664908",
+          "name": "Atul Kumar Sahai"
         },
         {
           "id": "https://openalex.org/A5067645449",
@@ -15442,7 +14598,7 @@
         },
         {
           "id": "https://openalex.org/A5009739765",
-          "name": "Isla R. Simpson"
+          "name": "Isla Ruth Simpson"
         },
         {
           "id": "https://openalex.org/A5108799492",
@@ -15486,7 +14642,7 @@
         },
         {
           "id": "https://openalex.org/A5026912785",
-          "name": "Adrian M. Tompkins"
+          "name": "Adrian Mark Tompkins"
         },
         {
           "id": "https://openalex.org/A5084440619",
@@ -15514,7 +14670,7 @@
         },
         {
           "id": "https://openalex.org/A5028766777",
-          "name": "Steven J. Woolnough"
+          "name": "Steven James Woolnough"
         }
       ]
     },
@@ -15535,58 +14691,6 @@
         {
           "id": "https://openalex.org/A5074988437",
           "name": "Marjorie Sayer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4283219460",
-      "title": "Front Cover: Clostridium butyricum Inhibits Fat Deposition via Increasing the Frequency of Adipose Tissue\u2010Resident Regulatory T Cells",
-      "year": 2022,
-      "date": "2022-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101528670",
-          "name": "Haifang Li"
-        },
-        {
-          "id": "https://openalex.org/A5006484091",
-          "name": "Yanxin Jia"
-        },
-        {
-          "id": "https://openalex.org/A5017897946",
-          "name": "Dan Weng"
-        },
-        {
-          "id": "https://openalex.org/A5100547495",
-          "name": "Zijing Ju"
-        },
-        {
-          "id": "https://openalex.org/A5100542515",
-          "name": "Yunfei Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5100319105",
-          "name": "Shuang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100351056",
-          "name": "Yan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5033320520",
-          "name": "Mengze Song"
-        },
-        {
-          "id": "https://openalex.org/A5072696369",
-          "name": "Lulu Cui"
-        },
-        {
-          "id": "https://openalex.org/A5102014328",
-          "name": "Shuhong Sun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -15643,54 +14747,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4294225057",
-      "title": "Construction of Direct Z-Scheme Ag2o/Bi2moo6 Heterostructured Microsphere with Enhanced Visible-Light Photocatalytic Activity",
-      "year": 2022,
-      "date": "2022-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085848273",
-          "name": "Junhui Yi"
-        },
-        {
-          "id": "https://openalex.org/A5088017465",
-          "name": "Haoxian Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100330261",
-          "name": "Minghao Li"
-        },
-        {
-          "id": "https://openalex.org/A5066020584",
-          "name": "Runkun Xie"
-        },
-        {
-          "id": "https://openalex.org/A5054231774",
-          "name": "Beifang Chen"
-        },
-        {
-          "id": "https://openalex.org/A5090044458",
-          "name": "Runsi Ding"
-        },
-        {
-          "id": "https://openalex.org/A5102003284",
-          "name": "Zhenghui Liu"
-        },
-        {
-          "id": "https://openalex.org/A5063970579",
-          "name": "Dehao Li"
-        },
-        {
-          "id": "https://openalex.org/A5100369040",
-          "name": "Ning Li"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4295176291",
       "title": "Feedback Interconnected Mean-Field Density Estimation and Control",
       "year": 2021,
@@ -15730,7 +14786,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         },
         {
           "id": "https://openalex.org/A5089479809",
@@ -15797,10 +14853,6 @@
           "name": "Tongjia Zheng"
         },
         {
-          "id": "https://openalex.org/A5001300612",
-          "name": "Qing Han"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         }
@@ -15853,7 +14905,7 @@
           "name": "Honglin Zheng"
         },
         {
-          "id": "https://openalex.org/A5025734891",
+          "id": "https://openalex.org/A5020608303",
           "name": "Xinfang Ma"
         },
         {
@@ -15871,46 +14923,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4310518546",
-      "title": "Overexpression of SHCBP1 predicts poor prognosis of gastric cancer",
-      "year": 2022,
-      "date": "2022-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5110738288",
-          "name": "Hua Du"
-        },
-        {
-          "id": "https://openalex.org/A5100399670",
-          "name": "Haifeng Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5108048844",
-          "name": "Wei Sun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100313751",
-          "name": "Xiaoyan Xu"
-        },
-        {
-          "id": "https://openalex.org/A5049998731",
-          "name": "Lixin Wen"
-        },
-        {
-          "id": "https://openalex.org/A5056066968",
-          "name": "Yingxu Shi"
-        },
-        {
-          "id": "https://openalex.org/A5101400041",
-          "name": "Honggang Liu"
         }
       ]
     },
@@ -15943,10 +14955,6 @@
         {
           "id": "https://openalex.org/A5101099607",
           "name": "Deqiang Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5030121620",
-          "name": "Zhiyong Weng"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -15999,30 +15007,6 @@
         {
           "id": "https://openalex.org/A5114034386",
           "name": "Xu Kuangdi"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4316829948",
-      "title": "Averaging Orientations with Molecular Symmetry in Cryo-EM",
-      "year": 2023,
-      "date": "2023-01-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100360204",
-          "name": "Qi Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5054041500",
-          "name": "Chenglong Bao"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5016669094",
-          "name": "Mingxu Hu"
         }
       ]
     },
@@ -16093,10 +15077,6 @@
           "name": "Tongjia Zheng"
         },
         {
-          "id": "https://openalex.org/A5001300612",
-          "name": "Qing Han"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
         }
@@ -16126,7 +15106,7 @@
         },
         {
           "id": "https://openalex.org/A5061036650",
-          "name": "Holly Edwards"
+          "name": "Holly J. Edwards"
         },
         {
           "id": "https://openalex.org/A5100325273",
@@ -16141,12 +15121,8 @@
           "name": "Shengyan Xiang"
         },
         {
-          "id": "https://openalex.org/A5100330119",
-          "name": "Xiaohong Zhang"
-        },
-        {
           "id": "https://openalex.org/A5040026335",
-          "name": "Roland Chu"
+          "name": "Roland L. Chu"
         },
         {
           "id": "https://openalex.org/A5075313758",
@@ -16158,71 +15134,7 @@
         },
         {
           "id": "https://openalex.org/A5008374158",
-          "name": "Jeffrey W. Taub"
-        },
-        {
-          "id": "https://openalex.org/A5100638112",
-          "name": "Yubin Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4361886225",
-      "title": "Table S1 from Binding of Released Bim to Mcl-1 is a Mechanism of Intrinsic Resistance to ABT-199 which can be Overcome by Combination with Daunorubicin or Cytarabine in AML Cells",
-      "year": 2023,
-      "date": "2023-03-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101845172",
-          "name": "Xiaojia Niu"
-        },
-        {
-          "id": "https://openalex.org/A5071852190",
-          "name": "Jianyun Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5100357282",
-          "name": "Jun Ma"
-        },
-        {
-          "id": "https://openalex.org/A5100877624",
-          "name": "Chengzhi Xie"
-        },
-        {
-          "id": "https://openalex.org/A5061036650",
-          "name": "Holly Edwards"
-        },
-        {
-          "id": "https://openalex.org/A5100325285",
-          "name": "Guan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5031962631",
-          "name": "J. Timothy Caldwell"
-        },
-        {
-          "id": "https://openalex.org/A5002618025",
-          "name": "Shengyan Xiang"
-        },
-        {
-          "id": "https://openalex.org/A5100330119",
-          "name": "Xiaohong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5040026335",
-          "name": "Roland Chu"
-        },
-        {
-          "id": "https://openalex.org/A5075313758",
-          "name": "Zhihong J. Wang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5008374158",
-          "name": "Jeffrey W. Taub"
+          "name": "Jeffrey Warren Taub"
         },
         {
           "id": "https://openalex.org/A5100638112",
@@ -16254,7 +15166,7 @@
         },
         {
           "id": "https://openalex.org/A5061036650",
-          "name": "Holly Edwards"
+          "name": "Holly J. Edwards"
         },
         {
           "id": "https://openalex.org/A5100325273",
@@ -16269,12 +15181,8 @@
           "name": "Shengyan Xiang"
         },
         {
-          "id": "https://openalex.org/A5100330119",
-          "name": "Xiaohong Zhang"
-        },
-        {
           "id": "https://openalex.org/A5040026335",
-          "name": "Roland Chu"
+          "name": "Roland L. Chu"
         },
         {
           "id": "https://openalex.org/A5075313758",
@@ -16286,243 +15194,11 @@
         },
         {
           "id": "https://openalex.org/A5008374158",
-          "name": "Jeffrey W. Taub"
+          "name": "Jeffrey Warren Taub"
         },
         {
           "id": "https://openalex.org/A5100638112",
           "name": "Yubin Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4361925261",
-      "title": "Table S1 from Binding of Released Bim to Mcl-1 is a Mechanism of Intrinsic Resistance to ABT-199 which can be Overcome by Combination with Daunorubicin or Cytarabine in AML Cells",
-      "year": 2023,
-      "date": "2023-03-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101845172",
-          "name": "Xiaojia Niu"
-        },
-        {
-          "id": "https://openalex.org/A5071852190",
-          "name": "Jianyun Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5100357282",
-          "name": "Jun Ma"
-        },
-        {
-          "id": "https://openalex.org/A5100877624",
-          "name": "Chengzhi Xie"
-        },
-        {
-          "id": "https://openalex.org/A5061036650",
-          "name": "Holly Edwards"
-        },
-        {
-          "id": "https://openalex.org/A5100325285",
-          "name": "Guan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5031962631",
-          "name": "J. Timothy Caldwell"
-        },
-        {
-          "id": "https://openalex.org/A5002618025",
-          "name": "Shengyan Xiang"
-        },
-        {
-          "id": "https://openalex.org/A5100330119",
-          "name": "Xiaohong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5040026335",
-          "name": "Roland Chu"
-        },
-        {
-          "id": "https://openalex.org/A5075313758",
-          "name": "Zhihong J. Wang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5008374158",
-          "name": "Jeffrey W. Taub"
-        },
-        {
-          "id": "https://openalex.org/A5100638112",
-          "name": "Yubin Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4361945923",
-      "title": "Data from Binding of Released Bim to Mcl-1 is a Mechanism of Intrinsic Resistance to ABT-199 which can be Overcome by Combination with Daunorubicin or Cytarabine in AML Cells",
-      "year": 2023,
-      "date": "2023-03-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101845172",
-          "name": "Xiaojia Niu"
-        },
-        {
-          "id": "https://openalex.org/A5071852190",
-          "name": "Jianyun Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5100357282",
-          "name": "Jun Ma"
-        },
-        {
-          "id": "https://openalex.org/A5100877624",
-          "name": "Chengzhi Xie"
-        },
-        {
-          "id": "https://openalex.org/A5061036650",
-          "name": "Holly Edwards"
-        },
-        {
-          "id": "https://openalex.org/A5100325273",
-          "name": "Guan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5031962631",
-          "name": "J. Timothy Caldwell"
-        },
-        {
-          "id": "https://openalex.org/A5002618025",
-          "name": "Shengyan Xiang"
-        },
-        {
-          "id": "https://openalex.org/A5100330120",
-          "name": "Xiaohong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5040026335",
-          "name": "Roland Chu"
-        },
-        {
-          "id": "https://openalex.org/A5075313758",
-          "name": "Zhihong J. Wang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5008374158",
-          "name": "Jeffrey W. Taub"
-        },
-        {
-          "id": "https://openalex.org/A5100638112",
-          "name": "Yubin Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4361958486",
-      "title": "Data from Binding of Released Bim to Mcl-1 is a Mechanism of Intrinsic Resistance to ABT-199 which can be Overcome by Combination with Daunorubicin or Cytarabine in AML Cells",
-      "year": 2023,
-      "date": "2023-03-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101845172",
-          "name": "Xiaojia Niu"
-        },
-        {
-          "id": "https://openalex.org/A5071852190",
-          "name": "Jianyun Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5100357282",
-          "name": "Jun Ma"
-        },
-        {
-          "id": "https://openalex.org/A5100877624",
-          "name": "Chengzhi Xie"
-        },
-        {
-          "id": "https://openalex.org/A5061036650",
-          "name": "Holly Edwards"
-        },
-        {
-          "id": "https://openalex.org/A5100325273",
-          "name": "Guan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5031962631",
-          "name": "J. Timothy Caldwell"
-        },
-        {
-          "id": "https://openalex.org/A5002618025",
-          "name": "Shengyan Xiang"
-        },
-        {
-          "id": "https://openalex.org/A5100330120",
-          "name": "Xiaohong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5040026335",
-          "name": "Roland Chu"
-        },
-        {
-          "id": "https://openalex.org/A5075313758",
-          "name": "Zhihong J. Wang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5008374158",
-          "name": "Jeffrey W. Taub"
-        },
-        {
-          "id": "https://openalex.org/A5100638112",
-          "name": "Yubin Ge"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4364383297",
-      "title": "Competing spin-glass and spin-fluctuation states in NdxPr4-xNi3O8",
-      "year": 2023,
-      "date": "2023-04-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5027281763",
-          "name": "Shangxiong Huangfu"
-        },
-        {
-          "id": "https://openalex.org/A5079278041",
-          "name": "Zurab Guguchia"
-        },
-        {
-          "id": "https://openalex.org/A5100961709",
-          "name": "Tian Shang"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5016194063",
-          "name": "Huanlong Liu"
-        },
-        {
-          "id": "https://openalex.org/A5001225726",
-          "name": "Xiaofu Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5048315352",
-          "name": "H. Luetkens"
-        },
-        {
-          "id": "https://openalex.org/A5026455126",
-          "name": "A. Schilling"
         }
       ]
     },
@@ -16665,10 +15341,6 @@
           "name": "Mingguang Li"
         },
         {
-          "id": "https://openalex.org/A5101032437",
-          "name": "Dali Deng"
-        },
-        {
           "id": "https://openalex.org/A5102223730",
           "name": "Xin Xiao"
         },
@@ -16707,10 +15379,6 @@
         {
           "id": "https://openalex.org/A5055015997",
           "name": "Tao Xie"
-        },
-        {
-          "id": "https://openalex.org/A5033063791",
-          "name": "Xinxin Hou"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -16774,7 +15442,7 @@
         },
         {
           "id": "https://openalex.org/A5045198429",
-          "name": "Alan R. Wagner"
+          "name": "Alan Richard Wagner"
         }
       ]
     },
@@ -16784,10 +15452,6 @@
       "year": 2024,
       "date": "2024-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5050032304",
-          "name": "Tao Xie"
-        },
         {
           "id": "https://openalex.org/A5110502543",
           "name": "Jingen Deng"
@@ -16813,10 +15477,6 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5040978564",
-          "name": "Tom H. Luan"
-        },
-        {
           "id": "https://openalex.org/A5007192306",
           "name": "Hassan Karampour"
         },
@@ -16827,10 +15487,6 @@
         {
           "id": "https://openalex.org/A5100702481",
           "name": "Lei Yang"
-        },
-        {
-          "id": "https://openalex.org/A5043762120",
-          "name": "Pingping Han"
         },
         {
           "id": "https://openalex.org/A5107954355",
@@ -16873,20 +15529,8 @@
           "name": "San Cheng"
         },
         {
-          "id": "https://openalex.org/A5101406983",
-          "name": "Xia Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5063522815",
-          "name": "Z. Liu"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5100352881",
-          "name": "Wei Huang"
         },
         {
           "id": "https://openalex.org/A5085679374",
@@ -16919,22 +15563,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4412779736",
-      "title": "Clinical Observation on Bu Yang Tong Luo Tang in Treating Acute Ischemic Stroke with Qi Deficiency, Blood Deficiency and Wind Syndrome",
-      "year": 2025,
-      "date": "2025-07-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101825706",
-          "name": "Yi Liu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4414384331",
       "title": "Graph Neural Network-Based Distributed Optimal Control for Linear Networked Systems: An Online Distributed Training Approach",
       "year": 2025,
@@ -16951,22 +15579,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4415143718",
-      "title": "Traffic-Aware Pedestrian Intention Prediction",
-      "year": 2025,
-      "date": "2025-07-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5119374839",
-          "name": "Fahimeh Orvati Nia"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -17261,7 +15873,7 @@
           "name": "Yang Bai"
         },
         {
-          "id": "https://openalex.org/A5126649501",
+          "id": "https://openalex.org/A5126616419",
           "name": "Zhaoxin Nie"
         },
         {
@@ -17273,36 +15885,8 @@
           "name": "Tiechuan Li"
         },
         {
-          "id": "https://openalex.org/A5126626247",
+          "id": "https://openalex.org/A5025054245",
           "name": "Xuexin Duan"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7153278202",
-      "title": "Retrospective Evaluation of the Inflammatory Network Linking the Microbiome to the Tumor Immune Microenvironment in Lung Squamous Cell Carcinoma",
-      "year": 2026,
-      "date": "2026-04-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5133351724",
-          "name": "Liang Luo"
-        },
-        {
-          "id": "https://openalex.org/A5133381089",
-          "name": "Jianwei Xie"
-        },
-        {
-          "id": "https://openalex.org/A5005882740",
-          "name": "Dejun Sun"
-        },
-        {
-          "id": "https://openalex.org/A5114112972",
-          "name": "Xiaoyu Gao"
         }
       ]
     },
@@ -17310,7 +15894,7 @@
       "id": "https://openalex.org/W7166534255",
       "title": "Off-Policy Reinforcement Learning H \u221e Control for Two-Time-Scale Supply Chain Systems Subject to Design Change",
       "year": 2026,
-      "date": "2026-01-01",
+      "date": "2026-06-29",
       "coauthors": [
         {
           "id": "https://openalex.org/A5087602121",
@@ -17505,7 +16089,7 @@
       "date": "2014-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5007682663",
+          "id": "https://openalex.org/A5001759251",
           "name": "\u5e9e\u4e7e\u6797"
         },
         {
@@ -17599,26 +16183,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W789927041",
-      "title": "\u598a\u5a20\u7cd6\u5c3f\u75c5\u60a3\u8005\u8840\u6e05CRP\u3001IL-6\u6c34\u5e73\u7684\u53d8\u5316\u53ca\u5176\u4e34\u5e8a\u610f\u4e49",
-      "year": 2010,
-      "date": "2010-06-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5050883769",
-          "name": "\u77f3\u7433\u7433"
-        },
-        {
-          "id": "https://openalex.org/A5036384358",
-          "name": "\u848b\u9e3f\u9633"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W795691246",
       "title": "\u653b\u9632\u5b9e\u6218:\u6211\u7528\u871c\u7f50\u201c\u9ed1\u201d\u9ed1\u5ba2",
       "year": 2006,
@@ -17649,7 +16213,7 @@
           "name": "Zhigang Wang"
         },
         {
-          "id": "https://openalex.org/A5019568569",
+          "id": "https://openalex.org/A5012681081",
           "name": "\u7384\u677e\u5357"
         }
       ]
@@ -17893,7 +16457,7 @@
       "date": "2012-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5090839851",
+          "id": "https://openalex.org/A5017314365",
           "name": "\u9648\u534e\u6885"
         },
         {
@@ -17989,8 +16553,8 @@
           "name": "\u4f46\u5e74\u534e"
         },
         {
-          "id": "https://openalex.org/A5032926953",
-          "name": "\u4f46\u536b\u534e"
+          "id": "https://openalex.org/A5041947590",
+          "name": "Weihua Dan"
         },
         {
           "id": "https://openalex.org/A5024781301",
@@ -18035,10 +16599,6 @@
         {
           "id": "https://openalex.org/A5053840511",
           "name": "Zhigang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5058772567",
-          "name": "Lei Wang"
         }
       ]
     },
@@ -18249,10 +16809,6 @@
           "name": "K.F. Kwok"
         },
         {
-          "id": "https://openalex.org/A5044517310",
-          "name": "Sai T. Chu"
-        },
-        {
           "id": "https://openalex.org/A5059464459",
           "name": "Pun"
         },
@@ -18293,7 +16849,7 @@
           "name": "\u5434\u7ea2\u8273"
         },
         {
-          "id": "https://openalex.org/A5072296137",
+          "id": "https://openalex.org/A5088086046",
           "name": "\u5468\u743c\u5b87"
         },
         {
@@ -18433,11 +16989,11 @@
           "name": "\u4f46\u536b\u534e"
         },
         {
-          "id": "https://openalex.org/A5089335323",
+          "id": "https://openalex.org/A5000390259",
           "name": "\u66fe\u777f"
         },
         {
-          "id": "https://openalex.org/A5067951656",
+          "id": "https://openalex.org/A5036311944",
           "name": "\u4f46\u5e74\u534e"
         },
         {
@@ -18641,8 +17197,8 @@
           "name": "Hai Lin"
         },
         {
-          "id": "https://openalex.org/A5032926953",
-          "name": "\u4f46\u536b\u534e"
+          "id": "https://openalex.org/A5041947590",
+          "name": "Weihua Dan"
         }
       ]
     },
@@ -18909,7 +17465,7 @@
           "name": "Yang Yang"
         },
         {
-          "id": "https://openalex.org/A5029794977",
+          "id": "https://openalex.org/A5088714765",
           "name": "\u8463\u9896\u535a"
         }
       ]
@@ -19109,7 +17665,7 @@
           "name": "\u6731\u745e\u826f"
         },
         {
-          "id": "https://openalex.org/A5070587318",
+          "id": "https://openalex.org/A5036934708",
           "name": "\u725b\u949f\u76f8"
         },
         {
@@ -19383,18 +17939,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W975192337",
-      "title": "\u201c\u6cd5\u5f8b\u6d88\u4ea1\u201d\u4e0e\u201c\u6cd5\u5f8b\u8fde\u7eed\u6027\u201d\u7684\u7406\u8bba\u5173\u8054\u2014\u2014\u8bba\u5bcc\u52d2\u652f\u6301\u5e15\u8212\u5361\u5c3c\u65af\u7684\u539f\u7531\u53ca\u5176\u9650\u5ea6",
-      "year": 2012,
-      "date": "2012-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W976344469",
       "title": "\u5b89\u5168\u65e0\u6781\u9650:\u529e\u516c\u7535\u8111\u9632\u536b\u201c\u4e09\u91cd\u95e8\u201d",
       "year": 2005,
@@ -19497,7 +18041,7 @@
           "name": "\u8881\u666f\u8861"
         },
         {
-          "id": "https://openalex.org/A5029019129",
+          "id": "https://openalex.org/A5014982680",
           "name": "\u515a\u5efa\u5fb7"
         }
       ]

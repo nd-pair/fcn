@@ -6,7 +6,7 @@
   "openalex_name": "Panos J. Antsaklis",
   "affiliation": "University of Notre Dame",
   "works_count": 617,
-  "cited_by_count": 25843,
+  "cited_by_count": 25965,
   "photo": "assets/faculty/panos-antsaklis.jpg",
   "num_works_fetched": 626,
   "works": [
@@ -39,10 +39,6 @@
         {
           "id": "https://openalex.org/A5106454256",
           "name": "Elizabeth Kov\u00e1cs"
-        },
-        {
-          "id": "https://openalex.org/A5006803964",
-          "name": "Eric Chong"
         },
         {
           "id": "https://openalex.org/A5037697344",
@@ -113,16 +109,8 @@
           "name": "Anna Lisa Ferrara"
         },
         {
-          "id": "https://openalex.org/A5028995798",
-          "name": "Hideo Ishii"
-        },
-        {
           "id": "https://openalex.org/A5114254881",
           "name": "M. James"
-        },
-        {
-          "id": "https://openalex.org/A5021481129",
-          "name": "Alvar Lor\u0131\u0301a"
         },
         {
           "id": "https://openalex.org/A5047541029",
@@ -141,10 +129,6 @@
           "name": "L. Marconi"
         },
         {
-          "id": "https://openalex.org/A5057705489",
-          "name": "Kevin Morris"
-        },
-        {
           "id": "https://openalex.org/A5072319687",
           "name": "Fernando Paganini"
         },
@@ -154,7 +138,7 @@
         },
         {
           "id": "https://openalex.org/A5008675858",
-          "name": "Spyros Reveliotis"
+          "name": "Spyros A. Reveliotis"
         },
         {
           "id": "https://openalex.org/A5043731055",
@@ -217,10 +201,6 @@
       "date": "2004-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101962907",
-          "name": "Xiping Xu"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         }
@@ -270,7 +250,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -286,11 +266,11 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -306,7 +286,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5012705776",
@@ -314,7 +294,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -346,7 +326,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -399,22 +379,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2132408221",
-      "title": "Stability of the pseudo-inverse method for reconfigurable control systems",
-      "year": 1991,
-      "date": "1991-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5108483954",
-          "name": "Zhiqiang Gao"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2115042355",
       "title": "Supervisory control of hybrid systems",
       "year": 2000,
@@ -434,7 +398,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -446,7 +410,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -461,10 +425,6 @@
       "date": "2005-11-22",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101624498",
-          "name": "Lei Fang"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
@@ -474,11 +434,11 @@
         },
         {
           "id": "https://openalex.org/A5079169288",
-          "name": "M.B. McMickell"
+          "name": "M. Brett McMickell"
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052553992",
@@ -499,10 +459,6 @@
         {
           "id": "https://openalex.org/A5070592593",
           "name": "Min Xie"
-        },
-        {
-          "id": "https://openalex.org/A5063161231",
-          "name": "Xiaojuan Xie"
         }
       ]
     },
@@ -571,26 +527,6 @@
         {
           "id": "https://openalex.org/A5029454978",
           "name": "David W. Casbeer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1559815321",
-      "title": "Hybrid system modeling and autonomous control systems",
-      "year": 1993,
-      "date": "1993-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5011661477",
-          "name": "James A. Stiver"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
         }
       ]
     },
@@ -682,15 +618,15 @@
         },
         {
           "id": "https://openalex.org/A5108535848",
-          "name": "\u039d. \u03a0\u03b1\u03c0\u03b1\u03bd\u03c4\u03c9\u03bd\u03af\u03bf\u03c5"
+          "name": "Nikos Papantoniou"
         },
         {
           "id": "https://openalex.org/A5113536524",
-          "name": "S. Mesogitis"
+          "name": "Spyros A. Mesogitis"
         },
         {
           "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
+          "name": "Aris J Antsaklis"
         }
       ]
     },
@@ -762,7 +698,7 @@
         },
         {
           "id": "https://openalex.org/A5023618110",
-          "name": "Amos Gr\u00fcnebaum"
+          "name": "Amos N. Grunebaum"
         },
         {
           "id": "https://openalex.org/A5026562247",
@@ -782,15 +718,11 @@
         },
         {
           "id": "https://openalex.org/A5108903739",
-          "name": "Mar\u00eda Jos\u00e9 Suar\u00e9z"
+          "name": "Mar\u00eda Jos\u00e9 Rodr\u00edguez Su\u00e1rez"
         },
         {
           "id": "https://openalex.org/A5063720265",
           "name": "Zita Maria Gambacorti-Passerini"
-        },
-        {
-          "id": "https://openalex.org/A5046121172",
-          "name": "Maria Baz"
         },
         {
           "id": "https://openalex.org/A5008779955",
@@ -802,7 +734,7 @@
         },
         {
           "id": "https://openalex.org/A5062240601",
-          "name": "Juan A. De Le\u00f3n-Luis"
+          "name": "Juan Antonio De Le\u00f3n-Luis"
         },
         {
           "id": "https://openalex.org/A5065286580",
@@ -838,7 +770,7 @@
         },
         {
           "id": "https://openalex.org/A5034331450",
-          "name": "J. K\u00f6nigbauer"
+          "name": "Josefine Theresia K\u00f6nigbauer"
         },
         {
           "id": "https://openalex.org/A5054011884",
@@ -846,7 +778,7 @@
         },
         {
           "id": "https://openalex.org/A5023589954",
-          "name": "T. Frusca"
+          "name": "Tiziana Frusca"
         },
         {
           "id": "https://openalex.org/A5025547676",
@@ -874,7 +806,7 @@
         },
         {
           "id": "https://openalex.org/A5083671200",
-          "name": "A. Youssef"
+          "name": "Aly Youssef"
         },
         {
           "id": "https://openalex.org/A5016111505",
@@ -905,12 +837,8 @@
           "name": "Danila Morano"
         },
         {
-          "id": "https://openalex.org/A5102793555",
-          "name": "Beatrice Bianchi"
-        },
-        {
           "id": "https://openalex.org/A5058326594",
-          "name": "F. Laraud"
+          "name": "Federica Laraud"
         },
         {
           "id": "https://openalex.org/A5018620735",
@@ -957,6 +885,10 @@
           "name": "Angelo Sirico"
         },
         {
+          "id": "https://openalex.org/A5135528781",
+          "name": "Antonio Lanzone"
+        },
+        {
           "id": "https://openalex.org/A5008897693",
           "name": "Lorenza Driul"
         },
@@ -997,7 +929,7 @@
           "name": "Maddalena Morlando"
         },
         {
-          "id": "https://openalex.org/A5055575582",
+          "id": "https://openalex.org/A5073824190",
           "name": "Antonio Schiattarella"
         },
         {
@@ -1006,7 +938,7 @@
         },
         {
           "id": "https://openalex.org/A5085971000",
-          "name": "Pasquale De Franciscis"
+          "name": "Pasquale DE FRANCISCIS"
         },
         {
           "id": "https://openalex.org/A5078238983",
@@ -1090,7 +1022,7 @@
         },
         {
           "id": "https://openalex.org/A5058183088",
-          "name": "Danilo Buca"
+          "name": "Danilo Italo Pio Buca"
         },
         {
           "id": "https://openalex.org/A5089503408",
@@ -1098,7 +1030,7 @@
         },
         {
           "id": "https://openalex.org/A5086115191",
-          "name": "F. Di Sebastiano"
+          "name": "Francesca Di Sebastiano"
         },
         {
           "id": "https://openalex.org/A5064409492",
@@ -1190,7 +1122,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -1226,19 +1158,15 @@
         },
         {
           "id": "https://openalex.org/A5062245346",
-          "name": "A. Comanescu"
+          "name": "Alexandru  Cristian Com\u0103nescu"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5084346564",
-          "name": "S Cotarcea"
-        },
-        {
           "id": "https://openalex.org/A5083061176",
-          "name": "Liliana Novac"
+          "name": "Liliana Victoria Novac"
         },
         {
           "id": "https://openalex.org/A5073973000",
@@ -1246,7 +1174,7 @@
         },
         {
           "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
+          "name": "Aris J Antsaklis"
         }
       ]
     },
@@ -1283,30 +1211,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2527328725",
-      "title": "Model-Based Predictive Control for building energy management. I: Energy modeling and optimal control",
-      "year": 2016,
-      "date": "2016-09-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078083915",
-          "name": "Saran Salakij"
-        },
-        {
-          "id": "https://openalex.org/A5101968614",
-          "name": "Na Yu"
-        },
-        {
-          "id": "https://openalex.org/A5032182943",
-          "name": "Samuel Paolucci"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1982824121",
       "title": "Control of cyberphysical systems using passivity and dissipativity based methods",
       "year": 2013,
@@ -1334,7 +1238,7 @@
         },
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5080268090",
@@ -1414,7 +1318,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5068767535",
@@ -1426,7 +1330,7 @@
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5071671313",
@@ -1450,7 +1354,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5039249886",
-          "name": "J.A. Rossiter"
+          "name": "John Anthony Rossiter"
         },
         {
           "id": "https://openalex.org/A5047685950",
@@ -1470,7 +1374,7 @@
         },
         {
           "id": "https://openalex.org/A5055069190",
-          "name": "Gireeja Ranade"
+          "name": "Gireeja V. Ranade"
         },
         {
           "id": "https://openalex.org/A5077205052",
@@ -1499,6 +1403,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2132408221",
+      "title": "Stability of the pseudo-inverse method for reconfigurable control systems",
+      "year": 1991,
+      "date": "1991-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5108483954",
+          "name": "Zhiqiang Gao"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1559815321",
+      "title": "Hybrid system modeling and autonomous control systems",
+      "year": 1993,
+      "date": "1993-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5011661477",
+          "name": "James A. Stiver"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2130945372",
       "title": "A simple method to derive bounds on the size and to train multilayer neural networks",
       "year": 1991,
@@ -1506,7 +1446,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1578,7 +1518,7 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1592,10 +1532,6 @@
       "year": 2005,
       "date": "2005-08-10",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5051375902",
-          "name": "Lei Fang"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -1634,23 +1570,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2132821960",
-      "title": "Stability and Stabilizability of Switched Linear Systems: A Short Survey of Recent Results",
-      "year": 2005,
-      "date": "2005-07-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
+          "name": "Anthony N. MICHEL"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1710,7 +1630,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -1763,6 +1683,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2527328725",
+      "title": "Model-Based Predictive Control for building energy management. I: Energy modeling and optimal control",
+      "year": 2016,
+      "date": "2016-09-29",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078083915",
+          "name": "Saran Salakij"
+        },
+        {
+          "id": "https://openalex.org/A5101968614",
+          "name": "Na Yu"
+        },
+        {
+          "id": "https://openalex.org/A5032182943",
+          "name": "Samuel Paolucci"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2027936648",
       "title": "Static and dynamic quantization in model-based networked control systems",
       "year": 2006,
@@ -1787,22 +1731,6 @@
         {
           "id": "https://openalex.org/A5072462741",
           "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2149307881",
-      "title": "Reconfigurable control system design via perfect model following",
-      "year": 1992,
-      "date": "1992-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102994363",
-          "name": "Zhiqiang Gao"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1849,10 +1777,6 @@
       "date": "2008-11-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5051375902",
-          "name": "Lei Fang"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         }
@@ -1871,10 +1795,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5086121843",
-          "name": "A. Tzimas"
         }
       ]
     },
@@ -1887,38 +1807,6 @@
         {
           "id": "https://openalex.org/A5043787244",
           "name": "Marian V. Iordache"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2126554300",
-      "title": "A dynamic programming approach for optimal control of switched systems",
-      "year": 2002,
-      "date": "2002-11-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2091390230",
-      "title": "Design of stabilizing switching control laws for discrete- and continuous-time linear systems using piecewise-linear Lyapunov functions",
-      "year": 2002,
-      "date": "2002-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -1947,6 +1835,22 @@
         {
           "id": "https://openalex.org/A5031222391",
           "name": "Feng Zhu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2091390230",
+      "title": "Design of stabilizing switching control laws for discrete- and continuous-time linear systems using piecewise-linear Lyapunov functions",
+      "year": 2002,
+      "date": "2002-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -2011,6 +1915,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2066475588",
+      "title": "Relationships between positive real, passive dissipative, & positive systems",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5006671851",
+          "name": "Nicholas Kottenstette"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2125734781",
       "title": "Design of Networked Control Systems Using Passivity",
       "year": 2012,
@@ -2025,7 +1945,7 @@
           "name": "Joseph Hall"
         },
         {
-          "id": "https://openalex.org/A5048202363",
+          "id": "https://openalex.org/A5023397404",
           "name": "Xenofon Koutsoukos"
         },
         {
@@ -2047,22 +1967,6 @@
         {
           "id": "https://openalex.org/A5023052551",
           "name": "Eloy Garc\u00eda"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2066475588",
-      "title": "Relationships between positive real, passive dissipative, & positive systems",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5006671851",
-          "name": "Nicholas Kottenstette"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2106,7 +2010,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5028803813",
-          "name": "Tracy Kijewski\u2010Correa"
+          "name": "Tracy L. Kijewski-Correa"
         },
         {
           "id": "https://openalex.org/A5003896287",
@@ -2175,30 +2079,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2921226743",
-      "title": "Distributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies",
-      "year": 2020,
-      "date": "2020-04-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5040417385",
-          "name": "S. Sivaranjani"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1742307920",
       "title": "Autonomy and machine intelligence in complex systems: A tutorial",
       "year": 2015,
@@ -2246,7 +2126,7 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2255,26 +2135,54 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2099443986",
-      "title": "Passivity-Based Design of Wireless Networked Control Systems for Robustness to Time-Varying Delays",
-      "year": 2008,
-      "date": "2008-11-01",
+      "id": "https://openalex.org/W2921226743",
+      "title": "Distributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies",
+      "year": 2020,
+      "date": "2020-04-27",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5006671851",
-          "name": "Nicholas Kottenstette"
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
         },
         {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
+          "id": "https://openalex.org/A5040417385",
+          "name": "S. Sivaranjani"
         },
         {
-          "id": "https://openalex.org/A5063992702",
-          "name": "Joseph Hall"
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
         },
         {
-          "id": "https://openalex.org/A5013237840",
-          "name": "J\u00e1nos Sztipanovits"
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1977819874",
+      "title": "Control design for switched systems using passivity indices",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5103437209",
+          "name": "Michael J. McCourt"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2153615099",
+      "title": "Optimal control of hybrid autonomous systems with state jumps",
+      "year": 2004,
+      "date": "2004-02-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -2321,10 +2229,6 @@
           "name": "Ali Ovayolu"
         },
         {
-          "id": "https://openalex.org/A5068356216",
-          "name": "Hasan Ero\u011flu"
-        },
-        {
           "id": "https://openalex.org/A5074122066",
           "name": "Manuel Guerra Canales"
         },
@@ -2338,7 +2242,7 @@
         },
         {
           "id": "https://openalex.org/A5059237238",
-          "name": "\u00d6zhan Turan"
+          "name": "Ozhan Mehmet Turan"
         },
         {
           "id": "https://openalex.org/A5111545611",
@@ -2406,7 +2310,7 @@
         },
         {
           "id": "https://openalex.org/A5086115191",
-          "name": "F. Di Sebastiano"
+          "name": "Francesca Di Sebastiano"
         },
         {
           "id": "https://openalex.org/A5035239605",
@@ -2418,7 +2322,7 @@
         },
         {
           "id": "https://openalex.org/A5058183088",
-          "name": "Danilo Buca"
+          "name": "Danilo Italo Pio Buca"
         },
         {
           "id": "https://openalex.org/A5057760557",
@@ -2442,7 +2346,7 @@
         },
         {
           "id": "https://openalex.org/A5032217481",
-          "name": "Stefano Cosma"
+          "name": "Stefano Domenico Cosma"
         },
         {
           "id": "https://openalex.org/A5067531311",
@@ -2490,7 +2394,7 @@
         },
         {
           "id": "https://openalex.org/A5023589954",
-          "name": "T. Frusca"
+          "name": "Tiziana Frusca"
         },
         {
           "id": "https://openalex.org/A5055991481",
@@ -2562,7 +2466,7 @@
         },
         {
           "id": "https://openalex.org/A5083671200",
-          "name": "A. Youssef"
+          "name": "Aly Youssef"
         },
         {
           "id": "https://openalex.org/A5103986496",
@@ -2586,7 +2490,7 @@
         },
         {
           "id": "https://openalex.org/A5021134976",
-          "name": "Irmeli Nupponen"
+          "name": "Irmeli Katriina Nupponen"
         },
         {
           "id": "https://openalex.org/A5058738582",
@@ -2657,10 +2561,6 @@
           "name": "Alejandra Mart\u00ednez Schulte"
         },
         {
-          "id": "https://openalex.org/A5101726512",
-          "name": "Valentina Esposito"
-        },
-        {
           "id": "https://openalex.org/A5107880689",
           "name": "Valentina De Robertis"
         },
@@ -2683,38 +2583,6 @@
         {
           "id": "https://openalex.org/A5074270038",
           "name": "Gabriele Saccone"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1977819874",
-      "title": "Control design for switched systems using passivity indices",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5103437209",
-          "name": "Michael J. McCourt"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2153615099",
-      "title": "Optimal control of hybrid autonomous systems with state jumps",
-      "year": 2004,
-      "date": "2004-02-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -2815,6 +2683,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4245876913",
+      "title": "A Linear Systems Primer",
+      "year": 2007,
+      "date": "2007-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "Anthony N. MICHEL"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2115369064",
       "title": "Petri Net Supervisors for Disjunctive Constraints",
       "year": 2007,
@@ -2827,22 +2711,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4245876913",
-      "title": "A Linear Systems Primer",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
         }
       ]
     },
@@ -2883,38 +2751,6 @@
         {
           "id": "https://openalex.org/A5080268090",
           "name": "Meng Xia"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1969156307",
-      "title": "On time optimal control of integrator switched systems with state constraints",
-      "year": 2005,
-      "date": "2005-05-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2122618178",
-      "title": "Petri nets and programming: A survey",
-      "year": 2009,
-      "date": "2009-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043787244",
-          "name": "Marian V. Iordache"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3055,18 +2891,30 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1973317763",
-      "title": "Concurrent program synthesis based on supervisory control",
-      "year": 2010,
-      "date": "2010-06-01",
+      "id": "https://openalex.org/W2796563271",
+      "title": "Network-based protein structural classification",
+      "year": 2020,
+      "date": "2020-06-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5043787244",
-          "name": "Marian V. Iordache"
+          "id": "https://openalex.org/A5056455482",
+          "name": "Khalique Newaz"
+        },
+        {
+          "id": "https://openalex.org/A5015312524",
+          "name": "Mahboobeh Ghalehnovi"
+        },
+        {
+          "id": "https://openalex.org/A5053280713",
+          "name": "Arash Rahnama"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5042457126",
+          "name": "Tijana Milenkovi\u0107"
         }
       ]
     },
@@ -3090,7 +2938,7 @@
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5023519733",
@@ -3130,7 +2978,7 @@
         },
         {
           "id": "https://openalex.org/A5004158073",
-          "name": "Panagiotis Papamichalis"
+          "name": "Panagiotis A. Papamichalis"
         },
         {
           "id": "https://openalex.org/A5090738052",
@@ -3142,7 +2990,7 @@
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3150,7 +2998,7 @@
         },
         {
           "id": "https://openalex.org/A5010729642",
-          "name": "Alexandros Daponte"
+          "name": "Alexandros I. Daponte"
         },
         {
           "id": "https://openalex.org/A5101796153",
@@ -3159,6 +3007,22 @@
         {
           "id": "https://openalex.org/A5087113948",
           "name": "Emmanuel N. Kontomanolis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4229691373",
+      "title": "Linear Systems",
+      "year": 2006,
+      "date": "2006-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -3186,7 +3050,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5068767535",
@@ -3202,7 +3066,7 @@
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5071671313",
@@ -3210,7 +3074,7 @@
         },
         {
           "id": "https://openalex.org/A5114020260",
-          "name": "George Daskalakis"
+          "name": "George J. Daskalakis"
         },
         {
           "id": "https://openalex.org/A5087113948",
@@ -3219,18 +3083,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4229691373",
-      "title": "Linear Systems",
-      "year": 2006,
-      "date": "2006-01-01",
+      "id": "https://openalex.org/W4224221017",
+      "title": "A Generalized Distributed Analysis and Control Synthesis Approach for Networked Systems with Arbitrary Interconnections",
+      "year": 2022,
+      "date": "2022-06-28",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
         }
       ]
     },
@@ -3258,7 +3126,7 @@
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5102698745",
@@ -3279,6 +3147,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2132821960",
+      "title": "Stability and Stabilizability of Switched Linear Systems: A Short Survey of Recent Results",
+      "year": 2005,
+      "date": "2005-07-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2149307881",
+      "title": "Reconfigurable control system design via perfect model following",
+      "year": 1992,
+      "date": "1992-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102994363",
+          "name": "Zhiqiang Gao"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2131949903",
       "title": "Parameter learning for performance adaptation",
       "year": 1990,
@@ -3287,6 +3187,22 @@
         {
           "id": "https://openalex.org/A5078145160",
           "name": "M.D. Peek"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2126554300",
+      "title": "A dynamic programming approach for optimal control of switched systems",
+      "year": 2002,
+      "date": "2002-11-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3327,6 +3243,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1629938527",
+      "title": "Stability analysis for a class of nonlinear switched systems",
+      "year": 2003,
+      "date": "2003-01-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101436274",
+          "name": "Bo Hu"
+        },
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "Anthony N. MICHEL"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2162461221",
       "title": "A practical controller for explicit rate congestion control",
       "year": 2002,
@@ -3347,30 +3287,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1629938527",
-      "title": "Stability analysis for a class of nonlinear switched systems",
-      "year": 2003,
-      "date": "2003-01-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101436274",
-          "name": "Bo Hu"
-        },
-        {
-          "id": "https://openalex.org/A5072462741",
-          "name": "Xuping Xu"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2480614910",
       "title": "On Communication Requirements for Multi-agent Consensus Seeking",
       "year": 2006,
@@ -3379,6 +3295,22 @@
         {
           "id": "https://openalex.org/A5051375902",
           "name": "Lei Fang"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1564892109",
+      "title": "Networked Control Systems: A Model-Based Approach",
+      "year": 2005,
+      "date": "2005-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074199849",
+          "name": "Luis A. Montestruque"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3411,6 +3343,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2099443986",
+      "title": "Passivity-Based Design of Wireless Networked Control Systems for Robustness to Time-Varying Delays",
+      "year": 2008,
+      "date": "2008-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5006671851",
+          "name": "Nicholas Kottenstette"
+        },
+        {
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
+        },
+        {
+          "id": "https://openalex.org/A5063992702",
+          "name": "Joseph Hall"
+        },
+        {
+          "id": "https://openalex.org/A5013237840",
+          "name": "J\u00e1nos Sztipanovits"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W81642242",
       "title": "Introduction to intelligent control systems with high degrees of autonomy",
       "year": 1993,
@@ -3423,22 +3383,6 @@
         {
           "id": "https://openalex.org/A5043940203",
           "name": "Kevin M. Passino"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1564892109",
-      "title": "Networked Control Systems: A Model-Based Approach",
-      "year": 2005,
-      "date": "2005-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074199849",
-          "name": "Luis A. Montestruque"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -3507,8 +3451,56 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1969156307",
+      "title": "On time optimal control of integrator switched systems with state constraints",
+      "year": 2005,
+      "date": "2005-05-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5072462741",
+          "name": "Xuping Xu"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2122618178",
+      "title": "Petri nets and programming: A survey",
+      "year": 2009,
+      "date": "2009-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043787244",
+          "name": "Marian V. Iordache"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2155969328",
       "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
+      "year": 2004,
+      "date": "2004-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2171506252",
+      "title": "Persistent disturbance attenuation properties for networked control systems",
       "year": 2004,
       "date": "2004-01-01",
       "coauthors": [
@@ -3555,22 +3547,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2171506252",
-      "title": "Persistent disturbance attenuation properties for networked control systems",
-      "year": 2004,
-      "date": "2004-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2344524878",
       "title": "Large-Scale Dissipative and Passive Control Systems and the Role of Star and Cyclic Symmetries",
       "year": 2016,
@@ -3582,7 +3558,7 @@
         },
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3646,7 +3622,7 @@
         },
         {
           "id": "https://openalex.org/A5062245346",
-          "name": "A. Comanescu"
+          "name": "Alexandru  Cristian Com\u0103nescu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3658,7 +3634,7 @@
         },
         {
           "id": "https://openalex.org/A5110684557",
-          "name": "Mirela Ghilu\u015fi"
+          "name": "Mirela Corina Ghilu\u015fi"
         },
         {
           "id": "https://openalex.org/A5110490389",
@@ -3674,11 +3650,11 @@
         },
         {
           "id": "https://openalex.org/A5062748500",
-          "name": "A. Antsaklis"
+          "name": "Aristeidis Antsaklis"
         },
         {
           "id": "https://openalex.org/A5083061176",
-          "name": "Liliana Novac"
+          "name": "Liliana Victoria Novac"
         },
         {
           "id": "https://openalex.org/A5073973000",
@@ -3694,11 +3670,11 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
+          "name": "Aris J Antsaklis"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3706,7 +3682,7 @@
         },
         {
           "id": "https://openalex.org/A5017866689",
-          "name": "K. Blanas"
+          "name": "Konstantinos Blanas"
         },
         {
           "id": "https://openalex.org/A5101796153",
@@ -3722,7 +3698,7 @@
         },
         {
           "id": "https://openalex.org/A5073599153",
-          "name": "Nikolaos Papantoniou"
+          "name": "Nikolaos E. Papantoniou"
         }
       ]
     },
@@ -3779,6 +3755,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1973317763",
+      "title": "Concurrent program synthesis based on supervisory control",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043787244",
+          "name": "Marian V. Iordache"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2313856951",
       "title": "Optimal Control of Switched Hybrid Systems: A Brief Survey",
       "year": 2013,
@@ -3811,6 +3803,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2020007492",
+      "title": "On Feedback Passivity of Discrete-Time Nonlinear Networked Control Systems With Packet Drops",
+      "year": 2014,
+      "date": "2014-12-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100372089",
+          "name": "Yue Wang"
+        },
+        {
+          "id": "https://openalex.org/A5080268090",
+          "name": "Meng Xia"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2734356386",
       "title": "A resilient design for cyber physical systems under attack",
       "year": 2017,
@@ -3831,22 +3847,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2020007492",
-      "title": "On Feedback Passivity of Discrete-Time Nonlinear Networked Control Systems With Packet Drops",
-      "year": 2014,
-      "date": "2014-12-22",
+      "id": "https://openalex.org/W2907761898",
+      "title": "Passivity and passivity indices of nonlinear systems under operational limitations using approximations",
+      "year": 2019,
+      "date": "2019-06-20",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100372089",
-          "name": "Yue Wang"
-        },
-        {
-          "id": "https://openalex.org/A5080268090",
-          "name": "Meng Xia"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
+          "id": "https://openalex.org/A5015383229",
+          "name": "Hasan Zakeri"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -3922,7 +3930,7 @@
         },
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5031222391",
@@ -3990,7 +3998,7 @@
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5040662809",
@@ -4034,7 +4042,7 @@
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5050759649",
@@ -4050,7 +4058,7 @@
         },
         {
           "id": "https://openalex.org/A5058824130",
-          "name": "Athanasios Syllaios"
+          "name": "Athanasios J. Syllaios"
         },
         {
           "id": "https://openalex.org/A5071671313",
@@ -4059,10 +4067,6 @@
         {
           "id": "https://openalex.org/A5083280969",
           "name": "Athanasios Chionis"
-        },
-        {
-          "id": "https://openalex.org/A5089671783",
-          "name": "Panagiotis D. Symeonidis"
         },
         {
           "id": "https://openalex.org/A5002588485",
@@ -4078,7 +4082,7 @@
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4114,7 +4118,7 @@
         },
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5031222391",
@@ -4175,6 +4179,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2025141932",
+      "title": "Distributed formation control of networked passive systems with event-driven communication",
+      "year": 2012,
+      "date": "2012-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100462713",
+          "name": "Yu Han"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4287217479",
       "title": "A new performance bound for submodular maximization problems and its application to multi-agent optimal coverage problems",
       "year": 2022,
@@ -4191,22 +4211,6 @@
         {
           "id": "https://openalex.org/A5033227324",
           "name": "Hai Xiang Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2025141932",
-      "title": "Distributed formation control of networked passive systems with event-driven communication",
-      "year": 2012,
-      "date": "2012-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100462713",
-          "name": "Yu Han"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4239,26 +4243,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4382936125",
-      "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
-      "year": 2023,
-      "date": "2023-05-31",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4406961235",
       "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
       "year": 2025,
@@ -4271,26 +4255,6 @@
         {
           "id": "https://openalex.org/A5109119591",
           "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4399404206",
-      "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
-      "year": 2024,
-      "date": "2024-06-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -4358,23 +4322,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2144621059",
-      "title": "Modeling and analysis of hybrid control systems",
-      "year": 2005,
-      "date": "2005-08-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011661477",
-          "name": "James A. Stiver"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -4394,7 +4342,7 @@
         },
         {
           "id": "https://openalex.org/A5085823749",
-          "name": "J. Zaytoon"
+          "name": "Janan Zaytoon"
         }
       ]
     },
@@ -4406,23 +4354,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2129393535",
-      "title": "A SYSTEM AND CONTROL THEORETIC PERSPECTIVE ON ARTIFICIAL INTELLIGENCE PLANNING SYSTEMS",
-      "year": 1989,
-      "date": "1989-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043940203",
-          "name": "Kevin M. Passino"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4447,22 +4379,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2096931033",
-      "title": "Supervisory control of Petri nets with uncontrollable/unobservable transitions",
-      "year": 2002,
-      "date": "2002-12-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1968846074",
       "title": "Timed Petri Nets in Hybrid Systems: Stability and Supervisory Control",
       "year": 1998,
@@ -4478,7 +4394,23 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2096931033",
+      "title": "Supervisory control of Petri nets with uncontrollable/unobservable transitions",
+      "year": 2002,
+      "date": "2002-12-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021556911",
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4583,22 +4515,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2169759023",
-      "title": "Synthesis of supervisors enforcing general linear vector constraints in Petri nets",
-      "year": 2003,
-      "date": "2003-06-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043787244",
-          "name": "Marian V. Iordache"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2150646259",
       "title": "Practical stabilization of integrator switched systems",
       "year": 2004,
@@ -4670,7 +4586,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -4779,14 +4695,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2071859728",
-      "title": "Multiagent coordination exploiting system symmetries",
-      "year": 2010,
-      "date": "2010-06-01",
+      "id": "https://openalex.org/W2126231641",
+      "title": "Adaptive stabilization of Model-Based Networked Control Systems",
+      "year": 2011,
+      "date": "2011-06-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
+          "id": "https://openalex.org/A5023052551",
+          "name": "Eloy Garc\u00eda"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4802,7 +4718,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5103437209",
@@ -4911,26 +4827,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2496010695",
-      "title": "Dissipativity of hybrid systems: Feedback interconnections and networks",
-      "year": 2016,
-      "date": "2016-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5103437209",
-          "name": "Michael J. McCourt"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2570838673",
       "title": "A QSR-dissipativity and passivity based analysis of event-triggered networked control systems",
       "year": 2016,
@@ -4951,15 +4847,11 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2917432916",
-      "title": "A Data-driven Adaptive Controller Reconfiguration for Fault Mitigation: A Passivity Approach",
-      "year": 2019,
-      "date": "2019-07-01",
+      "id": "https://openalex.org/W2037263330",
+      "title": "Distributed Control with Integral Quadratic Constraints",
+      "year": 2008,
+      "date": "2008-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -4967,14 +4859,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2037263330",
-      "title": "Distributed Control with Integral Quadratic Constraints",
-      "year": 2008,
-      "date": "2008-01-01",
+      "id": "https://openalex.org/W2496010695",
+      "title": "Dissipativity of hybrid systems: Feedback interconnections and networks",
+      "year": 2016,
+      "date": "2016-07-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101716412",
-          "name": "Hui Fang"
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
+        },
+        {
+          "id": "https://openalex.org/A5103437209",
+          "name": "Michael J. McCourt"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -4995,6 +4891,22 @@
         {
           "id": "https://openalex.org/A5040417385",
           "name": "S. Sivaranjani"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2917824821",
+      "title": "Recent Advances in Analysis and Design of Cyber-physical Systems using Passivity Indices",
+      "year": 2019,
+      "date": "2019-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015383229",
+          "name": "Hasan Zakeri"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5115,22 +5027,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2166330312",
-      "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
-      "year": 2004,
-      "date": "2004-06-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2085596849",
       "title": "Passivity analysis of a system and its approximation",
       "year": 2013,
@@ -5151,6 +5047,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2166330312",
+      "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
+      "year": 2004,
+      "date": "2004-06-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2483937705",
       "title": "Passivation and performance optimization using an extremum seeking co-simulation framework with application to Adaptive Cruise Control systems",
       "year": 2016,
@@ -5167,50 +5079,6 @@
         {
           "id": "https://openalex.org/A5101620297",
           "name": "Shige Wang"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2888434340",
-      "title": "Mixed Voltage Angle and Frequency Droop Control for Transient Stability of Interconnected Microgrids with Loss of PMU Measurements",
-      "year": 2020,
-      "date": "2020-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5040417385",
-          "name": "S. Sivaranjani"
-        },
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5048219277",
-          "name": "Le Xie"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4221130287",
-      "title": "Passivity Measures in Cyberphysical Systems Design: An Overview of Recent Results and Applications",
-      "year": 2022,
-      "date": "2022-03-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5303,6 +5171,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4382936125",
+      "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
+      "year": 2023,
+      "date": "2023-05-31",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3045739925",
+      "title": "Model-Based Event-Triggered Control over Lossy Networks",
+      "year": 2021,
+      "date": "2021-05-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023052551",
+          "name": "Eloy Garc\u00eda"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4310877810",
       "title": "Comments on \u201cDistributed Synthesis of Local Controllers for Networked Systems With Arbitrary Interconnection Topologies\u201d",
       "year": 2022,
@@ -5331,86 +5235,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4297614128",
-      "title": "Robust Approximate Simulation for Hierarchical Control of Piecewise Affine Systems under Bounded Disturbances",
-      "year": 2022,
-      "date": "2022-06-08",
+      "id": "https://openalex.org/W4399404206",
+      "title": "A Decentralized Control Synthesis Approach for Networked Systems With Arbitrary Interconnections",
+      "year": 2024,
+      "date": "2024-06-06",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
         {
           "id": "https://openalex.org/A5074601746",
           "name": "Shirantha Welikala"
         },
         {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W42538757",
-      "title": "Controllability and Observability: Special Forms",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2226434238",
-      "title": "System Models, Differential Equations, and Initial-Value Problems",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4414116801",
-      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
-      "year": 2025,
-      "date": "2025-09-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -5422,11 +5262,27 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
+          "name": "WILLIAM A. WOLOVICH"
         },
         {
           "id": "https://openalex.org/A5109120603",
           "name": "H. Elliott"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2144621059",
+      "title": "Modeling and analysis of hybrid control systems",
+      "year": 2005,
+      "date": "2005-08-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011661477",
+          "name": "James A. Stiver"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5447,6 +5303,22 @@
         {
           "id": "https://openalex.org/A5102994363",
           "name": "Zhiqiang Gao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2129393535",
+      "title": "A SYSTEM AND CONTROL THEORETIC PERSPECTIVE ON ARTIFICIAL INTELLIGENCE PLANNING SYSTEMS",
+      "year": 1989,
+      "date": "1989-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043940203",
+          "name": "Kevin M. Passino"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -5536,6 +5408,22 @@
       "year": 1980,
       "date": "1980-02-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2169759023",
+      "title": "Synthesis of supervisors enforcing general linear vector constraints in Petri nets",
+      "year": 2003,
+      "date": "2003-06-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043787244",
+          "name": "Marian V. Iordache"
+        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -5638,7 +5526,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5674,7 +5562,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5771,6 +5659,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2071859728",
+      "title": "Multiagent coordination exploiting system symmetries",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1561757462",
+      "title": "An Optimization Approach to Control Reconfiguration",
+      "year": 1999,
+      "date": "1999-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019726685",
+          "name": "Ioannis K. Konstantopoulos"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2152113614",
       "title": "Design of hybrid system regulators",
       "year": 2003,
@@ -5779,6 +5699,22 @@
         {
           "id": "https://openalex.org/A5023397404",
           "name": "Xenofon Koutsoukos"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2917432916",
+      "title": "A Data-driven Adaptive Controller Reconfiguration for Fault Mitigation: A Passivity Approach",
+      "year": 2019,
+      "date": "2019-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015383229",
+          "name": "Hasan Zakeri"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5814,7 +5750,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5822,23 +5758,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1561757462",
-      "title": "An Optimization Approach to Control Reconfiguration",
-      "year": 1999,
-      "date": "1999-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019726685",
-          "name": "Ioannis K. Konstantopoulos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -5866,7 +5786,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5886,7 +5806,7 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5922,7 +5842,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5954,7 +5874,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5994,7 +5914,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -6020,22 +5940,6 @@
       "year": 2005,
       "date": "2005-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1506290449",
-      "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
-      "year": 2003,
-      "date": "2003-08-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -6070,7 +5974,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5102158189",
-          "name": "Po Wu"
+          "name": "Po Man Wu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6079,14 +5983,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2126231641",
-      "title": "Adaptive stabilization of Model-Based Networked Control Systems",
-      "year": 2011,
-      "date": "2011-06-01",
+      "id": "https://openalex.org/W1506290449",
+      "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+      "year": 2003,
+      "date": "2003-08-27",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5023052551",
-          "name": "Eloy Garc\u00eda"
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6103,6 +6007,22 @@
         {
           "id": "https://openalex.org/A5023052551",
           "name": "Eloy Garc\u00eda"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4221130287",
+      "title": "Passivity Measures in Cyberphysical Systems Design: An Overview of Recent Results and Applications",
+      "year": 2022,
+      "date": "2022-03-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015383229",
+          "name": "Hasan Zakeri"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6247,6 +6167,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2888434340",
+      "title": "Mixed Voltage Angle and Frequency Droop Control for Transient Stability of Interconnected Microgrids with Loss of PMU Measurements",
+      "year": 2020,
+      "date": "2020-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040417385",
+          "name": "S. Sivaranjani"
+        },
+        {
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
+        },
+        {
+          "id": "https://openalex.org/A5048219277",
+          "name": "Le Xie"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2116028483",
       "title": "Passivity and L2 stability of networked dissipative systems",
       "year": 2010,
@@ -6275,22 +6223,6 @@
         {
           "id": "https://openalex.org/A5103437209",
           "name": "Michael J. McCourt"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1545365049",
-      "title": "Autonomy in Engineering Systems: What is it and Why is it Important? Setting the Stage: Some Autonomous Thoughts on Autonomy",
-      "year": 2005,
-      "date": "2005-08-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021677003",
-          "name": "James S. Albus"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6331,6 +6263,34 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4297614128",
+      "title": "Robust Approximate Simulation for Hierarchical Control of Piecewise Affine Systems under Bounded Disturbances",
+      "year": 2022,
+      "date": "2022-06-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -6487,58 +6447,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4220707070",
-      "title": "Myomectomy during pregnancy; diagnostical dilemmas: two case reports and a systematic review of the literature",
-      "year": 2022,
-      "date": "2022-03-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5004585950",
-          "name": "Michail Diakosavvas"
-        },
-        {
-          "id": "https://openalex.org/A5030095095",
-          "name": "Kyveli Angelou"
-        },
-        {
-          "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
-        },
-        {
-          "id": "https://openalex.org/A5055794723",
-          "name": "Nikolaos Kathopoulis"
-        },
-        {
-          "id": "https://openalex.org/A5051217884",
-          "name": "D. Zacharakis"
-        },
-        {
-          "id": "https://openalex.org/A5091805604",
-          "name": "Nikolaos Blontzos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5025685858",
-          "name": "Dimitrios Haidopoulos"
-        },
-        {
-          "id": "https://openalex.org/A5101796153",
-          "name": "G. Daskalakis"
-        },
-        {
-          "id": "https://openalex.org/A5008278868",
-          "name": "Alexandros Rodolakis"
-        },
-        {
-          "id": "https://openalex.org/A5021111455",
-          "name": "Marianna Theodora"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4382936209",
       "title": "Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
       "year": 2023,
@@ -6583,26 +6491,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2052345418",
-      "title": "On the reliable decentralised stabilisation ofnMIMO systems",
-      "year": 2014,
-      "date": "2014-01-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005744799",
-          "name": "Getachew K. Befekadu"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2152610066",
       "title": "Fault-tolerant multiagent robotic formation control exploiting system symmetries",
       "year": 2011,
@@ -6619,30 +6507,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2793275019",
-      "title": "Mixed Voltage Angle and Frequency Droop Control for Transient Stability of Interconnected Microgrids.",
-      "year": 2018,
-      "date": "2018-03-07",
+      "id": "https://openalex.org/W42538757",
+      "title": "Controllability and Observability: Special Forms",
+      "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5040417385",
-          "name": "S. Sivaranjani"
-        },
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5048219277",
-          "name": "Le Xie"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -6667,22 +6543,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1980830299",
-      "title": "The ACTS software and its supervisory control framework",
-      "year": 2012,
-      "date": "2012-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043787244",
-          "name": "Marian V. Iordache"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2030177666",
       "title": "Control of Networked Switched Systems Using Passivity and Dissipativity / Regelung vernetzter geschalteter Systeme unter Nutzung von Passivit\u00e4ts- und Dissipativit\u00e4tseigenschaften",
       "year": 2013,
@@ -6692,18 +6552,6 @@
           "id": "https://openalex.org/A5103437209",
           "name": "Michael J. McCourt"
         },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3118811132",
-      "title": "Intrapartum Ultrasound and Bishop Score: A New Obstetric Tool",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -6722,7 +6570,7 @@
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5065752582",
@@ -6750,15 +6598,71 @@
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5114020260",
-          "name": "George Daskalakis"
+          "name": "George J. Daskalakis"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2226434238",
+      "title": "System Models, Differential Equations, and Initial-Value Problems",
+      "year": 2007,
+      "date": "2007-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5046850315",
+          "name": "Anthony N. MICHEL"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414116801",
+      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
+      "year": 2025,
+      "date": "2025-09-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1545365049",
+      "title": "Autonomy in Engineering Systems: What is it and Why is it Important? Setting the Stage: Some Autonomous Thoughts on Autonomy",
+      "year": 2005,
+      "date": "2005-08-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021677003",
+          "name": "James Sacra Albus"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6777,8 +6681,8 @@
           "name": "Ioannis Chatzipapas"
         },
         {
-          "id": "https://openalex.org/A5051217884",
-          "name": "D. Zacharakis"
+          "id": "https://openalex.org/A5117369130",
+          "name": "Dimitrios Zacharakis"
         },
         {
           "id": "https://openalex.org/A5049010571",
@@ -6819,6 +6723,106 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4220707070",
+      "title": "Myomectomy during pregnancy; diagnostical dilemmas: two case reports and a systematic review of the literature",
+      "year": 2022,
+      "date": "2022-03-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5004585950",
+          "name": "Michail Diakosavvas"
+        },
+        {
+          "id": "https://openalex.org/A5030095095",
+          "name": "Kyveli Angelou"
+        },
+        {
+          "id": "https://openalex.org/A5071853161",
+          "name": "Zacharias N. Fasoulakis"
+        },
+        {
+          "id": "https://openalex.org/A5055794723",
+          "name": "Nikolaos Kathopoulis"
+        },
+        {
+          "id": "https://openalex.org/A5051217884",
+          "name": "Dimitrios Zacharakis"
+        },
+        {
+          "id": "https://openalex.org/A5091805604",
+          "name": "Nikolaos Blontzos"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5025685858",
+          "name": "Dimitrios A. Haidopoulos"
+        },
+        {
+          "id": "https://openalex.org/A5101796153",
+          "name": "G. Daskalakis"
+        },
+        {
+          "id": "https://openalex.org/A5008278868",
+          "name": "Alexandros J. Rodolakis"
+        },
+        {
+          "id": "https://openalex.org/A5109600214",
+          "name": "Marianna K. Theodora"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2052345418",
+      "title": "On the reliable decentralised stabilisation ofnMIMO systems",
+      "year": 2014,
+      "date": "2014-01-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005744799",
+          "name": "Getachew K. Befekadu"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2793275019",
+      "title": "Mixed Voltage Angle and Frequency Droop Control for Transient Stability of Interconnected Microgrids.",
+      "year": 2018,
+      "date": "2018-03-07",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040417385",
+          "name": "S. Sivaranjani"
+        },
+        {
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
+        },
+        {
+          "id": "https://openalex.org/A5048219277",
+          "name": "Le Xie"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2958393285",
       "title": "Invasive Prenatal Diagnosis: Amniocentesis",
       "year": 2015,
@@ -6830,7 +6834,7 @@
         },
         {
           "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
+          "name": "Aris J Antsaklis"
         },
         {
           "id": "https://openalex.org/A5108261432",
@@ -6839,130 +6843,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4283741496",
-      "title": "Investigation of Cardiac Remodeling and Cardiac Function on Fetuses with Growth Restriction: A Review",
-      "year": 2022,
-      "date": "2022-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109920003",
-          "name": "Asim Kurjak"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5036282561",
-          "name": "Lara Spalldi Bari\u0161i\u0107"
-        },
-        {
-          "id": "https://openalex.org/A5074014831",
-          "name": "Edin Medjedovi\u0107"
-        },
-        {
-          "id": "https://openalex.org/A5088097470",
-          "name": "Maria Papamichail"
-        },
-        {
-          "id": "https://openalex.org/A5017320165",
-          "name": "Sanja Malinac Maloj\u010di\u0107"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2956229796",
-      "title": "Invasive Prenatal Diagnosis: Chorionic Villus Sampling",
-      "year": 2015,
-      "date": "2015-09-01",
+      "id": "https://openalex.org/W3118811132",
+      "title": "Intrapartum Ultrasound and Bishop Score: A New Obstetric Tool",
+      "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5108446245",
-          "name": "Michael Sindos"
-        },
-        {
-          "id": "https://openalex.org/A5067364557",
-          "name": "Fotodotis M. Malamas"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3196303280",
-      "title": "Neurofibromatosis-1 and Pregnancy: Case report",
-      "year": 2018,
-      "date": "2018-03-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029937964",
-          "name": "Konstantinos Kalmantis"
-        },
-        {
-          "id": "https://openalex.org/A5088864796",
-          "name": "Argiri Petsa"
-        },
-        {
-          "id": "https://openalex.org/A5104507531",
-          "name": "G. Daskalakis"
-        },
-        {
-          "id": "https://openalex.org/A5067941544",
-          "name": "Evangelos C. Alexopoulos"
-        },
-        {
-          "id": "https://openalex.org/A5060224323",
-          "name": "E Korovesi"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5072544971",
-          "name": "Thomas Karagkiouzis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404316884",
-      "title": "At the Gates of the Millenium: Are We in Control? [25 Years Ago]",
-      "year": 2024,
-      "date": "2024-11-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4407950010",
-      "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
-      "year": 2024,
-      "date": "2024-12-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -6974,7 +6862,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7026,7 +6914,7 @@
         },
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7058,23 +6946,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2160569403",
-      "title": "Explicit asymmetric bounds for robust stability of continuous and discrete-time systems",
-      "year": 1993,
-      "date": "1993-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102994363",
-          "name": "Zhiqiang Gao"
+          "name": "WILLIAM A. WOLOVICH"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7098,7 +6970,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -7114,7 +6986,7 @@
         },
         {
           "id": "https://openalex.org/A5109179237",
-          "name": "J. Pearson"
+          "name": "Jacob P. Pearson"
         }
       ]
     },
@@ -7130,7 +7002,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7162,7 +7034,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5011661477",
@@ -7198,7 +7070,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7218,7 +7090,7 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7238,7 +7110,7 @@
         },
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
+          "name": "WILLIAM A. WOLOVICH"
         }
       ]
     },
@@ -7306,7 +7178,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -7334,7 +7206,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7350,7 +7222,23 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1484159886",
+      "title": "Characterization of Stabilizing Switching Sequences in Switched Linear Systems Using Piecewise Linear Lyapunov Functions",
+      "year": 2001,
+      "date": "2001-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7366,7 +7254,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7402,7 +7290,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7410,7 +7298,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -7430,7 +7318,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -7474,7 +7362,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5043940203",
@@ -7498,39 +7386,7 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2103880979",
-      "title": "New Bounds on Parameter Uncertainties for Robust Stability",
-      "year": 1991,
-      "date": "1991-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102994363",
-          "name": "Zhiqiang Gao"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2169023207",
-      "title": "Parameter learning for performance adaptation in large space structures",
-      "year": 2003,
-      "date": "2003-01-07",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078145160",
-          "name": "M.D. Peek"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7574,7 +7430,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7634,7 +7490,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7650,7 +7506,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7674,7 +7530,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7682,7 +7538,23 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4244791927",
+      "title": "Supervisory Control of Concurrent Systems",
+      "year": 2006,
+      "date": "2006-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043787244",
+          "name": "Marian V. Iordache"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -7703,26 +7575,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2065006922",
-      "title": "Optimal persistent disturbance attenuation control for linear hybrid systems",
-      "year": 2006,
-      "date": "2006-01-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5046218317",
-          "name": "Guisheng Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2171266558",
       "title": "Enforcement of event-based supervisory constraints using state-based methods",
       "year": 2003,
@@ -7730,7 +7582,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5043787244",
@@ -7774,19 +7626,19 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W4244791927",
-      "title": "Supervisory Control of Concurrent Systems",
-      "year": 2006,
-      "date": "2006-01-01",
+      "id": "https://openalex.org/W71599094",
+      "title": "Computational Issues in Intelligent Control: Discrete-Event and Hybrid Systems",
+      "year": 2000,
+      "date": "2000-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5043787244",
-          "name": "Marian V. Iordache"
+          "id": "https://openalex.org/A5023397404",
+          "name": "Xenofon Koutsoukos"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7847,22 +7699,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W71599094",
-      "title": "Computational Issues in Intelligent Control: Discrete-Event and Hybrid Systems",
-      "year": 2000,
-      "date": "2000-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W122140064",
       "title": "State Feedback and State Observers",
       "year": 2007,
@@ -7874,7 +7710,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -8147,18 +7983,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3045739925",
-      "title": "Model-Based Event-Triggered Control over Lossy Networks",
-      "year": 2021,
-      "date": "2021-05-25",
+      "id": "https://openalex.org/W4283741496",
+      "title": "Investigation of Cardiac Remodeling and Cardiac Function on Fetuses with Growth Restriction: A Review",
+      "year": 2022,
+      "date": "2022-07-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5023052551",
-          "name": "Eloy Garc\u00eda"
+          "id": "https://openalex.org/A5109920003",
+          "name": "Asim Kurjak"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5036282561",
+          "name": "Lara Spalldi Bari\u0161i\u0107"
+        },
+        {
+          "id": "https://openalex.org/A5074014831",
+          "name": "Edin Medjedovi\u0107"
+        },
+        {
+          "id": "https://openalex.org/A5088097470",
+          "name": "Maria Papamichail"
+        },
+        {
+          "id": "https://openalex.org/A5017320165",
+          "name": "Sanja Malinac Maloj\u010di\u0107"
         }
       ]
     },
@@ -8235,6 +8087,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1980830299",
+      "title": "The ACTS software and its supervisory control framework",
+      "year": 2012,
+      "date": "2012-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043787244",
+          "name": "Marian V. Iordache"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2017501306",
       "title": "Characterization of feedback Nash equilibria for multi-channel systems via a set of non-fragile stabilizing state-feedback solutions and dissipativity inequalities",
       "year": 2013,
@@ -8278,7 +8146,23 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2050567292",
+      "title": "On the Problem of Minimum Asymptotic Exit Rate for Stochastically Perturbed Multi-Channel Dynamical Systems",
+      "year": 2015,
+      "date": "2015-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5005744799",
+          "name": "Getachew K. Befekadu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8355,43 +8239,71 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2796563271",
-      "title": "Network-based protein structural classification",
-      "year": 2020,
-      "date": "2020-06-01",
+      "id": "https://openalex.org/W2956229796",
+      "title": "Invasive Prenatal Diagnosis: Chorionic Villus Sampling",
+      "year": 2015,
+      "date": "2015-09-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5056455482",
-          "name": "Khalique Newaz"
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5015312524",
-          "name": "Mahboobeh Ghalehnovi"
+          "id": "https://openalex.org/A5041219169",
+          "name": "Aris J Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5053280713",
-          "name": "Arash Rahnama"
+          "id": "https://openalex.org/A5108446245",
+          "name": "Michael Sindos"
+        },
+        {
+          "id": "https://openalex.org/A5067364557",
+          "name": "Fotodotis M. Malamas"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3196303280",
+      "title": "Neurofibromatosis-1 and Pregnancy: Case report",
+      "year": 2018,
+      "date": "2018-03-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029937964",
+          "name": "Konstantinos Kalmantis"
+        },
+        {
+          "id": "https://openalex.org/A5088864796",
+          "name": "Argiri Petsa"
+        },
+        {
+          "id": "https://openalex.org/A5104507531",
+          "name": "G. Daskalakis"
+        },
+        {
+          "id": "https://openalex.org/A5067941544",
+          "name": "Evangelos C. Alexopoulos"
+        },
+        {
+          "id": "https://openalex.org/A5060224323",
+          "name": "E Korovesi"
         },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5042457126",
-          "name": "Tijana Milenkovi\u0107"
+          "id": "https://openalex.org/A5072544971",
+          "name": "Thomas Karagkiouzis"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W2907761898",
-      "title": "Passivity and passivity indices of nonlinear systems under operational limitations using approximations",
-      "year": 2019,
-      "date": "2019-06-20",
+      "id": "https://openalex.org/W4404316884",
+      "title": "At the Gates of the Millenium: Are We in Control? [25 Years Ago]",
+      "year": 2024,
+      "date": "2024-11-13",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -8419,6 +8331,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4407950010",
+      "title": "Dissipativity-Based Decentralized Control and Topology Co-Design for Vehicular Platoons With Disturbance String Stability",
+      "year": 2024,
+      "date": "2024-12-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2160569403",
+      "title": "Explicit asymmetric bounds for robust stability of continuous and discrete-time systems",
+      "year": 1993,
+      "date": "1993-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102994363",
+          "name": "Zhiqiang Gao"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1968972987",
       "title": "Optimal design of robust controllers for uncertain discrete-time systems",
       "year": 1996,
@@ -8435,14 +8387,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1568282822",
-      "title": "Hybrid systems and intelligent control",
-      "year": 2002,
-      "date": "2002-12-30",
+      "id": "https://openalex.org/W2103880979",
+      "title": "New Bounds on Parameter Uncertainties for Robust Stability",
+      "year": 1991,
+      "date": "1991-06-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "id": "https://openalex.org/A5102994363",
+          "name": "Zhiqiang Gao"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8451,14 +8403,50 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2917824821",
-      "title": "Recent Advances in Analysis and Design of Cyber-physical Systems using Passivity Indices",
-      "year": 2019,
-      "date": "2019-07-01",
+      "id": "https://openalex.org/W2169023207",
+      "title": "Parameter learning for performance adaptation in large space structures",
+      "year": 2003,
+      "date": "2003-01-07",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
+          "id": "https://openalex.org/A5078145160",
+          "name": "M.D. Peek"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1568282822",
+      "title": "Hybrid systems and intelligent control",
+      "year": 2002,
+      "date": "2002-12-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2065006922",
+      "title": "Optimal persistent disturbance attenuation control for linear hybrid systems",
+      "year": 2006,
+      "date": "2006-01-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5046218317",
+          "name": "Guisheng Zhai"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8610,7 +8598,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -8654,7 +8642,7 @@
         },
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "M.K. Sain"
+          "name": "Mahaveer Kumar Sain"
         }
       ]
     },
@@ -8674,7 +8662,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -8694,7 +8682,7 @@
         },
         {
           "id": "https://openalex.org/A5037722658",
-          "name": "R. R. Gejji"
+          "name": "Raghvendra R. Gejji"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8702,7 +8690,7 @@
         },
         {
           "id": "https://openalex.org/A5024984773",
-          "name": "J. L. Peczkowski"
+          "name": "Joseph L. Peczkowski"
         }
       ]
     },
@@ -8734,7 +8722,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "M.K. Sain"
+          "name": "Mahaveer Kumar Sain"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8742,7 +8730,7 @@
         },
         {
           "id": "https://openalex.org/A5037722658",
-          "name": "R. R. Gejji"
+          "name": "Raghvendra R. Gejji"
         },
         {
           "id": "https://openalex.org/A5065634784",
@@ -8750,7 +8738,7 @@
         },
         {
           "id": "https://openalex.org/A5024984773",
-          "name": "J. L. Peczkowski"
+          "name": "Joseph L. Peczkowski"
         }
       ]
     },
@@ -8778,7 +8766,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8798,7 +8786,7 @@
         },
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "M.K. Sain"
+          "name": "Mahaveer Kumar Sain"
         }
       ]
     },
@@ -8808,26 +8796,6 @@
       "year": 1998,
       "date": "1998-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5113677240",
-          "name": "Michael Lemon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1484159886",
-      "title": "Characterization of Stabilizing Switching Sequences in Switched Linear Systems Using Piecewise Linear Lyapunov Functions",
-      "year": 2001,
-      "date": "2001-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023397404",
-          "name": "Xenofon Koutsoukos"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -8842,7 +8810,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8890,7 +8858,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8905,12 +8873,8 @@
       "date": "1995-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5075317738",
-          "name": "Xiaojun Yang"
-        },
-        {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8934,7 +8898,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8954,7 +8918,7 @@
         },
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "M.K. Sain"
+          "name": "Mahaveer Kumar Sain"
         }
       ]
     },
@@ -8982,7 +8946,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5108194644",
@@ -9018,7 +8982,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9046,7 +9010,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -9090,7 +9054,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9107,22 +9071,6 @@
         {
           "id": "https://openalex.org/A5045235248",
           "name": "Harry L. Trentelman"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2276903796",
-      "title": "New bounds for robust stability of continuous and discrete-time systems under parametric uncertainty",
-      "year": 1995,
-      "date": "1995-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019726685",
-          "name": "Ioannis K. Konstantopoulos"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9190,7 +9138,7 @@
         },
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
+          "name": "WILLIAM A. WOLOVICH"
         }
       ]
     },
@@ -9203,10 +9151,6 @@
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5110148304",
-          "name": "R. L\u00f3pez"
         }
       ]
     },
@@ -9216,6 +9160,22 @@
       "year": 1983,
       "date": "1983-01-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2276903796",
+      "title": "New bounds for robust stability of continuous and discrete-time systems under parametric uncertainty",
+      "year": 1995,
+      "date": "1995-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019726685",
+          "name": "Ioannis K. Konstantopoulos"
+        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -9281,11 +9241,11 @@
           "name": "Panos J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5104499532",
-          "name": "William A. Wolovich"
+          "id": "https://openalex.org/A5068191781",
+          "name": "WILLIAM A. WOLOVICH"
         },
         {
-          "id": "https://openalex.org/A5104539273",
+          "id": "https://openalex.org/A5112295175",
           "name": "Edgar H. Bristol"
         }
       ]
@@ -9314,7 +9274,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9334,7 +9294,7 @@
         },
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9382,7 +9342,7 @@
         },
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         }
       ]
     },
@@ -9414,7 +9374,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
+          "name": "WILLIAM A. WOLOVICH"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9450,7 +9410,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9465,10 +9425,6 @@
       "date": "2004-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101624498",
-          "name": "Lei Fang"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
@@ -9482,7 +9438,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5052553992",
@@ -9503,10 +9459,6 @@
         {
           "id": "https://openalex.org/A5070592593",
           "name": "Min Xie"
-        },
-        {
-          "id": "https://openalex.org/A5063161231",
-          "name": "Xiaojuan Xie"
         }
       ]
     },
@@ -9586,7 +9538,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9637,10 +9589,6 @@
       "date": "1982-12-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5050163115",
-          "name": "Todd C. Williams"
-        },
-        {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         }
@@ -9658,7 +9606,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -9774,7 +9722,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
+          "name": "WILLIAM A. WOLOVICH"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9802,7 +9750,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5027515985",
-          "name": "M.A. Sartori"
+          "name": "Michael A. Sartori"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9850,7 +9798,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9958,7 +9906,7 @@
         },
         {
           "id": "https://openalex.org/A5109092127",
-          "name": "J.B. Pearson"
+          "name": "J. Boyd Pearson"
         }
       ]
     },
@@ -9970,7 +9918,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10002,7 +9950,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10086,7 +10034,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -10098,7 +10046,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10189,8 +10137,8 @@
           "name": "Panos J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5008540821",
-          "name": "A. Astolfi"
+          "id": "https://openalex.org/A5018225150",
+          "name": "Alessandro Astolfi"
         }
       ]
     },
@@ -10257,8 +10205,8 @@
           "name": "P.J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5144296446",
-          "name": "A. Astolfi"
+          "id": "https://openalex.org/A5018225150",
+          "name": "Alessandro Astolfi"
         }
       ]
     },
@@ -10282,15 +10230,15 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5073599153",
-          "name": "Nikolaos Papantoniou"
+          "name": "Nikolaos E. Papantoniou"
         },
         {
           "id": "https://openalex.org/A5017866689",
-          "name": "K. Blanas"
+          "name": "Konstantinos Blanas"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10318,7 +10266,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10350,7 +10298,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -10362,7 +10310,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10410,7 +10358,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10442,7 +10390,7 @@
         },
         {
           "id": "https://openalex.org/A5068191781",
-          "name": "W. Wolovich"
+          "name": "WILLIAM A. WOLOVICH"
         }
       ]
     },
@@ -10458,7 +10406,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -10583,22 +10531,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2050567292",
-      "title": "On the Problem of Minimum Asymptotic Exit Rate for Stochastically Perturbed Multi-Channel Dynamical Systems",
-      "year": 2015,
-      "date": "2015-04-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005744799",
-          "name": "Getachew K. Befekadu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2053520193",
       "title": "Design of piecewise linear hybrid dynamical systems using a control regulator approach",
       "year": 2005,
@@ -10626,7 +10558,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -10754,7 +10686,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -10898,11 +10830,11 @@
         },
         {
           "id": "https://openalex.org/A5109055911",
-          "name": "A. Meystel"
+          "name": "Alex Meystel"
         },
         {
           "id": "https://openalex.org/A5021677003",
-          "name": "James S. Albus"
+          "name": "James Sacra Albus"
         },
         {
           "id": "https://openalex.org/A5043940203",
@@ -10969,10 +10901,6 @@
           "name": "Alessandro Astolfi"
         },
         {
-          "id": "https://openalex.org/A5005235587",
-          "name": "Jana Berg"
-        },
-        {
           "id": "https://openalex.org/A5096531312",
           "name": "Texas Tech"
         },
@@ -10998,7 +10926,7 @@
         },
         {
           "id": "https://openalex.org/A5066291523",
-          "name": "A. Giua"
+          "name": "Alessandro Giua"
         },
         {
           "id": "https://openalex.org/A5096590479",
@@ -11013,16 +10941,8 @@
           "name": "H. Hjalmarsson"
         },
         {
-          "id": "https://openalex.org/A5000687735",
-          "name": "Evelien Jonckheere"
-        },
-        {
-          "id": "https://openalex.org/A5061557966",
-          "name": "Ulrika J\u00f6nsson"
-        },
-        {
           "id": "https://openalex.org/A5078022728",
-          "name": "Ilya Kolmanovsky"
+          "name": "Ilya V. Kolmanovsky"
         },
         {
           "id": "https://openalex.org/A5023162180",
@@ -11037,10 +10957,6 @@
           "name": "D. Nesic"
         },
         {
-          "id": "https://openalex.org/A5091395490",
-          "name": "G.C. Pappas"
-        },
-        {
           "id": "https://openalex.org/A5020482370",
           "name": "M. Rotea"
         },
@@ -11049,12 +10965,8 @@
           "name": "R. Srikant"
         },
         {
-          "id": "https://openalex.org/A5059683222",
-          "name": "S. Tarbouriech"
-        },
-        {
-          "id": "https://openalex.org/A5100835880",
-          "name": "Li Hua Xie"
+          "id": "https://openalex.org/A5064181963",
+          "name": "Sophie Tarbouriech"
         },
         {
           "id": "https://openalex.org/A5096691774",
@@ -11073,16 +10985,12 @@
           "name": "F. Callier"
         },
         {
-          "id": "https://openalex.org/A5102168866",
-          "name": "Xinzhe Cao"
-        },
-        {
           "id": "https://openalex.org/A5057607647",
           "name": "Irene Lasiecka"
         },
         {
-          "id": "https://openalex.org/A5113704647",
-          "name": "N. H. Mcclamroch"
+          "id": "https://openalex.org/A5018682629",
+          "name": "N. Harris McClamroch"
         },
         {
           "id": "https://openalex.org/A5018933173",
@@ -11097,8 +11005,8 @@
           "name": "AA Anton Stoorvogel"
         },
         {
-          "id": "https://openalex.org/A5113704648",
-          "name": "A. Vicino"
+          "id": "https://openalex.org/A5073534490",
+          "name": "A Vicino"
         }
       ]
     },
@@ -11142,7 +11050,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11230,7 +11138,7 @@
         },
         {
           "id": "https://openalex.org/A5062245346",
-          "name": "A. Comanescu"
+          "name": "Alexandru  Cristian Com\u0103nescu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11242,7 +11150,7 @@
         },
         {
           "id": "https://openalex.org/A5083061176",
-          "name": "Liliana Novac"
+          "name": "Liliana Victoria Novac"
         },
         {
           "id": "https://openalex.org/A5073973000",
@@ -11250,7 +11158,7 @@
         },
         {
           "id": "https://openalex.org/A5053171447",
-          "name": "A. Antsaklis"
+          "name": "Aristides J. Antsaklis"
         }
       ]
     },
@@ -11290,7 +11198,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
+          "name": "Aris J Antsaklis"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11307,10 +11215,6 @@
         {
           "id": "https://openalex.org/A5046877303",
           "name": "Vahideh Ghanbari"
-        },
-        {
-          "id": "https://openalex.org/A5111955492",
-          "name": "P.M. Wu"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11338,7 +11242,7 @@
         },
         {
           "id": "https://openalex.org/A5048765370",
-          "name": "Anthony Tzes"
+          "name": "Anthony P. Tzes"
         }
       ]
     },
@@ -11462,7 +11366,7 @@
         },
         {
           "id": "https://openalex.org/A5110664463",
-          "name": "Fato\u015f T. Yarman Vural"
+          "name": "Fatos Tunay Yarman Vural"
         }
       ]
     },
@@ -11474,7 +11378,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101592367",
-          "name": "\u00d3. Gonz\u00e1lez"
+          "name": "Oscar R Gonzalez"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11570,11 +11474,11 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5069395298",
-          "name": "Charis Bourgioti"
+          "name": "Charis I. Bourgioti"
         },
         {
           "id": "https://openalex.org/A5103186240",
@@ -11614,19 +11518,15 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5070275289",
-          "name": "P. Belitsos"
+          "name": "Panagiotis Belitsos"
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
-        },
-        {
-          "id": "https://openalex.org/A5001121977",
-          "name": "Ann Mary George"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11657,8 +11557,8 @@
           "name": "Panos J. Antsaklis"
         },
         {
-          "id": "https://openalex.org/A5021111455",
-          "name": "Marianna Theodora"
+          "id": "https://openalex.org/A5109600214",
+          "name": "Marianna K. Theodora"
         }
       ]
     },
@@ -11710,7 +11610,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5114020260",
-          "name": "George Daskalakis"
+          "name": "George J. Daskalakis"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11722,7 +11622,7 @@
         },
         {
           "id": "https://openalex.org/A5041219169",
-          "name": "Aris Antsaklis"
+          "name": "Aris J Antsaklis"
         }
       ]
     },
@@ -11734,7 +11634,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -11754,7 +11654,7 @@
         },
         {
           "id": "https://openalex.org/A5046850315",
-          "name": "A.N. Michel"
+          "name": "Anthony N. MICHEL"
         }
       ]
     },
@@ -11907,34 +11807,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4224221017",
-      "title": "A Generalized Distributed Analysis and Control Synthesis Approach for Networked Systems with Arbitrary Interconnections",
-      "year": 2022,
-      "date": "2022-06-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4231082704",
       "title": "Observers in Linear Systems Theory",
       "year": 2015,
       "date": "2015-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5008540821",
-          "name": "A. Astolfi"
+          "id": "https://openalex.org/A5018225150",
+          "name": "Alessandro Astolfi"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -12074,7 +11954,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -12090,7 +11970,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -12154,7 +12034,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -12618,11 +12498,7 @@
         },
         {
           "id": "https://openalex.org/A5071853161",
-          "name": "Zacharias Fasoulakis"
-        },
-        {
-          "id": "https://openalex.org/A5008311736",
-          "name": "George Asimakopoulos"
+          "name": "Zacharias N. Fasoulakis"
         },
         {
           "id": "https://openalex.org/A5040662809",
@@ -12634,7 +12510,7 @@
         },
         {
           "id": "https://openalex.org/A5109600214",
-          "name": "Marianna Theodora"
+          "name": "Marianna K. Theodora"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -12802,7 +12678,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -12838,7 +12714,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021556911",
-          "name": "John Moody"
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",

@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5062756806",
   "openalex_name": "Margaret M. Coad",
   "affiliation": null,
-  "works_count": 37,
-  "cited_by_count": 373,
+  "works_count": 34,
+  "cited_by_count": 423,
   "photo": "assets/faculty/margaret-coad.jpg",
-  "num_works_fetched": 39,
+  "num_works_fetched": 36,
   "works": [
     {
       "id": "https://openalex.org/W3105818082",
@@ -34,7 +34,7 @@
         },
         {
           "id": "https://openalex.org/A5088329417",
-          "name": "Elliot W. Hawkes"
+          "name": "Elliot Wright Hawkes"
         }
       ]
     },
@@ -68,10 +68,6 @@
       "year": 2020,
       "date": "2020-10-24",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5101725566",
-          "name": "Ok Hwa Jeon"
-        },
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
@@ -139,6 +135,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2982310535",
+      "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing Robot",
+      "year": 2020,
+      "date": "2020-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5101499106",
+          "name": "Ming Luo"
+        },
+        {
+          "id": "https://openalex.org/A5029066624",
+          "name": "Kyle T. Yoshida"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5034706353",
+          "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2740117073",
       "title": "Training in divergent and convergent force fields during 6-DOF teleoperation with a robot-assisted surgical system",
       "year": 2017,
@@ -162,7 +190,7 @@
         },
         {
           "id": "https://openalex.org/A5069213962",
-          "name": "Thomas S. Lendvay"
+          "name": "Thomas Sean Lendvay"
         },
         {
           "id": "https://openalex.org/A5083764444",
@@ -193,12 +221,8 @@
           "name": "Margaret M. Coad"
         },
         {
-          "id": "https://openalex.org/A5101725566",
-          "name": "Ok Hwa Jeon"
-        },
-        {
           "id": "https://openalex.org/A5088329417",
-          "name": "Elliot W. Hawkes"
+          "name": "Elliot Wright Hawkes"
         }
       ]
     },
@@ -223,6 +247,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3111272367",
+      "title": "Distributed Sensor Networks Deployed Using Soft Growing Robots",
+      "year": 2021,
+      "date": "2021-04-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085721240",
+          "name": "Alexander M. Gruebele"
+        },
+        {
+          "id": "https://openalex.org/A5052473169",
+          "name": "Andrew C. Zerbe"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5046683404",
+          "name": "Mark R. Cutkosky"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4390604411",
       "title": "Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment",
       "year": 2024,
@@ -242,7 +294,7 @@
         },
         {
           "id": "https://openalex.org/A5069213962",
-          "name": "Thomas S. Lendvay"
+          "name": "Thomas Sean Lendvay"
         },
         {
           "id": "https://openalex.org/A5080865180",
@@ -310,7 +362,7 @@
         },
         {
           "id": "https://openalex.org/A5033366751",
-          "name": "H. Brian"
+          "name": "Brian H. Do"
         },
         {
           "id": "https://openalex.org/A5054512048",
@@ -327,6 +379,42 @@
         {
           "id": "https://openalex.org/A5003782904",
           "name": "C. Karen Liu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4376605638",
+      "title": "Hybrid Soft-Rigid Continuum Robot Inspired by Spider Monkey Tail",
+      "year": 2023,
+      "date": "2023-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091946632",
+          "name": "Mary C. Doerfler"
+        },
+        {
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4376605667",
+      "title": "Soft Air Pocket Force Sensors for Large Scale Flexible Robots",
+      "year": 2023,
+      "date": "2023-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
         }
       ]
     },
@@ -381,48 +469,8 @@
       "date": "2025-04-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5117826518",
-          "name": "Katalin Sch\u00e4affer"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4376605638",
-      "title": "Hybrid Soft-Rigid Continuum Robot Inspired by Spider Monkey Tail",
-      "year": 2023,
-      "date": "2023-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5091946632",
-          "name": "Mary C. Doerfler"
-        },
-        {
           "id": "https://openalex.org/A5091946633",
           "name": "Katalin Sch\u00e4ffer"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4376605667",
-      "title": "Soft Air Pocket Force Sensors for Large Scale Flexible Robots",
-      "year": 2023,
-      "date": "2023-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5105939246",
-          "name": "Michael Mitchell"
-        },
-        {
-          "id": "https://openalex.org/A5085630453",
-          "name": "Ciera McFarland"
         },
         {
           "id": "https://openalex.org/A5062756806",
@@ -462,39 +510,7 @@
         },
         {
           "id": "https://openalex.org/A5069213962",
-          "name": "Thomas S. Lendvay"
-        },
-        {
-          "id": "https://openalex.org/A5067958710",
-          "name": "Allison M. Okamura"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2982310535",
-      "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing Robot",
-      "year": 2020,
-      "date": "2020-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5054512048",
-          "name": "Fabio Stroppa"
-        },
-        {
-          "id": "https://openalex.org/A5101499106",
-          "name": "Ming Luo"
-        },
-        {
-          "id": "https://openalex.org/A5029066624",
-          "name": "Kyle T. Yoshida"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5034706353",
-          "name": "Laura H. Blumenschein"
+          "name": "Thomas Sean Lendvay"
         },
         {
           "id": "https://openalex.org/A5067958710",
@@ -508,10 +524,6 @@
       "year": 2019,
       "date": "2019-12-17",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5101725566",
-          "name": "Ok Hwa Jeon"
-        },
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
@@ -548,10 +560,6 @@
       "year": 2019,
       "date": "2019-12-17",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5101725566",
-          "name": "Ok Hwa Jeon"
-        },
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
@@ -623,22 +631,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4388092175",
-      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
-      "year": 2023,
-      "date": "2023-10-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2201871521",
       "title": "A case study in troubleshooting electromechanical software-controlled systems : the InMotion\u00b2 Robot",
       "year": 2015,
@@ -683,34 +675,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3111272367",
-      "title": "Distributed Sensor Networks Deployed Using Soft Growing Robots",
-      "year": 2021,
-      "date": "2021-04-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085721240",
-          "name": "Alexander M. Gruebele"
-        },
-        {
-          "id": "https://openalex.org/A5052473169",
-          "name": "Andrew C. Zerbe"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5067958710",
-          "name": "Allison M. Okamura"
-        },
-        {
-          "id": "https://openalex.org/A5046683404",
-          "name": "Mark R. Cutkosky"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3201982708",
       "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical Environment with Divergent and Convergent Force Fields",
       "year": 2021,
@@ -742,7 +706,7 @@
         },
         {
           "id": "https://openalex.org/A5069213962",
-          "name": "Thomas S. Lendvay"
+          "name": "Thomas Sean Lendvay"
         },
         {
           "id": "https://openalex.org/A5067958710",
@@ -809,10 +773,6 @@
           "name": "Ioannis Exarchos"
         },
         {
-          "id": "https://openalex.org/A5045323029",
-          "name": "Karen Wang"
-        },
-        {
           "id": "https://openalex.org/A5057711644",
           "name": "Brian H. Do"
         },
@@ -857,10 +817,6 @@
       "date": "2023-07-26",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5105939246",
-          "name": "Michael Mitchell"
-        },
-        {
           "id": "https://openalex.org/A5085630453",
           "name": "Ciera McFarland"
         },
@@ -890,7 +846,7 @@
         },
         {
           "id": "https://openalex.org/A5069213962",
-          "name": "Thomas S. Lendvay"
+          "name": "Thomas Sean Lendvay"
         },
         {
           "id": "https://openalex.org/A5080865180",
@@ -931,26 +887,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4392617687",
-      "title": "Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits",
-      "year": 2024,
-      "date": "2024-03-07",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5091946633",
-          "name": "Katalin Sch\u00e4ffer"
-        },
-        {
-          "id": "https://openalex.org/A5094105848",
-          "name": "Ultan Fallon"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
         }
       ]
     },
@@ -1046,14 +982,14 @@
         },
         {
           "id": "https://openalex.org/A5059592858",
-          "name": "Andres F. Arrieta"
+          "name": "Andres F.  Felipe Arrieta"
         },
         {
           "id": "https://openalex.org/A5051309977",
           "name": "Sarah Bergbreiter"
         },
         {
-          "id": "https://openalex.org/A5134115780",
+          "id": "https://openalex.org/A5132583840",
           "name": "Anthony Bloch"
         },
         {
@@ -1061,16 +997,12 @@
           "name": "Laura Blumenschein"
         },
         {
-          "id": "https://openalex.org/A5134162489",
+          "id": "https://openalex.org/A5126849505",
           "name": "C. Chase Cao"
         },
         {
           "id": "https://openalex.org/A5088133965",
           "name": "Aja Mia Carter"
-        },
-        {
-          "id": "https://openalex.org/A5064335936",
-          "name": "Paolo Celli"
         },
         {
           "id": "https://openalex.org/A5101994456",
@@ -1081,16 +1013,16 @@
           "name": "Margaret M. Coad"
         },
         {
-          "id": "https://openalex.org/A5106052082",
-          "name": "M. R. Cutkosky"
+          "id": "https://openalex.org/A5046683404",
+          "name": "Mark R. Cutkosky"
         },
         {
-          "id": "https://openalex.org/A5126309995",
-          "name": "Michael Dickey"
+          "id": "https://openalex.org/A5083975325",
+          "name": "Michael David Dickey"
         },
         {
-          "id": "https://openalex.org/A5134154655",
-          "name": "Brian Do"
+          "id": "https://openalex.org/A5033366751",
+          "name": "Brian H. Do"
         },
         {
           "id": "https://openalex.org/A5134107498",
@@ -1109,8 +1041,8 @@
           "name": "Aaron Johnson"
         },
         {
-          "id": "https://openalex.org/A5054016867",
-          "name": "Eva Kanso"
+          "id": "https://openalex.org/A5033815477",
+          "name": "Eva A. Kanso"
         },
         {
           "id": "https://openalex.org/A5071729064",
@@ -1146,11 +1078,11 @@
         },
         {
           "id": "https://openalex.org/A5023490088",
-          "name": "Mark Plecnik"
+          "name": "Mark M. Plecnik"
         },
         {
-          "id": "https://openalex.org/A5134192952",
-          "name": "Jordan Raney"
+          "id": "https://openalex.org/A5055276282",
+          "name": "Jordan R. Raney"
         },
         {
           "id": "https://openalex.org/A5134146365",
@@ -1163,10 +1095,6 @@
         {
           "id": "https://openalex.org/A5123468848",
           "name": "Zeynep Temel"
-        },
-        {
-          "id": "https://openalex.org/A5018520825",
-          "name": "M. Tolley"
         },
         {
           "id": "https://openalex.org/A5134132297",
@@ -1190,174 +1118,6 @@
         },
         {
           "id": "https://openalex.org/A5134125431",
-          "name": "Wenlong Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7155246101",
-      "title": "Interdisciplinary Workshop on Mechanical Intelligence: Summary Report",
-      "year": 2026,
-      "date": "2026-03-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007509117",
-          "name": "Victoria A. Webster\u2010Wood"
-        },
-        {
-          "id": "https://openalex.org/A5134126688",
-          "name": "Nicholas Gravish"
-        },
-        {
-          "id": "https://openalex.org/A5018039958",
-          "name": "Amir Alavi"
-        },
-        {
-          "id": "https://openalex.org/A5059592858",
-          "name": "Andres F. Arrieta"
-        },
-        {
-          "id": "https://openalex.org/A5051309977",
-          "name": "Sarah Bergbreiter"
-        },
-        {
-          "id": "https://openalex.org/A5134115780",
-          "name": "Anthony Bloch"
-        },
-        {
-          "id": "https://openalex.org/A5134158937",
-          "name": "Laura Blumenschein"
-        },
-        {
-          "id": "https://openalex.org/A5134162489",
-          "name": "C. Chase Cao"
-        },
-        {
-          "id": "https://openalex.org/A5088133965",
-          "name": "Aja Mia Carter"
-        },
-        {
-          "id": "https://openalex.org/A5064335936",
-          "name": "Paolo Celli"
-        },
-        {
-          "id": "https://openalex.org/A5101994456",
-          "name": "Tony Chen"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5106052082",
-          "name": "M. R. Cutkosky"
-        },
-        {
-          "id": "https://openalex.org/A5126309995",
-          "name": "Michael Dickey"
-        },
-        {
-          "id": "https://openalex.org/A5134289687",
-          "name": "Brian Do"
-        },
-        {
-          "id": "https://openalex.org/A5134107498",
-          "name": "Robert Full"
-        },
-        {
-          "id": "https://openalex.org/A5040900522",
-          "name": "Mahdi Haghshenas\u2010Jaryani"
-        },
-        {
-          "id": "https://openalex.org/A5018446330",
-          "name": "Kaushik Jayaram"
-        },
-        {
-          "id": "https://openalex.org/A5134156503",
-          "name": "Aaron Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5054016867",
-          "name": "Eva Kanso"
-        },
-        {
-          "id": "https://openalex.org/A5071729064",
-          "name": "Emma Lejeune"
-        },
-        {
-          "id": "https://openalex.org/A5134233989",
-          "name": "Chen Li"
-        },
-        {
-          "id": "https://openalex.org/A5042738110",
-          "name": "Suyi Li"
-        },
-        {
-          "id": "https://openalex.org/A5111346575",
-          "name": "Jeffrey Lipton"
-        },
-        {
-          "id": "https://openalex.org/A5085142135",
-          "name": "Rob MacCurdy"
-        },
-        {
-          "id": "https://openalex.org/A5134332985",
-          "name": "Matt McHenry"
-        },
-        {
-          "id": "https://openalex.org/A5059869734",
-          "name": "Jean-Michel Mongeau"
-        },
-        {
-          "id": "https://openalex.org/A5134132631",
-          "name": "Todd Murphey"
-        },
-        {
-          "id": "https://openalex.org/A5023490088",
-          "name": "Mark Plecnik"
-        },
-        {
-          "id": "https://openalex.org/A5134192952",
-          "name": "Jordan Raney"
-        },
-        {
-          "id": "https://openalex.org/A5134278860",
-          "name": "Ryan D. Sochol"
-        },
-        {
-          "id": "https://openalex.org/A5134189404",
-          "name": "Hannah Stuart"
-        },
-        {
-          "id": "https://openalex.org/A5123468848",
-          "name": "Zeynep Temel"
-        },
-        {
-          "id": "https://openalex.org/A5018520825",
-          "name": "M. Tolley"
-        },
-        {
-          "id": "https://openalex.org/A5134132297",
-          "name": "Barry Trimmer"
-        },
-        {
-          "id": "https://openalex.org/A5126895015",
-          "name": "T. J. Wallin"
-        },
-        {
-          "id": "https://openalex.org/A5134291249",
-          "name": "Kon-Well Wang"
-        },
-        {
-          "id": "https://openalex.org/A5090920615",
-          "name": "Wenzhong Yan"
-        },
-        {
-          "id": "https://openalex.org/A5134106676",
-          "name": "Mark Yim"
-        },
-        {
-          "id": "https://openalex.org/A5134251618",
           "name": "Wenlong Zhang"
         }
       ]

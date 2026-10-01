@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5007560139",
   "openalex_name": "Fanxin Kong",
   "affiliation": "University of Notre Dame",
-  "works_count": 99,
-  "cited_by_count": 2940,
+  "works_count": 85,
+  "cited_by_count": 2872,
   "photo": "assets/faculty/fanxin-kong.jpg",
-  "num_works_fetched": 99,
+  "num_works_fetched": 85,
   "works": [
     {
       "id": "https://openalex.org/W2807133510",
@@ -31,10 +31,6 @@
         {
           "id": "https://openalex.org/A5010797902",
           "name": "Fudong Qiu"
-        },
-        {
-          "id": "https://openalex.org/A5024194795",
-          "name": "Mingyu Xia"
         },
         {
           "id": "https://openalex.org/A5051220381",
@@ -149,10 +145,6 @@
           "name": "Jun Li"
         },
         {
-          "id": "https://openalex.org/A5047910404",
-          "name": "Chao Lang"
-        },
-        {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
@@ -191,34 +183,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2596202947",
-      "title": "Reliability and Temporality Optimization for Multiple Coexisting WirelessHART Networks in Industrial Environments",
-      "year": 2017,
-      "date": "2017-03-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100607357",
-          "name": "Xi Jin"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5072308822",
-          "name": "Linghe Kong"
-        },
-        {
-          "id": "https://openalex.org/A5015558365",
-          "name": "Wei Liu"
-        },
-        {
-          "id": "https://openalex.org/A5005866333",
-          "name": "Peng Zeng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2171373685",
       "title": "Sensor placement for lifetime maximization in monitoring oil pipelines",
       "year": 2010,
@@ -234,7 +198,7 @@
         },
         {
           "id": "https://openalex.org/A5012210223",
-          "name": "Dakai Zhu"
+          "name": "Dakai K. Zhu"
         },
         {
           "id": "https://openalex.org/A5079615374",
@@ -262,11 +226,11 @@
         },
         {
           "id": "https://openalex.org/A5054356243",
-          "name": "James Weimer"
+          "name": "James E. Weimer"
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
@@ -305,16 +269,40 @@
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5100934592",
-          "name": "Chuansheng Dong"
-        },
-        {
           "id": "https://openalex.org/A5100638728",
           "name": "Xue Liu"
         },
         {
           "id": "https://openalex.org/A5025405598",
           "name": "Haibo Zeng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2596202947",
+      "title": "Reliability and Temporality Optimization for Multiple Coexisting WirelessHART Networks in Industrial Environments",
+      "year": 2017,
+      "date": "2017-03-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100607357",
+          "name": "Xi Hai Jin"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5072308822",
+          "name": "Linghe Kong"
+        },
+        {
+          "id": "https://openalex.org/A5015558365",
+          "name": "Wei Liu"
+        },
+        {
+          "id": "https://openalex.org/A5005866333",
+          "name": "Peng Fei Zeng"
         }
       ]
     },
@@ -326,7 +314,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5100607357",
-          "name": "Xi Jin"
+          "name": "Xi Hai Jin"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -338,7 +326,7 @@
         },
         {
           "id": "https://openalex.org/A5100371075",
-          "name": "Huihui Wang"
+          "name": "Huihui Helen Wang"
         },
         {
           "id": "https://openalex.org/A5007491154",
@@ -346,7 +334,7 @@
         },
         {
           "id": "https://openalex.org/A5005866333",
-          "name": "Peng Zeng"
+          "name": "Peng Fei Zeng"
         },
         {
           "id": "https://openalex.org/A5001074845",
@@ -386,35 +374,11 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5013819603",
-          "name": "Francis Akowuah"
+          "name": "Francis E. Akowuah"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2571097389",
-      "title": "On-Line Event-Driven Scheduling for Electric Vehicle Charging via Park-and-Charge",
-      "year": 2016,
-      "date": "2016-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5015404751",
-          "name": "Qiao Xiang"
-        },
-        {
-          "id": "https://openalex.org/A5072308822",
-          "name": "Linghe Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100372152",
-          "name": "Xue Liu"
         }
       ]
     },
@@ -442,11 +406,35 @@
         },
         {
           "id": "https://openalex.org/A5015404751",
-          "name": "Qiao Xiang"
+          "name": "Qiao jun Xiang"
         },
         {
           "id": "https://openalex.org/A5058941949",
           "name": "Huiqun Yu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2571097389",
+      "title": "On-Line Event-Driven Scheduling for Electric Vehicle Charging via Park-and-Charge",
+      "year": 2016,
+      "date": "2016-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5015404751",
+          "name": "Qiao jun Xiang"
+        },
+        {
+          "id": "https://openalex.org/A5072308822",
+          "name": "Linghe Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100372152",
+          "name": "Xue Liu"
         }
       ]
     },
@@ -494,43 +482,11 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
           "name": "Insup Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3216164788",
-      "title": "High-sensitivity optical fiber temperature sensor with cascaded configuration of MZI and FPI based on Vernier effect",
-      "year": 2021,
-      "date": "2021-11-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069377886",
-          "name": "Hang Su"
-        },
-        {
-          "id": "https://openalex.org/A5100308158",
-          "name": "Chunlong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5103040814",
-          "name": "Xiaokang Song"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5008453377",
-          "name": "Zhaorong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100343310",
-          "name": "Chunyu Liu"
         }
       ]
     },
@@ -582,7 +538,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5013819603",
-          "name": "Francis Akowuah"
+          "name": "Francis E. Akowuah"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -598,7 +554,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5100607357",
-          "name": "Xi Jin"
+          "name": "Xi Hai Jin"
         },
         {
           "id": "https://openalex.org/A5100407306",
@@ -606,7 +562,7 @@
         },
         {
           "id": "https://openalex.org/A5005866333",
-          "name": "Peng Zeng"
+          "name": "Peng Fei Zeng"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -643,6 +599,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3180026872",
+      "title": "Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks",
+      "year": 2021,
+      "date": "2021-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100707154",
+          "name": "Ruixuan Wang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5046095947",
+          "name": "Hasshi Sudler"
+        },
+        {
+          "id": "https://openalex.org/A5016146461",
+          "name": "Xun Jiao"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4381885997",
       "title": "Real-Time Data-Predictive Attack-Recovery for Complex Cyber-Physical Systems",
       "year": 2023,
@@ -674,43 +654,11 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
           "name": "Insup Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2015020077",
-      "title": "Auc2Charge",
-      "year": 2015,
-      "date": "2015-07-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015404751",
-          "name": "Qiao Xiang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100759705",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100329931",
-          "name": "Xi Chen"
-        },
-        {
-          "id": "https://openalex.org/A5072308822",
-          "name": "Linghe Kong"
-        },
-        {
-          "id": "https://openalex.org/A5103403997",
-          "name": "Lei Rao"
         }
       ]
     },
@@ -766,51 +714,11 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
           "name": "Insup Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2494033413",
-      "title": "Experimental Research on the Attenuation Rules of Personalized Air-Conditioning Nozzle Jet Flow in Aircraft Cabins",
-      "year": 2013,
-      "date": "2013-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082967443",
-          "name": "Zhaosong Fang"
-        },
-        {
-          "id": "https://openalex.org/A5100340999",
-          "name": "Nan Li"
-        },
-        {
-          "id": "https://openalex.org/A5020588222",
-          "name": "Baizhan Li"
-        },
-        {
-          "id": "https://openalex.org/A5100644118",
-          "name": "Hong Liu"
-        },
-        {
-          "id": "https://openalex.org/A5101856636",
-          "name": "Dong Yang"
-        },
-        {
-          "id": "https://openalex.org/A5112494213",
-          "name": "Fang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5101991360",
-          "name": "Jian Wang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
         }
       ]
     },
@@ -854,7 +762,7 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
@@ -867,54 +775,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2090122286",
-      "title": "Study on formability of vertical parts formed by multi-stage incremental forming",
-      "year": 2014,
-      "date": "2014-08-09",
+      "id": "https://openalex.org/W2015020077",
+      "title": "Auc2Charge",
+      "year": 2015,
+      "date": "2015-07-13",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5110176450",
-          "name": "Xiaofan Shi"
-        },
-        {
-          "id": "https://openalex.org/A5002240908",
-          "name": "Ghulam Hussain"
-        },
-        {
-          "id": "https://openalex.org/A5008531073",
-          "name": "Guangcheng Zha"
-        },
-        {
-          "id": "https://openalex.org/A5102795613",
-          "name": "Mengling Wu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3180026872",
-      "title": "Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks",
-      "year": 2021,
-      "date": "2021-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100707154",
-          "name": "Ruixuan Wang"
+          "id": "https://openalex.org/A5015404751",
+          "name": "Qiao jun Xiang"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5046095947",
-          "name": "Hasshi Sudler"
+          "id": "https://openalex.org/A5100759705",
+          "name": "Xue Liu"
         },
         {
-          "id": "https://openalex.org/A5016146461",
-          "name": "Xun Jiao"
+          "id": "https://openalex.org/A5100329931",
+          "name": "Xi Chen"
+        },
+        {
+          "id": "https://openalex.org/A5072308822",
+          "name": "Linghe Kong"
+        },
+        {
+          "id": "https://openalex.org/A5103403997",
+          "name": "Lei Rao"
         }
       ]
     },
@@ -930,11 +818,11 @@
         },
         {
           "id": "https://openalex.org/A5005866333",
-          "name": "Peng Zeng"
+          "name": "Peng Fei Zeng"
         },
         {
           "id": "https://openalex.org/A5090055224",
-          "name": "Xi Jin"
+          "name": "Xi Hai Jin"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -962,11 +850,11 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5013819603",
-          "name": "Francis Akowuah"
+          "name": "Francis E. Akowuah"
         },
         {
           "id": "https://openalex.org/A5030401140",
-          "name": "Romesh Prasad"
+          "name": "Romesh S. Prasad"
         },
         {
           "id": "https://openalex.org/A5087208536",
@@ -1014,7 +902,7 @@
         },
         {
           "id": "https://openalex.org/A5100607357",
-          "name": "Xi Jin"
+          "name": "Xi Hai Jin"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1133,32 +1021,12 @@
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5100934592",
-          "name": "Chuansheng Dong"
-        },
-        {
           "id": "https://openalex.org/A5100372152",
           "name": "Xue Liu"
         },
         {
           "id": "https://openalex.org/A5025405598",
           "name": "Haibo Zeng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2775898841",
-      "title": "Sustainable Transportation with Electric Vehicles",
-      "year": 2017,
-      "date": "2017-12-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100951415",
-          "name": "Xue Liu"
         }
       ]
     },
@@ -1194,7 +1062,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1232,10 +1100,6 @@
       "year": 2013,
       "date": "2013-06-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5100934592",
-          "name": "Chuansheng Dong"
-        },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
@@ -1346,7 +1210,7 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1355,34 +1219,6 @@
         {
           "id": "https://openalex.org/A5030456600",
           "name": "Insup Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4224115426",
-      "title": "Attack-resilient Fusion of Sensor Data with Uncertain Delays",
-      "year": 2022,
-      "date": "2022-04-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066658595",
-          "name": "Yanfeng Chen"
-        },
-        {
-          "id": "https://openalex.org/A5100425864",
-          "name": "Tianyu Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1411,26 +1247,6 @@
         {
           "id": "https://openalex.org/A5018468480",
           "name": "Qinru Qiu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404101567",
-      "title": "Backdoor Attacks on Safe Reinforcement Learning-Enabled Cyber\u2013Physical Systems",
-      "year": 2024,
-      "date": "2024-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5108999535",
-          "name": "Shixiong Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5100761835",
-          "name": "Mengyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
         }
       ]
     },
@@ -1495,6 +1311,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2775898841",
+      "title": "Sustainable Transportation with Electric Vehicles",
+      "year": 2017,
+      "date": "2017-12-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100951415",
+          "name": "Xue Liu"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2119278665",
       "title": "Optimal energy source selection and capacity planning for green datacenters",
       "year": 2014,
@@ -1535,50 +1367,6 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5074723677",
-          "name": "Sheng Bing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4306894667",
-      "title": "Optical fiber temperature sensor with Vernier effect formed by Mach\u2013Zehnder interferometer cascaded Sagnac interferometer based on Hollow-core photonic crystal fiber",
-      "year": 2022,
-      "date": "2022-10-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069377886",
-          "name": "Hang Su"
-        },
-        {
-          "id": "https://openalex.org/A5062739087",
-          "name": "Laixu Gao"
-        },
-        {
-          "id": "https://openalex.org/A5008453377",
-          "name": "Zhaorong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100631017",
-          "name": "Zhen Dong"
-        },
-        {
-          "id": "https://openalex.org/A5100308158",
-          "name": "Chunlong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5014006534",
-          "name": "Dehang Xiao"
-        },
-        {
-          "id": "https://openalex.org/A5100343310",
-          "name": "Chunyu Liu"
         }
       ]
     },
@@ -1603,94 +1391,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2615645683",
-      "title": "Maximizing the lifetime of wireless sensor networks in trains for monitoring long-distance goods transportation",
-      "year": 2017,
-      "date": "2017-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102121154",
-          "name": "Huiting Xu"
-        },
-        {
-          "id": "https://openalex.org/A5100607357",
-          "name": "Xi Jin"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3211373697",
-      "title": "Antenna Pattern Aware UAV Trajectory Planning Using Artificial Potential Field",
-      "year": 2021,
-      "date": "2021-10-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042456946",
-          "name": "M. Hani Sulieman"
-        },
-        {
-          "id": "https://openalex.org/A5076753154",
-          "name": "M. Cenk Gursoy"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4385485552",
-      "title": "Variable Window and Deadline-Aware Sensor Attack Detector for Automotive CPS",
-      "year": 2023,
-      "date": "2023-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5013819603",
-          "name": "Francis Akowuah"
-        },
-        {
-          "id": "https://openalex.org/A5042466369",
-          "name": "Kenneth K. Fletcher"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4406658445",
-      "title": "Deadline-Safe Reach-Avoid Control Synthesis for Cyber-Physical Systems with Reinforcement Learning",
+      "id": "https://openalex.org/W4404101567",
+      "title": "Backdoor Attacks on Safe Reinforcement Learning-Enabled Cyber\u2013Physical Systems",
       "year": 2024,
-      "date": "2024-12-10",
+      "date": "2024-11-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5108999535",
+          "name": "Shixiong Jiang"
+        },
         {
           "id": "https://openalex.org/A5100761835",
           "name": "Mengyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5081521997",
-          "name": "Pengyuan Lu"
-        },
-        {
-          "id": "https://openalex.org/A5100363116",
-          "name": "Xin Chen"
-        },
-        {
-          "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
-        },
-        {
-          "id": "https://openalex.org/A5030456600",
-          "name": "Insup Lee"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1715,6 +1427,34 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4224115426",
+      "title": "Attack-resilient Fusion of Sensor Data with Uncertain Delays",
+      "year": 2022,
+      "date": "2022-04-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066658595",
+          "name": "Yanfeng Chen"
+        },
+        {
+          "id": "https://openalex.org/A5100425864",
+          "name": "Tianyu Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1746,7 +1486,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5090055224",
-          "name": "Xi Jin"
+          "name": "Xi Hai Jin"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1754,7 +1494,7 @@
         },
         {
           "id": "https://openalex.org/A5005866333",
-          "name": "Peng Zeng"
+          "name": "Peng Fei Zeng"
         },
         {
           "id": "https://openalex.org/A5001074845",
@@ -1763,6 +1503,50 @@
         {
           "id": "https://openalex.org/A5102121154",
           "name": "Huiting Xu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2615645683",
+      "title": "Maximizing the lifetime of wireless sensor networks in trains for monitoring long-distance goods transportation",
+      "year": 2017,
+      "date": "2017-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102121154",
+          "name": "Huiting Xu"
+        },
+        {
+          "id": "https://openalex.org/A5100607357",
+          "name": "Xi Hai Jin"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3211373697",
+      "title": "Antenna Pattern Aware UAV Trajectory Planning Using Artificial Potential Field",
+      "year": 2021,
+      "date": "2021-10-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042456946",
+          "name": "M. Hani Sulieman"
+        },
+        {
+          "id": "https://openalex.org/A5076753154",
+          "name": "M. Cenk Gursoy"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
         }
       ]
     },
@@ -1843,22 +1627,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3146127424",
-      "title": "Study on tribological behavior, lubrication and anti-corrosion properties of W/O microemulsion for cold rolling of copper strip",
-      "year": 2021,
-      "date": "2021-02-17",
+      "id": "https://openalex.org/W4385485552",
+      "title": "Variable Window and Deadline-Aware Sensor Attack Detector for Automotive CPS",
+      "year": 2023,
+      "date": "2023-05-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101695961",
-          "name": "Hao Wu"
+          "id": "https://openalex.org/A5013819603",
+          "name": "Francis E. Akowuah"
         },
         {
-          "id": "https://openalex.org/A5035534190",
-          "name": "Sang Xiong"
-        },
-        {
-          "id": "https://openalex.org/A5103152647",
-          "name": "Wei Lin"
+          "id": "https://openalex.org/A5042466369",
+          "name": "Kenneth Kofi Fletcher"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1867,26 +1647,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W40244453",
-      "title": "Resource Classification and Service Matching of the Mold Manufacturing Grid Service Platform",
-      "year": 2012,
-      "date": "2012-01-01",
+      "id": "https://openalex.org/W4406658445",
+      "title": "Deadline-Safe Reach-Avoid Control Synthesis for Cyber-Physical Systems with Reinforcement Learning",
+      "year": 2024,
+      "date": "2024-12-10",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5100761835",
+          "name": "Mengyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5081521997",
+          "name": "Pengyuan Lu"
+        },
+        {
+          "id": "https://openalex.org/A5100363116",
+          "name": "Xin Chen"
+        },
+        {
+          "id": "https://openalex.org/A5082105260",
+          "name": "Oleg V. Sokolsky"
+        },
+        {
+          "id": "https://openalex.org/A5030456600",
+          "name": "Insup Lee"
+        },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5102184464",
-          "name": "Jianmin Zuo"
-        },
-        {
-          "id": "https://openalex.org/A5102795613",
-          "name": "Mengling Wu"
-        },
-        {
-          "id": "https://openalex.org/A5100317582",
-          "name": "Jiao Zhang"
         }
       ]
     },
@@ -1986,7 +1774,7 @@
         },
         {
           "id": "https://openalex.org/A5022295836",
-          "name": "Michael Lemmon"
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2034,7 +1822,7 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
@@ -2083,18 +1871,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2367552971",
-      "title": "Application of Regression Analysis Method in Limit Moisture Contents Experiment",
-      "year": 2012,
-      "date": "2012-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2377781984",
       "title": "Design and Implementation of Reconfigurable Computing Hybrid System Hardware",
       "year": 2012,
@@ -2103,34 +1879,6 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2380668371",
-      "title": "Study of Mold Manufacturing Resource Sharing Mechanism Based on Manufacturing Grid",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2474318434",
-      "title": "Integrity Verification of Cloud Data",
-      "year": 2013,
-      "date": "2013-12-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100418866",
-          "name": "Li Liu"
         }
       ]
     },
@@ -2179,46 +1927,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4292819007",
-      "title": "Optical Fiber Temperature Sensor with Vernier Effect Formed by Mzi Cascaded Fsi Based on Hollow-Core Pcf",
-      "year": 2022,
-      "date": "2022-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069377886",
-          "name": "Hang Su"
-        },
-        {
-          "id": "https://openalex.org/A5062739087",
-          "name": "Laixu Gao"
-        },
-        {
-          "id": "https://openalex.org/A5008453377",
-          "name": "Zhaorong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5047881708",
-          "name": "Zhen Dong"
-        },
-        {
-          "id": "https://openalex.org/A5100308158",
-          "name": "Chunlong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5011306191",
-          "name": "Dehang Xiao"
-        },
-        {
-          "id": "https://openalex.org/A5100343310",
-          "name": "Chunyu Liu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4300670983",
       "title": "Datacenter Power Management in Smart Grids",
       "year": 2015,
@@ -2231,70 +1939,6 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4312838983",
-      "title": "High-Sensitivity Refractive Index Sensor Based on 3\u00d73 Micro-Nano Fiber Coupler Structure",
-      "year": 2022,
-      "date": "2022-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008453377",
-          "name": "Zhaorong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100631017",
-          "name": "Zhen Dong"
-        },
-        {
-          "id": "https://openalex.org/A5062739087",
-          "name": "Laixu Gao"
-        },
-        {
-          "id": "https://openalex.org/A5007450755",
-          "name": "Shaoxian Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100343310",
-          "name": "Chunyu Liu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4322505670",
-      "title": "High-sensitivity refractive index sensor based on 3 \u00d7 3 microfiber coupler structure",
-      "year": 2023,
-      "date": "2023-02-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008453377",
-          "name": "Zhaorong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5047881708",
-          "name": "Zhen Dong"
-        },
-        {
-          "id": "https://openalex.org/A5062739087",
-          "name": "Laixu Gao"
-        },
-        {
-          "id": "https://openalex.org/A5007450755",
-          "name": "Shaoxian Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100343310",
-          "name": "Chunyu Liu"
         }
       ]
     },
@@ -2314,31 +1958,11 @@
         },
         {
           "id": "https://openalex.org/A5013819603",
-          "name": "Francis Akowuah"
+          "name": "Francis E. Akowuah"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4401482432",
-      "title": "Design of Intelligent Data Synchronization and Analysis Algorithm Combining Digital Twinning and Internet of Things",
-      "year": 2024,
-      "date": "2024-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5113329073",
-          "name": "Jianxiong Gan"
-        },
-        {
-          "id": "https://openalex.org/A5107921138",
-          "name": "Yue Gong"
         }
       ]
     },
@@ -2362,7 +1986,7 @@
         },
         {
           "id": "https://openalex.org/A5082105260",
-          "name": "Oleg Sokolsky"
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5030456600",
@@ -2408,26 +2032,6 @@
     },
     {
       "id": "https://openalex.org/W7131683571",
-      "title": "Enhancing LLM-Based Test Generation by Eliminating Covered Code",
-      "year": 2026,
-      "date": "2026-02-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5126929538",
-          "name": "WeiZhe Xu"
-        },
-        {
-          "id": "https://openalex.org/A5126950241",
-          "name": "Mengyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7131731283",
       "title": "Enhancing LLM-Based Test Generation by Eliminating Covered Code",
       "year": 2026,
       "date": "2026-02-25",

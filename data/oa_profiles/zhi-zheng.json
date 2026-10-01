@@ -4,11 +4,11 @@
   "query_name": "Zhi Zheng",
   "openalex_id": "https://openalex.org/A5065741205",
   "openalex_name": "Zhi Zheng",
-  "affiliation": "Central South University",
-  "works_count": 54,
-  "cited_by_count": 1315,
+  "affiliation": "Wuhan University",
+  "works_count": 55,
+  "cited_by_count": 1326,
   "photo": "assets/faculty/zhi-zheng.jpg",
-  "num_works_fetched": 54,
+  "num_works_fetched": 55,
   "works": [
     {
       "id": "https://openalex.org/W2063238761",
@@ -18,7 +18,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5065741205",
@@ -26,7 +26,7 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5086034336",
@@ -42,7 +42,7 @@
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -66,47 +66,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5022146237",
           "name": "Julie A. Crittendon"
         },
         {
-          "id": "https://openalex.org/A5049303761",
-          "name": "Zachary Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1447379756",
-      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
-      "year": 2015,
-      "date": "2015-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5015239299",
-          "name": "Eric M. Young"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
-        },
-        {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -130,15 +98,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -162,15 +130,47 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1447379756",
+      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
+      "year": 2015,
+      "date": "2015-09-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -198,15 +198,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -234,11 +234,11 @@
         },
         {
           "id": "https://openalex.org/A5057241399",
-          "name": "Linda Beuscher"
+          "name": "Linda M. Beuscher"
         },
         {
           "id": "https://openalex.org/A5053733868",
-          "name": "Paul Newhouse"
+          "name": "PAUL A. NEWHOUSE"
         },
         {
           "id": "https://openalex.org/A5063741907",
@@ -290,7 +290,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5065741205",
@@ -306,11 +306,11 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -366,11 +366,11 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -394,15 +394,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -458,7 +458,7 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5022146237",
@@ -466,7 +466,7 @@
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -494,15 +494,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -521,24 +521,20 @@
           "name": "Zhi Zheng"
         },
         {
-          "id": "https://openalex.org/A5002623953",
-          "name": "Qiang Fu"
-        },
-        {
           "id": "https://openalex.org/A5002625566",
           "name": "Huan Zhao"
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -555,10 +551,6 @@
         {
           "id": "https://openalex.org/A5039297929",
           "name": "Ankit Koirala"
-        },
-        {
-          "id": "https://openalex.org/A5047103760",
-          "name": "Zhiwei Yu"
         },
         {
           "id": "https://openalex.org/A5049505887",
@@ -587,10 +579,6 @@
         {
           "id": "https://openalex.org/A5039297929",
           "name": "Ankit Koirala"
-        },
-        {
-          "id": "https://openalex.org/A5047103760",
-          "name": "Zhiwei Yu"
         },
         {
           "id": "https://openalex.org/A5049505887",
@@ -665,10 +653,6 @@
           "name": "Zhi Zheng"
         },
         {
-          "id": "https://openalex.org/A5101608437",
-          "name": "Haoran Geng"
-        },
-        {
           "id": "https://openalex.org/A5100994299",
           "name": "Xiaona Yan"
         },
@@ -689,24 +673,20 @@
           "name": "Zhi Zheng"
         },
         {
-          "id": "https://openalex.org/A5002623953",
-          "name": "Qiang Fu"
-        },
-        {
           "id": "https://openalex.org/A5002625566",
           "name": "Huan Zhao"
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -726,15 +706,11 @@
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5002623953",
-          "name": "Qiang Fu"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5002625566",
@@ -742,39 +718,11 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4366826851",
-      "title": "An Exploration of Robot-Mediated Tai Chi Exercise for Older Adults",
-      "year": 2023,
-      "date": "2023-04-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5047621140",
-          "name": "Hyunkyoung Oh"
-        },
-        {
-          "id": "https://openalex.org/A5011898322",
-          "name": "Mayesha Sahir Mim"
-        },
-        {
-          "id": "https://openalex.org/A5058027944",
-          "name": "Wonchan Choi"
-        },
-        {
-          "id": "https://openalex.org/A5087302608",
-          "name": "Yura Lee"
         }
       ]
     },
@@ -790,19 +738,19 @@
         },
         {
           "id": "https://openalex.org/A5012582320",
-          "name": "Jaclyn Barnes"
+          "name": "Jaclyn A. Barnes"
         },
         {
           "id": "https://openalex.org/A5090098565",
-          "name": "Maryam FakhrHosseini"
+          "name": "Maryam S. FakhrHosseini"
         },
         {
           "id": "https://openalex.org/A5051660353",
           "name": "Eric Vasey"
         },
         {
-          "id": "https://openalex.org/A5030529204",
-          "name": "Zack Duford"
+          "id": "https://openalex.org/A5063462136",
+          "name": "Zackery Duford"
         },
         {
           "id": "https://openalex.org/A5065741205",
@@ -843,6 +791,98 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W91363840",
+      "title": "Multimodal Interfaces and Sensory Fusion in VR for Social Interactions",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5102979812",
+          "name": "Joshua W. Wade"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5101928241",
+          "name": "Lian Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5111840299",
+          "name": "Medha Shukla Sarkar"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4366826851",
+      "title": "An Exploration of Robot-Mediated Tai Chi Exercise for Older Adults",
+      "year": 2023,
+      "date": "2023-04-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5047621140",
+          "name": "Hyunkyoung Oh"
+        },
+        {
+          "id": "https://openalex.org/A5011898322",
+          "name": "Mayesha Sahir Mim"
+        },
+        {
+          "id": "https://openalex.org/A5058027944",
+          "name": "Wonchan Choi"
+        },
+        {
+          "id": "https://openalex.org/A5087302608",
+          "name": "Yura Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415002983",
+      "title": "A Screen-Based Multimodal Virtual Classroom Interface for Understanding Behavioral Sensory Responses in Autistic Adolescents: A Pilot Study",
+      "year": 2025,
+      "date": "2025-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5000507898",
+          "name": "Suzannah Iadarola"
+        },
+        {
+          "id": "https://openalex.org/A5026704750",
+          "name": "Samantha G. Daley"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
         }
       ]
     },
@@ -902,15 +942,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -934,15 +974,47 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2529160023",
+      "title": "Longitudinal Impact of Autonomous Robot-Mediated Joint Attention Intervention for Young Children with ASD",
+      "year": 2016,
+      "date": "2016-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -961,12 +1033,8 @@
           "name": "Zhi Zheng"
         },
         {
-          "id": "https://openalex.org/A5079454108",
-          "name": "Xingliang Li"
-        },
-        {
           "id": "https://openalex.org/A5012582320",
-          "name": "Jaclyn Barnes"
+          "name": "Jaclyn A. Barnes"
         },
         {
           "id": "https://openalex.org/A5005991642",
@@ -975,50 +1043,6 @@
         {
           "id": "https://openalex.org/A5034235916",
           "name": "Myounghoon Jeon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W91363840",
-      "title": "Multimodal Interfaces and Sensory Fusion in VR for Social Interactions",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5086034336",
-          "name": "Esubalew Bekele"
-        },
-        {
-          "id": "https://openalex.org/A5102979812",
-          "name": "Joshua Wade"
-        },
-        {
-          "id": "https://openalex.org/A5029522016",
-          "name": "Dayi Bian"
-        },
-        {
-          "id": "https://openalex.org/A5101928241",
-          "name": "Lian Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5111840299",
-          "name": "Medha Sarkar"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
         }
       ]
     },
@@ -1038,15 +1062,11 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5037255302",
-          "name": "Julie Davidson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -1078,23 +1098,35 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5082876118",
-          "name": "Rebecca L. Johnston"
-        },
-        {
-          "id": "https://openalex.org/A5037255302",
-          "name": "Julie Davidson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200306090",
+      "title": "How Moderate Alcohol Consumption Impacts Married or Cohabiting Couples in Expressing Disagreements: An Automatic Computation Model and Analysis",
+      "year": 2021,
+      "date": "2021-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5004595272",
+          "name": "Cory A. Crane"
+        },
+        {
+          "id": "https://openalex.org/A5059093534",
+          "name": "Maria Testa"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
         }
       ]
     },
@@ -1121,12 +1153,8 @@
           "name": "Zhi Zheng"
         },
         {
-          "id": "https://openalex.org/A5110264580",
-          "name": "D. T. Phillips"
-        },
-        {
           "id": "https://openalex.org/A5006383318",
-          "name": "David Long"
+          "name": "David L. Long"
         },
         {
           "id": "https://openalex.org/A5008975253",
@@ -1139,34 +1167,50 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2529160023",
-      "title": "Longitudinal Impact of Autonomous Robot-Mediated Joint Attention Intervention for Young Children with ASD",
-      "year": 2016,
-      "date": "2016-01-01",
+      "id": "https://openalex.org/W4382240165",
+      "title": "Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns",
+      "year": 2023,
+      "date": "2023-06-26",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5058779290",
+          "name": "Ervine Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101210353",
+          "name": "Qi Yu"
+        },
         {
           "id": "https://openalex.org/A5065741205",
           "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7196939210",
+      "title": "Design of a lightweight wearable exoskeleton with virtual reality feedback for post-stroke hand rehabilitation",
+      "year": 2026,
+      "date": "2026-08-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5145850381",
+          "name": "Lin Yu"
         },
         {
-          "id": "https://openalex.org/A5042012742",
-          "name": "Guangtao Nie"
+          "id": "https://openalex.org/A5144812807",
+          "name": "Mengjie Tang"
         },
         {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "id": "https://openalex.org/A5109758896",
+          "name": "Lingfang Xu"
         },
         {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "id": "https://openalex.org/A5101880055",
+          "name": "Ziwei Yu"
         },
         {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
         }
       ]
     },
@@ -1195,50 +1239,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4200306090",
-      "title": "How Moderate Alcohol Consumption Impacts Married or Cohabiting Couples in Expressing Disagreements: An Automatic Computation Model and Analysis",
-      "year": 2021,
-      "date": "2021-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047103760",
-          "name": "Zhiwei Yu"
-        },
-        {
-          "id": "https://openalex.org/A5004595272",
-          "name": "Cory A. Crane"
-        },
-        {
-          "id": "https://openalex.org/A5059093534",
-          "name": "Maria Testa"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4382240165",
-      "title": "Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns",
-      "year": 2023,
-      "date": "2023-06-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5058779290",
-          "name": "Ervine Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5101210353",
-          "name": "Qi Yu"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2758633649",
       "title": "Development and Usability Testing of a Remote Control App for An Interactive RoboT",
       "year": 2017,
@@ -1250,7 +1250,7 @@
         },
         {
           "id": "https://openalex.org/A5090098565",
-          "name": "Maryam FakhrHosseini"
+          "name": "Maryam S. FakhrHosseini"
         },
         {
           "id": "https://openalex.org/A5065741205",
@@ -1286,11 +1286,7 @@
         },
         {
           "id": "https://openalex.org/A5012582320",
-          "name": "Jaclyn Barnes"
-        },
-        {
-          "id": "https://openalex.org/A5079454108",
-          "name": "Xingliang Li"
+          "name": "Jaclyn A. Barnes"
         },
         {
           "id": "https://openalex.org/A5005991642",
@@ -1318,15 +1314,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -1350,15 +1346,15 @@
         },
         {
           "id": "https://openalex.org/A5005610402",
-          "name": "Amy Swanson"
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5012357013",
-          "name": "Amy Weitlauf"
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5050040186",
-          "name": "Zachary Warren"
+          "name": "Zachary E. Warren"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -1378,7 +1374,7 @@
         },
         {
           "id": "https://openalex.org/A5101824916",
-          "name": "Wei Huang"
+          "name": "Wei Qi Huang"
         },
         {
           "id": "https://openalex.org/A5073649813",
@@ -1399,10 +1395,6 @@
         {
           "id": "https://openalex.org/A5002925500",
           "name": "Liang Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5101650479",
-          "name": "Tao Shu"
         },
         {
           "id": "https://openalex.org/A5028828133",
@@ -1434,7 +1426,7 @@
         },
         {
           "id": "https://openalex.org/A5083390005",
-          "name": "Jie Zhao"
+          "name": "Jie Wen Zhao"
         }
       ]
     },
@@ -1569,7 +1561,7 @@
           "name": "Trent Rabe"
         },
         {
-          "id": "https://openalex.org/A5092312774",
+          "id": "https://openalex.org/A5093775135",
           "name": "Anisa Callis"
         },
         {
@@ -1578,7 +1570,7 @@
         },
         {
           "id": "https://openalex.org/A5075542202",
-          "name": "Jamison Heard"
+          "name": "Jamison R. Heard"
         },
         {
           "id": "https://openalex.org/A5046158825",
@@ -1615,26 +1607,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4415002983",
-      "title": "A Screen-Based Multimodal Virtual Classroom Interface for Understanding Behavioral Sensory Responses in Autistic Adolescents: A Pilot Study",
-      "year": 2025,
-      "date": "2025-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5000507898",
-          "name": "Suzannah Iadarola"
-        },
-        {
-          "id": "https://openalex.org/A5026704750",
-          "name": "Samantha G. Daley"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W7124161275",
       "title": "NAS-FD: Neural Architecture Search-Based Fraud Detection for Power Audit Data",
       "year": 2026,
@@ -1645,12 +1617,8 @@
           "name": "Yuanzhong Zuo"
         },
         {
-          "id": "https://openalex.org/A5123008042",
+          "id": "https://openalex.org/A5121545452",
           "name": "Jingyi Hu"
-        },
-        {
-          "id": "https://openalex.org/A5081060895",
-          "name": "Rao Kuang"
         },
         {
           "id": "https://openalex.org/A5123044991",
@@ -1667,46 +1635,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7196939210",
-      "title": "Design of a lightweight wearable exoskeleton with virtual reality feedback for post-stroke hand rehabilitation",
-      "year": 2026,
-      "date": "2026-08-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5145850381",
-          "name": "Lin Yu"
-        },
-        {
-          "id": "https://openalex.org/A5144812807",
-          "name": "Mengjie Tang"
-        },
-        {
-          "id": "https://openalex.org/A5109758896",
-          "name": "Lingfang Xu"
-        },
-        {
-          "id": "https://openalex.org/A5101880055",
-          "name": "Ziwei Yu"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W7204727217",
       "title": "The Agile Stage Model: A Minimally Viable Framework for Developing and Governing Digital Therapeutics, Including Agentic Artificial Intelligence Systems (Preprint)",
       "year": 2026,
       "date": "2026-08-28",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5148719228",
-          "name": "Mark J Seidman"
+          "id": "https://openalex.org/A5107454516",
+          "name": "Mark Seidman"
         },
         {
           "id": "https://openalex.org/A5019055956",
-          "name": "Malaz Boustani"
+          "name": "Malaz A. Boustani"
         },
         {
           "id": "https://openalex.org/A5015210707",
@@ -1722,7 +1662,7 @@
         },
         {
           "id": "https://openalex.org/A5064156865",
-          "name": "Andrew A. Gonzalez"
+          "name": "Andrew Alexander Gonzalez"
         },
         {
           "id": "https://openalex.org/A5006993479",
@@ -1737,7 +1677,7 @@
           "name": "Nick Stewart"
         },
         {
-          "id": "https://openalex.org/A5140754064",
+          "id": "https://openalex.org/A5093952677",
           "name": "Fereshtehossadat Shojaei"
         },
         {
@@ -1745,7 +1685,7 @@
           "name": "Fatemehalsadat Shojaei"
         },
         {
-          "id": "https://openalex.org/A5107437763",
+          "id": "https://openalex.org/A5063408732",
           "name": "Diana Summanwar"
         },
         {
@@ -1759,6 +1699,34 @@
         {
           "id": "https://openalex.org/A5000141831",
           "name": "Yiyu Shi"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7214230229",
+      "title": "DAST-Former: Domain-Aware Spatio-Temporal Transformer for Limited-Annotation Cardiac Sequence Segmentation",
+      "year": 2026,
+      "date": "2026-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090449507",
+          "name": "Saidi Guo"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5152736277",
+          "name": "Hongyu Song"
+        },
+        {
+          "id": "https://openalex.org/A5057590058",
+          "name": "Guohua Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5009950415",
+          "name": "Qiujie Lv"
         }
       ]
     }

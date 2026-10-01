@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5074821819",
   "openalex_name": "Meng Jiang",
   "affiliation": "University of Notre Dame",
-  "works_count": 277,
-  "cited_by_count": 6282,
+  "works_count": 270,
+  "cited_by_count": 6324,
   "photo": "assets/faculty/meng-jiang.jpg",
-  "num_works_fetched": 277,
+  "num_works_fetched": 270,
   "works": [
     {
       "id": "https://openalex.org/W3035739162",
@@ -90,7 +90,7 @@
         },
         {
           "id": "https://openalex.org/A5100448620",
-          "name": "Rui Liu"
+          "name": "Rui Zhou Zhenzhen Liu"
         },
         {
           "id": "https://openalex.org/A5100636286",
@@ -221,16 +221,24 @@
           "name": "Zijian Hu"
         },
         {
-          "id": "https://openalex.org/A5101748048",
-          "name": "Wei Gu"
-        },
-        {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
         },
         {
           "id": "https://openalex.org/A5100363169",
           "name": "Xiaoping Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3205985117",
+      "title": "A Survey on Data-driven Network Intrusion Detection",
+      "year": 2021,
+      "date": "2021-10-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
         }
       ]
     },
@@ -259,22 +267,6 @@
         {
           "id": "https://openalex.org/A5024669831",
           "name": "Shiqiang Yang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3205985117",
-      "title": "A Survey on Data-driven Network Intrusion Detection",
-      "year": 2021,
-      "date": "2021-10-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5076299270",
-          "name": "Dylan Chou"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
         }
       ]
     },
@@ -414,7 +406,7 @@
         },
         {
           "id": "https://openalex.org/A5023974482",
-          "name": "Campbell Booth"
+          "name": "Campbell David Booth"
         }
       ]
     },
@@ -669,10 +661,6 @@
       "date": "2016-12-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5086696415",
-          "name": "Huan Gui"
-        },
-        {
           "id": "https://openalex.org/A5101681241",
           "name": "Jialu Liu"
         },
@@ -691,34 +679,6 @@
         {
           "id": "https://openalex.org/A5019539533",
           "name": "Jiawei Han"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W81017276",
-      "title": "Inferring Strange Behavior from Connectivity Pattern in Social Networks",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5009228005",
-          "name": "Peng Cui"
-        },
-        {
-          "id": "https://openalex.org/A5080988309",
-          "name": "Alex Beutel"
-        },
-        {
-          "id": "https://openalex.org/A5035605036",
-          "name": "Christos Faloutsos"
-        },
-        {
-          "id": "https://openalex.org/A5024669831",
-          "name": "Shiqiang Yang"
         }
       ]
     },
@@ -791,15 +751,43 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4408615073",
+      "title": "Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks",
+      "year": 2025,
+      "date": "2025-03-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5093206754",
+          "name": "Annalisa Szymanski"
+        },
+        {
+          "id": "https://openalex.org/A5032058128",
+          "name": "Noah Ziems"
+        },
+        {
+          "id": "https://openalex.org/A5016803484",
+          "name": "Heather A. Eicher\u2010Miller"
+        },
+        {
+          "id": "https://openalex.org/A5007240808",
+          "name": "Toby Jia-Jun Li"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5018871532",
+          "name": "Ronald Metoyer"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2740454492",
       "title": "Embedding Learning with Events in Heterogeneous Information Networks",
       "year": 2017,
       "date": "2017-07-31",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5086696415",
-          "name": "Huan Gui"
-        },
         {
           "id": "https://openalex.org/A5101681241",
           "name": "Jialu Liu"
@@ -841,10 +829,6 @@
           "name": "Chuchen Deng"
         },
         {
-          "id": "https://openalex.org/A5071276684",
-          "name": "Kaifeng Yu"
-        },
-        {
           "id": "https://openalex.org/A5007299588",
           "name": "Tianwen Jiang"
         },
@@ -855,38 +839,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4408615073",
-      "title": "Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks",
-      "year": 2025,
-      "date": "2025-03-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5093206754",
-          "name": "Annalisa Szymanski"
-        },
-        {
-          "id": "https://openalex.org/A5032058128",
-          "name": "Noah Ziems"
-        },
-        {
-          "id": "https://openalex.org/A5016803484",
-          "name": "Heather A. Eicher\u2010Miller"
-        },
-        {
-          "id": "https://openalex.org/A5007240808",
-          "name": "Toby Jia-Jun Li"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5018871532",
-          "name": "Ronald Metoyer"
         }
       ]
     },
@@ -963,10 +915,6 @@
         {
           "id": "https://openalex.org/A5063876156",
           "name": "Gengxin Sun"
-        },
-        {
-          "id": "https://openalex.org/A5035123314",
-          "name": "Ning Cao"
         },
         {
           "id": "https://openalex.org/A5110453164",
@@ -1047,26 +995,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4404783223",
-      "title": "Personalized Pieces: Efficient Personalized Large Language Models through Collaborative Efforts",
-      "year": 2024,
-      "date": "2024-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047674498",
-          "name": "Zhaoxuan Tan"
-        },
-        {
-          "id": "https://openalex.org/A5090431203",
-          "name": "Zheyuan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4415799235",
       "title": "Graph Diffusion Transformers for Multi-Conditional Molecular Generation",
       "year": 2024,
@@ -1087,13 +1015,41 @@
       ]
     },
     {
+      "id": "https://openalex.org/W81017276",
+      "title": "Inferring Strange Behavior from Connectivity Pattern in Social Networks",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5009228005",
+          "name": "Peng Cui"
+        },
+        {
+          "id": "https://openalex.org/A5080988309",
+          "name": "Alex Beutel"
+        },
+        {
+          "id": "https://openalex.org/A5035605036",
+          "name": "Christos Faloutsos"
+        },
+        {
+          "id": "https://openalex.org/A5024669831",
+          "name": "Shiqiang Yang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2742797692",
       "title": "Estimating Treatment Effect in the Wild via Differentiated Confounder Balancing",
       "year": 2017,
       "date": "2017-08-04",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5102968689",
+          "id": "https://openalex.org/A5041727387",
           "name": "Kun Kuang"
         },
         {
@@ -1143,6 +1099,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2605326574",
+      "title": "Treatment Effect Estimation with Data-Driven Variable Decomposition",
+      "year": 2017,
+      "date": "2017-02-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5041727387",
+          "name": "Kun Kuang"
+        },
+        {
+          "id": "https://openalex.org/A5009228005",
+          "name": "Peng Cui"
+        },
+        {
+          "id": "https://openalex.org/A5100628410",
+          "name": "Bo Li"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5024669831",
+          "name": "Shiqiang Yang"
+        },
+        {
+          "id": "https://openalex.org/A5100455768",
+          "name": "Fei Wang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3197057534",
       "title": "A Synergistic Approach for Graph Anomaly Detection With Pattern Mining and Feature Learning",
       "year": 2021,
@@ -1163,38 +1151,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2605326574",
-      "title": "Treatment Effect Estimation with Data-Driven Variable Decomposition",
-      "year": 2017,
-      "date": "2017-02-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102968689",
-          "name": "Kun Kuang"
-        },
-        {
-          "id": "https://openalex.org/A5009228005",
-          "name": "Peng Cui"
-        },
-        {
-          "id": "https://openalex.org/A5100374374",
-          "name": "Bo Li"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5024669831",
-          "name": "Shiqiang Yang"
-        },
-        {
-          "id": "https://openalex.org/A5100455768",
-          "name": "Fei Wang"
         }
       ]
     },
@@ -1222,11 +1178,31 @@
         },
         {
           "id": "https://openalex.org/A5053124209",
-          "name": "J.J. Welser"
+          "name": "Jeffrey J. Welser"
         },
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3097732124",
+      "title": "Leverage electron properties to predict phonon properties via transfer learning for semiconductors",
+      "year": 2020,
+      "date": "2020-11-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100376635",
+          "name": "Zeyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5065387614",
+          "name": "Tengfei Luo"
         }
       ]
     },
@@ -1247,10 +1223,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5031865097",
-          "name": "Ning Cao"
         },
         {
           "id": "https://openalex.org/A5048975466",
@@ -1299,26 +1271,6 @@
         {
           "id": "https://openalex.org/A5035605036",
           "name": "Christos Faloutsos"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3097732124",
-      "title": "Leverage electron properties to predict phonon properties via transfer learning for semiconductors",
-      "year": 2020,
-      "date": "2020-11-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100376635",
-          "name": "Zeyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5065387614",
-          "name": "Tengfei Luo"
         }
       ]
     },
@@ -1607,34 +1559,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2888296742",
-      "title": "CausalTriad",
-      "year": 2018,
-      "date": "2018-08-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5067025788",
-          "name": "Sendong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5100347746",
-          "name": "Ming Liu"
-        },
-        {
-          "id": "https://openalex.org/A5017671620",
-          "name": "Bing Qin"
-        },
-        {
-          "id": "https://openalex.org/A5100694517",
-          "name": "Ting Liu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3012856424",
       "title": "Identifying Referential Intention with Heterogeneous Contexts",
       "year": 2020,
@@ -1733,8 +1657,8 @@
           "name": "Mandana Saebi"
         },
         {
-          "id": "https://openalex.org/A5112513651",
-          "name": "Steven Kreig"
+          "id": "https://openalex.org/A5081572309",
+          "name": "Steven J. Krieg"
         },
         {
           "id": "https://openalex.org/A5022275632",
@@ -1746,47 +1670,11 @@
         },
         {
           "id": "https://openalex.org/A5050914099",
-          "name": "Tomasz Kajdanowicz"
+          "name": "Tomasz Jan Kajdanowicz"
         },
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2808746993",
-      "title": "TruePIE",
-      "year": 2018,
-      "date": "2018-07-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100350205",
-          "name": "Qi Li"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5012260410",
-          "name": "Xikun Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5101458727",
-          "name": "Meng Qu"
-        },
-        {
-          "id": "https://openalex.org/A5111630666",
-          "name": "Timothy Hanratty"
-        },
-        {
-          "id": "https://openalex.org/A5100781385",
-          "name": "Jing Gao"
-        },
-        {
-          "id": "https://openalex.org/A5019539533",
-          "name": "Jiawei Han"
         }
       ]
     },
@@ -1815,6 +1703,50 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4281929297",
+      "title": "A Bottom-Up End-User Intelligent Assistant Approach to Empower Gig Workers against AI Inequality",
+      "year": 2022,
+      "date": "2022-06-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007240808",
+          "name": "Toby Jia-Jun Li"
+        },
+        {
+          "id": "https://openalex.org/A5075568818",
+          "name": "Yuwen Lu"
+        },
+        {
+          "id": "https://openalex.org/A5014672816",
+          "name": "Jaylexia Clark"
+        },
+        {
+          "id": "https://openalex.org/A5100357859",
+          "name": "Meng Chen"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5108052996",
+          "name": "Yang Yang"
+        },
+        {
+          "id": "https://openalex.org/A5067111657",
+          "name": "Tamara Kay"
+        },
+        {
+          "id": "https://openalex.org/A5013261159",
+          "name": "Danielle M. Wood"
+        },
+        {
+          "id": "https://openalex.org/A5026229568",
+          "name": "Jay B. Brockman"
         }
       ]
     },
@@ -1871,78 +1803,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4281929297",
-      "title": "A Bottom-Up End-User Intelligent Assistant Approach to Empower Gig Workers against AI Inequality",
-      "year": 2022,
-      "date": "2022-06-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007240808",
-          "name": "Toby Jia-Jun Li"
-        },
-        {
-          "id": "https://openalex.org/A5075568818",
-          "name": "Yuwen Lu"
-        },
-        {
-          "id": "https://openalex.org/A5014672816",
-          "name": "Jaylexia Clark"
-        },
-        {
-          "id": "https://openalex.org/A5100357859",
-          "name": "Meng Chen"
-        },
-        {
-          "id": "https://openalex.org/A5113264680",
-          "name": "V. S. Cox"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5108052996",
-          "name": "Yang Yang"
-        },
-        {
-          "id": "https://openalex.org/A5067111657",
-          "name": "Tamara Kay"
-        },
-        {
-          "id": "https://openalex.org/A5013261159",
-          "name": "Danielle Wood"
-        },
-        {
-          "id": "https://openalex.org/A5026229568",
-          "name": "Jay Brockman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2584124644",
-      "title": "Steering Social Media Promotions with Effective Strategies",
-      "year": 2016,
-      "date": "2016-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102968689",
-          "name": "Kun Kuang"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5009228005",
-          "name": "Peng Cui"
-        },
-        {
-          "id": "https://openalex.org/A5024669831",
-          "name": "Shiqiang Yang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4404134039",
       "title": "Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis",
       "year": 2024,
@@ -1983,30 +1843,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2988402184",
-      "title": "Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method",
-      "year": 2019,
-      "date": "2019-01-01",
+      "id": "https://openalex.org/W4404783223",
+      "title": "Personalized Pieces: Efficient Personalized Large Language Models through Collaborative Efforts",
+      "year": 2024,
+      "date": "2024-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
+          "id": "https://openalex.org/A5047674498",
+          "name": "Zhaoxuan Tan"
         },
         {
-          "id": "https://openalex.org/A5101828582",
-          "name": "Mengxia Yu"
-        },
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5030156276",
-          "name": "Jinjun Xiong"
-        },
-        {
-          "id": "https://openalex.org/A5000141831",
-          "name": "Yiyu Shi"
+          "id": "https://openalex.org/A5090431203",
+          "name": "Zheyuan Liu"
         },
         {
           "id": "https://openalex.org/A5074821819",
@@ -2193,10 +2041,6 @@
           "name": "Xin Liu"
         },
         {
-          "id": "https://openalex.org/A5038574091",
-          "name": "P. S. Chen"
-        },
-        {
           "id": "https://openalex.org/A5071152915",
           "name": "Zheng Li"
         },
@@ -2251,10 +2095,6 @@
         {
           "id": "https://openalex.org/A5103257928",
           "name": "Yilun Jin"
-        },
-        {
-          "id": "https://openalex.org/A5100415003",
-          "name": "Zheng Li"
         },
         {
           "id": "https://openalex.org/A5102776804",
@@ -2339,34 +2179,30 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4394584404",
-      "title": "Knowledge-augmented Methods for Natural Language Generation",
-      "year": 2024,
-      "date": "2024-01-01",
+      "id": "https://openalex.org/W2888296742",
+      "title": "CausalTriad",
+      "year": 2018,
+      "date": "2018-08-15",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5067025788",
+          "name": "Sendong Zhao"
+        },
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
         },
         {
-          "id": "https://openalex.org/A5061781904",
-          "name": "Bill Lin"
+          "id": "https://openalex.org/A5100347746",
+          "name": "Ming Liu"
         },
         {
-          "id": "https://openalex.org/A5034826937",
-          "name": "Shuohang Wang"
+          "id": "https://openalex.org/A5017671620",
+          "name": "Bing Qin"
         },
         {
-          "id": "https://openalex.org/A5070165835",
-          "name": "Xu Yi\u2010chong"
-        },
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5034687114",
-          "name": "Chenguang Zhu"
+          "id": "https://openalex.org/A5100694517",
+          "name": "Ting Liu"
         }
       ]
     },
@@ -2415,10 +2251,6 @@
         {
           "id": "https://openalex.org/A5030469532",
           "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5037017610",
-          "name": "Tao Shu"
         },
         {
           "id": "https://openalex.org/A5101921697",
@@ -2473,7 +2305,7 @@
       "date": "2019-12-13",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5102968689",
+          "id": "https://openalex.org/A5041727387",
           "name": "Kun Kuang"
         },
         {
@@ -2481,7 +2313,7 @@
           "name": "Peng Cui"
         },
         {
-          "id": "https://openalex.org/A5100374374",
+          "id": "https://openalex.org/A5100628410",
           "name": "Bo Li"
         },
         {
@@ -2494,11 +2326,47 @@
         },
         {
           "id": "https://openalex.org/A5004882141",
-          "name": "Fei Wu"
+          "name": "Fei Qing Wu"
         },
         {
           "id": "https://openalex.org/A5024669831",
           "name": "Shiqiang Yang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2808746993",
+      "title": "TruePIE",
+      "year": 2018,
+      "date": "2018-07-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100350205",
+          "name": "Qi Li"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5012260410",
+          "name": "Xikun Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5101458727",
+          "name": "Meng Qu"
+        },
+        {
+          "id": "https://openalex.org/A5111630666",
+          "name": "Timothy Hanratty"
+        },
+        {
+          "id": "https://openalex.org/A5100781385",
+          "name": "Jing Gao"
+        },
+        {
+          "id": "https://openalex.org/A5019539533",
+          "name": "Jiawei Han"
         }
       ]
     },
@@ -2559,6 +2427,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2584124644",
+      "title": "Steering Social Media Promotions with Effective Strategies",
+      "year": 2016,
+      "date": "2016-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5041727387",
+          "name": "Kun Kuang"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5009228005",
+          "name": "Peng Cui"
+        },
+        {
+          "id": "https://openalex.org/A5024669831",
+          "name": "Shiqiang Yang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2970224261",
       "title": "Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text",
       "year": 2019,
@@ -2583,6 +2475,30 @@
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3088575574",
+      "title": "Injecting Entity Types into Entity-Guided Text Generation",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083960440",
+          "name": "Xiangyu Dong"
+        },
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5034687114",
+          "name": "Chenguang Zhu"
         },
         {
           "id": "https://openalex.org/A5074821819",
@@ -2637,7 +2553,7 @@
           "name": "David A. Liem"
         },
         {
-          "id": "https://openalex.org/A5108116602",
+          "id": "https://openalex.org/A5006098122",
           "name": "Peipei Ping"
         },
         {
@@ -2647,6 +2563,62 @@
         {
           "id": "https://openalex.org/A5019539533",
           "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2988402184",
+      "title": "Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method",
+      "year": 2019,
+      "date": "2019-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5101828582",
+          "name": "Mengxia Yu"
+        },
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5030156276",
+          "name": "Jinjun Xiong"
+        },
+        {
+          "id": "https://openalex.org/A5000141831",
+          "name": "Yiyu Shi"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2945924302",
+      "title": "Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System",
+      "year": 2019,
+      "date": "2019-05-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5100746244",
+          "name": "Zongze Li"
+        },
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
         }
       ]
     },
@@ -2679,30 +2651,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2945924302",
-      "title": "Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System",
-      "year": 2019,
-      "date": "2019-05-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5100746244",
-          "name": "Zongze Li"
-        },
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4386091468",
       "title": "Transfer Learning across Graph Convolutional Networks: Methods, Theory, and Applications",
       "year": 2023,
@@ -2715,42 +2663,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4389520750",
-      "title": "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions",
-      "year": 2023,
-      "date": "2023-01-01",
+      "id": "https://openalex.org/W3124528512",
+      "title": "Validating Label Consistency in NER Data Annotation",
+      "year": 2021,
+      "date": "2021-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5055111969",
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5101828582",
+          "name": "Mengxia Yu"
+        },
+        {
+          "id": "https://openalex.org/A5028597555",
           "name": "Wenhao Yu"
         },
         {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5049837138",
-          "name": "Peter Clark"
-        },
-        {
-          "id": "https://openalex.org/A5077726785",
-          "name": "Ashish Sabharwal"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3194059069",
-      "title": "Data Efficient Learning on Graphs",
-      "year": 2021,
-      "date": "2021-08-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022275632",
-          "name": "Chuxu Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5029588473",
-          "name": "Jundong Li"
+          "id": "https://openalex.org/A5007299588",
+          "name": "Tianwen Jiang"
         },
         {
           "id": "https://openalex.org/A5074821819",
@@ -2791,82 +2723,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4411024111",
-      "title": "Modeling Polymers with Neural Networks",
-      "year": 2025,
-      "date": "2025-06-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5052023514",
-          "name": "Eric Inae"
-        },
-        {
-          "id": "https://openalex.org/A5100350537",
-          "name": "Yuhan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5074842336",
-          "name": "Yihan Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5087343858",
-          "name": "Jiaxin Xu"
-        },
-        {
-          "id": "https://openalex.org/A5100739873",
-          "name": "Gang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5050018592",
-          "name": "Renzheng Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5065387614",
-          "name": "Tengfei Luo"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412945699",
-      "title": "Disentangling Biased Knowledge from Reasoning in Large Language Models via Machine Unlearning",
-      "year": 2025,
-      "date": "2025-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102018211",
-          "name": "Zheyuan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5032620055",
-          "name": "Suraj Maharjan"
-        },
-        {
-          "id": "https://openalex.org/A5082020546",
-          "name": "Fanyou Wu"
-        },
-        {
-          "id": "https://openalex.org/A5026929017",
-          "name": "Rahil Parikh"
-        },
-        {
-          "id": "https://openalex.org/A5018651448",
-          "name": "Belhassen Bayar"
-        },
-        {
-          "id": "https://openalex.org/A5038858575",
-          "name": "Srinivasan H. Sengamedu"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2391440061",
       "title": "CatchTartan",
       "year": 2016,
@@ -2887,45 +2743,13 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2127423798",
-      "title": "Mining diversity on social media networks",
-      "year": 2010,
-      "date": "2010-07-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100396514",
-          "name": "Lu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5003692270",
-          "name": "Feida Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5019539533",
-          "name": "Jiawei Han"
-        },
-        {
-          "id": "https://openalex.org/A5047712495",
-          "name": "Lifeng Sun"
-        },
-        {
-          "id": "https://openalex.org/A5024669831",
-          "name": "Shiqiang Yang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2741791470",
       "title": "Effective Promotional Strategies Selection in Social Media: A Data-Driven Approach",
       "year": 2017,
       "date": "2017-07-31",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5102968689",
+          "id": "https://openalex.org/A5041727387",
           "name": "Kun Kuang"
         },
         {
@@ -3011,59 +2835,11 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3018867132",
-      "title": "Improving situational awareness with collective artificial intelligence over knowledge graphs",
-      "year": 2020,
-      "date": "2020-04-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3106263887",
-      "title": "Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER",
-      "year": 2020,
-      "date": "2020-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5101828582",
-          "name": "Mengxia Yu"
-        },
-        {
-          "id": "https://openalex.org/A5007299588",
-          "name": "Tianwen Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5084597959",
-          "name": "Tim Weninger"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2131279020",
       "title": "Ergonomic Assessment of Patient Barrow Lifting Technique Using Digital Human Modeling",
       "year": 2013,
       "date": "2013-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5011803252",
-          "name": "Wen Jing Cao"
-        },
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
@@ -3099,30 +2875,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3092220769",
-      "title": "Towards Semantically Guided Traceability",
-      "year": 2020,
-      "date": "2020-08-01",
+      "id": "https://openalex.org/W4389520750",
+      "title": "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions",
+      "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100677480",
-          "name": "Yalin Liu"
-        },
-        {
-          "id": "https://openalex.org/A5088923915",
-          "name": "Jinfeng Lin"
-        },
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
+          "id": "https://openalex.org/A5055111969",
+          "name": "Wenhao Yu"
         },
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
         },
         {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
+          "id": "https://openalex.org/A5077726785",
+          "name": "Ashish Sabharwal"
         }
       ]
     },
@@ -3142,7 +2910,7 @@
         },
         {
           "id": "https://openalex.org/A5100512627",
-          "name": "Yu Shu"
+          "name": "Yu Feng Shu"
         },
         {
           "id": "https://openalex.org/A5030469532",
@@ -3231,6 +2999,334 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3042393178",
+      "title": "Phrase-level pairwise topic modeling to uncover helpful peer responses to online suicidal crises",
+      "year": 2020,
+      "date": "2020-07-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5046732136",
+          "name": "Brooke A. Ammerman"
+        },
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5060635481",
+          "name": "Ross Jacobucci"
+        },
+        {
+          "id": "https://openalex.org/A5037952808",
+          "name": "Alex S. Brodersen"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3194059069",
+      "title": "Data Efficient Learning on Graphs",
+      "year": 2021,
+      "date": "2021-08-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022275632",
+          "name": "Chuxu Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5029588473",
+          "name": "Jundong Li"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394584404",
+      "title": "Knowledge-augmented Methods for Natural Language Generation",
+      "year": 2024,
+      "date": "2024-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5034826937",
+          "name": "Shuohang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5070165835",
+          "name": "Xu Yi\u2010chong"
+        },
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5034687114",
+          "name": "Chenguang Zhu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4411024111",
+      "title": "Modeling Polymers with Neural Networks",
+      "year": 2025,
+      "date": "2025-06-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5052023514",
+          "name": "Eric Inae"
+        },
+        {
+          "id": "https://openalex.org/A5100350537",
+          "name": "Yuhan Liu"
+        },
+        {
+          "id": "https://openalex.org/A5074842336",
+          "name": "Yihan Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5087343858",
+          "name": "Jiaxin Xu"
+        },
+        {
+          "id": "https://openalex.org/A5100739873",
+          "name": "Gang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5050018592",
+          "name": "Renzheng Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5065387614",
+          "name": "Tengfei Luo"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412945699",
+      "title": "Disentangling Biased Knowledge from Reasoning in Large Language Models via Machine Unlearning",
+      "year": 2025,
+      "date": "2025-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102018211",
+          "name": "Zheyuan Liu"
+        },
+        {
+          "id": "https://openalex.org/A5032620055",
+          "name": "Suraj Maharjan"
+        },
+        {
+          "id": "https://openalex.org/A5082020546",
+          "name": "Fanyou Wu"
+        },
+        {
+          "id": "https://openalex.org/A5026929017",
+          "name": "Rahil Parikh"
+        },
+        {
+          "id": "https://openalex.org/A5018651448",
+          "name": "Belhassen Bayar"
+        },
+        {
+          "id": "https://openalex.org/A5038858575",
+          "name": "Srinivasan H. Sengamedu"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2127423798",
+      "title": "Mining diversity on social media networks",
+      "year": 2010,
+      "date": "2010-07-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100396514",
+          "name": "Lu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5003692270",
+          "name": "Feida Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5019539533",
+          "name": "Jiawei Han"
+        },
+        {
+          "id": "https://openalex.org/A5047712495",
+          "name": "Lifeng Sun"
+        },
+        {
+          "id": "https://openalex.org/A5024669831",
+          "name": "Shiqiang Yang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2895890011",
+      "title": "Optimizing Boiler Control in Real-Time with Machine Learning for Sustainability",
+      "year": 2018,
+      "date": "2018-10-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101752115",
+          "name": "Yukun Ding"
+        },
+        {
+          "id": "https://openalex.org/A5103062895",
+          "name": "Jinglan Liu"
+        },
+        {
+          "id": "https://openalex.org/A5030156276",
+          "name": "Jinjun Xiong"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5000141831",
+          "name": "Yiyu Shi"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3018867132",
+      "title": "Improving situational awareness with collective artificial intelligence over knowledge graphs",
+      "year": 2020,
+      "date": "2020-04-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3106263887",
+      "title": "Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER",
+      "year": 2020,
+      "date": "2020-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5101828582",
+          "name": "Mengxia Yu"
+        },
+        {
+          "id": "https://openalex.org/A5007299588",
+          "name": "Tianwen Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5084597959",
+          "name": "Tim Weninger"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3092220769",
+      "title": "Towards Semantically Guided Traceability",
+      "year": 2020,
+      "date": "2020-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100677480",
+          "name": "Yalin Liu"
+        },
+        {
+          "id": "https://openalex.org/A5088923915",
+          "name": "Jinfeng Lin"
+        },
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3206772907",
+      "title": "Sentence-Permuted Paragraph Generation",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5034687114",
+          "name": "Chenguang Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5035766567",
+          "name": "Tong Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5100932875",
+          "name": "Zhichun Guo"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3080685974",
+      "title": "Scientific Text Mining and Knowledge Graphs",
+      "year": 2020,
+      "date": "2020-08-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5039500313",
+          "name": "Jingbo Shang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3005235747",
       "title": "CTGA: Graph-based Biomedical Literature Search",
       "year": 2019,
@@ -3263,34 +3359,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3042393178",
-      "title": "Phrase-level pairwise topic modeling to uncover helpful peer responses to online suicidal crises",
-      "year": 2020,
-      "date": "2020-07-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5046732136",
-          "name": "Brooke A. Ammerman"
-        },
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5060635481",
-          "name": "Ross Jacobucci"
-        },
-        {
-          "id": "https://openalex.org/A5037952808",
-          "name": "Alex Brodersen"
         }
       ]
     },
@@ -3355,6 +3423,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2539151648",
+      "title": "Catching Social Media Advertisers with Strategy Analysis",
+      "year": 2016,
+      "date": "2016-10-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2612612048",
+      "title": "Constructing Structured Information Networks from Massive Text Corpora",
+      "year": 2017,
+      "date": "2017-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5009408707",
+          "name": "Xiang Ren"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5039500313",
+          "name": "Jingbo Shang"
+        },
+        {
+          "id": "https://openalex.org/A5019539533",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3163957782",
       "title": "Inductive Contextual Relation Learning for Personalization",
       "year": 2021,
@@ -3391,218 +3495,6 @@
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4414297219",
-      "title": "A Technology of Forest Fire Smoke Detection Using Dual-Polarization Weather Radar",
-      "year": 2025,
-      "date": "2025-09-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5001712282",
-          "name": "Miao Bai"
-        },
-        {
-          "id": "https://openalex.org/A5100676067",
-          "name": "Zhonghua He"
-        },
-        {
-          "id": "https://openalex.org/A5101651071",
-          "name": "Gaofeng Fan"
-        },
-        {
-          "id": "https://openalex.org/A5110934960",
-          "name": "Zhuoran Liang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413471199",
-      "title": "Epicardial and paracardial adipose tissue quantification in short-axis cardiac cine MRI using deep learning",
-      "year": 2025,
-      "date": "2025-08-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100422017",
-          "name": "Rui Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5071800484",
-          "name": "Xu Wang"
-        },
-        {
-          "id": "https://openalex.org/A5017652622",
-          "name": "Zijian Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5031998264",
-          "name": "Lisa Ni"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5101476667",
-          "name": "Peng Hu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403577364",
-      "title": "FaDE: A Face Segment Driven Identity Anonymization Framework For Fair Face Recognition",
-      "year": 2024,
-      "date": "2024-10-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045401193",
-          "name": "Ziyi Kou"
-        },
-        {
-          "id": "https://openalex.org/A5057838053",
-          "name": "Yijun Tian"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5000755750",
-          "name": "Xiangliang Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416274317",
-      "title": "SPECTRA: Spectral Domain-Aware Graph Generation for Imbalanced Molecular Property Regression",
-      "year": 2026,
-      "date": "2026-08-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043247629",
-          "name": "Brenda Nogueira"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5068157871",
-          "name": "Nitesh V. Chawla"
-        },
-        {
-          "id": "https://openalex.org/A5047689411",
-          "name": "Nuno Moniz"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7130712986",
-      "title": "The aging effect in the processing of Chinese interoceptive- and exteroceptive- reaction affective verbs",
-      "year": 2026,
-      "date": "2026-02-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5117694394",
-          "name": "Daiyue Qu"
-        },
-        {
-          "id": "https://openalex.org/A5126509762",
-          "name": "Qi Luo"
-        },
-        {
-          "id": "https://openalex.org/A5126484688",
-          "name": "Xue Wang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2895890011",
-      "title": "Optimizing Boiler Control in Real-Time with Machine Learning for Sustainability",
-      "year": 2018,
-      "date": "2018-10-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101752115",
-          "name": "Yukun Ding"
-        },
-        {
-          "id": "https://openalex.org/A5103062895",
-          "name": "Jinglan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5030156276",
-          "name": "Jinjun Xiong"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5000141831",
-          "name": "Yiyu Shi"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3080685974",
-      "title": "Scientific Text Mining and Knowledge Graphs",
-      "year": 2020,
-      "date": "2020-08-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5039500313",
-          "name": "Jingbo Shang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2539151648",
-      "title": "Catching Social Media Advertisers with Strategy Analysis",
-      "year": 2016,
-      "date": "2016-10-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2612612048",
-      "title": "Constructing Structured Information Networks from Massive Text Corpora",
-      "year": 2017,
-      "date": "2017-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5009408707",
-          "name": "Xiang Ren"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5039500313",
-          "name": "Jingbo Shang"
-        },
-        {
-          "id": "https://openalex.org/A5019539533",
-          "name": "Jiawei Han"
         }
       ]
     },
@@ -3691,6 +3583,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4409149660",
+      "title": "Learning Attribute as Explicit Relation for Sequential Recommendation",
+      "year": 2025,
+      "date": "2025-04-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100739873",
+          "name": "Gang Liu"
+        },
+        {
+          "id": "https://openalex.org/A5102014086",
+          "name": "Fan Yang"
+        },
+        {
+          "id": "https://openalex.org/A5010965630",
+          "name": "Yang Jiao"
+        },
+        {
+          "id": "https://openalex.org/A5012371482",
+          "name": "Alireza Bagheri Garakani"
+        },
+        {
+          "id": "https://openalex.org/A5021319176",
+          "name": "Yan Gao"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4409348705",
       "title": "Pre-trained Behavioral Model for Malicious User Prediction on Social Platform",
       "year": 2025,
@@ -3707,10 +3631,6 @@
         {
           "id": "https://openalex.org/A5059240498",
           "name": "Shaofeng Hu"
-        },
-        {
-          "id": "https://openalex.org/A5072800660",
-          "name": "K.\u2010S. Ou"
         },
         {
           "id": "https://openalex.org/A5051925942",
@@ -3739,6 +3659,54 @@
         {
           "id": "https://openalex.org/A5117694394",
           "name": "Daiyue Qu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403577364",
+      "title": "FaDE: A Face Segment Driven Identity Anonymization Framework For Fair Face Recognition",
+      "year": 2024,
+      "date": "2024-10-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045401193",
+          "name": "Ziyi Kou"
+        },
+        {
+          "id": "https://openalex.org/A5057838053",
+          "name": "Yijun Tian"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5000755750",
+          "name": "Xiangliang Zhang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416274317",
+      "title": "SPECTRA: Spectral Domain-Aware Graph Generation for Imbalanced Molecular Property Regression",
+      "year": 2026,
+      "date": "2026-08-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043247629",
+          "name": "Brenda Nogueira"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5068157871",
+          "name": "Nitesh V. Chawla"
+        },
+        {
+          "id": "https://openalex.org/A5047689411",
+          "name": "Nuno Moniz"
         }
       ]
     },
@@ -3843,6 +3811,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3212614051",
+      "title": "Knowledge-Enriched Natural Language Generation",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5085608858",
+          "name": "Zhiting Hu"
+        },
+        {
+          "id": "https://openalex.org/A5100760907",
+          "name": "Qingyun Wang"
+        },
+        {
+          "id": "https://openalex.org/A5075033889",
+          "name": "Heng Ji"
+        },
+        {
+          "id": "https://openalex.org/A5052900932",
+          "name": "Nazneen Fatema Rajani"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3198075605",
       "title": "Unified Representation of Twitter and Online News Using Graph and Entities",
       "year": 2021,
@@ -3879,58 +3879,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3206772907",
-      "title": "Sentence-Permuted Paragraph Generation",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5034687114",
-          "name": "Chenguang Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5035766567",
-          "name": "Tong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5100932875",
-          "name": "Zhichun Guo"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3007012213",
-      "title": "Preserving Composition and Crystal Structures of Chemical Compounds in Atomic Embedding",
-      "year": 2019,
-      "date": "2019-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101822672",
-          "name": "Yifan Ding"
-        },
-        {
-          "id": "https://openalex.org/A5103145321",
-          "name": "Daheng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5084597959",
-          "name": "Tim Weninger"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3108585271",
       "title": "Analysis of Computer Information Processing Technology Under the Background of Intelligent Big Data",
       "year": 2020,
@@ -3947,198 +3895,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4385567934",
-      "title": "RelKD 2023: International Workshop on Resource-Efficient Learning for Knowledge Discovery",
-      "year": 2023,
-      "date": "2023-08-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022275632",
-          "name": "Chuxu Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5068433690",
-          "name": "Dongkuan Xu"
-        },
-        {
-          "id": "https://openalex.org/A5052706169",
-          "name": "Mojan Javaheripi"
-        },
-        {
-          "id": "https://openalex.org/A5118646350",
-          "name": "Subhabrata Mukherjee"
-        },
-        {
-          "id": "https://openalex.org/A5101478122",
-          "name": "Lingfei Wu"
-        },
-        {
-          "id": "https://openalex.org/A5052933431",
-          "name": "Yinglong Xia"
-        },
-        {
-          "id": "https://openalex.org/A5029588473",
-          "name": "Jundong Li"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5100651384",
-          "name": "Yanzhi Wang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4394584395",
-      "title": "Knowledge-augmented Methods for Natural Language Understanding",
-      "year": 2024,
-      "date": "2024-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5061781904",
-          "name": "Bill Lin"
-        },
-        {
-          "id": "https://openalex.org/A5034826937",
-          "name": "Shuohang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5006654661",
-          "name": "Yichong Xu"
-        },
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5034687114",
-          "name": "Chenguang Zhu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403287744",
-      "title": "Comparative Analysis and Suggestions for Sucker Rod Pump Working Condition Diagnosis Using Machine Learning Techniques",
-      "year": 2024,
-      "date": "2024-10-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101062089",
-          "name": "Yuping Sun"
-        },
-        {
-          "id": "https://openalex.org/A5100405762",
-          "name": "Haipeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5070089501",
-          "name": "Xiaole Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5063439671",
-          "name": "Jingjing Yang"
-        },
-        {
-          "id": "https://openalex.org/A5115588282",
-          "name": "Chunyu Wang"
-        },
-        {
-          "id": "https://openalex.org/A5072350518",
-          "name": "Jie Shao"
-        },
-        {
-          "id": "https://openalex.org/A5024522346",
-          "name": "Rui Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5103096924",
-          "name": "Jianfeng He"
-        },
-        {
-          "id": "https://openalex.org/A5100690274",
-          "name": "Jun Shi"
-        },
-        {
-          "id": "https://openalex.org/A5101742243",
-          "name": "Xiaofeng Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5102738071",
-          "name": "Chun\u2010Da Liao"
-        },
-        {
-          "id": "https://openalex.org/A5064213921",
-          "name": "Xuan Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5112454300",
-          "name": "Gengyu Ma"
-        },
-        {
-          "id": "https://openalex.org/A5100375587",
-          "name": "Shuang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5071074935",
-          "name": "Dewen Hu"
-        },
-        {
-          "id": "https://openalex.org/A5101476708",
-          "name": "Yang Yu"
-        },
-        {
-          "id": "https://openalex.org/A5011866457",
-          "name": "Yuan\u2010Xin Li"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4409149660",
-      "title": "Learning Attribute as Explicit Relation for Sequential Recommendation",
-      "year": 2025,
-      "date": "2025-04-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100739873",
-          "name": "Gang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5102014086",
-          "name": "Fan Yang"
-        },
-        {
-          "id": "https://openalex.org/A5010965630",
-          "name": "Yang Jiao"
-        },
-        {
-          "id": "https://openalex.org/A5012371482",
-          "name": "Alireza Bagheri Garakani"
-        },
-        {
-          "id": "https://openalex.org/A5025923567",
-          "name": "Tong Tian"
-        },
-        {
-          "id": "https://openalex.org/A5021319176",
-          "name": "Yan Gao"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3128684698",
       "title": "FGNAS: FPGA-Aware Graph Neural Architecture Search",
       "year": 2021,
@@ -4146,7 +3902,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5101475406",
-          "name": "Qing Lu"
+          "name": "Qing Hua Lu"
         },
         {
           "id": "https://openalex.org/A5019027088",
@@ -4223,26 +3979,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4311067373",
-      "title": "Association between RBC transfusion and 1-year mortality in ICU survivors",
-      "year": 2022,
-      "date": "2022-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5061852162",
-          "name": "Meixia Chen"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5056753569",
-          "name": "Mingda Hu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2970523669",
       "title": "Research on Internet Financial Personalized Services Based on Big Data Analysis",
       "year": 2019,
@@ -4255,6 +3991,30 @@
         {
           "id": "https://openalex.org/A5100339329",
           "name": "Junfeng Liu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3007012213",
+      "title": "Preserving Composition and Crystal Structures of Chemical Compounds in Atomic Embedding",
+      "year": 2019,
+      "date": "2019-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101822672",
+          "name": "Yifan Ding"
+        },
+        {
+          "id": "https://openalex.org/A5103145321",
+          "name": "Daheng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5084597959",
+          "name": "Tim Weninger"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
         }
       ]
     },
@@ -4291,22 +4051,74 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4206100418",
-      "title": "Multi-Round Parsing-based Multiword Rules for Scientific Knowledge Extraction",
-      "year": 2021,
-      "date": "2021-12-01",
+      "id": "https://openalex.org/W4385567934",
+      "title": "RelKD 2023: International Workshop on Resource-Efficient Learning for Knowledge Discovery",
+      "year": 2023,
+      "date": "2023-08-04",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5003006564",
-          "name": "Joseph Kuebler"
+          "id": "https://openalex.org/A5022275632",
+          "name": "Chuxu Zhang"
         },
         {
-          "id": "https://openalex.org/A5071662614",
-          "name": "Lingbo Tong"
+          "id": "https://openalex.org/A5068433690",
+          "name": "Dongkuan Xu"
+        },
+        {
+          "id": "https://openalex.org/A5052706169",
+          "name": "Mojan Javaheripi"
+        },
+        {
+          "id": "https://openalex.org/A5118646350",
+          "name": "Subhabrata Mukherjee"
+        },
+        {
+          "id": "https://openalex.org/A5101478122",
+          "name": "Lingfei Wu"
+        },
+        {
+          "id": "https://openalex.org/A5052933431",
+          "name": "Yinglong Xia"
+        },
+        {
+          "id": "https://openalex.org/A5029588473",
+          "name": "Jundong Li"
         },
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5100651384",
+          "name": "Yanzhi Wang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394584395",
+      "title": "Knowledge-augmented Methods for Natural Language Understanding",
+      "year": 2024,
+      "date": "2024-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5034826937",
+          "name": "Shuohang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5006654661",
+          "name": "Yichong Xu"
+        },
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5034687114",
+          "name": "Chenguang Zhu"
         }
       ]
     },
@@ -4327,50 +4139,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3088575574",
-      "title": "Injecting Entity Types into Entity-Guided Text Generation",
+      "id": "https://openalex.org/W4206100418",
+      "title": "Multi-Round Parsing-based Multiword Rules for Scientific Knowledge Extraction",
       "year": 2021,
-      "date": "2021-01-01",
+      "date": "2021-12-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5083960440",
-          "name": "Xiangyu Dong"
+          "id": "https://openalex.org/A5003006564",
+          "name": "Joseph Kuebler"
         },
         {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5034687114",
-          "name": "Chenguang Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3124528512",
-      "title": "Validating Label Consistency in NER Data Annotation",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5101828582",
-          "name": "Mengxia Yu"
-        },
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5007299588",
-          "name": "Tianwen Jiang"
+          "id": "https://openalex.org/A5071662614",
+          "name": "Lingbo Tong"
         },
         {
           "id": "https://openalex.org/A5074821819",
@@ -4387,10 +4167,6 @@
         {
           "id": "https://openalex.org/A5077662090",
           "name": "Hy Dang"
-        },
-        {
-          "id": "https://openalex.org/A5101804607",
-          "name": "Bang Van Nguyen"
         },
         {
           "id": "https://openalex.org/A5032058128",
@@ -4495,46 +4271,6 @@
         {
           "id": "https://openalex.org/A5035766567",
           "name": "Tong Zhao"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2952522726",
-      "title": "TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering",
-      "year": 2018,
-      "date": "2018-12-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100460272",
-          "name": "Chao Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5043659320",
-          "name": "Fangbo Tao"
-        },
-        {
-          "id": "https://openalex.org/A5024221607",
-          "name": "Xiusi Chen"
-        },
-        {
-          "id": "https://openalex.org/A5041327449",
-          "name": "Jiaming Shen"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5053858045",
-          "name": "Brian M. Sadler"
-        },
-        {
-          "id": "https://openalex.org/A5049116497",
-          "name": "Michelle Vanni"
-        },
-        {
-          "id": "https://openalex.org/A5019539533",
-          "name": "Jiawei Han"
         }
       ]
     },
@@ -4651,15 +4387,51 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2952522726",
+      "title": "TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering",
+      "year": 2018,
+      "date": "2018-12-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100460272",
+          "name": "Chao Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5043659320",
+          "name": "Fangbo Tao"
+        },
+        {
+          "id": "https://openalex.org/A5024221607",
+          "name": "Xiusi Chen"
+        },
+        {
+          "id": "https://openalex.org/A5041327449",
+          "name": "Jiaming Shen"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5053858045",
+          "name": "Brian M. Sadler"
+        },
+        {
+          "id": "https://openalex.org/A5049116497",
+          "name": "Michelle Vanni"
+        },
+        {
+          "id": "https://openalex.org/A5019539533",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3003730536",
       "title": "Improving Generalizability of Fake News Detection Methods using Propensity Score Matching",
       "year": 2020,
       "date": "2020-01-28",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5058733140",
-          "name": "Bo Ni"
-        },
         {
           "id": "https://openalex.org/A5100932875",
           "name": "Zhichun Guo"
@@ -4671,6 +4443,34 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4378508578",
+      "title": "Improving Language Models via Plug-and-Play Retrieval Feedback",
+      "year": 2023,
+      "date": "2023-05-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114860703",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5101798380",
+          "name": "Zhihan Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5101447383",
+          "name": "Zhenwen Liang"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5077726785",
+          "name": "Ashish Sabharwal"
         }
       ]
     },
@@ -4707,43 +4507,11 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4378508578",
-      "title": "Improving Language Models via Plug-and-Play Retrieval Feedback",
-      "year": 2023,
-      "date": "2023-05-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114860703",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5101798380",
-          "name": "Zhihan Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5101447383",
-          "name": "Zhenwen Liang"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5077726785",
-          "name": "Ashish Sabharwal"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3087276991",
       "title": "Data-Driven Network Intrusion Detection: A Taxonomy of Challenges and Methods",
       "year": 2020,
       "date": "2020-09-15",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5076299270",
-          "name": "Dylan Chou"
-        },
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
@@ -4815,38 +4583,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2991153654",
-      "title": "Few-Shot Knowledge Graph Completion",
-      "year": 2019,
-      "date": "2019-11-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022275632",
-          "name": "Chuxu Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5051534896",
-          "name": "Huaxiu Yao"
-        },
-        {
-          "id": "https://openalex.org/A5091518548",
-          "name": "Chao Huang"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5016516907",
-          "name": "Zhenhui Li"
-        },
-        {
-          "id": "https://openalex.org/A5068157871",
-          "name": "Nitesh V. Chawla"
         }
       ]
     },
@@ -4943,6 +4679,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2991153654",
+      "title": "Few-Shot Knowledge Graph Completion",
+      "year": 2019,
+      "date": "2019-11-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022275632",
+          "name": "Chuxu Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5051534896",
+          "name": "Huaxiu Yao"
+        },
+        {
+          "id": "https://openalex.org/A5091518548",
+          "name": "Chao Huang"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5016516907",
+          "name": "Zhenhui Li"
+        },
+        {
+          "id": "https://openalex.org/A5068157871",
+          "name": "Nitesh V. Chawla"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3093782407",
       "title": "Early Anomaly Detection by Learning and Forecasting Behavior.",
       "year": 2020,
@@ -5011,6 +4779,66 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416411532",
+      "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+      "year": 2025,
+      "date": "2025-04-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5088639037",
+          "name": "Dilara Soylu"
+        },
+        {
+          "id": "https://openalex.org/A5032058128",
+          "name": "Noah Ziems"
+        },
+        {
+          "id": "https://openalex.org/A5099230650",
+          "name": "Krista Opsahl-Ong"
+        },
+        {
+          "id": "https://openalex.org/A5104180027",
+          "name": "Arnav Singhvi"
+        },
+        {
+          "id": "https://openalex.org/A5090912879",
+          "name": "Herumb Shandilya"
+        },
+        {
+          "id": "https://openalex.org/A5058109700",
+          "name": "Michael J. Ryan"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5042601761",
+          "name": "Christopher E. Potts"
+        },
+        {
+          "id": "https://openalex.org/A5014141359",
+          "name": "Alexandros G. Dimakis"
+        },
+        {
+          "id": "https://openalex.org/A5041920173",
+          "name": "Ion Gabriel Stoica"
+        },
+        {
+          "id": "https://openalex.org/A5004921249",
+          "name": "Dan Klein"
+        },
+        {
+          "id": "https://openalex.org/A5005554337",
+          "name": "Matei Zaharia"
+        },
+        {
+          "id": "https://openalex.org/A5015201177",
+          "name": "Omar Khattab"
         }
       ]
     },
@@ -5129,12 +4957,8 @@
           "name": "Zhengqing Yuan"
         },
         {
-          "id": "https://openalex.org/A5021043499",
+          "id": "https://openalex.org/A5074371475",
           "name": "Wei Song"
-        },
-        {
-          "id": "https://openalex.org/A5082886782",
-          "name": "Yuan Ma"
         },
         {
           "id": "https://openalex.org/A5110416544",
@@ -5166,7 +4990,7 @@
         },
         {
           "id": "https://openalex.org/A5022000433",
-          "name": "Yanfang Ye"
+          "name": "Yanfang Fanny Ye"
         }
       ]
     },
@@ -5283,46 +5107,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4388927707",
-      "title": "Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis",
-      "year": 2023,
-      "date": "2023-11-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5106463942",
-          "name": "Ruiyang Qin"
-        },
-        {
-          "id": "https://openalex.org/A5081669284",
-          "name": "Jun Xia"
-        },
-        {
-          "id": "https://openalex.org/A5027997476",
-          "name": "Zhenge Jia"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5016943900",
-          "name": "Ahmed Abbasi"
-        },
-        {
-          "id": "https://openalex.org/A5063866156",
-          "name": "Peipei Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5066534595",
-          "name": "Jingtong Hu"
-        },
-        {
-          "id": "https://openalex.org/A5000141831",
-          "name": "Yiyu Shi"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4400104404",
       "title": "GraphSnapShot: Caching Local Structure for Fast Graph Learning",
       "year": 2024,
@@ -5383,10 +5167,6 @@
         {
           "id": "https://openalex.org/A5103257928",
           "name": "Yilun Jin"
-        },
-        {
-          "id": "https://openalex.org/A5100415003",
-          "name": "Zheng Li"
         },
         {
           "id": "https://openalex.org/A5102776804",
@@ -5467,74 +5247,6 @@
         {
           "id": "https://openalex.org/A5085519273",
           "name": "Bing Yin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416411532",
-      "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
-      "year": 2025,
-      "date": "2025-04-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5088639037",
-          "name": "Dilara Soylu"
-        },
-        {
-          "id": "https://openalex.org/A5032058128",
-          "name": "Noah Ziems"
-        },
-        {
-          "id": "https://openalex.org/A5112061816",
-          "name": "Ritu Khare"
-        },
-        {
-          "id": "https://openalex.org/A5099230650",
-          "name": "Krista Opsahl-Ong"
-        },
-        {
-          "id": "https://openalex.org/A5104180027",
-          "name": "Arnav Singhvi"
-        },
-        {
-          "id": "https://openalex.org/A5090912879",
-          "name": "Herumb Shandilya"
-        },
-        {
-          "id": "https://openalex.org/A5058109700",
-          "name": "Michael J. Ryan"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5042601761",
-          "name": "Christopher Potts"
-        },
-        {
-          "id": "https://openalex.org/A5101569700",
-          "name": "Koushik Sen"
-        },
-        {
-          "id": "https://openalex.org/A5014141359",
-          "name": "Alexandros G. Dimakis"
-        },
-        {
-          "id": "https://openalex.org/A5041920173",
-          "name": "Ion Stoica"
-        },
-        {
-          "id": "https://openalex.org/A5004921249",
-          "name": "Dan Klein"
-        },
-        {
-          "id": "https://openalex.org/A5005554337",
-          "name": "Matei Zaharia"
-        },
-        {
-          "id": "https://openalex.org/A5015201177",
-          "name": "Omar Khattab"
         }
       ]
     },
@@ -5665,10 +5377,6 @@
           "name": "Qingkai Zeng"
         },
         {
-          "id": "https://openalex.org/A5037017610",
-          "name": "Tao Shu"
-        },
-        {
           "id": "https://openalex.org/A5101921697",
           "name": "Yu Deng"
         },
@@ -5775,10 +5483,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5049837138",
-          "name": "Peter Clark"
         },
         {
           "id": "https://openalex.org/A5077726785",
@@ -5907,10 +5611,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5086696415",
-          "name": "Huan Gui"
         }
       ]
     },
@@ -6206,7 +5906,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5102642347",
-          "name": "Yan Sun"
+          "name": "Yan Ping Sun"
         },
         {
           "id": "https://openalex.org/A5102429992",
@@ -6219,38 +5919,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3212614051",
-      "title": "Knowledge-Enriched Natural Language Generation",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5085608858",
-          "name": "Zhiting Hu"
-        },
-        {
-          "id": "https://openalex.org/A5100760907",
-          "name": "Qingyun Wang"
-        },
-        {
-          "id": "https://openalex.org/A5075033889",
-          "name": "Heng Ji"
-        },
-        {
-          "id": "https://openalex.org/A5052900932",
-          "name": "Nazneen Fatema Rajani"
         }
       ]
     },
@@ -6345,10 +6013,6 @@
       "date": "2023-06-27",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5110269012",
-          "name": "Albert Lu"
-        },
-        {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
         }
@@ -6363,10 +6027,6 @@
         {
           "id": "https://openalex.org/A5077662090",
           "name": "Hy Dang"
-        },
-        {
-          "id": "https://openalex.org/A5101804607",
-          "name": "Bang Van Nguyen"
         },
         {
           "id": "https://openalex.org/A5032058128",
@@ -6563,10 +6223,6 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5061781904",
-          "name": "Bill Lin"
         },
         {
           "id": "https://openalex.org/A5034826937",
@@ -7126,7 +6782,7 @@
         },
         {
           "id": "https://openalex.org/A5101843177",
-          "name": "Chao Shen"
+          "name": "Chao Qun Shen"
         },
         {
           "id": "https://openalex.org/A5074821819",
@@ -7155,10 +6811,6 @@
         {
           "id": "https://openalex.org/A5100369084",
           "name": "Ning Li"
-        },
-        {
-          "id": "https://openalex.org/A5081502580",
-          "name": "Jing Sun"
         },
         {
           "id": "https://openalex.org/A5101535744",
@@ -7277,10 +6929,6 @@
           "name": "Meng Jiang"
         },
         {
-          "id": "https://openalex.org/A5101534161",
-          "name": "Ting Cao"
-        },
-        {
           "id": "https://openalex.org/A5114802984",
           "name": "Tan Ya"
         },
@@ -7306,7 +6954,7 @@
         },
         {
           "id": "https://openalex.org/A5075242841",
-          "name": "Jian Wu"
+          "name": "Jian Feng Wu"
         }
       ]
     },
@@ -7325,10 +6973,6 @@
           "name": "Xu Wang"
         },
         {
-          "id": "https://openalex.org/A5031998264",
-          "name": "Lisa Ni"
-        },
-        {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
         },
@@ -7339,42 +6983,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4414557500",
-      "title": "Clinical Features and Treatment Outcomes of Pediatric Abdominal and Pelvic Rhabdomyosarcoma",
-      "year": 2025,
-      "date": "2025-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101401450",
-          "name": "Yi Wang"
-        },
-        {
-          "id": "https://openalex.org/A5100753138",
-          "name": "Simin Li"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5102994204",
-          "name": "Min Lu"
-        },
-        {
-          "id": "https://openalex.org/A5068891302",
-          "name": "Yi Xie"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4414977111",
       "title": "KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance",
       "year": 2025,
       "date": "2025-10-07",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5119914033",
-          "name": "Kuangshi Ai"
+          "id": "https://openalex.org/A5109649214",
+          "name": "Kunpeng Ai"
         },
         {
           "id": "https://openalex.org/A5119679342",
@@ -7403,10 +7019,6 @@
         {
           "id": "https://openalex.org/A5101651071",
           "name": "Gaofeng Fan"
-        },
-        {
-          "id": "https://openalex.org/A5045806263",
-          "name": "Junying Liang"
         },
         {
           "id": "https://openalex.org/A5074821819",
@@ -7545,7 +7157,7 @@
           "name": "Dominik So\u00f3s"
         },
         {
-          "id": "https://openalex.org/A5145450339",
+          "id": "https://openalex.org/A5121736635",
           "name": "Qian Ma"
         },
         {
@@ -7557,7 +7169,7 @@
           "name": "Zack Ranjan"
         },
         {
-          "id": "https://openalex.org/A5144709572",
+          "id": "https://openalex.org/A5006893645",
           "name": "Sai Koneru"
         },
         {
@@ -7570,11 +7182,11 @@
         },
         {
           "id": "https://openalex.org/A5082663800",
-          "name": "Sarah Rajtmajer"
+          "name": "Sarah Michele Rajtmajer"
         },
         {
           "id": "https://openalex.org/A5075242841",
-          "name": "Jian Wu"
+          "name": "Jian Feng Wu"
         },
         {
           "id": "https://openalex.org/A5074821819",

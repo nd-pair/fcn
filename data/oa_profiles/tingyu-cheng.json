@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5011017276",
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
-  "works_count": 56,
-  "cited_by_count": 713,
+  "works_count": 45,
+  "cited_by_count": 706,
   "photo": "assets/faculty/tingyu-cheng.jpg",
-  "num_works_fetched": 56,
+  "num_works_fetched": 45,
   "works": [
     {
       "id": "https://openalex.org/W2795511690",
@@ -34,7 +34,7 @@
         },
         {
           "id": "https://openalex.org/A5100441917",
-          "name": "Xiang Chen"
+          "name": "Xiang 'Anthony' Chen"
         },
         {
           "id": "https://openalex.org/A5100328162",
@@ -42,7 +42,7 @@
         },
         {
           "id": "https://openalex.org/A5022393623",
-          "name": "Wei Zhao"
+          "name": "Wei Dong Zhao"
         },
         {
           "id": "https://openalex.org/A5049871944",
@@ -166,7 +166,7 @@
         },
         {
           "id": "https://openalex.org/A5045801671",
-          "name": "Thad\ufeff Starner\ufeff\ufeff"
+          "name": "Thad E. Starner"
         },
         {
           "id": "https://openalex.org/A5002670481",
@@ -190,7 +190,7 @@
         },
         {
           "id": "https://openalex.org/A5007283124",
-          "name": "Ryan Bahr"
+          "name": "Ryan A. Bahr"
         },
         {
           "id": "https://openalex.org/A5075353141",
@@ -554,51 +554,11 @@
         },
         {
           "id": "https://openalex.org/A5052549454",
-          "name": "Pedro Lopes"
+          "name": "Pedro Alc\u00e2ntara Antunes Lopes"
         },
         {
           "id": "https://openalex.org/A5067580146",
           "name": "Huaishu Peng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4393318703",
-      "title": "Addressable structured light system using metasurface optics and an individually addressable VCSEL array",
-      "year": 2024,
-      "date": "2024-03-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102751857",
-          "name": "Chenyang Wu"
-        },
-        {
-          "id": "https://openalex.org/A5101945892",
-          "name": "Xuan-Lun Huang"
-        },
-        {
-          "id": "https://openalex.org/A5009407028",
-          "name": "Yipeng Ji"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5100717644",
-          "name": "Jiaxing Wang"
-        },
-        {
-          "id": "https://openalex.org/A5081905634",
-          "name": "Nan Chi"
-        },
-        {
-          "id": "https://openalex.org/A5103723275",
-          "name": "Shaohua Yu"
-        },
-        {
-          "id": "https://openalex.org/A5108220537",
-          "name": "Connie J. Chang-Hasnain"
         }
       ]
     },
@@ -651,46 +611,6 @@
         {
           "id": "https://openalex.org/A5080282367",
           "name": "Vikram Iyer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4407946080",
-      "title": "Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios",
-      "year": 2025,
-      "date": "2025-02-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101057494",
-          "name": "Han Hsiang Huang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5033581481",
-          "name": "Jinzhi Ye"
-        },
-        {
-          "id": "https://openalex.org/A5069459679",
-          "name": "Yuhui Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5010295500",
-          "name": "Yiyang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5044729803",
-          "name": "Haiqing Xu"
-        },
-        {
-          "id": "https://openalex.org/A5031239936",
-          "name": "Abigale Stangl"
-        },
-        {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
         }
       ]
     },
@@ -750,7 +670,7 @@
         },
         {
           "id": "https://openalex.org/A5100441917",
-          "name": "Xiang Chen"
+          "name": "Xiang 'Anthony' Chen"
         },
         {
           "id": "https://openalex.org/A5100328162",
@@ -758,7 +678,7 @@
         },
         {
           "id": "https://openalex.org/A5022393623",
-          "name": "Wei Zhao"
+          "name": "Wei Dong Zhao"
         },
         {
           "id": "https://openalex.org/A5049871944",
@@ -810,7 +730,7 @@
         },
         {
           "id": "https://openalex.org/A5005795465",
-          "name": "Sai Swaminathan"
+          "name": "Sai Ganesh Swaminathan"
         },
         {
           "id": "https://openalex.org/A5049871944",
@@ -850,7 +770,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         }
       ]
     },
@@ -894,7 +814,7 @@
         },
         {
           "id": "https://openalex.org/A5077078360",
-          "name": "M. Giordano"
+          "name": "Marcello Giordano"
         }
       ]
     },
@@ -983,6 +903,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4407946080",
+      "title": "Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios",
+      "year": 2025,
+      "date": "2025-02-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5033581481",
+          "name": "Jinzhi Ye"
+        },
+        {
+          "id": "https://openalex.org/A5069459679",
+          "name": "Yuhui Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5010295500",
+          "name": "Yiyang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5044729803",
+          "name": "Haiqing Xu"
+        },
+        {
+          "id": "https://openalex.org/A5031239936",
+          "name": "Abigale J. Stangl"
+        },
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4410427641",
       "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
       "year": 2025,
@@ -1010,7 +966,7 @@
         },
         {
           "id": "https://openalex.org/A5101902368",
-          "name": "Zhi Xu"
+          "name": "Zhi Qiang Xu"
         },
         {
           "id": "https://openalex.org/A5017564609",
@@ -1026,7 +982,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         },
         {
           "id": "https://openalex.org/A5100434713",
@@ -1062,7 +1018,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         },
         {
           "id": "https://openalex.org/A5035704218",
@@ -1146,7 +1102,7 @@
         },
         {
           "id": "https://openalex.org/A5045801671",
-          "name": "Thad\ufeff Starner\ufeff\ufeff"
+          "name": "Thad E. Starner"
         },
         {
           "id": "https://openalex.org/A5045020883",
@@ -1163,6 +1119,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4225133258",
+      "title": "Travelogue: Representing Indoor Trajectories as Informative Art",
+      "year": 2022,
+      "date": "2022-04-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100756426",
+          "name": "Yunzhi Li"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5073611411",
+          "name": "Ashutosh Dhekne"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4307485828",
       "title": "Environmental physical intelligence: Seamlessly deploying sensors and actuators to our everyday life",
       "year": 2022,
@@ -1171,34 +1147,6 @@
         {
           "id": "https://openalex.org/A5011017276",
           "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4411143521",
-      "title": "Dynamic-Clustering-Based Color Quantization for Electrophoretic Display",
-      "year": 2025,
-      "date": "2025-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5100693751",
-          "name": "Xiaoyan Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5106942517",
-          "name": "Gongning Yang"
-        },
-        {
-          "id": "https://openalex.org/A5048776727",
-          "name": "Wei Yuan"
-        },
-        {
-          "id": "https://openalex.org/A5057108758",
-          "name": "Tiesong Zhao"
         }
       ]
     },
@@ -1225,56 +1173,12 @@
           "name": "Hyunjoo Oh"
         },
         {
-          "id": "https://openalex.org/A5090813124",
-          "name": "Daniel Wilson"
-        },
-        {
-          "id": "https://openalex.org/A5110201912",
+          "id": "https://openalex.org/A5017564609",
           "name": "Gregory D. Abowd"
         },
         {
           "id": "https://openalex.org/A5006053551",
           "name": "Sauvik Das"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4417052546",
-      "title": "850 nm VCSELs Exceeding 40 GHz Bandwidth Enable 200 Gbps Transmission over 1 00 m Multimode Fiber Link",
-      "year": 2025,
-      "date": "2025-09-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026832788",
-          "name": "Zhiteng Luo"
-        },
-        {
-          "id": "https://openalex.org/A5101567842",
-          "name": "Hao Qin"
-        },
-        {
-          "id": "https://openalex.org/A5002244885",
-          "name": "Tianxiang Lan"
-        },
-        {
-          "id": "https://openalex.org/A5102755046",
-          "name": "Huawen Hu"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5108220537",
-          "name": "Connie J. Chang-Hasnain"
-        },
-        {
-          "id": "https://openalex.org/A5055311268",
-          "name": "Chuanchuan Yang"
-        },
-        {
-          "id": "https://openalex.org/A5085621937",
-          "name": "Jiaxing Wang"
         }
       ]
     },
@@ -1295,50 +1199,6 @@
         {
           "id": "https://openalex.org/A5111149197",
           "name": "Lisa Marks"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4225133258",
-      "title": "Travelogue: Representing Indoor Trajectories as Informative Art",
-      "year": 2022,
-      "date": "2022-04-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100756426",
-          "name": "Yunzhi Li"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5073611411",
-          "name": "Ashutosh Dhekne"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4409181746",
-      "title": "Evolutionary Game Analysis for Power Battery Recycling of New Energy Vehicle in China",
-      "year": 2025,
-      "date": "2025-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101513442",
-          "name": "Hongxia Sun"
-        },
-        {
-          "id": "https://openalex.org/A5102925765",
-          "name": "Yan Miao"
-        },
-        {
-          "id": "https://openalex.org/A5009899837",
-          "name": "Li Cui"
         },
         {
           "id": "https://openalex.org/A5011017276",
@@ -1457,7 +1317,7 @@
           "name": "Byoungkwon An"
         },
         {
-          "id": "https://openalex.org/A5010796080",
+          "id": "https://openalex.org/A5052051114",
           "name": "Lining Yao"
         }
       ]
@@ -1498,7 +1358,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         }
       ]
     },
@@ -1575,30 +1435,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2770721380",
-      "title": "Modeling Search-And-Rescue Operations by Autonomous Mobile Robots at Sea",
-      "year": 2018,
-      "date": "2018-06-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015106503",
-          "name": "Boris Kriheli"
-        },
-        {
-          "id": "https://openalex.org/A5084238830",
-          "name": "Eugene Levner"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5055363976",
-          "name": "C.T. Ng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4312296478",
       "title": "Making Computing Visible & Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
       "year": 2022,
@@ -1655,58 +1491,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4392693173",
-      "title": "Programmable structured light based on SOI metasurface and individually addressable VCSEL array",
-      "year": 2024,
-      "date": "2024-03-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102751857",
-          "name": "Chenyang Wu"
-        },
-        {
-          "id": "https://openalex.org/A5101945892",
-          "name": "Xuan-Lun Huang"
-        },
-        {
-          "id": "https://openalex.org/A5009407028",
-          "name": "Yipeng Ji"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5100717644",
-          "name": "Jiaxing Wang"
-        },
-        {
-          "id": "https://openalex.org/A5108220537",
-          "name": "Connie J. Chang-Hasnain"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4394879318",
-      "title": "Research on Visual Function Anomaly Classification Based on SMOTE + Boosting Multiple Sampling Algorithm",
-      "year": 2024,
-      "date": "2024-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5100904829",
-          "name": "Ying Tong"
-        },
-        {
-          "id": "https://openalex.org/A5025707429",
-          "name": "Tingting Han"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4409537533",
       "title": "Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment",
       "year": 2024,
@@ -1726,7 +1510,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         }
       ]
     },
@@ -1762,7 +1546,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         },
         {
           "id": "https://openalex.org/A5086159548",
@@ -1775,90 +1559,6 @@
         {
           "id": "https://openalex.org/A5063941610",
           "name": "Irmandy Wicaksono"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7133534782",
-      "title": "850nm VCSEL for 112 Gbps NRZ and 200 Gbps PAM4 optical interconnects",
-      "year": 2026,
-      "date": "2026-03-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026832788",
-          "name": "Zhiteng Luo"
-        },
-        {
-          "id": "https://openalex.org/A5128092801",
-          "name": "Huawen Hu"
-        },
-        {
-          "id": "https://openalex.org/A5101286860",
-          "name": "Haiqiang Wei"
-        },
-        {
-          "id": "https://openalex.org/A5128056255",
-          "name": "Xiaogang Lv"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5128059235",
-          "name": "Fengbo Xie"
-        },
-        {
-          "id": "https://openalex.org/A5017341301",
-          "name": "Kangping Zhong"
-        },
-        {
-          "id": "https://openalex.org/A5128122270",
-          "name": "Jiaxing Wang"
-        },
-        {
-          "id": "https://openalex.org/A5128108216",
-          "name": "Connie J. Chang-Hasnain"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7133567284",
-      "title": "Polarization-multiplexed collimating diffractive metasurface without zeroth-order effect for 3D sensing",
-      "year": 2026,
-      "date": "2026-03-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5128087446",
-          "name": "Xuanlun Huang"
-        },
-        {
-          "id": "https://openalex.org/A5128074794",
-          "name": "Yipeng Ji"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5128037612",
-          "name": "Baishun Wang"
-        },
-        {
-          "id": "https://openalex.org/A5020740076",
-          "name": "Xiaolan Xu"
-        },
-        {
-          "id": "https://openalex.org/A5128122270",
-          "name": "Jiaxing Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022857117",
-          "name": "Chiennan Yu"
-        },
-        {
-          "id": "https://openalex.org/A5128108216",
-          "name": "Connie J. Chang-Hasnain"
         }
       ]
     },
@@ -1892,7 +1592,7 @@
     },
     {
       "id": "https://openalex.org/W7160450003",
-      "title": "Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework",
+      "title": "Deco: Extending Cherished Physical Objects into AI Companion Agents through Dual Embodiment",
       "year": 2026,
       "date": "2026-05-05",
       "coauthors": [
@@ -1901,8 +1601,8 @@
           "name": "Zhihan Jiang"
         },
         {
-          "id": "https://openalex.org/A5135504393",
-          "name": "Mengyuan Millie Wu"
+          "id": "https://openalex.org/A5128647069",
+          "name": "Mengyuan"
         },
         {
           "id": "https://openalex.org/A5123541423",
@@ -1949,8 +1649,8 @@
           "name": "Lena Mamykina"
         },
         {
-          "id": "https://openalex.org/A5135423263",
-          "name": "Frances R. Levin"
+          "id": "https://openalex.org/A5083379140",
+          "name": "FRANCES RUDNICK LEVIN"
         },
         {
           "id": "https://openalex.org/A5135470383",
@@ -1962,82 +1662,6 @@
         },
         {
           "id": "https://openalex.org/A5135513775",
-          "name": "Xuhai Xu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7160564948",
-      "title": "Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework",
-      "year": 2026,
-      "date": "2026-05-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5135542930",
-          "name": "Zhihan Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5135611309",
-          "name": "Mengyuan Millie Wu"
-        },
-        {
-          "id": "https://openalex.org/A5123541423",
-          "name": "Ruishi Zou"
-        },
-        {
-          "id": "https://openalex.org/A5135603264",
-          "name": "Shiyu Xu"
-        },
-        {
-          "id": "https://openalex.org/A5072861400",
-          "name": "Xun Qian"
-        },
-        {
-          "id": "https://openalex.org/A5135573362",
-          "name": "Emma Macmanus"
-        },
-        {
-          "id": "https://openalex.org/A5135437273",
-          "name": "Steven Liao"
-        },
-        {
-          "id": "https://openalex.org/A5135619658",
-          "name": "Ping Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5033744502",
-          "name": "Bingsheng Yao"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5073010106",
-          "name": "James L. David"
-        },
-        {
-          "id": "https://openalex.org/A5135436774",
-          "name": "Nabila El-Bassel"
-        },
-        {
-          "id": "https://openalex.org/A5015187091",
-          "name": "Lena Mamykina"
-        },
-        {
-          "id": "https://openalex.org/A5135423263",
-          "name": "Frances R. Levin"
-        },
-        {
-          "id": "https://openalex.org/A5135470383",
-          "name": "Ryan Sultan"
-        },
-        {
-          "id": "https://openalex.org/A5135575375",
-          "name": "Dakuo Wang"
-        },
-        {
-          "id": "https://openalex.org/A5135626555",
           "name": "Xuhai Xu"
         }
       ]
@@ -2071,34 +1695,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7170111718",
-      "title": "Bio-SFT: Asymmetric Cortical Guidance and Retinal Adaptation for Robust HDR Reconstruction",
-      "year": 2026,
-      "date": "2026-07-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5143425931",
-          "name": "Ting Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5143418804",
-          "name": "Chongyi Li"
-        },
-        {
-          "id": "https://openalex.org/A5058087031",
-          "name": "Zhaoqing Pan"
-        },
-        {
-          "id": "https://openalex.org/A5143415615",
-          "name": "Tiesong Zhao"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W7171733747",
       "title": "Biohybrid Robots with Embedded Conductive Fibers for Actuation, Sensing, and Closed-loop Control",
       "year": 2026,
@@ -2125,11 +1721,11 @@
           "name": "Michael J. Bennington"
         },
         {
-          "id": "https://openalex.org/A5143924023",
-          "name": "Rachel Daso"
+          "id": "https://openalex.org/A5027064333",
+          "name": "Rachel E. Daso"
         },
         {
-          "id": "https://openalex.org/A5143898296",
+          "id": "https://openalex.org/A5133016885",
           "name": "Junyi Liu"
         },
         {
@@ -2138,7 +1734,7 @@
         },
         {
           "id": "https://openalex.org/A5026852792",
-          "name": "Josiah Hester"
+          "name": "Josiah D. Hester"
         },
         {
           "id": "https://openalex.org/A5007509117",
