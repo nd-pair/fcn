@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03 00:56 UTC",
+  "generated": "2026-10-03 01:50 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Physical AI and Robotics Initiative faculty collaboration network. Node size = number of papers co-authored with ND colleagues; edge weight = number of papers the two faculty co-authored.",
   "nodeCount": 19,
@@ -256,14 +256,14 @@
           "date": "2023-06-26"
         },
         {
-          "id": "https://openalex.org/W4382936125",
-          "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
+          "id": "https://openalex.org/W4382936209",
+          "title": "Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
           "year": 2023,
           "date": "2023-05-31"
         },
         {
-          "id": "https://openalex.org/W4382936209",
-          "title": "Adaptive Backstepping Control for Vehicular Platoons with Mismatched Disturbances Using Vector String Lyapunov Functions",
+          "id": "https://openalex.org/W4382936125",
+          "title": "Non-Linear Networked Systems Analysis and Synthesis using Dissipativity Theory",
           "year": 2023,
           "date": "2023-05-31"
         },
@@ -328,26 +328,8 @@
           "date": "2022-03-04"
         },
         {
-          "id": "https://openalex.org/W4200447063",
-          "title": "Optimal Control",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
-          "id": "https://openalex.org/W3217722183",
-          "title": "Modeling of Hybrid Systems",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
           "id": "https://openalex.org/W3215338932",
           "title": "Stability and Stabilization",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
-          "id": "https://openalex.org/W4200110885",
-          "title": "Formal Synthesis",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -360,6 +342,24 @@
         {
           "id": "https://openalex.org/W4200597480",
           "title": "Introduction",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W4200110885",
+          "title": "Formal Synthesis",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W4200447063",
+          "title": "Optimal Control",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -472,14 +472,14 @@
           "date": "2005-01-01"
         },
         {
-          "id": "https://openalex.org/W1544149452",
-          "title": "Robust stability and disturbance attenuation analysis of a class of networked control systems",
+          "id": "https://openalex.org/W1560812945",
+          "title": "Controller failure time analysis for symmetric H\u221e control systems",
           "year": 2004,
           "date": "2004-07-08"
         },
         {
-          "id": "https://openalex.org/W1560812945",
-          "title": "Controller failure time analysis for symmetric H\u221e control systems",
+          "id": "https://openalex.org/W1544149452",
+          "title": "Robust stability and disturbance attenuation analysis of a class of networked control systems",
           "year": 2004,
           "date": "2004-07-08"
         },
@@ -508,14 +508,14 @@
           "date": "2004-02-03"
         },
         {
-          "id": "https://openalex.org/W2155969328",
-          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
+          "id": "https://openalex.org/W2126119476",
+          "title": "Stabilization and performance analysis for a class of switched systems",
           "year": 2004,
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2171506252",
-          "title": "Persistent disturbance attenuation properties for networked control systems",
+          "id": "https://openalex.org/W2155969328",
+          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -526,8 +526,8 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2126119476",
-          "title": "Stabilization and performance analysis for a class of switched systems",
+          "id": "https://openalex.org/W2171506252",
+          "title": "Persistent disturbance attenuation properties for networked control systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -538,14 +538,14 @@
           "date": "2003-11-01"
         },
         {
-          "id": "https://openalex.org/W1506290449",
-          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+          "id": "https://openalex.org/W2098718154",
+          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
           "year": 2003,
           "date": "2003-08-27"
         },
         {
-          "id": "https://openalex.org/W2098718154",
-          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
+          "id": "https://openalex.org/W1506290449",
+          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
           "year": 2003,
           "date": "2003-08-27"
         },
@@ -653,14 +653,8 @@
           "date": "2002-11-22"
         },
         {
-          "id": "https://openalex.org/W2145108940",
-          "title": "Hybrid control system design based on natural invariants",
-          "year": 2002,
-          "date": "2002-11-19"
-        },
-        {
-          "id": "https://openalex.org/W2126888592",
-          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
+          "id": "https://openalex.org/W2125291333",
+          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -671,8 +665,14 @@
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W2125291333",
-          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
+          "id": "https://openalex.org/W2145108940",
+          "title": "Hybrid control system design based on natural invariants",
+          "year": 2002,
+          "date": "2002-11-19"
+        },
+        {
+          "id": "https://openalex.org/W2126888592",
+          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -695,8 +695,8 @@
           "date": "1998-01-05"
         },
         {
-          "id": "https://openalex.org/W2115329200",
-          "title": "A logical DES approach to the design of hybrid control systems",
+          "id": "https://openalex.org/W2727562789",
+          "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
           "year": 1996,
           "date": "1996-06-01"
         },
@@ -707,8 +707,8 @@
           "date": "1996-06-01"
         },
         {
-          "id": "https://openalex.org/W2727562789",
-          "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
+          "id": "https://openalex.org/W2115329200",
+          "title": "A logical DES approach to the design of hybrid control systems",
           "year": 1996,
           "date": "1996-06-01"
         },
@@ -737,6 +737,12 @@
           "date": "1995-02-01"
         },
         {
+          "id": "https://openalex.org/W1920642675",
+          "title": "Constructing hybrid control systems from robust linear control agents",
+          "year": 1995,
+          "date": "1995-01-01"
+        },
+        {
           "id": "https://openalex.org/W2138456650",
           "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
           "year": 1995,
@@ -745,12 +751,6 @@
         {
           "id": "https://openalex.org/W1524165851",
           "title": "Interface and controller design for hybrid control systems",
-          "year": 1995,
-          "date": "1995-01-01"
-        },
-        {
-          "id": "https://openalex.org/W1920642675",
-          "title": "Constructing hybrid control systems from robust linear control agents",
           "year": 1995,
           "date": "1995-01-01"
         },
