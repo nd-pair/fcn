@@ -15,6 +15,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 # Never run two deploys at once; let a running one finish.
 concurrency:
@@ -30,6 +31,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install the checker's dependencies
+        run: |
+          npm install --no-save --no-audit --no-fund playwright axe-core
+          npx playwright install --with-deps chromium
 
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
@@ -65,6 +73,18 @@ jobs:
           touch _site/.nojekyll
 
       - uses: actions/configure-pages@v5
+
+      # Blocking on a push (someone is there to fix it); advisory on a schedule,
+      # because a site that stops updating is worse than one that updates and
+      # files a ticket. The runner reaches conductor.nd.edu, so this measures the
+      # real theme with the real brand fonts.
+      - name: Accessibility and design check
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: >
+          node scripts/a11y_check.js --root _site
+          ${{ github.event_name == 'schedule' && '--warn-only' || '' }}
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
