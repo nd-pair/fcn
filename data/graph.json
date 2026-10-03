@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01 13:14 UTC",
+  "generated": "2026-10-03 00:56 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Physical AI and Robotics Initiative faculty collaboration network. Node size = number of papers co-authored with ND colleagues; edge weight = number of papers the two faculty co-authored.",
   "nodeCount": 19,
@@ -328,8 +328,14 @@
           "date": "2022-03-04"
         },
         {
-          "id": "https://openalex.org/W4200597480",
-          "title": "Introduction",
+          "id": "https://openalex.org/W4200447063",
+          "title": "Optimal Control",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -340,26 +346,20 @@
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W4200531256",
-          "title": "Formal Verification",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
           "id": "https://openalex.org/W4200110885",
           "title": "Formal Synthesis",
           "year": 2021,
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W4200447063",
-          "title": "Optimal Control",
+          "id": "https://openalex.org/W4200531256",
+          "title": "Formal Verification",
           "year": 2021,
           "date": "2021-11-18"
         },
         {
-          "id": "https://openalex.org/W3217722183",
-          "title": "Modeling of Hybrid Systems",
+          "id": "https://openalex.org/W4200597480",
+          "title": "Introduction",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -508,6 +508,18 @@
           "date": "2004-02-03"
         },
         {
+          "id": "https://openalex.org/W2155969328",
+          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
+          "year": 2004,
+          "date": "2004-01-01"
+        },
+        {
+          "id": "https://openalex.org/W2171506252",
+          "title": "Persistent disturbance attenuation properties for networked control systems",
+          "year": 2004,
+          "date": "2004-01-01"
+        },
+        {
           "id": "https://openalex.org/W2142607709",
           "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
           "year": 2004,
@@ -520,32 +532,20 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2171506252",
-          "title": "Persistent disturbance attenuation properties for networked control systems",
-          "year": 2004,
-          "date": "2004-01-01"
-        },
-        {
-          "id": "https://openalex.org/W2155969328",
-          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
-          "year": 2004,
-          "date": "2004-01-01"
-        },
-        {
           "id": "https://openalex.org/W2114930528",
           "title": "Set-valued observer design for a class of uncertain linear systems with persistent disturbance and measurement noise",
           "year": 2003,
           "date": "2003-11-01"
         },
         {
-          "id": "https://openalex.org/W2098718154",
-          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
+          "id": "https://openalex.org/W1506290449",
+          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
           "year": 2003,
           "date": "2003-08-27"
         },
         {
-          "id": "https://openalex.org/W1506290449",
-          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+          "id": "https://openalex.org/W2098718154",
+          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
           "year": 2003,
           "date": "2003-08-27"
         },
@@ -629,14 +629,14 @@
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W2124901174",
-          "title": "Feedback control of Petri nets based on place invariants",
+          "id": "https://openalex.org/W2168331226",
+          "title": "A computationally efficient framework for hybrid controller design",
           "year": 2002,
           "date": "2002-12-17"
         },
         {
-          "id": "https://openalex.org/W2168331226",
-          "title": "A computationally efficient framework for hybrid controller design",
+          "id": "https://openalex.org/W2124901174",
+          "title": "Feedback control of Petri nets based on place invariants",
           "year": 2002,
           "date": "2002-12-17"
         },
@@ -653,8 +653,14 @@
           "date": "2002-11-22"
         },
         {
-          "id": "https://openalex.org/W2125291333",
-          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
+          "id": "https://openalex.org/W2145108940",
+          "title": "Hybrid control system design based on natural invariants",
+          "year": 2002,
+          "date": "2002-11-19"
+        },
+        {
+          "id": "https://openalex.org/W2126888592",
+          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -665,14 +671,8 @@
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W2145108940",
-          "title": "Hybrid control system design based on natural invariants",
-          "year": 2002,
-          "date": "2002-11-19"
-        },
-        {
-          "id": "https://openalex.org/W2126888592",
-          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
+          "id": "https://openalex.org/W2125291333",
+          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -713,14 +713,14 @@
           "date": "1996-06-01"
         },
         {
-          "id": "https://openalex.org/W1601320657",
-          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
+          "id": "https://openalex.org/W4236164983",
+          "title": "Feedback control of petri nets based on place invariants",
           "year": 1996,
           "date": "1996-01-01"
         },
         {
-          "id": "https://openalex.org/W4236164983",
-          "title": "Feedback control of petri nets based on place invariants",
+          "id": "https://openalex.org/W1601320657",
+          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
           "year": 1996,
           "date": "1996-01-01"
         },
@@ -737,6 +737,12 @@
           "date": "1995-02-01"
         },
         {
+          "id": "https://openalex.org/W2138456650",
+          "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
+          "year": 1995,
+          "date": "1995-01-01"
+        },
+        {
           "id": "https://openalex.org/W1524165851",
           "title": "Interface and controller design for hybrid control systems",
           "year": 1995,
@@ -745,12 +751,6 @@
         {
           "id": "https://openalex.org/W1920642675",
           "title": "Constructing hybrid control systems from robust linear control agents",
-          "year": 1995,
-          "date": "1995-01-01"
-        },
-        {
-          "id": "https://openalex.org/W2138456650",
-          "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
           "year": 1995,
           "date": "1995-01-01"
         },

@@ -6,7 +6,7 @@
   "openalex_name": "Zhi Zheng",
   "affiliation": "Wuhan University",
   "works_count": 55,
-  "cited_by_count": 1326,
+  "cited_by_count": 1331,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 55,
   "works": [
@@ -695,38 +695,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2515165417",
-      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
-      "year": 2016,
-      "date": "2016-08-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5002625566",
-          "name": "Huan Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2743112983",
       "title": "Robot Opera: A modularized afterschool program for STEAM education at local elementary school",
       "year": 2017,
@@ -787,6 +755,38 @@
         {
           "id": "https://openalex.org/A5019834339",
           "name": "Sohee Park"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2515165417",
+      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
+      "year": 2016,
+      "date": "2016-08-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
         },
         {
           "id": "https://openalex.org/A5076622286",

@@ -6,7 +6,7 @@
   "openalex_name": "Patrick M. Wensing",
   "affiliation": "University of Notre Dame",
   "works_count": 160,
-  "cited_by_count": 5172,
+  "cited_by_count": 5173,
   "photo": "assets/faculty/patrick-wensing.jpg",
   "num_works_fetched": 160,
   "works": [
@@ -1359,22 +1359,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7123353085",
-      "title": "Coriolis Factorizations and Their Connections to Riemannian Geometry",
-      "year": 2026,
-      "date": "2026-01-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2759798195",
       "title": "Cooperative Adaptive Control for Cloud-Based Robotics",
       "year": 2018,
@@ -1723,38 +1707,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2617553339",
-      "title": "Use Of A Low Cost Camera Based Positioning System In A First Year Engineering Cornerstone Design Project",
-      "year": 2020,
-      "date": "2020-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5024359348",
-          "name": "Michael Vernier"
-        },
-        {
-          "id": "https://openalex.org/A5089064690",
-          "name": "Craig Morin"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5038905406",
-          "name": "Ryan Hartlage"
-        },
-        {
-          "id": "https://openalex.org/A5053397319",
-          "name": "Barbara Carruthers"
-        },
-        {
-          "id": "https://openalex.org/A5088087727",
-          "name": "Richard J. Freuler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4400986309",
       "title": "A geometric characterization of observability in inertial parameter identification",
       "year": 2024,
@@ -1767,6 +1719,22 @@
         {
           "id": "https://openalex.org/A5110098445",
           "name": "G\u00fcnter Niemeyer"
+        },
+        {
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7123353085",
+      "title": "Coriolis Factorizations and Their Connections to Riemannian Geometry",
+      "year": 2026,
+      "date": "2026-01-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
         },
         {
           "id": "https://openalex.org/A5044026747",
@@ -1827,6 +1795,38 @@
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2617553339",
+      "title": "Use Of A Low Cost Camera Based Positioning System In A First Year Engineering Cornerstone Design Project",
+      "year": 2020,
+      "date": "2020-09-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5024359348",
+          "name": "Michael Vernier"
+        },
+        {
+          "id": "https://openalex.org/A5089064690",
+          "name": "Craig Morin"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5038905406",
+          "name": "Ryan Hartlage"
+        },
+        {
+          "id": "https://openalex.org/A5053397319",
+          "name": "Barbara Carruthers"
+        },
+        {
+          "id": "https://openalex.org/A5088087727",
+          "name": "Richard J. Freuler"
         }
       ]
     },

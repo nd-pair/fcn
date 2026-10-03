@@ -6,7 +6,7 @@
   "openalex_name": "Meng Jiang",
   "affiliation": "University of Notre Dame",
   "works_count": 270,
-  "cited_by_count": 6324,
+  "cited_by_count": 6326,
   "photo": "assets/faculty/meng-jiang.jpg",
   "num_works_fetched": 270,
   "works": [
@@ -467,6 +467,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2286850974",
+      "title": "Suspicious Behavior Detection: Current Trends and Future Directions",
+      "year": 2016,
+      "date": "2016-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5009228005",
+          "name": "Peng Cui"
+        },
+        {
+          "id": "https://openalex.org/A5035605036",
+          "name": "Christos Faloutsos"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1613613084",
       "title": "Social Recommendation with Cross-Domain Transferable Knowledge",
       "year": 2015,
@@ -495,26 +515,6 @@
         {
           "id": "https://openalex.org/A5024669831",
           "name": "Shiqiang Yang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2286850974",
-      "title": "Suspicious Behavior Detection: Current Trends and Future Directions",
-      "year": 2016,
-      "date": "2016-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5009228005",
-          "name": "Peng Cui"
-        },
-        {
-          "id": "https://openalex.org/A5035605036",
-          "name": "Christos Faloutsos"
         }
       ]
     },
@@ -3395,6 +3395,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3172747961",
+      "title": "Technical Question Answering across Tasks and Domains",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028597555",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5011825081",
+          "name": "Lingfei Wu"
+        },
+        {
+          "id": "https://openalex.org/A5101921697",
+          "name": "Yu Deng"
+        },
+        {
+          "id": "https://openalex.org/A5030469532",
+          "name": "Qingkai Zeng"
+        },
+        {
+          "id": "https://openalex.org/A5059002634",
+          "name": "Ruchi Mahindru"
+        },
+        {
+          "id": "https://openalex.org/A5035140535",
+          "name": "Sinem G\u00fcven"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3080220224",
       "title": "Multi-modal Network Representation Learning",
       "year": 2020,
@@ -3419,18 +3455,6 @@
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2539151648",
-      "title": "Catching Social Media Advertisers with Strategy Analysis",
-      "year": 2016,
-      "date": "2016-10-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
         }
       ]
     },
@@ -3775,42 +3799,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3172747961",
-      "title": "Technical Question Answering across Tasks and Domains",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5028597555",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5011825081",
-          "name": "Lingfei Wu"
-        },
-        {
-          "id": "https://openalex.org/A5101921697",
-          "name": "Yu Deng"
-        },
-        {
-          "id": "https://openalex.org/A5030469532",
-          "name": "Qingkai Zeng"
-        },
-        {
-          "id": "https://openalex.org/A5059002634",
-          "name": "Ruchi Mahindru"
-        },
-        {
-          "id": "https://openalex.org/A5035140535",
-          "name": "Sinem G\u00fcven"
-        },
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3212614051",
       "title": "Knowledge-Enriched Natural Language Generation",
       "year": 2021,
@@ -3839,6 +3827,18 @@
         {
           "id": "https://openalex.org/A5052900932",
           "name": "Nazneen Fatema Rajani"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2539151648",
+      "title": "Catching Social Media Advertisers with Strategy Analysis",
+      "year": 2016,
+      "date": "2016-10-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
         }
       ]
     },
@@ -3875,22 +3875,6 @@
         {
           "id": "https://openalex.org/A5068157871",
           "name": "Nitesh V. Chawla"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3108585271",
-      "title": "Analysis of Computer Information Processing Technology Under the Background of Intelligent Big Data",
-      "year": 2020,
-      "date": "2020-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074821819",
-          "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5071537044",
-          "name": "LI Zhi-ling"
         }
       ]
     },
@@ -4019,34 +4003,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3128184327",
-      "title": "Use of \u201cInternal Knowledge\u201d: Biomedical Literature Search Liberated From External Resources",
+      "id": "https://openalex.org/W3108585271",
+      "title": "Analysis of Computer Information Processing Technology Under the Background of Intelligent Big Data",
       "year": 2020,
-      "date": "2020-12-16",
+      "date": "2020-07-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5007299588",
-          "name": "Tianwen Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5100404855",
-          "name": "Ning Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100347746",
-          "name": "Ming Liu"
-        },
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
         },
         {
-          "id": "https://openalex.org/A5004430644",
-          "name": "Ting Liu"
-        },
-        {
-          "id": "https://openalex.org/A5017671620",
-          "name": "Bing Qin"
+          "id": "https://openalex.org/A5071537044",
+          "name": "LI Zhi-ling"
         }
       ]
     },
@@ -4135,6 +4103,38 @@
         {
           "id": "https://openalex.org/A5074821819",
           "name": "Meng Jiang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3128184327",
+      "title": "Use of \u201cInternal Knowledge\u201d: Biomedical Literature Search Liberated From External Resources",
+      "year": 2020,
+      "date": "2020-12-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007299588",
+          "name": "Tianwen Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5100404855",
+          "name": "Ning Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5100347746",
+          "name": "Ming Liu"
+        },
+        {
+          "id": "https://openalex.org/A5074821819",
+          "name": "Meng Jiang"
+        },
+        {
+          "id": "https://openalex.org/A5004430644",
+          "name": "Ting Liu"
+        },
+        {
+          "id": "https://openalex.org/A5017671620",
+          "name": "Bing Qin"
         }
       ]
     },
@@ -4810,7 +4810,7 @@
         },
         {
           "id": "https://openalex.org/A5058109700",
-          "name": "Michael J. Ryan"
+          "name": "Michael James Ryan"
         },
         {
           "id": "https://openalex.org/A5074821819",

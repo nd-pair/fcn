@@ -6,7 +6,7 @@
   "openalex_name": "Fanxin Kong",
   "affiliation": "University of Notre Dame",
   "works_count": 85,
-  "cited_by_count": 2872,
+  "cited_by_count": 2871,
   "photo": "assets/faculty/fanxin-kong.jpg",
   "num_works_fetched": 85,
   "works": [
@@ -406,7 +406,7 @@
         },
         {
           "id": "https://openalex.org/A5015404751",
-          "name": "Qiao jun Xiang"
+          "name": "Qiao Xiang"
         },
         {
           "id": "https://openalex.org/A5058941949",
@@ -426,7 +426,7 @@
         },
         {
           "id": "https://openalex.org/A5015404751",
-          "name": "Qiao jun Xiang"
+          "name": "Qiao Xiang"
         },
         {
           "id": "https://openalex.org/A5072308822",
@@ -782,7 +782,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5015404751",
-          "name": "Qiao jun Xiang"
+          "name": "Qiao Xiang"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1223,34 +1223,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4206691989",
-      "title": "Applying Machine Learning in Designing Distributed Auction for Multi-agent Task Allocation with Budget Constraints",
-      "year": 2021,
-      "date": "2021-12-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5058483710",
-          "name": "Chen Luo"
-        },
-        {
-          "id": "https://openalex.org/A5059552147",
-          "name": "Qinwei Huang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5065073687",
-          "name": "Simon Khan"
-        },
-        {
-          "id": "https://openalex.org/A5018468480",
-          "name": "Qinru Qiu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2805401729",
       "title": "Joint Rate Control and Demand Balancing for Electric Vehicle Charging",
       "year": 2018,
@@ -1387,6 +1359,34 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4206691989",
+      "title": "Applying Machine Learning in Designing Distributed Auction for Multi-agent Task Allocation with Budget Constraints",
+      "year": 2021,
+      "date": "2021-12-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058483710",
+          "name": "Chen Luo"
+        },
+        {
+          "id": "https://openalex.org/A5059552147",
+          "name": "Qinwei Huang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5065073687",
+          "name": "Simon Khan"
+        },
+        {
+          "id": "https://openalex.org/A5018468480",
+          "name": "Qinru Qiu"
         }
       ]
     },

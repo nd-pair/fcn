@@ -6,9 +6,9 @@
   "openalex_name": "Panos J. Antsaklis",
   "affiliation": "University of Notre Dame",
   "works_count": 617,
-  "cited_by_count": 25965,
+  "cited_by_count": 25971,
   "photo": "assets/faculty/panos-antsaklis.jpg",
-  "num_works_fetched": 626,
+  "num_works_fetched": 616,
   "works": [
     {
       "id": "https://openalex.org/W2062974796",
@@ -4058,7 +4058,7 @@
         },
         {
           "id": "https://openalex.org/A5058824130",
-          "name": "Athanasios J. Syllaios"
+          "name": "Athanasios Syllaios"
         },
         {
           "id": "https://openalex.org/A5071671313",
@@ -4219,30 +4219,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3081595874",
-      "title": "Compositional Verification of Passivity for Cascade Interconnected Nonlinear Systems",
-      "year": 2020,
-      "date": "2020-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5040417385",
-          "name": "S. Sivaranjani"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4406961235",
       "title": "Decentralized co-design of distributed controllers and communication topologies for vehicular platoons: A dissipativity-based approach",
       "year": 2025,
@@ -4343,22 +4319,6 @@
         {
           "id": "https://openalex.org/A5085823749",
           "name": "Janan Zaytoon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2122297221",
-      "title": "The dependence identification neural network construction algorithm",
-      "year": 1996,
-      "date": "1996-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021556911",
-          "name": "John O. Moody"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -5107,26 +5067,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1981712873",
-      "title": "Stochastic passivity of discrete-time Markovian jump nonlinear systems",
-      "year": 2013,
-      "date": "2013-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100372089",
-          "name": "Yue Wang"
-        },
-        {
-          "id": "https://openalex.org/A5024301984",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2011730324",
       "title": "Stabilization of large-scale distributed control systems using I/O event-driven control and passivity",
       "year": 2011,
@@ -5163,6 +5103,30 @@
         {
           "id": "https://openalex.org/A5041714446",
           "name": "S. Wang"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3081595874",
+      "title": "Compositional Verification of Passivity for Cascade Interconnected Nonlinear Systems",
+      "year": 2020,
+      "date": "2020-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5062662748",
+          "name": "Etika Agarwal"
+        },
+        {
+          "id": "https://openalex.org/A5040417385",
+          "name": "S. Sivaranjani"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -5255,6 +5219,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4414116801",
+      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
+      "year": 2025,
+      "date": "2025-09-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2148489703",
       "title": "On the stability of solutions to minimal and nonminimal design problems",
       "year": 1977,
@@ -5283,6 +5271,22 @@
         {
           "id": "https://openalex.org/A5011661477",
           "name": "James A. Stiver"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2122297221",
+      "title": "The dependence identification neural network construction algorithm",
+      "year": 1996,
+      "date": "1996-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021556911",
+          "name": "John O. Moody"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -6063,6 +6067,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1981712873",
+      "title": "Stochastic passivity of discrete-time Markovian jump nonlinear systems",
+      "year": 2013,
+      "date": "2013-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100372089",
+          "name": "Yue Wang"
+        },
+        {
+          "id": "https://openalex.org/A5024301984",
+          "name": "Vijay Gupta"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2033320795",
       "title": "On the dimensions of the supremal (A,B)-invariant and controllability subspaces",
       "year": 1980,
@@ -6411,26 +6435,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2735331641",
-      "title": "Design of switched controllers using an enhanced passivation method",
-      "year": 2017,
-      "date": "2017-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046877303",
-          "name": "Vahideh Ghanbari"
-        },
-        {
-          "id": "https://openalex.org/A5080268090",
-          "name": "Meng Xia"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3217722183",
       "title": "Modeling of Hybrid Systems",
       "year": 2021,
@@ -6631,30 +6635,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4414116801",
-      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
-      "year": 2025,
-      "date": "2025-09-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1545365049",
       "title": "Autonomy in Engineering Systems: What is it and Why is it Important? Setting the Stage: Some Autonomous Thoughts on Autonomy",
       "year": 2005,
@@ -6715,6 +6695,26 @@
         {
           "id": "https://openalex.org/A5103437209",
           "name": "Michael J. McCourt"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2735331641",
+      "title": "Design of switched controllers using an enhanced passivation method",
+      "year": 2017,
+      "date": "2017-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046877303",
+          "name": "Vahideh Ghanbari"
+        },
+        {
+          "id": "https://openalex.org/A5080268090",
+          "name": "Meng Xia"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -7595,22 +7595,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2181770845",
-      "title": "T echnical Report: Results on Continuous and Discrete Model-Based Networked Control Systems with Intermittent Feedback, Part I: Stability",
-      "year": 2008,
-      "date": "2008-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5038159174",
-          "name": "Tomas Estrada"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2218499301",
       "title": "Stability and Control of Dynamical Systems With Applications: A Tribute to Anthony N. Michel (Control Engineering (Birkhauser).)",
       "year": 2004,
@@ -7783,38 +7767,6 @@
         {
           "id": "https://openalex.org/A5024301984",
           "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2336697208",
-      "title": "C ontrol with Intermittent Sensor Measurements: A New Look at Feedback Control.",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5038159174",
-          "name": "Tomas Estrada"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2504659952",
-      "title": "neclab: The Network Embedded Control Lab",
-      "year": 2006,
-      "date": "2006-07-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5006671851",
-          "name": "Nicholas Kottenstette"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8455,6 +8407,54 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2181770845",
+      "title": "T echnical Report: Results on Continuous and Discrete Model-Based Networked Control Systems with Intermittent Feedback, Part I: Stability",
+      "year": 2008,
+      "date": "2008-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5038159174",
+          "name": "Tomas Estrada"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2336697208",
+      "title": "C ontrol with Intermittent Sensor Measurements: A New Look at Feedback Control.",
+      "year": 2007,
+      "date": "2007-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5038159174",
+          "name": "Tomas Estrada"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2504659952",
+      "title": "neclab: The Network Embedded Control Lab",
+      "year": 2006,
+      "date": "2006-07-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5006671851",
+          "name": "Nicholas Kottenstette"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3173444729",
       "title": "Dissipativity-Based Verification for Autonomous Systems in Adversarial Environments",
       "year": 2021,
@@ -8642,7 +8642,7 @@
         },
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "Mahaveer Kumar Sain"
+          "name": "M.K. Sain"
         }
       ]
     },
@@ -8722,7 +8722,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "Mahaveer Kumar Sain"
+          "name": "M.K. Sain"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -8786,7 +8786,7 @@
         },
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "Mahaveer Kumar Sain"
+          "name": "M.K. Sain"
         }
       ]
     },
@@ -8918,7 +8918,7 @@
         },
         {
           "id": "https://openalex.org/A5071472303",
-          "name": "Mahaveer Kumar Sain"
+          "name": "M.K. Sain"
         }
       ]
     },
@@ -9031,6 +9031,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2215482911",
+      "title": "Observer-Based Control",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045235248",
+          "name": "Harry L. Trentelman"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2479672990",
       "title": "Hybrid System Control",
       "year": 2003,
@@ -9055,22 +9071,6 @@
         {
           "id": "https://openalex.org/A5101592367",
           "name": "Oscar R Gonzalez"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2215482911",
-      "title": "Observer-Based Control",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045235248",
-          "name": "Harry L. Trentelman"
         },
         {
           "id": "https://openalex.org/A5077171773",
@@ -9484,26 +9484,6 @@
       "year": 2000,
       "date": "2000-12-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4293876558",
-      "title": "QSR-Dissipativity and Passivity Analysis of Event-Triggered Networked\\n Control Cyber-Physical Systems",
-      "year": 2016,
-      "date": "2016-07-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5053280713",
-          "name": "Arash Rahnama"
-        },
-        {
-          "id": "https://openalex.org/A5080268090",
-          "name": "Meng Xia"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -12127,54 +12107,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4288558741",
-      "title": "Recent Advances in Analysis and Design of Cyber-physical Systems using\\n Passivity Indices",
-      "year": 2019,
-      "date": "2019-02-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4288562506",
-      "title": "A Data-driven Adaptive Controller Reconfiguration for Fault Mitigation:\\n A Passivity Approach",
-      "year": 2019,
-      "date": "2019-02-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4288642107",
-      "title": "Passivity and Passivity Indices of Nonlinear Systems Under Operational\\n Limitations using Approximations",
-      "year": 2019,
-      "date": "2019-01-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015383229",
-          "name": "Hasan Zakeri"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4292934777",
       "title": "Linear Systems: Discrete-Time Impulse Response Descriptions",
       "year": 2015,
@@ -12187,95 +12119,11 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4294607652",
-      "title": "On the entropy of equilibrium measures and game-theoretic equilibrium\\n feedback operators in multi-channel dynamical systems",
-      "year": 2013,
-      "date": "2013-12-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005744799",
-          "name": "Getachew K. Befekadu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4294642684",
       "title": "Linear Systems: Discrete-Time, Time-Invariant State Variable Descriptions",
       "year": 2014,
       "date": "2014-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4296927685",
-      "title": "Encoding Multi-Resolution Brain Networks Using Unsupervised Deep\\n Learning",
-      "year": 2017,
-      "date": "2017-08-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5053280713",
-          "name": "Arash Rahnama"
-        },
-        {
-          "id": "https://openalex.org/A5071269392",
-          "name": "Abdullah Alchihabi"
-        },
-        {
-          "id": "https://openalex.org/A5043597789",
-          "name": "Vijay Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5110664463",
-          "name": "Fato\u015f T. Yarman Vural"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4297795575",
-      "title": "Dissipativity of system abstractions obtained using approximate\\n input-output simulation",
-      "year": 2017,
-      "date": "2017-11-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5062662748",
-          "name": "Etika Agarwal"
-        },
-        {
-          "id": "https://openalex.org/A5028916280",
-          "name": "Shravan Sajja"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5104035840",
-          "name": "Vijay Gupta"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4298980002",
-      "title": "Large Deviations for the Reliability Assessment of Redundant\\n Multi-Channel Systems",
-      "year": 2014,
-      "date": "2014-04-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005744799",
-          "name": "Getachew K. Befekadu"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
@@ -12340,38 +12188,6 @@
       "year": 2014,
       "date": "2014-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4302287084",
-      "title": "On the minimum exit rate for a diffusion process pertaining to a chain\\n of distributed control systems with random perturbations",
-      "year": 2014,
-      "date": "2014-09-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005744799",
-          "name": "Getachew K. Befekadu"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4302428682",
-      "title": "On the Problem of Minimum Asymptotic Exit Rate for Stochastically\\n Perturbed Multi-Channel Dynamical Systems",
-      "year": 2014,
-      "date": "2014-05-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5005744799",
-          "name": "Getachew K. Befekadu"
-        },
         {
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"

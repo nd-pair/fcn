@@ -6,7 +6,7 @@
   "openalex_name": "James P. Schmiedeler",
   "affiliation": "University of Notre Dame",
   "works_count": 146,
-  "cited_by_count": 2073,
+  "cited_by_count": 2074,
   "photo": "assets/faculty/james-schmiedeler.jpg",
   "num_works_fetched": 146,
   "works": [
@@ -275,34 +275,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1595630499",
-      "title": "Intelligent control of an experimental articulated leg for a galloping machine",
-      "year": 2004,
-      "date": "2004-03-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5110760099",
-          "name": "Luther R. Palmer"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
-        },
-        {
-          "id": "https://openalex.org/A5071582843",
-          "name": "Duane Marhefka"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5028963289",
-          "name": "Kenneth J. Waldron"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2294564419",
       "title": "Terrain-Blind Humanoid Walking Based on a 3-D Actuated Dual-SLIP Model",
       "year": 2016,
@@ -527,6 +499,34 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1595630499",
+      "title": "Intelligent control of an experimental articulated leg for a galloping machine",
+      "year": 2004,
+      "date": "2004-03-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110760099",
+          "name": "Luther R. Palmer"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        },
+        {
+          "id": "https://openalex.org/A5071582843",
+          "name": "Duane Marhefka"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
         }
       ]
     },
@@ -815,30 +815,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2053850353",
-      "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
-      "year": 2013,
-      "date": "2013-12-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5005674485",
-          "name": "Barrett C. Clark"
-        },
-        {
-          "id": "https://openalex.org/A5002415526",
-          "name": "Edward C. Kinzel"
-        },
-        {
-          "id": "https://openalex.org/A5020209574",
-          "name": "Gordon R. Pennock"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4392543670",
       "title": "Lower-Limb Myoelectric Calibration Postures for Transtibial Prostheses",
       "year": 2024,
@@ -1075,6 +1051,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2053850353",
+      "title": "Kinematic Synthesis for Infinitesimally and Multiply Separated Positions Using Geometric Constraint Programming",
+      "year": 2013,
+      "date": "2013-12-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5005674485",
+          "name": "Barrett C. Clark"
+        },
+        {
+          "id": "https://openalex.org/A5002415526",
+          "name": "Edward C. Kinzel"
+        },
+        {
+          "id": "https://openalex.org/A5020209574",
+          "name": "Gordon R. Pennock"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2086666984",
       "title": "Invariant geometric characteristics of spatial arm motion",
       "year": 2013,
@@ -1127,26 +1127,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2107883761",
-      "title": "Kinematic Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms With Prismatic Joints",
-      "year": 2011,
-      "date": "2011-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5107143801",
-          "name": "Kai Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5054371819",
-          "name": "Andrew P. Murray"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3003846126",
       "title": "Stability and Gait Switching of Underactuated Biped Walkers",
       "year": 2019,
@@ -1163,26 +1143,6 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1976928168",
-      "title": "Design of Crashworthy Structures With Controlled Energy Absorption in the HCA Framework",
-      "year": 2012,
-      "date": "2012-08-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5057528643",
-          "name": "Punit Bandi"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5027957587",
-          "name": "Andr\u00e9s Tovar"
         }
       ]
     },
@@ -1391,18 +1351,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2229648176",
-      "title": "Impact Analysis as a Design Tool for the Legs of Mobile Robots",
-      "year": 2000,
-      "date": "2000-01-01",
+      "id": "https://openalex.org/W2107883761",
+      "title": "Kinematic Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms With Prismatic Joints",
+      "year": 2011,
+      "date": "2011-01-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5107143801",
+          "name": "Kai Zhao"
+        },
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
         },
         {
-          "id": "https://openalex.org/A5028963289",
-          "name": "Kenneth J. Waldron"
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
         }
       ]
     },
@@ -1435,6 +1399,26 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1976928168",
+      "title": "Design of Crashworthy Structures With Controlled Energy Absorption in the HCA Framework",
+      "year": 2012,
+      "date": "2012-08-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057528643",
+          "name": "Punit Bandi"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5027957587",
+          "name": "Andr\u00e9s Tovar"
         }
       ]
     },
@@ -1631,26 +1615,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2909801651",
-      "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
-      "year": 2018,
-      "date": "2018-08-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045728595",
-          "name": "Martin Fevre"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2151938387",
       "title": "Kinematic Synthesis of Planar, Shape-Changing Compliant Mechanisms Using Pseudo-Rigid-Body Models",
       "year": 2012,
@@ -1667,6 +1631,22 @@
         {
           "id": "https://openalex.org/A5054371819",
           "name": "Andrew P. Murray"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2229648176",
+      "title": "Impact Analysis as a Design Tool for the Legs of Mobile Robots",
+      "year": 2000,
+      "date": "2000-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5028963289",
+          "name": "Kenneth J. Waldron"
         }
       ]
     },
@@ -1731,6 +1711,26 @@
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2909801651",
+      "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
+      "year": 2018,
+      "date": "2018-08-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         }
       ]
     },
@@ -1947,22 +1947,6 @@
         {
           "id": "https://openalex.org/A5078794124",
           "name": "Elise Weimholt"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3090824927",
-      "title": "Dynamic Coupling as an Indicator of Gait Robustness for Underactuated Biped Robots",
-      "year": 2020,
-      "date": "2020-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045728595",
-          "name": "Martin Fevre"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -2215,6 +2199,22 @@
         {
           "id": "https://openalex.org/A5074438156",
           "name": "Gregory N Washington"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3090824927",
+      "title": "Dynamic Coupling as an Indicator of Gait Robustness for Underactuated Biped Robots",
+      "year": 2020,
+      "date": "2020-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         }
       ]
     },

@@ -31,30 +31,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2907924447",
-      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
-      "year": 2018,
-      "date": "2018-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032499799",
-          "name": "Qiuyang Tao"
-        },
-        {
-          "id": "https://openalex.org/A5070056911",
-          "name": "Jaeseok Cha"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4387448093",
       "title": "Data-Driven High-Order Point-to-Point ILC With Higher Computational Efficiency",
       "year": 2023,
@@ -95,6 +71,30 @@
         {
           "id": "https://openalex.org/A5051997905",
           "name": "Carl Vondrick"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2907924447",
+      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
+      "year": 2018,
+      "date": "2018-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5070056911",
+          "name": "Jaeseok Cha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
         }
       ]
     },

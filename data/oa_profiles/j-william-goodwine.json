@@ -6,9 +6,9 @@
   "openalex_name": "Bill Goodwine",
   "affiliation": "University of Notre Dame",
   "works_count": 135,
-  "cited_by_count": 1758,
+  "cited_by_count": 1760,
   "photo": "assets/faculty/j-william-goodwine.jpg",
-  "num_works_fetched": 136,
+  "num_works_fetched": 135,
   "works": [
     {
       "id": "https://openalex.org/W2005140205",
@@ -575,26 +575,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2909367780",
-      "title": "Large and Infinite Mass\u2013Spring\u2013Damper Networks",
-      "year": 2019,
-      "date": "2019-01-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069492907",
-          "name": "Kevin Leyden"
-        },
-        {
-          "id": "https://openalex.org/A5036886663",
-          "name": "Mihir Sen"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2965919599",
       "title": "Controllability and accessibility results for N-link horizontal planar manipulators with one unactuated joint",
       "year": 2021,
@@ -651,18 +631,6 @@
       "title": "Fundamentals of Control Theory",
       "year": 2001,
       "date": "2001-09-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W63683268",
-      "title": "Single Degree of Freedom Vibrations",
-      "year": 2010,
-      "date": "2010-11-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5042951623",
@@ -763,6 +731,26 @@
         {
           "id": "https://openalex.org/A5079169288",
           "name": "M. Brett McMickell"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2909367780",
+      "title": "Large and Infinite Mass\u2013Spring\u2013Damper Networks",
+      "year": 2019,
+      "date": "2019-01-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069492907",
+          "name": "Kevin Leyden"
+        },
+        {
+          "id": "https://openalex.org/A5036886663",
+          "name": "Mihir Sen"
         },
         {
           "id": "https://openalex.org/A5042951623",
@@ -971,26 +959,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2909801651",
-      "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
-      "year": 2018,
-      "date": "2018-08-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045728595",
-          "name": "Martin Fevre"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3094002026",
       "title": "Frequency Response and Transfer Functions of Large Self-Similar Networks",
       "year": 2022,
@@ -1047,22 +1015,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2910509350",
-      "title": "Fractional-Order Trajectory-Following Control for Two-Legged Dynamic Walking",
-      "year": 2018,
-      "date": "2018-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5069492907",
-          "name": "Kevin Leyden"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4413908779",
       "title": "FractionalNet: a symmetric neural network to compute fractional-order derivatives",
       "year": 2025,
@@ -1087,6 +1039,18 @@
         {
           "id": "https://openalex.org/A5100763142",
           "name": "Tan Chen"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W63683268",
+      "title": "Single Degree of Freedom Vibrations",
+      "year": 2010,
+      "date": "2010-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
         }
       ]
     },
@@ -1131,18 +1095,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3004281275",
-      "title": "A Simple Approach on Global Control of a Class of Underactuated Mechanical Robotic Systems",
-      "year": 2019,
-      "date": "2019-11-01",
+      "id": "https://openalex.org/W2909801651",
+      "title": "Velocity Decomposition-Enhanced Control for Point and Curved-Foot Planar Bipeds Experiencing Velocity Disturbances",
+      "year": 2018,
+      "date": "2018-08-26",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5029245145",
-          "name": "Tan Chen"
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
         },
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         }
       ]
     },
@@ -1159,6 +1127,22 @@
         {
           "id": "https://openalex.org/A5036886663",
           "name": "Mihir Sen"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2910509350",
+      "title": "Fractional-Order Trajectory-Following Control for Two-Legged Dynamic Walking",
+      "year": 2018,
+      "date": "2018-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069492907",
+          "name": "Kevin Leyden"
         },
         {
           "id": "https://openalex.org/A5042951623",
@@ -1379,6 +1363,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3004281275",
+      "title": "A Simple Approach on Global Control of a Class of Underactuated Mechanical Robotic Systems",
+      "year": 2019,
+      "date": "2019-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029245145",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2618073188",
       "title": "Reduction and control of nonlinear symmetric distributed robotic systems",
       "year": 2004,
@@ -1519,30 +1519,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2972073686",
-      "title": "Fractional-$\\boldsymbol{PD}^{\\boldsymbol{\\mu}}$ Controllers for Irrational Systems",
-      "year": 2019,
-      "date": "2019-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5027815058",
-          "name": "Adri\u00e1n-Josu\u00e9 Guel-Cortez"
-        },
-        {
-          "id": "https://openalex.org/A5036886663",
-          "name": "Mihir Sen"
-        },
-        {
-          "id": "https://openalex.org/A5032499606",
-          "name": "C\u00e9sar\u2010Fernando M\u00e9ndez\u2010Barrios"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3155672530",
       "title": "Damage Identification for The Tree-like Network through Frequency-domain Modeling",
       "year": 2020,
@@ -1595,18 +1571,6 @@
         {
           "id": "https://openalex.org/A5058888481",
           "name": "Mike Seelinger"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1567183730",
-      "title": "Introduction and Preliminaries",
-      "year": 2010,
-      "date": "2010-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
         }
       ]
     },
@@ -1679,6 +1643,42 @@
         {
           "id": "https://openalex.org/A5062331167",
           "name": "Milo\u0161 \u017defran"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2972073686",
+      "title": "Fractional-$\\boldsymbol{PD}^{\\boldsymbol{\\mu}}$ Controllers for Irrational Systems",
+      "year": 2019,
+      "date": "2019-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5027815058",
+          "name": "Adri\u00e1n-Josu\u00e9 Guel-Cortez"
+        },
+        {
+          "id": "https://openalex.org/A5036886663",
+          "name": "Mihir Sen"
+        },
+        {
+          "id": "https://openalex.org/A5032499606",
+          "name": "C\u00e9sar\u2010Fernando M\u00e9ndez\u2010Barrios"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1567183730",
+      "title": "Introduction and Preliminaries",
+      "year": 2010,
+      "date": "2010-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
         }
       ]
     },
@@ -1880,22 +1880,6 @@
       "year": 2001,
       "date": "2001-04-21",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4288276765",
-      "title": "Controllability and Accessibility Results for N-Link Horizontal Planar\\n Manipulators with One Unactuated Joint",
-      "year": 2019,
-      "date": "2019-07-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100763142",
-          "name": "Tan Chen"
-        },
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"

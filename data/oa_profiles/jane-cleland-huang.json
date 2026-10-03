@@ -6,9 +6,9 @@
   "openalex_name": "Jane Cleland\u2010Huang",
   "affiliation": "University of Notre Dame",
   "works_count": 314,
-  "cited_by_count": 7897,
+  "cited_by_count": 7899,
   "photo": "assets/faculty/jane-cleland-huang.jpeg",
-  "num_works_fetched": 318,
+  "num_works_fetched": 314,
   "works": [
     {
       "id": "https://openalex.org/W2005569040",
@@ -114,7 +114,7 @@
         },
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         },
         {
           "id": "https://openalex.org/A5067938545",
@@ -147,30 +147,6 @@
         {
           "id": "https://openalex.org/A5057651818",
           "name": "John Emenecker"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2099175080",
-      "title": "Utilizing supporting evidence to improve dynamic requirements traceability",
-      "year": 2005,
-      "date": "2005-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5067938545",
-          "name": "Raffaella Settimi"
-        },
-        {
-          "id": "https://openalex.org/A5075831614",
-          "name": "Chuan Duan"
-        },
-        {
-          "id": "https://openalex.org/A5002859620",
-          "name": "Xuchang Zou"
         }
       ]
     },
@@ -491,6 +467,30 @@
         {
           "id": "https://openalex.org/A5037363688",
           "name": "Jane Cleland\u2010Huang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2099175080",
+      "title": "Utilizing supporting evidence to improve dynamic requirements traceability",
+      "year": 2005,
+      "date": "2005-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5067938545",
+          "name": "Raffaella Settimi"
+        },
+        {
+          "id": "https://openalex.org/A5075831614",
+          "name": "Chuan Duan"
+        },
+        {
+          "id": "https://openalex.org/A5002859620",
+          "name": "Xuchang Zou"
         }
       ]
     },
@@ -1226,7 +1226,7 @@
         },
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         },
         {
           "id": "https://openalex.org/A5057561309",
@@ -1395,26 +1395,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2076236512",
-      "title": "Learning effective query transformations for enhanced requirements trace retrieval",
-      "year": 2013,
-      "date": "2013-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010532436",
-          "name": "Timothy Dietrich"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5020844039",
-          "name": "Yonghee Shin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4221006676",
       "title": "Extending MAPE-K to support human-machine teaming",
       "year": 2022,
@@ -1527,26 +1507,6 @@
         {
           "id": "https://openalex.org/A5033422210",
           "name": "Jan-Philipp Stegh\u00f6fer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2049961680",
-      "title": "A consensus based approach to constrained clustering of software requirements",
-      "year": 2008,
-      "date": "2008-10-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5075831614",
-          "name": "Chuan Duan"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5082580430",
-          "name": "Bamshad Mobasher"
         }
       ]
     },
@@ -2119,6 +2079,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2076236512",
+      "title": "Learning effective query transformations for enhanced requirements trace retrieval",
+      "year": 2013,
+      "date": "2013-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010532436",
+          "name": "Timothy Dietrich"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5020844039",
+          "name": "Yonghee Shin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2103660088",
       "title": "Goal-Centric Traceability: Using Virtual Plumblines to Maintain Critical Systemic Qualities",
       "year": 2008,
@@ -2134,7 +2114,7 @@
         },
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         }
       ]
     },
@@ -2210,7 +2190,7 @@
         },
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         }
       ]
     },
@@ -2227,6 +2207,26 @@
         {
           "id": "https://openalex.org/A5005248504",
           "name": "Michael Vierhauser"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2049961680",
+      "title": "A consensus based approach to constrained clustering of software requirements",
+      "year": 2008,
+      "date": "2008-10-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5075831614",
+          "name": "Chuan Duan"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5082580430",
+          "name": "Bamshad Mobasher"
         }
       ]
     },
@@ -2695,6 +2695,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3138108548",
+      "title": "Supporting Quality Assurance with Automated Process-Centric Quality Constraints Checking",
+      "year": 2021,
+      "date": "2021-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5001710775",
+          "name": "Christoph Mayr\u2010Dorn"
+        },
+        {
+          "id": "https://openalex.org/A5005248504",
+          "name": "Michael Vierhauser"
+        },
+        {
+          "id": "https://openalex.org/A5022567253",
+          "name": "Stefan Bichler"
+        },
+        {
+          "id": "https://openalex.org/A5047703439",
+          "name": "Felix Keplinger"
+        },
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
+        },
+        {
+          "id": "https://openalex.org/A5057561309",
+          "name": "Alexander F. Egyed"
+        },
+        {
+          "id": "https://openalex.org/A5091572610",
+          "name": "Thomas Mehofer"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3216925668",
       "title": "Information retrieval versus deep learning approaches for generating traceability links in bilingual projects",
       "year": 2021,
@@ -2807,54 +2843,6 @@
         {
           "id": "https://openalex.org/A5001710775",
           "name": "Christoph Mayr\u2010Dorn"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3138108548",
-      "title": "Supporting Quality Assurance with Automated Process-Centric Quality Constraints Checking",
-      "year": 2021,
-      "date": "2021-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5001710775",
-          "name": "Christoph Mayr\u2010Dorn"
-        },
-        {
-          "id": "https://openalex.org/A5005248504",
-          "name": "Michael Vierhauser"
-        },
-        {
-          "id": "https://openalex.org/A5022567253",
-          "name": "Stefan Bichler"
-        },
-        {
-          "id": "https://openalex.org/A5047703439",
-          "name": "Felix Keplinger"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5057561309",
-          "name": "Alexander F. Egyed"
-        },
-        {
-          "id": "https://openalex.org/A5091572610",
-          "name": "Thomas Mehofer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1989534721",
-      "title": "How Well Do You Know Your Personae Non Gratae?",
-      "year": 2014,
-      "date": "2014-06-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -3519,6 +3507,18 @@
         {
           "id": "https://openalex.org/A5043737283",
           "name": "Sorawit Amornborvornwong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1989534721",
+      "title": "How Well Do You Know Your Personae Non Gratae?",
+      "year": 2014,
+      "date": "2014-06-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5037363688",
+          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },
@@ -5158,7 +5158,7 @@
         },
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         }
       ]
     },
@@ -5835,34 +5835,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4300596326",
-      "title": "Traceability in the Wild: Automatically Augmenting Incomplete Trace\\n Links",
-      "year": 2018,
-      "date": "2018-04-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101432814",
-          "name": "Michael Rath"
-        },
-        {
-          "id": "https://openalex.org/A5032569584",
-          "name": "Jacob Rendall"
-        },
-        {
-          "id": "https://openalex.org/A5010572058",
-          "name": "Jin Guo"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        },
-        {
-          "id": "https://openalex.org/A5011124194",
-          "name": "Patrick Maeder"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4292558243",
       "title": "Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models",
       "year": 2021,
@@ -6047,22 +6019,6 @@
         {
           "id": "https://openalex.org/A5100670646",
           "name": "Meng Jiang"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4286950143",
-      "title": "RescueAR: Augmented Reality Supported Collaboration for UAV Driven\\n Emergency Response Systems",
-      "year": 2021,
-      "date": "2021-09-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5004659592",
-          "name": "Ankit Agrawal"
         },
         {
           "id": "https://openalex.org/A5037363688",
@@ -6374,7 +6330,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         },
         {
           "id": "https://openalex.org/A5037363688",
@@ -6446,7 +6402,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5071890533",
-          "name": "Brian A. Berenbach"
+          "name": "Brian Berenbach"
         },
         {
           "id": "https://openalex.org/A5037363688",
@@ -6867,42 +6823,6 @@
         {
           "id": "https://openalex.org/A5091572610",
           "name": "Thomas Mehofer"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4289676782",
-      "title": "Leveraging Historical Associations between Requirements and Source Code\\n to Identify Impacted Classes",
-      "year": 2018,
-      "date": "2018-08-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5075793467",
-          "name": "Davide Falessi"
-        },
-        {
-          "id": "https://openalex.org/A5028386363",
-          "name": "Justin Roll"
-        },
-        {
-          "id": "https://openalex.org/A5100300852",
-          "name": "Jin Guo"
-        },
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4306697901",
-      "title": "Explaining Autonomous Decisions in Swarms of Human-on-the-Loop Small\\n Unmanned Aerial Systems",
-      "year": 2021,
-      "date": "2021-09-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5037363688",
-          "name": "Jane Cleland\u2010Huang"
         }
       ]
     },

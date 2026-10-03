@@ -6,9 +6,9 @@
   "openalex_name": "Margaret M. Coad",
   "affiliation": null,
   "works_count": 34,
-  "cited_by_count": 423,
+  "cited_by_count": 427,
   "photo": "assets/faculty/margaret-coad.jpg",
-  "num_works_fetched": 36,
+  "num_works_fetched": 34,
   "works": [
     {
       "id": "https://openalex.org/W3105818082",
@@ -591,46 +591,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4286963468",
-      "title": "Robot-Assisted Surgical Training Over Several Days in a Virtual Surgical\\n Environment with Divergent and Convergent Force Fields",
-      "year": 2021,
-      "date": "2021-09-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011079591",
-          "name": "Yousi A. Oquendo"
-        },
-        {
-          "id": "https://openalex.org/A5082074188",
-          "name": "Zonghe Chua"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5080865180",
-          "name": "Ilana Nisky"
-        },
-        {
-          "id": "https://openalex.org/A5083764444",
-          "name": "Anthony Jarc"
-        },
-        {
-          "id": "https://openalex.org/A5027160232",
-          "name": "Sherry M. Wren"
-        },
-        {
-          "id": "https://openalex.org/A5069213962",
-          "name": "Thomas S. Lendvay"
-        },
-        {
-          "id": "https://openalex.org/A5067958710",
-          "name": "Allison M. Okamura"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2201871521",
       "title": "A case study in troubleshooting electromechanical software-controlled systems : the InMotion\u00b2 Robot",
       "year": 2015,
@@ -727,38 +687,6 @@
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4286778687",
-      "title": "Human Interface for Teleoperated Object Manipulation with a Soft Growing\\n Robot",
-      "year": 2019,
-      "date": "2019-10-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5054512048",
-          "name": "Fabio Stroppa"
-        },
-        {
-          "id": "https://openalex.org/A5101565170",
-          "name": "Ming Luo"
-        },
-        {
-          "id": "https://openalex.org/A5029066624",
-          "name": "Kyle T. Yoshida"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5034706353",
-          "name": "Laura H. Blumenschein"
-        },
-        {
-          "id": "https://openalex.org/A5067958710",
-          "name": "Allison M. Okamura"
         }
       ]
     },

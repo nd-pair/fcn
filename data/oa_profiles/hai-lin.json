@@ -6,9 +6,9 @@
   "openalex_name": "Hai Lin",
   "affiliation": "University of Notre Dame",
   "works_count": 859,
-  "cited_by_count": 9128,
+  "cited_by_count": 9132,
   "photo": "assets/faculty/hai-lin.jpg",
-  "num_works_fetched": 859,
+  "num_works_fetched": 858,
   "works": [
     {
       "id": "https://openalex.org/W2062974796",
@@ -2587,22 +2587,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2044592721",
-      "title": "Bisimilarity enforcing supervisory control of nondeterministic discrete event systems",
-      "year": 2012,
-      "date": "2012-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015505211",
-          "name": "Yajuan Sun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2044851055",
       "title": "Analysis of switched normal discrete-time systems",
       "year": 2006,
@@ -3215,6 +3199,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4414116801",
+      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
+      "year": 2025,
+      "date": "2025-09-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109119591",
+          "name": "Zihao Song"
+        },
+        {
+          "id": "https://openalex.org/A5074601746",
+          "name": "Shirantha Welikala"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W141682072",
       "title": "Robust Regulation of Polytopic Uncertain Linear Hybrid Systems with Networked Control System Applications",
       "year": 2003,
@@ -3467,6 +3475,22 @@
         {
           "id": "https://openalex.org/A5100379593",
           "name": "Xiaobin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2044592721",
+      "title": "Bisimilarity enforcing supervisory control of nondeterministic discrete event systems",
+      "year": 2012,
+      "date": "2012-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015505211",
+          "name": "Yajuan Sun"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -4511,30 +4535,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4414116801",
-      "title": "Distributed Adaptive Backstepping Control for Vehicular Platoons With Mismatched Disturbances Using Vector String Lyapunov Functions",
-      "year": 2025,
-      "date": "2025-09-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109119591",
-          "name": "Zihao Song"
-        },
-        {
-          "id": "https://openalex.org/A5074601746",
-          "name": "Shirantha Welikala"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2942224903",
       "title": "Vector Autoregressive POMDP Model Learning and Planning for Human\u2013Robot Collaboration",
       "year": 2019,
@@ -4543,26 +4543,6 @@
         {
           "id": "https://openalex.org/A5019036867",
           "name": "Wei Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2885797187",
-      "title": "Reactive Integrated Mission and Motion Planning for Mobile Robotic Manipulators",
-      "year": 2018,
-      "date": "2018-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073796748",
-          "name": "Alireza Partovi"
-        },
-        {
-          "id": "https://openalex.org/A5005085816",
-          "name": "Rafael Rodrigues da Silva"
         },
         {
           "id": "https://openalex.org/A5045445273",
@@ -4703,6 +4683,26 @@
         {
           "id": "https://openalex.org/A5008501506",
           "name": "Shuzhi Sam Ge"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2885797187",
+      "title": "Reactive Integrated Mission and Motion Planning for Mobile Robotic Manipulators",
+      "year": 2018,
+      "date": "2018-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073796748",
+          "name": "Alireza Partovi"
+        },
+        {
+          "id": "https://openalex.org/A5005085816",
+          "name": "Rafael Rodrigues da Silva"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -5255,46 +5255,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2736516726",
-      "title": "Coordination and Control of Distributed Discrete-event Systems subject to Sensor and Actuator Failures.",
-      "year": 2017,
-      "date": "2017-07-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5120101396",
-          "name": "Jin Dai"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2810167277",
-      "title": "Parameter Identification of Nonlinear Excitation System Based on Improved Adaptive Genetic Algorithm",
-      "year": 2018,
-      "date": "2018-06-26",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030253897",
-          "name": "Xuhua Qin"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5076234228",
-          "name": "Dafei Yu"
-        },
-        {
-          "id": "https://openalex.org/A5101583030",
-          "name": "Shanshan Zhou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4297145706",
       "title": "Research Progress of Central Insulin Resistance and Cognitive Impairment",
       "year": 2022,
@@ -5563,6 +5523,46 @@
         {
           "id": "https://openalex.org/A5032816682",
           "name": "Baoliang Mu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2736516726",
+      "title": "Coordination and Control of Distributed Discrete-event Systems subject to Sensor and Actuator Failures.",
+      "year": 2017,
+      "date": "2017-07-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5120101396",
+          "name": "Jin Dai"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2810167277",
+      "title": "Parameter Identification of Nonlinear Excitation System Based on Improved Adaptive Genetic Algorithm",
+      "year": 2018,
+      "date": "2018-06-26",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030253897",
+          "name": "Xuhua Qin"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5076234228",
+          "name": "Dafei Yu"
+        },
+        {
+          "id": "https://openalex.org/A5101583030",
+          "name": "Shanshan Zhou"
         }
       ]
     },
@@ -6511,26 +6511,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2951936853",
-      "title": "Computation for Supremal Simulation-Based Controllable and Strong\\n Observable Subautomata",
-      "year": 2011,
-      "date": "2011-01-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5015505211",
-          "name": "Yajuan Sun"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5049612324",
-          "name": "Fuchun Liu"
         }
       ]
     },
@@ -14346,7 +14326,7 @@
         },
         {
           "id": "https://openalex.org/A5067782848",
-          "name": "Barbara Berish Brown"
+          "name": "Barbara B. Brown"
         },
         {
           "id": "https://openalex.org/A5041379647",
@@ -14462,7 +14442,7 @@
         },
         {
           "id": "https://openalex.org/A5007336429",
-          "name": "Andreas Velsing Groth"
+          "name": "Andreas Groth"
         },
         {
           "id": "https://openalex.org/A5036666678",

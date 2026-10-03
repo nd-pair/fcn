@@ -6,9 +6,9 @@
   "openalex_name": "Nikolaus Correll",
   "affiliation": null,
   "works_count": 165,
-  "cited_by_count": 6248,
+  "cited_by_count": 6250,
   "photo": "assets/faculty/nikolaus-correll.jpg",
-  "num_works_fetched": 168,
+  "num_works_fetched": 165,
   "works": [
     {
       "id": "https://openalex.org/W2618733545",
@@ -1763,30 +1763,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2580807697",
-      "title": "Intelligent RF-Based Gesture Input Devices Implemented Using e-Textiles",
-      "year": 2017,
-      "date": "2017-01-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5036897495",
-          "name": "Dana Hughes"
-        },
-        {
-          "id": "https://openalex.org/A5013647146",
-          "name": "Halley P. Profita"
-        },
-        {
-          "id": "https://openalex.org/A5062858754",
-          "name": "Sarah Radzihovsky"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2524922126",
       "title": "Distributed Inverse Kinematics for Shape-changing Robotic Materials",
       "year": 2016,
@@ -1959,6 +1935,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2580807697",
+      "title": "Intelligent RF-Based Gesture Input Devices Implemented Using e-Textiles",
+      "year": 2017,
+      "date": "2017-01-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5036897495",
+          "name": "Dana Hughes"
+        },
+        {
+          "id": "https://openalex.org/A5013647146",
+          "name": "Halley P. Profita"
+        },
+        {
+          "id": "https://openalex.org/A5062858754",
+          "name": "Sarah Radzihovsky"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2116604920",
       "title": "Self-assembly of modular robots from finite number of modules using graph grammars",
       "year": 2011,
@@ -2063,26 +2063,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2914987943",
-      "title": "Fault-Tolerant Covariance Intersection for Localizing Robot Swarms",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5009742991",
-          "name": "John Klingner"
-        },
-        {
-          "id": "https://openalex.org/A5100664008",
-          "name": "Nisar R. Ahmed"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3039423177",
       "title": "SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part 2 \u2014 Design Development and Projected Performance",
       "year": 2020,
@@ -2171,26 +2151,6 @@
         {
           "id": "https://openalex.org/A5085205626",
           "name": "Richard Y. Han"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2051292214",
-      "title": "HoneyComb",
-      "year": 2013,
-      "date": "2013-02-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5014641617",
-          "name": "Nicholas Farrow"
-        },
-        {
-          "id": "https://openalex.org/A5020369494",
-          "name": "Shang Ma"
         }
       ]
     },
@@ -2303,6 +2263,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2914987943",
+      "title": "Fault-Tolerant Covariance Intersection for Localizing Robot Swarms",
+      "year": 2019,
+      "date": "2019-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5009742991",
+          "name": "John Klingner"
+        },
+        {
+          "id": "https://openalex.org/A5100664008",
+          "name": "Nisar R. Ahmed"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2039239091",
       "title": "Gesture based distributed user interaction system for a reconfigurable self-organizing smart wall",
       "year": 2014,
@@ -2355,6 +2335,26 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2051292214",
+      "title": "HoneyComb",
+      "year": 2013,
+      "date": "2013-02-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5014641617",
+          "name": "Nicholas Farrow"
+        },
+        {
+          "id": "https://openalex.org/A5020369494",
+          "name": "Shang Ma"
         }
       ]
     },
@@ -2423,58 +2423,6 @@
         {
           "id": "https://openalex.org/A5009742991",
           "name": "John Klingner"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3012223707",
-      "title": "SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part 1 -- Architecture and Technology",
-      "year": 2019,
-      "date": "2019-07-07",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066061812",
-          "name": "Heather Hava"
-        },
-        {
-          "id": "https://openalex.org/A5110955824",
-          "name": "Larissa Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5057885379",
-          "name": "Elizabeth M. Lombardi"
-        },
-        {
-          "id": "https://openalex.org/A5067506705",
-          "name": "Kaixin Cui"
-        },
-        {
-          "id": "https://openalex.org/A5061004538",
-          "name": "Heeyeon Joung"
-        },
-        {
-          "id": "https://openalex.org/A5046880071",
-          "name": "Sarah Aguasvivas Manzano"
-        },
-        {
-          "id": "https://openalex.org/A5032109761",
-          "name": "Abby King"
-        },
-        {
-          "id": "https://openalex.org/A5009595813",
-          "name": "Hayley Kinlaw"
-        },
-        {
-          "id": "https://openalex.org/A5089917341",
-          "name": "Kyri Baker"
-        },
-        {
-          "id": "https://openalex.org/A5078006811",
-          "name": "Andy Kaufman"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2563,6 +2511,58 @@
         {
           "id": "https://openalex.org/A5080713076",
           "name": "Alcherio Martinoli"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3012223707",
+      "title": "SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part 1 -- Architecture and Technology",
+      "year": 2019,
+      "date": "2019-07-07",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066061812",
+          "name": "Heather Hava"
+        },
+        {
+          "id": "https://openalex.org/A5110955824",
+          "name": "Larissa Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5057885379",
+          "name": "Elizabeth M. Lombardi"
+        },
+        {
+          "id": "https://openalex.org/A5067506705",
+          "name": "Kaixin Cui"
+        },
+        {
+          "id": "https://openalex.org/A5061004538",
+          "name": "Heeyeon Joung"
+        },
+        {
+          "id": "https://openalex.org/A5046880071",
+          "name": "Sarah Aguasvivas Manzano"
+        },
+        {
+          "id": "https://openalex.org/A5032109761",
+          "name": "Abby King"
+        },
+        {
+          "id": "https://openalex.org/A5009595813",
+          "name": "Hayley Kinlaw"
+        },
+        {
+          "id": "https://openalex.org/A5089917341",
+          "name": "Kyri Baker"
+        },
+        {
+          "id": "https://openalex.org/A5078006811",
+          "name": "Andy Kaufman"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -3199,22 +3199,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4297710703",
-      "title": "Distributed Machine Learning in Materials that Couple Sensing,\\n Actuation, Computation and Communication",
-      "year": 2016,
-      "date": "2016-06-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5103176418",
-          "name": "Dana Hughes"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2346563870",
       "title": "6-DOF Visual Servoing Using the Lie Group of Affine Transformations",
       "year": 2002,
@@ -3639,26 +3623,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4214796086",
-      "title": "Optimal Parameter Identification for Discrete Mechanical Systems with\\n Application to Flexible Object Manipulation",
-      "year": 2014,
-      "date": "2014-02-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5111628533",
-          "name": "Timothy M. Caldwell"
-        },
-        {
-          "id": "https://openalex.org/A5108561188",
-          "name": "Dave Coleman"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4245184442",
       "title": "List of contributors",
       "year": 2018,
@@ -3899,58 +3863,6 @@
         {
           "id": "https://openalex.org/A5080713076",
           "name": "Alcherio Martinoli"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4287667465",
-      "title": "Miniaturized Circuitry for Capacitive Self-sensing and Closed-loop\\n Control of Soft Electrostatic Transducers",
-      "year": 2020,
-      "date": "2020-09-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5040368638",
-          "name": "Khoi Ly"
-        },
-        {
-          "id": "https://openalex.org/A5023362547",
-          "name": "Nicholas Kellaris"
-        },
-        {
-          "id": "https://openalex.org/A5043242725",
-          "name": "Dade McMorris"
-        },
-        {
-          "id": "https://openalex.org/A5027505300",
-          "name": "Brian K. Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5021573797",
-          "name": "Eric Acome"
-        },
-        {
-          "id": "https://openalex.org/A5043334100",
-          "name": "Vani Sundaram"
-        },
-        {
-          "id": "https://openalex.org/A5065590647",
-          "name": "Mantas Naris"
-        },
-        {
-          "id": "https://openalex.org/A5073287604",
-          "name": "J. Sean Humbert"
-        },
-        {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
-        },
-        {
-          "id": "https://openalex.org/A5005851458",
-          "name": "Christoph Keplinger"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
         }
       ]
     },
