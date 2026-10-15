@@ -6,7 +6,7 @@
   "openalex_name": "Zhi Zheng",
   "affiliation": "Wuhan University",
   "works_count": 55,
-  "cited_by_count": 1331,
+  "cited_by_count": 1303,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 55,
   "works": [
@@ -83,6 +83,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1447379756",
+      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
+      "year": 2015,
+      "date": "2015-09-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3005368745",
       "title": "A Randomized Controlled Trial of an Intelligent Robotic Response to Joint Attention Intervention System",
       "year": 2020,
@@ -147,38 +179,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1447379756",
-      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
-      "year": 2015,
-      "date": "2015-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5015239299",
-          "name": "Eric M. Young"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1999212576",
       "title": "Assessing the Utility of a Virtual Environment for Enhancing Facial Affect Recognition in Adolescents with Autism",
       "year": 2014,
@@ -207,42 +207,6 @@
         {
           "id": "https://openalex.org/A5050040186",
           "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2519261326",
-      "title": "A Robotic Coach Architecture for Elder Care (ROCARE) Based on Multi-User Engagement Models",
-      "year": 2016,
-      "date": "2016-09-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101608873",
-          "name": "Jing Fan"
-        },
-        {
-          "id": "https://openalex.org/A5029522016",
-          "name": "Dayi Bian"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5057241399",
-          "name": "Linda M. Beuscher"
-        },
-        {
-          "id": "https://openalex.org/A5053733868",
-          "name": "PAUL A. NEWHOUSE"
-        },
-        {
-          "id": "https://openalex.org/A5063741907",
-          "name": "Lorraine C. Mion"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -283,6 +247,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2519261326",
+      "title": "A Robotic Coach Architecture for Elder Care (ROCARE) Based on Multi-User Engagement Models",
+      "year": 2016,
+      "date": "2016-09-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101608873",
+          "name": "Jing Fan"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5057241399",
+          "name": "Linda M. Beuscher"
+        },
+        {
+          "id": "https://openalex.org/A5053733868",
+          "name": "PAUL A. NEWHOUSE"
+        },
+        {
+          "id": "https://openalex.org/A5063741907",
+          "name": "Lorraine C. Mion"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1978132485",
       "title": "Brief Report: Development of a Robotic Intervention Platform for Young Children with ASD",
       "year": 2014,
@@ -315,34 +315,6 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3022630120",
-      "title": "A systematic review of mobile health technologies to support self-management of concurrent diabetes and hypertension",
-      "year": 2020,
-      "date": "2020-03-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5058027944",
-          "name": "Wonchan Choi"
-        },
-        {
-          "id": "https://openalex.org/A5015438307",
-          "name": "Shengang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5087302608",
-          "name": "Yura Lee"
-        },
-        {
-          "id": "https://openalex.org/A5047621140",
-          "name": "Hyunkyoung Oh"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
         }
       ]
     },
@@ -407,6 +379,34 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3022630120",
+      "title": "A systematic review of mobile health technologies to support self-management of concurrent diabetes and hypertension",
+      "year": 2020,
+      "date": "2020-03-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058027944",
+          "name": "Wonchan Choi"
+        },
+        {
+          "id": "https://openalex.org/A5015438307",
+          "name": "Shengang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5087302608",
+          "name": "Yura Lee"
+        },
+        {
+          "id": "https://openalex.org/A5047621140",
+          "name": "Hyunkyoung Oh"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
         }
       ]
     },
@@ -731,6 +731,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2774715462",
+      "title": "Both \u201clook and feel\u201d matter: Essential factors for robotic companionship",
+      "year": 2017,
+      "date": "2017-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5057449822",
+          "name": "Shabnam FakhrHosseini"
+        },
+        {
+          "id": "https://openalex.org/A5043697190",
+          "name": "Dylan Lettinga"
+        },
+        {
+          "id": "https://openalex.org/A5051660353",
+          "name": "Eric Vasey"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        },
+        {
+          "id": "https://openalex.org/A5103550416",
+          "name": "Ayanna M. Howard"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W13758144",
       "title": "Responses during Facial Emotional Expression Recognition Tasks Using Virtual Reality and Static IAPS Pictures for Adults with Schizophrenia",
       "year": 2014,
@@ -839,6 +875,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4404345041",
+      "title": "Application of visual feedback and AR-enhanced wheelchair skill training",
+      "year": 2024,
+      "date": "2024-11-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026090307",
+          "name": "Xiongwen Ke"
+        },
+        {
+          "id": "https://openalex.org/A5067326175",
+          "name": "Yong Tai Wang"
+        },
+        {
+          "id": "https://openalex.org/A5065329537",
+          "name": "Aiqiao Shi"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5006383318",
+          "name": "David L. Long"
+        },
+        {
+          "id": "https://openalex.org/A5008975253",
+          "name": "Shihui Chen"
+        },
+        {
+          "id": "https://openalex.org/A5003632963",
+          "name": "Bradford C. Berk"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4366826851",
       "title": "An Exploration of Robot-Mediated Tai Chi Exercise for Older Adults",
       "year": 2023,
@@ -883,42 +955,6 @@
         {
           "id": "https://openalex.org/A5065741205",
           "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2774715462",
-      "title": "Both \u201clook and feel\u201d matter: Essential factors for robotic companionship",
-      "year": 2017,
-      "date": "2017-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101877983",
-          "name": "Seyedeh Maryam Hosseini"
-        },
-        {
-          "id": "https://openalex.org/A5043697190",
-          "name": "Dylan Lettinga"
-        },
-        {
-          "id": "https://openalex.org/A5051660353",
-          "name": "Eric Vasey"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5034235916",
-          "name": "Myounghoon Jeon"
-        },
-        {
-          "id": "https://openalex.org/A5005991642",
-          "name": "Chung Hyuk Park"
-        },
-        {
-          "id": "https://openalex.org/A5103550416",
-          "name": "Ayanna M. Howard"
         }
       ]
     },
@@ -1127,42 +1163,6 @@
         {
           "id": "https://openalex.org/A5065741205",
           "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404345041",
-      "title": "Application of visual feedback and AR-enhanced wheelchair skill training",
-      "year": 2024,
-      "date": "2024-11-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026090307",
-          "name": "Xiongwen Ke"
-        },
-        {
-          "id": "https://openalex.org/A5067326175",
-          "name": "Yong Tai Wang"
-        },
-        {
-          "id": "https://openalex.org/A5065329537",
-          "name": "Aiqiao Shi"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5006383318",
-          "name": "David L. Long"
-        },
-        {
-          "id": "https://openalex.org/A5008975253",
-          "name": "Shihui Chen"
-        },
-        {
-          "id": "https://openalex.org/A5003632963",
-          "name": "Bradford C. Berk"
         }
       ]
     },

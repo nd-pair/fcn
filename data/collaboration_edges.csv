@@ -1,7 +1,7 @@
 faculty_a,faculty_b,coauthored_papers
 Hai Lin,Panos Antsaklis,66
 Mike Lemmon,Panos Antsaklis,30
-Jim Schmiedeler,Pat Wensing,17
+Jim Schmiedeler,Pat Wensing,15
 Bill Goodwine,Jim Schmiedeler,10
 Hai Lin,Pat Wensing,9
 Bill Goodwine,Panos Antsaklis,5
@@ -12,6 +12,7 @@ Fanxin Kong,Mike Lemmon,2
 Hai Lin,Margaret McGuinness,2
 Hai Lin,Meng Jiang,2
 Edgar Bolívar-Nieto,Jim Schmiedeler,1
+Edgar Bolívar-Nieto,Pat Wensing,1
 Hai Lin,Jim Schmiedeler,1
 Hai Lin,Yasemin Ozkan-Aydin,1
 Margaret McGuinness,Yasemin Ozkan-Aydin,1

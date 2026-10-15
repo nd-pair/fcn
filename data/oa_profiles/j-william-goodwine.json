@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5042951623",
   "openalex_name": "Bill Goodwine",
   "affiliation": "University of Notre Dame",
-  "works_count": 135,
-  "cited_by_count": 1760,
+  "works_count": 155,
+  "cited_by_count": 1749,
   "photo": "assets/faculty/j-william-goodwine.jpg",
-  "num_works_fetched": 135,
+  "num_works_fetched": 131,
   "works": [
     {
       "id": "https://openalex.org/W2005140205",
@@ -71,6 +71,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1585140492",
+      "title": "MICAbot: a robotic platform for large-scale distributed robotics",
+      "year": 2004,
+      "date": "2004-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5079169288",
+          "name": "M. Brett McMickell"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5074199849",
+          "name": "Luis A. Montestruque"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1982824121",
       "title": "Control of cyberphysical systems using passivity and dissipativity based methods",
       "year": 2013,
@@ -105,32 +125,8 @@
           "name": "Meng Xia"
         },
         {
-          "id": "https://openalex.org/A5100462713",
-          "name": "Yu Han"
-        },
-        {
           "id": "https://openalex.org/A5031222391",
           "name": "Feng Zhu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1585140492",
-      "title": "MICAbot: a robotic platform for large-scale distributed robotics",
-      "year": 2004,
-      "date": "2004-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5079169288",
-          "name": "M. Brett McMickell"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5074199849",
-          "name": "Luis A. Montestruque"
         }
       ]
     },
@@ -319,50 +315,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2097474540",
-      "title": "Controlling Unstable Rolling Phenomena",
-      "year": 2000,
-      "date": "2000-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5010080709",
-          "name": "G\u00e1bor St\u00e9p\u00e0n"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2034598845",
-      "title": "Regularizing Shear Layer for Adaptive Optics Control Applications",
-      "year": 2005,
-      "date": "2005-06-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5084010923",
-          "name": "Alice M. Nightingale"
-        },
-        {
-          "id": "https://openalex.org/A5040998021",
-          "name": "Stanislav V. Gordeyev"
-        },
-        {
-          "id": "https://openalex.org/A5041911210",
-          "name": "Eric J. Jumper"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5048527073",
-          "name": "John Siegenthaler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2064275246",
       "title": "Vision-Based Control of a Mobile Base and On-Board Arm",
       "year": 2003,
@@ -471,6 +423,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2071859728",
+      "title": "Multiagent coordination exploiting system symmetries",
+      "year": 2010,
+      "date": "2010-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3135716329",
       "title": "Robust gait design for a compass gait biped on slippery surfaces",
       "year": 2021,
@@ -507,30 +475,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2883183014",
-      "title": "Implicit and fractional-derivative operators in infinite networks of integer-order components",
-      "year": 2018,
-      "date": "2018-07-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5036886663",
-          "name": "Mihir Sen"
-        },
-        {
-          "id": "https://openalex.org/A5001323841",
-          "name": "John P. Hollkamp"
-        },
-        {
-          "id": "https://openalex.org/A5007862129",
-          "name": "Fabio Semperlotti"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2098196912",
       "title": "Intrinsic vector-valued symmetric form for simple mechanical control systems in the nonzero velocity setting",
       "year": 2008,
@@ -551,26 +495,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1990626091",
-      "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
-      "year": 2013,
-      "date": "2013-09-23",
+      "id": "https://openalex.org/W2883183014",
+      "title": "Implicit and fractional-derivative operators in infinite networks of integer-order components",
+      "year": 2018,
+      "date": "2018-07-18",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5084010923",
-          "name": "Alice M. Nightingale"
+          "id": "https://openalex.org/A5036886663",
+          "name": "Mihir Sen"
+        },
+        {
+          "id": "https://openalex.org/A5001323841",
+          "name": "John P. Hollkamp"
+        },
+        {
+          "id": "https://openalex.org/A5007862129",
+          "name": "Fabio Semperlotti"
         },
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5041911210",
-          "name": "Eric J. Jumper"
         }
       ]
     },
@@ -655,6 +599,50 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2097474540",
+      "title": "Controlling Unstable Rolling Phenomena",
+      "year": 2000,
+      "date": "2000-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5010080709",
+          "name": "G\u00e1bor St\u00e9p\u00e0n"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2034598845",
+      "title": "Regularizing Shear Layer for Adaptive Optics Control Applications",
+      "year": 2005,
+      "date": "2005-06-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5084010923",
+          "name": "Alice M. Nightingale"
+        },
+        {
+          "id": "https://openalex.org/A5040998021",
+          "name": "Stanislav V. Gordeyev"
+        },
+        {
+          "id": "https://openalex.org/A5041911210",
+          "name": "Eric J. Jumper"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5048527073",
+          "name": "John Siegenthaler"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2729769583",
       "title": "Stratified motion planning with application to robotic finger gaiting",
       "year": 1999,
@@ -667,42 +655,6 @@
         {
           "id": "https://openalex.org/A5002930599",
           "name": "Joel W. Burdick"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2071859728",
-      "title": "Multiagent coordination exploiting system symmetries",
-      "year": 2010,
-      "date": "2010-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2981407045",
-      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
-      "year": 2019,
-      "date": "2019-10-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029245145",
-          "name": "Tan Chen"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
         }
       ]
     },
@@ -739,6 +691,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2981407045",
+      "title": "Robustness and efficiency insights from a mechanical coupling metric for ankle-actuated biped robots",
+      "year": 2019,
+      "date": "2019-10-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029245145",
+          "name": "Tan Chen"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2909367780",
       "title": "Large and Infinite Mass\u2013Spring\u2013Damper Networks",
       "year": 2019,
@@ -755,6 +727,30 @@
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1990626091",
+      "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
+      "year": 2013,
+      "date": "2013-09-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5084010923",
+          "name": "Alice M. Nightingale"
+        },
+        {
+          "id": "https://openalex.org/A5042951623",
+          "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5041911210",
+          "name": "Eric J. Jumper"
         }
       ]
     },
@@ -1551,30 +1547,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4251261396",
-      "title": "Vision-Based Control of a Mobile Base and On-Board Arm",
-      "year": 2003,
-      "date": "2003-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046449148",
-          "name": "Antonio C\u00e1rdenas"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5084146386",
-          "name": "Steven B. Skaar"
-        },
-        {
-          "id": "https://openalex.org/A5058888481",
-          "name": "Mike Seelinger"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2143700371",
       "title": "An algorithm for stopping a class of underactuated nonlinear mechanical robotic systems",
       "year": 2013,
@@ -1887,22 +1859,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4299802468",
-      "title": "Frequency Response and Transfer Functions of Large Self-similar Networks",
-      "year": 2020,
-      "date": "2020-10-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078723285",
-          "name": "Xiangyu Ni"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1009389446",
       "title": "First-Order Ordinary Differential Equations",
       "year": 2010,
@@ -2107,22 +2063,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3111799437",
-      "title": "Damage Identification for The Tree-like Network through Frequency-domain Modeling",
-      "year": 2020,
-      "date": "2020-12-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078723285",
-          "name": "Xiangyu Ni"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3112878709",
       "title": "Damage Modeling for the Tree-Like Network with Fractional-Order Calculus",
       "year": 2022,
@@ -2239,22 +2179,6 @@
         {
           "id": "https://openalex.org/A5073029557",
           "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4293865385",
-      "title": "Damage Modeling for the Tree-Like Network with Fractional-Order Calculus",
-      "year": 2020,
-      "date": "2020-12-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078723285",
-          "name": "Xiangyu Ni"
-        },
-        {
-          "id": "https://openalex.org/A5042951623",
-          "name": "Bill Goodwine"
         }
       ]
     },

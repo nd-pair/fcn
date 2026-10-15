@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-03 03:04 UTC",
+  "generated": "2026-10-15 11:29 UTC",
   "source": "OpenAlex (https://openalex.org)",
   "description": "Physical AI and Robotics Initiative faculty collaboration network. Node size = number of papers co-authored with ND colleagues; edge weight = number of papers the two faculty co-authored.",
   "nodeCount": 19,
-  "edgeCount": 18,
+  "edgeCount": 19,
   "nodes": [
     {
       "id": "Panos Antsaklis",
@@ -37,7 +37,7 @@
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5073029557",
       "photo": "assets/faculty/james-schmiedeler.jpg",
-      "weightedDegree": 29,
+      "weightedDegree": 27,
       "degree": 4,
       "group": 1
     },
@@ -46,8 +46,8 @@
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5029126529",
       "photo": "assets/faculty/patrick-wensing.jpg",
-      "weightedDegree": 27,
-      "degree": 3,
+      "weightedDegree": 26,
+      "degree": 4,
       "group": 1
     },
     {
@@ -96,6 +96,15 @@
       "group": 2
     },
     {
+      "id": "Edgar Bol\u00edvar-Nieto",
+      "affiliation": "University of Notre Dame",
+      "openalex": "https://openalex.org/A5076214359",
+      "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
+      "weightedDegree": 2,
+      "degree": 2,
+      "group": 1
+    },
+    {
       "id": "Fanxin Kong",
       "affiliation": "University of Notre Dame",
       "openalex": "https://openalex.org/A5007560139",
@@ -103,15 +112,6 @@
       "weightedDegree": 2,
       "degree": 1,
       "group": 0
-    },
-    {
-      "id": "Edgar Bol\u00edvar-Nieto",
-      "affiliation": "University of Notre Dame",
-      "openalex": "https://openalex.org/A5076214359",
-      "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
-      "weightedDegree": 1,
-      "degree": 1,
-      "group": 1
     },
     {
       "id": "Nikolaus Correll",
@@ -328,24 +328,6 @@
           "date": "2022-03-04"
         },
         {
-          "id": "https://openalex.org/W3217722183",
-          "title": "Modeling of Hybrid Systems",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
-          "id": "https://openalex.org/W4200110885",
-          "title": "Formal Synthesis",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
-          "id": "https://openalex.org/W3215338932",
-          "title": "Stability and Stabilization",
-          "year": 2021,
-          "date": "2021-11-18"
-        },
-        {
           "id": "https://openalex.org/W4200531256",
           "title": "Formal Verification",
           "year": 2021,
@@ -358,8 +340,26 @@
           "date": "2021-11-18"
         },
         {
+          "id": "https://openalex.org/W3215338932",
+          "title": "Stability and Stabilization",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
           "id": "https://openalex.org/W4200597480",
           "title": "Introduction",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W3217722183",
+          "title": "Modeling of Hybrid Systems",
+          "year": 2021,
+          "date": "2021-11-18"
+        },
+        {
+          "id": "https://openalex.org/W4200110885",
+          "title": "Formal Synthesis",
           "year": 2021,
           "date": "2021-11-18"
         },
@@ -460,14 +460,14 @@
           "date": "2005-07-27"
         },
         {
-          "id": "https://openalex.org/W2084315257",
-          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
+          "id": "https://openalex.org/W2036404606",
+          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
           "year": 2005,
           "date": "2005-01-01"
         },
         {
-          "id": "https://openalex.org/W2036404606",
-          "title": "STABILITY AND H\u221e PERFORMANCE PRESERVING SCHEDULING POLICY FOR NETWORKED CONTROL SYSTEMS",
+          "id": "https://openalex.org/W2084315257",
+          "title": "EXPLICIT HYBRID OPTIMAL CONTROLLER FOR DISTURBANCE ATTENUATION IN LINEAR HYBRID SYSTEMS",
           "year": 2005,
           "date": "2005-01-01"
         },
@@ -484,14 +484,14 @@
           "date": "2004-07-08"
         },
         {
-          "id": "https://openalex.org/W2166330312",
-          "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
+          "id": "https://openalex.org/W1562722129",
+          "title": "Disturbance attenuation properties for discrete-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-06-21"
         },
         {
-          "id": "https://openalex.org/W1562722129",
-          "title": "Disturbance attenuation properties for discrete-time uncertain switched linear systems",
+          "id": "https://openalex.org/W2166330312",
+          "title": "Synthesis of uniformly ultimate boundedness switching laws for discrete-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-06-21"
         },
@@ -508,8 +508,8 @@
           "date": "2004-02-03"
         },
         {
-          "id": "https://openalex.org/W2155969328",
-          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
+          "id": "https://openalex.org/W2142607709",
+          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -526,8 +526,8 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W2142607709",
-          "title": "Disturbance attenuation in classes of uncertain linear hybrid systems",
+          "id": "https://openalex.org/W2155969328",
+          "title": "A necessary and sufficient condition for robust asymptotic stabilizability of continuous-time uncertain switched linear systems",
           "year": 2004,
           "date": "2004-01-01"
         },
@@ -538,14 +538,14 @@
           "date": "2003-11-01"
         },
         {
-          "id": "https://openalex.org/W1506290449",
-          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
+          "id": "https://openalex.org/W2098718154",
+          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
           "year": 2003,
           "date": "2003-08-27"
         },
         {
-          "id": "https://openalex.org/W2098718154",
-          "title": "Controller synthesis for a class of uncertain piecewise linear hybrid dynamical systems",
+          "id": "https://openalex.org/W1506290449",
+          "title": "Robust controlled invariant sets for a class of uncertain hybrid systems",
           "year": 2003,
           "date": "2003-08-27"
         },
@@ -556,6 +556,12 @@
           "date": "2003-06-25"
         },
         {
+          "id": "https://openalex.org/W2157269445",
+          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
+          "year": 2003,
+          "date": "2003-01-01"
+        },
+        {
           "id": "https://openalex.org/W141682072",
           "title": "Robust Regulation of Polytopic Uncertain Linear Hybrid Systems with Networked Control System Applications",
           "year": 2003,
@@ -564,12 +570,6 @@
         {
           "id": "https://openalex.org/W2039015886",
           "title": "Quadratic stabilizability of switched linear systems with polytopic uncertainties",
-          "year": 2003,
-          "date": "2003-01-01"
-        },
-        {
-          "id": "https://openalex.org/W2157269445",
-          "title": "HyStar : A Matlab Toolbox for Robust Regulation of Polytopic Uncertain Piecewise Linear Hybrid Systems",
           "year": 2003,
           "date": "2003-01-01"
         },
@@ -605,14 +605,14 @@
           "date": "2004-01-01"
         },
         {
-          "id": "https://openalex.org/W1568282822",
-          "title": "Hybrid systems and intelligent control",
+          "id": "https://openalex.org/W1927720263",
+          "title": "Event identification in hybrid control systems",
           "year": 2002,
           "date": "2002-12-30"
         },
         {
-          "id": "https://openalex.org/W1927720263",
-          "title": "Event identification in hybrid control systems",
+          "id": "https://openalex.org/W1568282822",
+          "title": "Hybrid systems and intelligent control",
           "year": 2002,
           "date": "2002-12-30"
         },
@@ -623,12 +623,6 @@
           "date": "2002-12-23"
         },
         {
-          "id": "https://openalex.org/W2168331226",
-          "title": "A computationally efficient framework for hybrid controller design",
-          "year": 2002,
-          "date": "2002-12-17"
-        },
-        {
           "id": "https://openalex.org/W1847814538",
           "title": "Digital control from a hybrid perspective",
           "year": 2002,
@@ -637,6 +631,12 @@
         {
           "id": "https://openalex.org/W2124901174",
           "title": "Feedback control of Petri nets based on place invariants",
+          "year": 2002,
+          "date": "2002-12-17"
+        },
+        {
+          "id": "https://openalex.org/W2168331226",
+          "title": "A computationally efficient framework for hybrid controller design",
           "year": 2002,
           "date": "2002-12-17"
         },
@@ -653,8 +653,14 @@
           "date": "2002-11-22"
         },
         {
-          "id": "https://openalex.org/W1533742649",
-          "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
+          "id": "https://openalex.org/W2126888592",
+          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
+          "year": 2002,
+          "date": "2002-11-19"
+        },
+        {
+          "id": "https://openalex.org/W2125291333",
+          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -665,14 +671,8 @@
           "date": "2002-11-19"
         },
         {
-          "id": "https://openalex.org/W2126888592",
-          "title": "Feedback Petri net control design in the presence of uncontrollable transitions",
-          "year": 2002,
-          "date": "2002-11-19"
-        },
-        {
-          "id": "https://openalex.org/W2125291333",
-          "title": "Inductive inference of optimal controllers for uncertain logical discrete event systems",
+          "id": "https://openalex.org/W1533742649",
+          "title": "Automated design of a Petri net feedback controller for a robotic assembly cell",
           "year": 2002,
           "date": "2002-11-19"
         },
@@ -695,14 +695,14 @@
           "date": "1998-01-05"
         },
         {
-          "id": "https://openalex.org/W2727562789",
-          "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
+          "id": "https://openalex.org/W2733303269",
+          "title": "Petri Net Feedback Controller Design for a Manufacturing System",
           "year": 1996,
           "date": "1996-06-01"
         },
         {
-          "id": "https://openalex.org/W2733303269",
-          "title": "Petri Net Feedback Controller Design for a Manufacturing System",
+          "id": "https://openalex.org/W2727562789",
+          "title": "An Invariant based Approach to the Design of Hybrid Control Systems",
           "year": 1996,
           "date": "1996-06-01"
         },
@@ -713,14 +713,14 @@
           "date": "1996-06-01"
         },
         {
-          "id": "https://openalex.org/W4236164983",
-          "title": "Feedback control of petri nets based on place invariants",
+          "id": "https://openalex.org/W1601320657",
+          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
           "year": 1996,
           "date": "1996-01-01"
         },
         {
-          "id": "https://openalex.org/W1601320657",
-          "title": "An invariant based approach to the design of hybrid control systems containing clocks",
+          "id": "https://openalex.org/W4236164983",
+          "title": "Feedback control of petri nets based on place invariants",
           "year": 1996,
           "date": "1996-01-01"
         },
@@ -737,12 +737,6 @@
           "date": "1995-02-01"
         },
         {
-          "id": "https://openalex.org/W1524165851",
-          "title": "Interface and controller design for hybrid control systems",
-          "year": 1995,
-          "date": "1995-01-01"
-        },
-        {
           "id": "https://openalex.org/W2138456650",
           "title": "On the supremal controllable sublanguage in the discrete-event model of nondeterministic hybrid control systems",
           "year": 1995,
@@ -751,6 +745,12 @@
         {
           "id": "https://openalex.org/W1920642675",
           "title": "Constructing hybrid control systems from robust linear control agents",
+          "year": 1995,
+          "date": "1995-01-01"
+        },
+        {
+          "id": "https://openalex.org/W1524165851",
+          "title": "Interface and controller design for hybrid control systems",
           "year": 1995,
           "date": "1995-01-01"
         },
@@ -771,19 +771,13 @@
     {
       "source": "Jim Schmiedeler",
       "target": "Pat Wensing",
-      "weight": 17,
+      "weight": 15,
       "papers": [
         {
           "id": "https://openalex.org/W7214069296",
           "title": "Phase Variable Impedance Hybrid Volitional Control for Transtibial Prostheses",
           "year": 2026,
           "date": "2026-01-01"
-        },
-        {
-          "id": "https://openalex.org/W4412774242",
-          "title": "Phase Variable Impedance Hybrid Volitional Control for Transtibial Prostheses",
-          "year": 2025,
-          "date": "2025-07-31"
         },
         {
           "id": "https://openalex.org/W4401416566",
@@ -804,20 +798,14 @@
           "date": "2023-10-01"
         },
         {
-          "id": "https://openalex.org/W4387210324",
-          "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
-          "year": 2023,
-          "date": "2023-09-27"
-        },
-        {
-          "id": "https://openalex.org/W4382994864",
-          "title": "Data-efficient human walking speed intent identification",
+          "id": "https://openalex.org/W4381327754",
+          "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
           "year": 2023,
           "date": "2023-01-01"
         },
         {
-          "id": "https://openalex.org/W4381327754",
-          "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
+          "id": "https://openalex.org/W4382994864",
+          "title": "Data-efficient human walking speed intent identification",
           "year": 2023,
           "date": "2023-01-01"
         },
@@ -1194,6 +1182,19 @@
       ]
     },
     {
+      "source": "Edgar Bol\u00edvar-Nieto",
+      "target": "Pat Wensing",
+      "weight": 1,
+      "papers": [
+        {
+          "id": "https://openalex.org/W7126052509",
+          "title": "Task-Space Control for Powered Knee-Ankle Prostheses: Subject Trial Repository",
+          "year": 2026,
+          "date": "2026-01-01"
+        }
+      ]
+    },
+    {
       "source": "Hai Lin",
       "target": "Jim Schmiedeler",
       "weight": 1,
@@ -1261,6 +1262,16 @@
   ],
   "news": [
     {
+      "id": "https://openalex.org/W7126052509",
+      "title": "Task-Space Control for Powered Knee-Ankle Prostheses: Subject Trial Repository",
+      "year": 2026,
+      "date": "2026-01-01",
+      "faculty": [
+        "Edgar Bol\u00edvar-Nieto",
+        "Pat Wensing"
+      ]
+    },
+    {
       "id": "https://openalex.org/W7214069296",
       "title": "Phase Variable Impedance Hybrid Volitional Control for Transtibial Prostheses",
       "year": 2026,
@@ -1288,16 +1299,6 @@
       "faculty": [
         "Hai Lin",
         "Panos Antsaklis"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412774242",
-      "title": "Phase Variable Impedance Hybrid Volitional Control for Transtibial Prostheses",
-      "year": 2025,
-      "date": "2025-07-31",
-      "faculty": [
-        "Jim Schmiedeler",
-        "Pat Wensing"
       ]
     },
     {

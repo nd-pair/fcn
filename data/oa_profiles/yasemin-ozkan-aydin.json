@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5031304323",
   "openalex_name": "Yasemin Ozkan-Aydin",
   "affiliation": "University of Notre Dame",
-  "works_count": 89,
-  "cited_by_count": 1244,
+  "works_count": 80,
+  "cited_by_count": 1207,
   "photo": "assets/faculty/yasemin-ozkan-aydin.jpeg",
-  "num_works_fetched": 88,
+  "num_works_fetched": 78,
   "works": [
     {
       "id": "https://openalex.org/W3169610371",
@@ -158,7 +158,7 @@
         },
         {
           "id": "https://openalex.org/A5001457356",
-          "name": "William Bluethmann"
+          "name": "William J. Bluethmann"
         },
         {
           "id": "https://openalex.org/A5112227529",
@@ -323,6 +323,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3198160687",
+      "title": "Lateral bending and buckling aids biological and robotic earthworm anchoring and locomotion",
+      "year": 2021,
+      "date": "2021-09-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5032514527",
+          "name": "Bangyuan Liu"
+        },
+        {
+          "id": "https://openalex.org/A5018154677",
+          "name": "Alexandra Carruthers"
+        },
+        {
+          "id": "https://openalex.org/A5040703846",
+          "name": "Max Seidel"
+        },
+        {
+          "id": "https://openalex.org/A5044726844",
+          "name": "Frank L. Hammond"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3126734155",
       "title": "Coordination of lateral body bending and leg movements for sprawled posture quadrupedal locomotion",
       "year": 2021,
@@ -419,38 +451,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3198160687",
-      "title": "Lateral bending and buckling aids biological and robotic earthworm anchoring and locomotion",
-      "year": 2021,
-      "date": "2021-09-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5032514527",
-          "name": "Bangyuan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5068303360",
-          "name": "Alexandra Carruthers Ferrero"
-        },
-        {
-          "id": "https://openalex.org/A5040703846",
-          "name": "Max Seidel"
-        },
-        {
-          "id": "https://openalex.org/A5044726844",
-          "name": "Frank L. Hammond"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4229457810",
       "title": "A general locomotion control framework for multi-legged locomotors",
       "year": 2022,
@@ -493,8 +493,8 @@
           "name": "Ciera McFarland"
         },
         {
-          "id": "https://openalex.org/A5071983941",
-          "name": "Kelimar Diaz Cruz"
+          "id": "https://openalex.org/A5085765881",
+          "name": "Kelimar Diaz"
         },
         {
           "id": "https://openalex.org/A5003547666",
@@ -987,6 +987,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4386126125",
+      "title": "The effect of tail stiffness on a sprawling quadruped locomotion",
+      "year": 2023,
+      "date": "2023-08-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030397890",
+          "name": "Josh Buckley"
+        },
+        {
+          "id": "https://openalex.org/A5012726821",
+          "name": "Nnamdi Chikere"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3191304480",
       "title": "Field-mediated locomotor dynamics on highly deformable surfaces",
       "year": 2022,
@@ -1027,26 +1047,6 @@
         {
           "id": "https://openalex.org/A5078622216",
           "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4386126125",
-      "title": "The effect of tail stiffness on a sprawling quadruped locomotion",
-      "year": 2023,
-      "date": "2023-08-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030397890",
-          "name": "Josh Buckley"
-        },
-        {
-          "id": "https://openalex.org/A5012726821",
-          "name": "Nnamdi Chikere"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -1287,158 +1287,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3126274374",
-      "title": "Lateral Undulation Aids Biological and Robotic Earthworm Anchoring and Locomotion",
-      "year": 2021,
-      "date": "2021-02-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5032514527",
-          "name": "Bangyuan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5068303360",
-          "name": "Alexandra Carruthers Ferrero"
-        },
-        {
-          "id": "https://openalex.org/A5040703846",
-          "name": "Max Seidel"
-        },
-        {
-          "id": "https://openalex.org/A5044726844",
-          "name": "Frank L. Hammond"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3022214312",
-      "title": "Mechanism and function of root circumnutation",
-      "year": 2020,
-      "date": "2020-05-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042704373",
-          "name": "Isaiah W. Taylor"
-        },
-        {
-          "id": "https://openalex.org/A5060739152",
-          "name": "Kevin R. Lehner"
-        },
-        {
-          "id": "https://openalex.org/A5041821078",
-          "name": "Erin N. McCaskey"
-        },
-        {
-          "id": "https://openalex.org/A5022360657",
-          "name": "Niba A. Nirmal"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5050530370",
-          "name": "Mason Murray-Cooper"
-        },
-        {
-          "id": "https://openalex.org/A5045077990",
-          "name": "Rashmi Jain"
-        },
-        {
-          "id": "https://openalex.org/A5088329417",
-          "name": "Elliot Wright Hawkes"
-        },
-        {
-          "id": "https://openalex.org/A5056619719",
-          "name": "Pamela C. Ronald"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5039989537",
-          "name": "Philip N. Benfey"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3177817451",
-      "title": "Emergent collective locomotion in an active polymer model of entangled worm blobs",
-      "year": 2021,
-      "date": "2021-07-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5041068345",
-          "name": "Chantal Nguyen"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5007494495",
-          "name": "Harry Tuazon"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5056101663",
-          "name": "M. Saad Bhamla"
-        },
-        {
-          "id": "https://openalex.org/A5084209472",
-          "name": "Orit Peleg"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4225957457",
-      "title": "Locomotion without force, and impulse via dissipation: Robotic swimming in curved space via geometric phase",
-      "year": 2021,
-      "date": "2021-12-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5058768287",
-          "name": "Shengkai Li"
-        },
-        {
-          "id": "https://openalex.org/A5100417440",
-          "name": "Tianyu Wang"
-        },
-        {
-          "id": "https://openalex.org/A5063564090",
-          "name": "Velin Kojouharov"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5050839970",
-          "name": "D. Zeb Rocklin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4364383455",
       "title": "Design of Soft, Modular Appendages for a Bio-inspired Multi-Legged Terrestrial Robot",
       "year": 2023,
@@ -1646,7 +1494,7 @@
         },
         {
           "id": "https://openalex.org/A5001457356",
-          "name": "William Bluethmann"
+          "name": "William J. Bluethmann"
         },
         {
           "id": "https://openalex.org/A5112227529",
@@ -1669,8 +1517,8 @@
           "name": "Kirsty Y. Wan"
         },
         {
-          "id": "https://openalex.org/A5071983941",
-          "name": "Kelimar Diaz Cruz"
+          "id": "https://openalex.org/A5085765881",
+          "name": "Kelimar Diaz"
         },
         {
           "id": "https://openalex.org/A5031304323",
@@ -2066,7 +1914,7 @@
         },
         {
           "id": "https://openalex.org/A5001457356",
-          "name": "William Bluethmann"
+          "name": "William J. Bluethmann"
         },
         {
           "id": "https://openalex.org/A5112227529",
@@ -2109,8 +1957,8 @@
           "name": "Rashmi Jain"
         },
         {
-          "id": "https://openalex.org/A5142421456",
-          "name": "Elliot W. Hawkes"
+          "id": "https://openalex.org/A5088329417",
+          "name": "Elliot Wright Hawkes"
         },
         {
           "id": "https://openalex.org/A5041821078",
@@ -2247,34 +2095,6 @@
         {
           "id": "https://openalex.org/A5078622216",
           "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3139517183",
-      "title": "A minimal robophysical model of quadriflagellate self-propulsion",
-      "year": 2021,
-      "date": "2021-03-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085765881",
-          "name": "Kelimar Diaz"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5031324391",
-          "name": "Kirsty Y. Wan"
         }
       ]
     },
@@ -2449,8 +2269,8 @@
           "name": "Nikolaus Correll"
         },
         {
-          "id": "https://openalex.org/A5015851633",
-          "name": "U. Daalkhaijav"
+          "id": "https://openalex.org/A5045997079",
+          "name": "Uranbileg Daalkhaijav"
         },
         {
           "id": "https://openalex.org/A5111432487",
@@ -2481,7 +2301,7 @@
           "name": "Christian M. Hubicki"
         },
         {
-          "id": "https://openalex.org/A5100986958",
+          "id": "https://openalex.org/A5101577450",
           "name": "Hiroshi Ishii"
         },
         {
@@ -2541,7 +2361,7 @@
           "name": "Todd D. Murphey"
         },
         {
-          "id": "https://openalex.org/A5103687624",
+          "id": "https://openalex.org/A5065659757",
           "name": "Kohei Nakajima"
         },
         {
@@ -2617,8 +2437,8 @@
           "name": "Lining Yao"
         },
         {
-          "id": "https://openalex.org/A5023601964",
-          "name": "O.D. Yirmibe\u015fo\u011flu"
+          "id": "https://openalex.org/A5009175888",
+          "name": "Osman Do\u011fan Yirmibe\u015fo\u011flu"
         },
         {
           "id": "https://openalex.org/A5100326064",
@@ -2643,82 +2463,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4365211416",
-      "title": "The Effect of Tail Stiffness on a Sprawling Quadruped Locomotion",
-      "year": 2023,
-      "date": "2023-04-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030397890",
-          "name": "Josh Buckley"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4386907195",
       "title": "Adjustbot: Bio-Inspired Quadruped Robot with Adjustable Posture and Undulated Body for Challenging Terradynamic Tasks",
       "year": 2023,
       "date": "2023-09-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063375023",
-          "name": "Saurav Kumar Dutta"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4386908246",
-      "title": "Machine Learning-Driven Burrowing with a Snake-Like Robot",
-      "year": 2023,
-      "date": "2023-09-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5034900098",
-          "name": "Sean Even"
-        },
-        {
-          "id": "https://openalex.org/A5043776440",
-          "name": "Holden Gordon"
-        },
-        {
-          "id": "https://openalex.org/A5026611490",
-          "name": "Hoeseok Yang"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4394769951",
-      "title": "A Bio-Inspired Adjustable Posture Quadruped Robot with Laterally Undulating Spine for Terradynamically Challenging Environments",
-      "year": 2024,
-      "date": "2024-04-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063375023",
-          "name": "Saurav Kumar Dutta"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4400181663",
-      "title": "A Bio-Inspired Adjustable Posture Quadruped Robot with Laterally Undulating Spine for Terradynamically Challenging Environments",
-      "year": 2024,
-      "date": "2024-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5063375023",
@@ -2751,30 +2499,6 @@
         {
           "id": "https://openalex.org/A5053773781",
           "name": "Peter Schr\u00f6der"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4405253433",
-      "title": "Flagellar Swimming at Low Reynolds Numbers: Zoospore-Inspired Robotic Swimmers with Dual Flagella for High-Speed Locomotion",
-      "year": 2024,
-      "date": "2024-12-07",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012726821",
-          "name": "Nnamdi Chikere"
-        },
-        {
-          "id": "https://openalex.org/A5115087094",
-          "name": "Sofia Lozano Voticky"
-        },
-        {
-          "id": "https://openalex.org/A5090066042",
-          "name": "Quang D. Tran"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },

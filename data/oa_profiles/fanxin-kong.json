@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5007560139",
   "openalex_name": "Fanxin Kong",
   "affiliation": "University of Notre Dame",
-  "works_count": 85,
-  "cited_by_count": 2871,
+  "works_count": 83,
+  "cited_by_count": 2849,
   "photo": "assets/faculty/fanxin-kong.jpg",
-  "num_works_fetched": 85,
+  "num_works_fetched": 83,
   "works": [
     {
       "id": "https://openalex.org/W2807133510",
@@ -491,22 +491,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2246825951",
-      "title": "Distributed Deadline and Renewable Aware Electric Vehicle Demand Response in the Smart Grid",
-      "year": 2015,
-      "date": "2015-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100372152",
-          "name": "Xue Liu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3123597170",
       "title": "A Data-Driven Model Predictive Control for Alleviating Thermal Overloads in the Presence of Possible False Data",
       "year": 2021,
@@ -775,34 +759,54 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2015020077",
-      "title": "Auc2Charge",
-      "year": 2015,
-      "date": "2015-07-13",
+      "id": "https://openalex.org/W4393224642",
+      "title": "Recovery from Adversarial Attacks in Cyber-physical Systems: Shallow, Deep, and Exploratory Works",
+      "year": 2024,
+      "date": "2024-03-27",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5015404751",
-          "name": "Qiao Xiang"
+          "id": "https://openalex.org/A5081521997",
+          "name": "Pengyuan Lu"
+        },
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5100761835",
+          "name": "Mengyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5043161001",
+          "name": "Kaustubh Sridhar"
+        },
+        {
+          "id": "https://openalex.org/A5082105260",
+          "name": "Oleg V. Sokolsky"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5100759705",
+          "id": "https://openalex.org/A5030456600",
+          "name": "Insup Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2246825951",
+      "title": "Distributed Deadline and Renewable Aware Electric Vehicle Demand Response in the Smart Grid",
+      "year": 2015,
+      "date": "2015-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100372152",
           "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100329931",
-          "name": "Xi Chen"
-        },
-        {
-          "id": "https://openalex.org/A5072308822",
-          "name": "Linghe Kong"
-        },
-        {
-          "id": "https://openalex.org/A5103403997",
-          "name": "Lei Rao"
         }
       ]
     },
@@ -854,7 +858,7 @@
         },
         {
           "id": "https://openalex.org/A5030401140",
-          "name": "Romesh S. Prasad"
+          "name": "Romesh Prasad"
         },
         {
           "id": "https://openalex.org/A5087208536",
@@ -863,6 +867,34 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2015020077",
+      "title": "Auc2Charge",
+      "year": 2015,
+      "date": "2015-07-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015404751",
+          "name": "Qiao Xiang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100759705",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5072308822",
+          "name": "Linghe Kong"
+        },
+        {
+          "id": "https://openalex.org/A5103403997",
+          "name": "Lei Rao"
         }
       ]
     },
@@ -1087,30 +1119,6 @@
         {
           "id": "https://openalex.org/A5012961763",
           "name": "Xingshe Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5100329931",
-          "name": "Xi Chen"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2005523924",
-      "title": "Green power analysis for Geographical Load Balancing based datacenters",
-      "year": 2013,
-      "date": "2013-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5070447278",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5025405598",
-          "name": "Haibo Zeng"
         }
       ]
     },
@@ -1187,42 +1195,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4393224642",
-      "title": "Recovery from Adversarial Attacks in Cyber-physical Systems: Shallow, Deep, and Exploratory Works",
-      "year": 2024,
-      "date": "2024-03-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5081521997",
-          "name": "Pengyuan Lu"
-        },
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100761835",
-          "name": "Mengyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5043161001",
-          "name": "Kaustubh Sridhar"
-        },
-        {
-          "id": "https://openalex.org/A5082105260",
-          "name": "Oleg V. Sokolsky"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5030456600",
-          "name": "Insup Lee"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2805401729",
       "title": "Joint Rate Control and Demand Balancing for Electric Vehicle Charging",
       "year": 2018,
@@ -1267,6 +1239,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2775898841",
+      "title": "Sustainable Transportation with Electric Vehicles",
+      "year": 2017,
+      "date": "2017-12-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2020053814",
       "title": "Datacenter Power Management in Smart Grids",
       "year": 2015,
@@ -1283,18 +1267,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2775898841",
-      "title": "Sustainable Transportation with Electric Vehicles",
-      "year": 2017,
-      "date": "2017-12-18",
+      "id": "https://openalex.org/W2005523924",
+      "title": "Green power analysis for Geographical Load Balancing based datacenters",
+      "year": 2013,
+      "date": "2013-06-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5100951415",
+          "id": "https://openalex.org/A5070447278",
           "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5025405598",
+          "name": "Haibo Zeng"
         }
       ]
     },
@@ -1339,6 +1327,34 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4224115426",
+      "title": "Attack-resilient Fusion of Sensor Data with Uncertain Delays",
+      "year": 2022,
+      "date": "2022-04-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066658595",
+          "name": "Yanfeng Chen"
+        },
+        {
+          "id": "https://openalex.org/A5100425864",
+          "name": "Tianyu Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1427,34 +1443,6 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4224115426",
-      "title": "Attack-resilient Fusion of Sensor Data with Uncertain Delays",
-      "year": 2022,
-      "date": "2022-04-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066658595",
-          "name": "Yanfeng Chen"
-        },
-        {
-          "id": "https://openalex.org/A5100425864",
-          "name": "Tianyu Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1661,10 +1649,6 @@
           "name": "Pengyuan Lu"
         },
         {
-          "id": "https://openalex.org/A5100363116",
-          "name": "Xin Chen"
-        },
-        {
           "id": "https://openalex.org/A5082105260",
           "name": "Oleg V. Sokolsky"
         },
@@ -1703,10 +1687,6 @@
         {
           "id": "https://openalex.org/A5100372152",
           "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5100329900",
-          "name": "Xi Chen"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1903,30 +1883,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2952981919",
-      "title": "Smart Charging for Electric Vehicles: A Survey From the Algorithmic Perspective",
-      "year": 2016,
-      "date": "2016-07-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100603536",
-          "name": "Qinglong Wang"
-        },
-        {
-          "id": "https://openalex.org/A5100527942",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5101424570",
-          "name": "Jian Du"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4300670983",
       "title": "Datacenter Power Management in Smart Grids",
       "year": 2015,
@@ -1979,10 +1935,6 @@
         {
           "id": "https://openalex.org/A5081521997",
           "name": "Pengyuan Lu"
-        },
-        {
-          "id": "https://openalex.org/A5100363116",
-          "name": "Xin Chen"
         },
         {
           "id": "https://openalex.org/A5082105260",
@@ -2044,18 +1996,6 @@
           "id": "https://openalex.org/A5126950241",
           "name": "Mengyu Liu"
         },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7161784363",
-      "title": "Sustainable computing and computing for sustainability",
-      "year": 2017,
-      "date": "2017-01-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"

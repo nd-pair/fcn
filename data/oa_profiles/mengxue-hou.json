@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5063884621",
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
-  "works_count": 35,
-  "cited_by_count": 181,
+  "works_count": 32,
+  "cited_by_count": 176,
   "photo": "assets/faculty/mengxue-hou.jpg",
-  "num_works_fetched": 35,
+  "num_works_fetched": 32,
   "works": [
     {
       "id": "https://openalex.org/W4406864698",
@@ -65,56 +65,12 @@
           "name": "Mengxue Hou"
         },
         {
-          "id": "https://openalex.org/A5113083211",
+          "id": "https://openalex.org/A5004644695",
           "name": "Shuran Song"
         },
         {
-          "id": "https://openalex.org/A5051997905",
+          "id": "https://openalex.org/A5103033393",
           "name": "Carl Vondrick"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2907924447",
-      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
-      "year": 2018,
-      "date": "2018-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032499799",
-          "name": "Qiuyang Tao"
-        },
-        {
-          "id": "https://openalex.org/A5070056911",
-          "name": "Jaeseok Cha"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3120735816",
-      "title": "Modeling and Identification of Coupled Translational and Rotational Motion of Underactuated Indoor Miniature Autonomous Blimps",
-      "year": 2020,
-      "date": "2020-12-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032499799",
-          "name": "Qiuyang Tao"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
         }
       ]
     },
@@ -139,6 +95,26 @@
         {
           "id": "https://openalex.org/A5030894761",
           "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3120735816",
+      "title": "Modeling and Identification of Coupled Translational and Rotational Motion of Underactuated Indoor Miniature Autonomous Blimps",
+      "year": 2020,
+      "date": "2020-12-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
         }
       ]
     },
@@ -239,6 +215,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2907924447",
+      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
+      "year": 2018,
+      "date": "2018-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5070056911",
+          "name": "Jaeseok Cha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4294405895",
       "title": "Method of evolving junction on optimal path planning in flows fields",
       "year": 2022,
@@ -291,6 +291,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3154958406",
+      "title": "Bounded Cost HTN Planning for Marine Autonomy",
+      "year": 2020,
+      "date": "2020-10-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101441653",
+          "name": "Tony X. Lin"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        },
+        {
+          "id": "https://openalex.org/A5068596523",
+          "name": "Michael Thomas Cox"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3207900478",
       "title": "Belief Space Partitioning for Symbolic Motion Planning",
       "year": 2021,
@@ -307,10 +335,6 @@
         {
           "id": "https://openalex.org/A5102878627",
           "name": "Haomin Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5118983736",
-          "name": "Wei Dong Zhang"
         },
         {
           "id": "https://openalex.org/A5030894761",
@@ -343,34 +367,6 @@
         {
           "id": "https://openalex.org/A5030894761",
           "name": "Catherine Edwards"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3154958406",
-      "title": "Bounded Cost HTN Planning for Marine Autonomy",
-      "year": 2020,
-      "date": "2020-10-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101441653",
-          "name": "Tony X. Lin"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5030894761",
-          "name": "Catherine Edwards"
-        },
-        {
-          "id": "https://openalex.org/A5068596523",
-          "name": "Michael T. Cox"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
         }
       ]
     },
@@ -635,50 +631,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4386010265",
-      "title": "Mori-Zwanzig Approach for Belief Abstraction with Application to Belief Space Planning",
-      "year": 2023,
-      "date": "2023-08-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5101441653",
-          "name": "Tony X. Lin"
-        },
-        {
-          "id": "https://openalex.org/A5083807807",
-          "name": "Enlu Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4393178475",
-      "title": "OceanPlan: Hierarchical Planning and Replanning for Natural Language AUV Piloting in Large-scale Unexplored Ocean Environments",
-      "year": 2024,
-      "date": "2024-03-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5040769000",
-          "name": "Ruochu Yang"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4403357010",
       "title": "Dynamic event-triggered integrated task and motion planning for process-aware source seeking",
       "year": 2024,
@@ -699,30 +651,6 @@
         {
           "id": "https://openalex.org/A5068994727",
           "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404307854",
-      "title": "Self-Improving Autonomous Underwater Manipulation",
-      "year": 2024,
-      "date": "2024-10-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5017865140",
-          "name": "Ruoshi Liu"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5113083211",
-          "name": "Shuran Song"
-        },
-        {
-          "id": "https://openalex.org/A5051997905",
-          "name": "Carl Vondrick"
         }
       ]
     },
@@ -789,7 +717,7 @@
           "name": "Yu Zhou"
         },
         {
-          "id": "https://openalex.org/A5101870596",
+          "id": "https://openalex.org/A5068994727",
           "name": "Fumin Zhang"
         },
         {

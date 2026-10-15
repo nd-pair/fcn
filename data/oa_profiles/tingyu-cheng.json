@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5011017276",
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
-  "works_count": 45,
-  "cited_by_count": 710,
+  "works_count": 44,
+  "cited_by_count": 712,
   "photo": "assets/faculty/tingyu-cheng.jpg",
-  "num_works_fetched": 45,
+  "num_works_fetched": 44,
   "works": [
     {
       "id": "https://openalex.org/W2795511690",
@@ -301,10 +301,6 @@
       "date": "2020-02-05",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5100609547",
-          "name": "Christopher S. Chen"
-        },
-        {
           "id": "https://openalex.org/A5060464750",
           "name": "David M. Howard"
         },
@@ -493,10 +489,6 @@
           "name": "Clement Zheng"
         },
         {
-          "id": "https://openalex.org/A5110856282",
-          "name": "Wei Wang"
-        },
-        {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
         }
@@ -611,6 +603,62 @@
         {
           "id": "https://openalex.org/A5080282367",
           "name": "Vikram Iyer"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410427641",
+      "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
+      "year": 2025,
+      "date": "2025-05-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5056021955",
+          "name": "Luyao Huang"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5072375914",
+          "name": "Xianzhe Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5052624521",
+          "name": "Haichao Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5022363109",
+          "name": "Yuanqiao Li"
+        },
+        {
+          "id": "https://openalex.org/A5101902368",
+          "name": "Zhi Qiang Xu"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5005819096",
+          "name": "Yun Fu"
+        },
+        {
+          "id": "https://openalex.org/A5018630603",
+          "name": "Yongmin Liu"
+        },
+        {
+          "id": "https://openalex.org/A5026852792",
+          "name": "Josiah D. Hester"
+        },
+        {
+          "id": "https://openalex.org/A5100434713",
+          "name": "Jun Li"
+        },
+        {
+          "id": "https://openalex.org/A5028366101",
+          "name": "Hongli Zhu"
         }
       ]
     },
@@ -935,62 +983,6 @@
         {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4410427641",
-      "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
-      "year": 2025,
-      "date": "2025-05-16",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5056021955",
-          "name": "Luyao Huang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5072375914",
-          "name": "Xianzhe Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5052624521",
-          "name": "Haichao Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5022363109",
-          "name": "Yuanqiao Li"
-        },
-        {
-          "id": "https://openalex.org/A5101902368",
-          "name": "Zhi Qiang Xu"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5005379781",
-          "name": "Yun Fu"
-        },
-        {
-          "id": "https://openalex.org/A5018630603",
-          "name": "Yongmin Liu"
-        },
-        {
-          "id": "https://openalex.org/A5026852792",
-          "name": "Josiah D. Hester"
-        },
-        {
-          "id": "https://openalex.org/A5100434713",
-          "name": "Jun Li"
-        },
-        {
-          "id": "https://openalex.org/A5028366101",
-          "name": "Hongli Zhu"
         }
       ]
     },
@@ -1537,7 +1529,7 @@
           "name": "Cheng Zhang"
         },
         {
-          "id": "https://openalex.org/A5113688284",
+          "id": "https://openalex.org/A5063453660",
           "name": "Paul Lukowicz"
         },
         {
@@ -1661,7 +1653,7 @@
           "name": "Dakuo Wang"
         },
         {
-          "id": "https://openalex.org/A5135513775",
+          "id": "https://openalex.org/A5066796307",
           "name": "Xuhai Xu"
         }
       ]
@@ -1691,62 +1683,6 @@
         {
           "id": "https://openalex.org/A5141243656",
           "name": "Tiesong Zhao"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7171733747",
-      "title": "Biohybrid Robots with Embedded Conductive Fibers for Actuation, Sensing, and Closed-loop Control",
-      "year": 2026,
-      "date": "2026-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012723797",
-          "name": "Xinran Xie"
-        },
-        {
-          "id": "https://openalex.org/A5069459679",
-          "name": "Yuhui Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5005891623",
-          "name": "Ruiheng Wu"
-        },
-        {
-          "id": "https://openalex.org/A5133027748",
-          "name": "Wenjia Xu"
-        },
-        {
-          "id": "https://openalex.org/A5033803832",
-          "name": "Michael J. Bennington"
-        },
-        {
-          "id": "https://openalex.org/A5027064333",
-          "name": "Rachel E. Daso"
-        },
-        {
-          "id": "https://openalex.org/A5133016885",
-          "name": "Junyi Liu"
-        },
-        {
-          "id": "https://openalex.org/A5081408307",
-          "name": "Abhijith Surendran"
-        },
-        {
-          "id": "https://openalex.org/A5026852792",
-          "name": "Josiah D. Hester"
-        },
-        {
-          "id": "https://openalex.org/A5007509117",
-          "name": "Victoria A. Webster\u2010Wood"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5066036682",
-          "name": "Jonathan Rivnay"
         }
       ]
     },

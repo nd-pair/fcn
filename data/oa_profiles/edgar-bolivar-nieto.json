@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5076214359",
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
-  "works_count": 29,
-  "cited_by_count": 481,
+  "works_count": 35,
+  "cited_by_count": 438,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
-  "num_works_fetched": 29,
+  "num_works_fetched": 32,
   "works": [
     {
       "id": "https://openalex.org/W2963106632",
@@ -103,6 +103,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2769825647",
+      "title": "A General Framework for Minimizing Energy Consumption of Series Elastic Actuators With Regeneration",
+      "year": 2017,
+      "date": "2017-10-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4285102452",
       "title": "Stair Ascent Phase-Variable Control of a Powered Knee-Ankle Prosthesis",
       "year": 2022,
@@ -119,26 +139,6 @@
         {
           "id": "https://openalex.org/A5034840911",
           "name": "T. Kevin Best"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2769825647",
-      "title": "A General Framework for Minimizing Energy Consumption of Series Elastic Actuators With Regeneration",
-      "year": 2017,
-      "date": "2017-10-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5065372242",
-          "name": "Siavash Rezazadeh"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -199,26 +199,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3193601395",
-      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
-      "year": 2021,
-      "date": "2021-08-09",
+      "id": "https://openalex.org/W4412605479",
+      "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
+      "year": 2025,
+      "date": "2025-07-23",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5048122826",
-          "name": "Daphna Raz"
+          "id": "https://openalex.org/A5114367867",
+          "name": "Myia Dickens"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         },
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5054418471",
-          "name": "Necmiye \u00d6zay"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
         }
       ]
     },
@@ -295,26 +291,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4412605479",
-      "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
-      "year": 2025,
-      "date": "2025-07-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114367867",
-          "name": "Myia Dickens"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4200413691",
       "title": "Convex Optimization for Spring Design in Series Elastic Actuators: From Theory to Practice",
       "year": 2021,
@@ -330,7 +306,103 @@
         },
         {
           "id": "https://openalex.org/A5075910975",
-          "name": "Elliott J. Rouse"
+          "name": "Elliott Jay Rouse"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413415012",
+      "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
+      "year": 2025,
+      "date": "2025-08-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7135025937",
+      "title": "Ion\u2010Pair\u2010Tuned Ionogels for Broad\u2010Range Linear Pressure Sensing",
+      "year": 2026,
+      "date": "2026-03-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5070883033",
+          "name": "Hyeonseo Joo"
+        },
+        {
+          "id": "https://openalex.org/A5044232156",
+          "name": "Tianhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5101757403",
+          "name": "Yumin Dai"
+        },
+        {
+          "id": "https://openalex.org/A5091114127",
+          "name": "Seokkyoon Hong"
+        },
+        {
+          "id": "https://openalex.org/A5128867853",
+          "name": "Axel Gonz\u00e1lez Cornejo"
+        },
+        {
+          "id": "https://openalex.org/A5128876759",
+          "name": "Tristan Michael Long"
+        },
+        {
+          "id": "https://openalex.org/A5049733448",
+          "name": "Sang Mok Park"
+        },
+        {
+          "id": "https://openalex.org/A5027616549",
+          "name": "Pete S Kollbaum"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5049431271",
+          "name": "Young L. Kim"
+        },
+        {
+          "id": "https://openalex.org/A5059437431",
+          "name": "Dong Rip Kim"
+        },
+        {
+          "id": "https://openalex.org/A5088885773",
+          "name": "Chi Hwan Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3193601395",
+      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
+      "year": 2021,
+      "date": "2021-08-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048122826",
+          "name": "Daphna Raz"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5054418471",
+          "name": "Necmiye \u00d6zay"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -359,22 +431,6 @@
       "title": "Center of mass estimation during non-cyclic activities: Comparison of marker-based methods and their fusion with ground reaction forces",
       "year": 2025,
       "date": "2025-05-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5083376323",
-          "name": "Mohsen Alizadeh Noghani"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413415012",
-      "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
-      "year": 2025,
-      "date": "2025-08-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -491,15 +547,11 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4404988195",
-      "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
-      "year": 2024,
-      "date": "2024-11-25",
+      "id": "https://openalex.org/W1928552939",
+      "title": "Presencia y consolidaci\u00f3n en la pol\u00edtica cultural",
+      "year": 2012,
+      "date": "2012-11-14",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5083376323",
-          "name": "Mohsen Alizadeh Noghani"
-        },
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
@@ -643,6 +695,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W7126052509",
+      "title": "Task-Space Control for Powered Knee-Ankle Prostheses: Subject Trial Repository",
+      "year": 2026,
+      "date": "2026-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114522368",
+          "name": "David J. Kelly"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7163576101",
+      "title": "Towards Estimating Normal and Shear Interface Pressures in Prosthetic Sockets via Least Squares and Mechanics Modeling",
+      "year": 2026,
+      "date": "2026-06-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5128867853",
+          "name": "Axel Gonz\u00e1lez Cornejo"
+        },
+        {
+          "id": "https://openalex.org/A5088885773",
+          "name": "Chi Hwan Lee"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W7165054088",
       "title": "Nested Split-Tube Flexure: Design, Modeling, and Characterization of a Compact Torsional Compliant Mechanism",
       "year": 2026,
@@ -653,8 +745,8 @@
           "name": "Collin Klomp"
         },
         {
-          "id": "https://openalex.org/A5126640967",
-          "name": "Nathan Usevitch"
+          "id": "https://openalex.org/A5024780312",
+          "name": "Nathan S. Usevitch"
         },
         {
           "id": "https://openalex.org/A5076214359",
