@@ -6,7 +6,7 @@
   "openalex_name": "James P. Schmiedeler",
   "affiliation": "University of Notre Dame",
   "works_count": 152,
-  "cited_by_count": 2052,
+  "cited_by_count": 2062,
   "photo": "assets/faculty/james-schmiedeler.jpg",
   "num_works_fetched": 143,
   "works": [
@@ -134,7 +134,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021410685",
-          "name": "Hong Bo Zou"
+          "name": "Hong Zou"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -334,7 +334,7 @@
         },
         {
           "id": "https://openalex.org/A5027957587",
-          "name": "Andr\u00e9s Tovar"
+          "name": "Andr\u00e9s Tovar A"
         }
       ]
     },
@@ -375,30 +375,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2094153981",
-      "title": "A new look at an old problem: Defining weight acceptance in human walking",
-      "year": 2013,
-      "date": "2013-09-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5048489806",
-          "name": "Lise Worthen\u2010Chaudhari"
-        },
-        {
-          "id": "https://openalex.org/A5032488331",
-          "name": "Julie A. Mansfield"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5103788971",
-          "name": "D. Michele Basso"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2191898256",
       "title": "Design of progressively folding thin-walled tubular components using compliant mechanism synthesis",
       "year": 2015,
@@ -418,7 +394,7 @@
         },
         {
           "id": "https://openalex.org/A5027957587",
-          "name": "Andr\u00e9s Tovar"
+          "name": "Andr\u00e9s Tovar A"
         }
       ]
     },
@@ -431,30 +407,6 @@
         {
           "id": "https://openalex.org/A5067699324",
           "name": "Travis L. Brown"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2300549329",
-      "title": "Effects of Filtering the Center of Pressure Feedback Provided in Visually Guided Mediolateral Weight Shifting",
-      "year": 2016,
-      "date": "2016-03-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5025447939",
-          "name": "Michael W. Kennedy"
-        },
-        {
-          "id": "https://openalex.org/A5088606631",
-          "name": "Charles R. Crowell"
-        },
-        {
-          "id": "https://openalex.org/A5049080736",
-          "name": "Michael A. Villano"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -667,6 +619,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2094153981",
+      "title": "A new look at an old problem: Defining weight acceptance in human walking",
+      "year": 2013,
+      "date": "2013-09-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048489806",
+          "name": "Lise Worthen\u2010Chaudhari"
+        },
+        {
+          "id": "https://openalex.org/A5032488331",
+          "name": "Julie A. Mansfield"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5103788971",
+          "name": "D. Michele Basso"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2030774673",
       "title": "Synthesis of Planar Rigid-Body Mechanisms Approximating Shape Changes Defined by Closed Curves",
       "year": 2009,
@@ -795,6 +771,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2300549329",
+      "title": "Effects of Filtering the Center of Pressure Feedback Provided in Visually Guided Mediolateral Weight Shifting",
+      "year": 2016,
+      "date": "2016-03-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5025447939",
+          "name": "Michael W. Kennedy"
+        },
+        {
+          "id": "https://openalex.org/A5088606631",
+          "name": "Charles R. Crowell"
+        },
+        {
+          "id": "https://openalex.org/A5049080736",
+          "name": "Michael A. Villano"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2133934189",
       "title": "Interpreting lateral dynamic weight shifts using a simple inverted pendulum model",
       "year": 2014,
@@ -806,7 +806,7 @@
         },
         {
           "id": "https://openalex.org/A5090037830",
-          "name": "Timothy Bretl"
+          "name": "Timothy Wolfe Bretl"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -882,7 +882,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021410685",
-          "name": "Hong Bo Zou"
+          "name": "Hong Zou"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -1163,6 +1163,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2048020320",
+      "title": "The Effects of Curved Foot Design Parameters on Planar Biped Walking",
+      "year": 2012,
+      "date": "2012-08-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2097099472",
       "title": "Design and Analysis of a Class of Planar Biped Robots Mechanically Coordinated by a Single Degree of Freedom",
       "year": 2008,
@@ -1195,22 +1211,6 @@
         {
           "id": "https://openalex.org/A5067699324",
           "name": "Travis L. Brown"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2048020320",
-      "title": "The Effects of Curved Foot Design Parameters on Planar Biped Walking",
-      "year": 2012,
-      "date": "2012-08-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066054419",
-          "name": "Anne E. Martin"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -1367,6 +1367,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4254432483",
+      "title": "Simultaneous Topological and Dimensional Synthesis of Planar Morphing Mechanisms",
+      "year": 2017,
+      "date": "2017-02-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5078717004",
+          "name": "Lawrence W. Funke"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2107883761",
       "title": "Kinematic Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms With Prismatic Joints",
       "year": 2011,
@@ -1403,22 +1419,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4254432483",
-      "title": "Simultaneous Topological and Dimensional Synthesis of Planar Morphing Mechanisms",
-      "year": 2017,
-      "date": "2017-02-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5078717004",
-          "name": "Lawrence W. Funke"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1976928168",
       "title": "Design of Crashworthy Structures With Controlled Energy Absorption in the HCA Framework",
       "year": 2012,
@@ -1434,7 +1434,7 @@
         },
         {
           "id": "https://openalex.org/A5027957587",
-          "name": "Andr\u00e9s Tovar"
+          "name": "Andr\u00e9s Tovar A"
         }
       ]
     },
@@ -1727,6 +1727,22 @@
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3090824927",
+      "title": "Dynamic Coupling as an Indicator of Gait Robustness for Underactuated Biped Robots",
+      "year": 2020,
+      "date": "2020-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045728595",
+          "name": "Martin Fevre"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -2067,6 +2083,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2314642478",
+      "title": "Experimental Validation of a Walking Model for Planar Bipeds With Curved Feet",
+      "year": 2011,
+      "date": "2011-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066054419",
+          "name": "Anne E. Martin"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2315749828",
       "title": "Design of Multi-Degree-of-Freedom Planar Morphing Mechanisms With Single-Degree-of-Freedom Sub-Chains",
       "year": 2015,
@@ -2099,22 +2131,6 @@
         {
           "id": "https://openalex.org/A5002969133",
           "name": "Michael M. Stani\u0161i\u0107"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2314642478",
-      "title": "Experimental Validation of a Walking Model for Planar Bipeds With Curved Feet",
-      "year": 2011,
-      "date": "2011-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066054419",
-          "name": "Anne E. Martin"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
         }
       ]
     },
@@ -2183,22 +2199,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3090824927",
-      "title": "Dynamic Coupling as an Indicator of Gait Robustness for Underactuated Biped Robots",
-      "year": 2020,
-      "date": "2020-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045728595",
-          "name": "Martin Fevre"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2765672626",
       "title": "Postural Balance of an Underactuated Biped Robot With a Reaction Wheel",
       "year": 2017,
@@ -2211,26 +2211,6 @@
         {
           "id": "https://openalex.org/A5042951623",
           "name": "Bill Goodwine"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2118147655",
-      "title": "Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms",
-      "year": 2006,
-      "date": "2006-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5023626151",
-          "name": "Brian M. Korte"
-        },
-        {
-          "id": "https://openalex.org/A5054371819",
-          "name": "Andrew P. Murray"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -2255,6 +2235,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2118147655",
+      "title": "Synthesis of Planar, Shape-Changing Rigid-Body Mechanisms",
+      "year": 2006,
+      "date": "2006-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5023626151",
+          "name": "Brian M. Korte"
+        },
+        {
+          "id": "https://openalex.org/A5054371819",
+          "name": "Andrew P. Murray"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2095427707",
       "title": "Dynamic Modeling of Quadrupedal Running Gaits Using a Simple Template With Asymmetrical Body Mass Distribution",
       "year": 2004,
@@ -2262,7 +2262,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021410685",
-          "name": "Hong Bo Zou"
+          "name": "Hong Zou"
         },
         {
           "id": "https://openalex.org/A5073029557",
@@ -2318,7 +2318,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5021410685",
-          "name": "Hong Bo Zou"
+          "name": "Hong Zou"
         },
         {
           "id": "https://openalex.org/A5073029557",

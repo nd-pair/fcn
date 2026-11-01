@@ -6,9 +6,9 @@
   "openalex_name": "Yasemin Ozkan-Aydin",
   "affiliation": "University of Notre Dame",
   "works_count": 80,
-  "cited_by_count": 1207,
+  "cited_by_count": 1240,
   "photo": "assets/faculty/yasemin-ozkan-aydin.jpeg",
-  "num_works_fetched": 78,
+  "num_works_fetched": 79,
   "works": [
     {
       "id": "https://openalex.org/W3169610371",
@@ -171,6 +171,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2947527046",
+      "title": "Kirigami Skin Improves Soft Earthworm Robot Anchoring and Locomotion Under Cohesive Soil",
+      "year": 2019,
+      "date": "2019-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032514527",
+          "name": "Bangyuan Liu"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        },
+        {
+          "id": "https://openalex.org/A5044726844",
+          "name": "Frank L. Hammond"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4407556905",
       "title": "Grand challenges for burrowing soft robots",
       "year": 2025,
@@ -243,30 +267,6 @@
         {
           "id": "https://openalex.org/A5061802675",
           "name": "Woon\u2010Hong Yeo"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2947527046",
-      "title": "Kirigami Skin Improves Soft Earthworm Robot Anchoring and Locomotion Under Cohesive Soil",
-      "year": 2019,
-      "date": "2019-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032514527",
-          "name": "Bangyuan Liu"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5044726844",
-          "name": "Frank L. Hammond"
         }
       ]
     },
@@ -523,6 +523,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2946908456",
+      "title": "Nutation Aids Heterogeneous Substrate Exploration in a Robophysical Root",
+      "year": 2019,
+      "date": "2019-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5050530370",
+          "name": "Mason Murray-Cooper"
+        },
+        {
+          "id": "https://openalex.org/A5075789903",
+          "name": "Enes Ayd\u0131n"
+        },
+        {
+          "id": "https://openalex.org/A5041821078",
+          "name": "Erin N. McCaskey"
+        },
+        {
+          "id": "https://openalex.org/A5059463904",
+          "name": "Nicholas D. Naclerio"
+        },
+        {
+          "id": "https://openalex.org/A5088329417",
+          "name": "Elliot Wright Hawkes"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3189852382",
       "title": "A minimal robophysical model of quadriflagellate self-propulsion",
       "year": 2021,
@@ -567,42 +603,6 @@
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2946908456",
-      "title": "Nutation Aids Heterogeneous Substrate Exploration in a Robophysical Root",
-      "year": 2019,
-      "date": "2019-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5050530370",
-          "name": "Mason Murray-Cooper"
-        },
-        {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
-        },
-        {
-          "id": "https://openalex.org/A5041821078",
-          "name": "Erin N. McCaskey"
-        },
-        {
-          "id": "https://openalex.org/A5059463904",
-          "name": "Nicholas D. Naclerio"
-        },
-        {
-          "id": "https://openalex.org/A5088329417",
-          "name": "Elliot Wright Hawkes"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
         }
       ]
     },
@@ -663,6 +663,22 @@
         {
           "id": "https://openalex.org/A5056059212",
           "name": "Jianing Wu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4408218047",
+      "title": "Embodied design for enhanced flipper-based locomotion in complex terrains",
+      "year": 2025,
+      "date": "2025-03-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012726821",
+          "name": "Nnamdi Chikere"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -843,22 +859,6 @@
         {
           "id": "https://openalex.org/A5034900098",
           "name": "Sean Even"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4408218047",
-      "title": "Embodied design for enhanced flipper-based locomotion in complex terrains",
-      "year": 2025,
-      "date": "2025-03-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012726821",
-          "name": "Nnamdi Chikere"
         },
         {
           "id": "https://openalex.org/A5031304323",
@@ -1171,6 +1171,26 @@
         {
           "id": "https://openalex.org/A5082032878",
           "name": "Daniel E. Koditschek"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414430529",
+      "title": "Robust maneuverability in flipper-based systems across complex terrains",
+      "year": 2025,
+      "date": "2025-09-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012726821",
+          "name": "Nnamdi Chikere"
+        },
+        {
+          "id": "https://openalex.org/A5007020673",
+          "name": "Frank E. Fish"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -2503,26 +2523,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4414430529",
-      "title": "Robust maneuverability in flipper-based systems across complex terrains",
-      "year": 2025,
-      "date": "2025-09-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012726821",
-          "name": "Nnamdi Chikere"
-        },
-        {
-          "id": "https://openalex.org/A5007020673",
-          "name": "Frank E. Fish"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4416932005",
       "title": "Coordinating Spinal and Limb Dynamics for Enhanced Sprawling Robot Mobility",
       "year": 2025,
@@ -2567,6 +2567,22 @@
       "title": "How Minimalist Bio-inspired Robots Leverage Embodiment for Locomotion in Challenging Environments",
       "year": 2026,
       "date": "2026-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012726821",
+          "name": "Nnamdi Chikere"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7223083782",
+      "title": "Enhancing Amphibious Flipper\u2010Based Locomotion Through Terrain\u2010Dependent Bayesian Optimization of Central Pattern Generator Control",
+      "year": 2026,
+      "date": "2026-10-20",
       "coauthors": [
         {
           "id": "https://openalex.org/A5012726821",

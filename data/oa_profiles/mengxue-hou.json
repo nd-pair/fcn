@@ -6,7 +6,7 @@
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
   "works_count": 32,
-  "cited_by_count": 176,
+  "cited_by_count": 183,
   "photo": "assets/faculty/mengxue-hou.jpg",
   "num_works_fetched": 32,
   "works": [
@@ -291,6 +291,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2905213254",
+      "title": "A Combined Path Planning and Path Following Method for Underwater Glider Navigation in a Strong, Dynamic Flow Field",
+      "year": 2018,
+      "date": "2018-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5100424824",
+          "name": "Shijie Liu"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5030894761",
+          "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3154958406",
       "title": "Bounded Cost HTN Planning for Marine Autonomy",
       "year": 2020,
@@ -343,30 +367,6 @@
         {
           "id": "https://openalex.org/A5068994727",
           "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2905213254",
-      "title": "A Combined Path Planning and Path Following Method for Underwater Glider Navigation in a Strong, Dynamic Flow Field",
-      "year": 2018,
-      "date": "2018-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5100424824",
-          "name": "Shijie Liu"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5030894761",
-          "name": "Catherine Edwards"
         }
       ]
     },

@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5062756806",
   "openalex_name": "Margaret M. Coad",
   "affiliation": null,
-  "works_count": 28,
-  "cited_by_count": 433,
+  "works_count": 32,
+  "cited_by_count": 745,
   "photo": "assets/faculty/margaret-coad.jpg",
   "num_works_fetched": 27,
   "works": [
@@ -23,6 +23,18 @@
         {
           "id": "https://openalex.org/A5034706353",
           "name": "Laura H. Blumenschein"
+        },
+        {
+          "id": "https://openalex.org/A5059463904",
+          "name": "Nicholas D. Naclerio"
+        },
+        {
+          "id": "https://openalex.org/A5020521398",
+          "name": "Haitham El-Hussieny"
+        },
+        {
+          "id": "https://openalex.org/A5019438521",
+          "name": "Jee-Hwan Ryu"
         },
         {
           "id": "https://openalex.org/A5088329417",
@@ -63,30 +75,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4404953693",
-      "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
-      "year": 2024,
-      "date": "2024-11-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5085630453",
-          "name": "Ciera McFarland"
-        },
-        {
-          "id": "https://openalex.org/A5113308646",
-          "name": "Riya Kumari"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5065894510",
-          "name": "Nathaniel Hanson"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3132227494",
       "title": "A Tip Mount for Transporting Sensors and Tools using Soft Growing Robots",
       "year": 2020,
@@ -119,6 +107,30 @@
         {
           "id": "https://openalex.org/A5019438521",
           "name": "Jee-Hwan Ryu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404953693",
+      "title": "Field Insights for Portable Vine Robots in Urban Search and Rescue",
+      "year": 2024,
+      "date": "2024-11-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5113308646",
+          "name": "Riya Kumari"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5065894510",
+          "name": "Nathaniel Hanson"
         }
       ]
     },
@@ -733,6 +745,10 @@
           "name": "Aja Mia Carter"
         },
         {
+          "id": "https://openalex.org/A5064335936",
+          "name": "Paolo Celli"
+        },
+        {
           "id": "https://openalex.org/A5091705377",
           "name": "Tony G. Chen"
         },
@@ -823,6 +839,10 @@
         {
           "id": "https://openalex.org/A5123468848",
           "name": "Zeynep Temel"
+        },
+        {
+          "id": "https://openalex.org/A5056621190",
+          "name": "Michael Thomas Tolley"
         },
         {
           "id": "https://openalex.org/A5134132297",

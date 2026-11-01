@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5011017276",
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
-  "works_count": 44,
-  "cited_by_count": 712,
+  "works_count": 45,
+  "cited_by_count": 738,
   "photo": "assets/faculty/tingyu-cheng.jpg",
   "num_works_fetched": 44,
   "works": [
@@ -295,46 +295,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3004617892",
-      "title": "SPIN (Self-powered Paper Interfaces)",
-      "year": 2020,
-      "date": "2020-02-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5060464750",
-          "name": "David M. Howard"
-        },
-        {
-          "id": "https://openalex.org/A5068233154",
-          "name": "Steven L. Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5049871944",
-          "name": "Youngwook Do"
-        },
-        {
-          "id": "https://openalex.org/A5071789287",
-          "name": "Sienna Xin Sun"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5100376569",
-          "name": "Zhong Lin Wang"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4366547558",
       "title": "Functional Destruction: Utilizing Sustainable Materials\u2019 Physical Transiency for Electronics Applications",
       "year": 2023,
@@ -371,6 +331,46 @@
         {
           "id": "https://openalex.org/A5017602213",
           "name": "Andreea Danielescu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3004617892",
+      "title": "SPIN (Self-powered Paper Interfaces)",
+      "year": 2020,
+      "date": "2020-02-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5060464750",
+          "name": "David M. Howard"
+        },
+        {
+          "id": "https://openalex.org/A5068233154",
+          "name": "Steven L. Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5049871944",
+          "name": "Youngwook Do"
+        },
+        {
+          "id": "https://openalex.org/A5071789287",
+          "name": "Sienna Xin Sun"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5100376569",
+          "name": "Zhong Lin Wang"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
         }
       ]
     },
@@ -663,38 +663,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3124673099",
-      "title": "REVIEW OF MATERIALS AND STRUCTURES IN SOFT ROBOTICS",
-      "year": 2016,
-      "date": "2016-07-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008715397",
-          "name": "Tiefeng Li"
-        },
-        {
-          "id": "https://openalex.org/A5108058909",
-          "name": "Guorui Li"
-        },
-        {
-          "id": "https://openalex.org/A5103190419",
-          "name": "Yiming Liang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5104010350",
-          "name": "Yang Xuxu"
-        },
-        {
-          "id": "https://openalex.org/A5014431257",
-          "name": "Huang Zhilong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2798402715",
       "title": "Demonstrating Thermorph",
       "year": 2018,
@@ -739,6 +707,38 @@
         {
           "id": "https://openalex.org/A5052051114",
           "name": "Lining Yao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3124673099",
+      "title": "REVIEW OF MATERIALS AND STRUCTURES IN SOFT ROBOTICS",
+      "year": 2016,
+      "date": "2016-07-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5008715397",
+          "name": "Tiefeng Li"
+        },
+        {
+          "id": "https://openalex.org/A5108058909",
+          "name": "Guorui Li"
+        },
+        {
+          "id": "https://openalex.org/A5103190419",
+          "name": "Yiming Liang"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5104010350",
+          "name": "Yang Xuxu"
+        },
+        {
+          "id": "https://openalex.org/A5014431257",
+          "name": "Huang Zhilong"
         }
       ]
     },
@@ -1355,78 +1355,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7154116567",
-      "title": "Circuit2Yarn: From Planar Circuits to Electronic Yarns for Textile-Based Interactions",
-      "year": 2026,
-      "date": "2026-04-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5133486370",
-          "name": "Zhechen Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5074055921",
-          "name": "Jingyi Liu"
-        },
-        {
-          "id": "https://openalex.org/A5077097352",
-          "name": "Tianhong Catherine Yu"
-        },
-        {
-          "id": "https://openalex.org/A5133505978",
-          "name": "Jiaqing Liu"
-        },
-        {
-          "id": "https://openalex.org/A5044495445",
-          "name": "Zeyu Yan"
-        },
-        {
-          "id": "https://openalex.org/A5067580146",
-          "name": "Huaishu Peng"
-        },
-        {
-          "id": "https://openalex.org/A5007246518",
-          "name": "Yiyue Luo"
-        },
-        {
-          "id": "https://openalex.org/A5101798380",
-          "name": "Zhihan Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7154160380",
-      "title": "3D Printing Soap: Exploring New Biodegrdable Materials and Creative Possibilities",
-      "year": 2026,
-      "date": "2026-04-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5070662022",
-          "name": "Jing Xie"
-        },
-        {
-          "id": "https://openalex.org/A5101380907",
-          "name": "Yingting Gao"
-        },
-        {
-          "id": "https://openalex.org/A5102169470",
-          "name": "Jin Yu"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5123842626",
-          "name": "HyunJoo Oh"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4312296478",
       "title": "Making Computing Visible & Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
       "year": 2022,
@@ -1525,6 +1453,14 @@
           "name": "Tingyu Cheng"
         },
         {
+          "id": "https://openalex.org/A5043884951",
+          "name": "Ryo Takahashi"
+        },
+        {
+          "id": "https://openalex.org/A5059956294",
+          "name": "Bo Zhou"
+        },
+        {
           "id": "https://openalex.org/A5080697701",
           "name": "Cheng Zhang"
         },
@@ -1557,6 +1493,78 @@
     {
       "id": "https://openalex.org/W7153822423",
       "title": "Interactive 3D-Printed Soap: Exploring Biodegradable and Ephemeral Material Interactions",
+      "year": 2026,
+      "date": "2026-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5070662022",
+          "name": "Jing Xie"
+        },
+        {
+          "id": "https://openalex.org/A5101380907",
+          "name": "Yingting Gao"
+        },
+        {
+          "id": "https://openalex.org/A5102169470",
+          "name": "Jin Yu"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5123842626",
+          "name": "HyunJoo Oh"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154116567",
+      "title": "Circuit2Yarn: From Planar Circuits to Electronic Yarns for Textile-Based Interactions",
+      "year": 2026,
+      "date": "2026-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5133486370",
+          "name": "Zhechen Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5074055921",
+          "name": "Jingyi Liu"
+        },
+        {
+          "id": "https://openalex.org/A5077097352",
+          "name": "Tianhong Catherine Yu"
+        },
+        {
+          "id": "https://openalex.org/A5133505978",
+          "name": "Jiaqing Liu"
+        },
+        {
+          "id": "https://openalex.org/A5044495445",
+          "name": "Zeyu Yan"
+        },
+        {
+          "id": "https://openalex.org/A5067580146",
+          "name": "Huaishu Peng"
+        },
+        {
+          "id": "https://openalex.org/A5007246518",
+          "name": "Yiyue Luo"
+        },
+        {
+          "id": "https://openalex.org/A5101798380",
+          "name": "Zhihan Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154160380",
+      "title": "3D Printing Soap: Exploring New Biodegrdable Materials and Creative Possibilities",
       "year": 2026,
       "date": "2026-04-13",
       "coauthors": [

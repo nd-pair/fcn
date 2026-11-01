@@ -1,0 +1,594 @@
+{
+  "slug": "david-paulius",
+  "display": "David Paulius",
+  "query_name": "David Paulius",
+  "openalex_id": "https://openalex.org/A5040257276",
+  "openalex_name": "David Paulius",
+  "affiliation": "Brown University",
+  "works_count": 28,
+  "cited_by_count": 397,
+  "photo": "assets/faculty/david-paulius.jpg",
+  "num_works_fetched": 26,
+  "works": [
+    {
+      "id": "https://openalex.org/W2922755664",
+      "title": "A Survey of Knowledge Representation in Service Robotics",
+      "year": 2019,
+      "date": "2019-04-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2561337467",
+      "title": "Functional object-oriented network for manipulation learning",
+      "year": 2016,
+      "date": "2016-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401416769",
+      "title": "CAPE: Corrective Actions from Precondition Errors using Large Language Models",
+      "year": 2024,
+      "date": "2024-05-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5084369883",
+          "name": "Shreyas Sundara Raman"
+        },
+        {
+          "id": "https://openalex.org/A5040120052",
+          "name": "Vanya Cohen"
+        },
+        {
+          "id": "https://openalex.org/A5047537152",
+          "name": "Ifrah Idrees"
+        },
+        {
+          "id": "https://openalex.org/A5046853629",
+          "name": "Eric Rosen"
+        },
+        {
+          "id": "https://openalex.org/A5008715111",
+          "name": "Raymond J. Mooney"
+        },
+        {
+          "id": "https://openalex.org/A5059273574",
+          "name": "Stefanie Tellex"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2810334075",
+      "title": "Long Activity Video Understanding Using Functional Object-Oriented Network",
+      "year": 2018,
+      "date": "2018-12-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046587962",
+          "name": "Ahmad Babaeian Jelodar"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5107072461",
+          "name": "Yu Ming Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2949555499",
+      "title": "Functional Object-Oriented Network: Construction & Expansion",
+      "year": 2018,
+      "date": "2018-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5046587962",
+          "name": "Ahmad Babaeian Jelodar"
+        },
+        {
+          "id": "https://openalex.org/A5107072461",
+          "name": "Yu Ming Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4285044929",
+      "title": "Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking",
+      "year": 2022,
+      "date": "2022-07-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5088099151",
+          "name": "Md Sadman Sakib"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4380450920",
+      "title": "Long-Horizon Planning and Execution With Functional Object-Oriented Networks",
+      "year": 2023,
+      "date": "2023-06-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5051585666",
+          "name": "Alejandro Agostini"
+        },
+        {
+          "id": "https://openalex.org/A5088081800",
+          "name": "Dongheui Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405787079",
+      "title": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
+      "year": 2024,
+      "date": "2024-10-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066563254",
+          "name": "Jason Xinyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5029694255",
+          "name": "Ankit Shah"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
+        },
+        {
+          "id": "https://openalex.org/A5059273574",
+          "name": "Stefanie Tellex"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2977286734",
+      "title": "Manipulation Motion Taxonomy and Coding for Robots",
+      "year": 2019,
+      "date": "2019-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5112118959",
+          "name": "Yongqiang Huang"
+        },
+        {
+          "id": "https://openalex.org/A5079674286",
+          "name": "Jason Meloncon"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3042811070",
+      "title": "A Motion Taxonomy for Manipulation Embedding",
+      "year": 2020,
+      "date": "2020-06-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3206380267",
+      "title": "Task Planning with a Weighted Functional Object-Oriented Network",
+      "year": 2021,
+      "date": "2021-05-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5078794080",
+          "name": "Kelvin Sheng Pei Dong"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413925625",
+      "title": "Bootstrapping Object-Level Planning with Large Language Models",
+      "year": 2025,
+      "date": "2025-05-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5051585666",
+          "name": "Alejandro Agostini"
+        },
+        {
+          "id": "https://openalex.org/A5042611551",
+          "name": "Benedict Quartey"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4312266818",
+      "title": "Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network",
+      "year": 2022,
+      "date": "2022-08-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100419237",
+          "name": "Yi Chen"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100355575",
+          "name": "Yu Sun"
+        },
+        {
+          "id": "https://openalex.org/A5015201721",
+          "name": "Yunyi Jia"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389665708",
+      "title": "Skill Generalization with Verbs",
+      "year": 2023,
+      "date": "2023-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114108374",
+          "name": "Rachel Ma"
+        },
+        {
+          "id": "https://openalex.org/A5113096340",
+          "name": "Lyndon Lam"
+        },
+        {
+          "id": "https://openalex.org/A5079238710",
+          "name": "Benjamin A. Spiegel"
+        },
+        {
+          "id": "https://openalex.org/A5084355365",
+          "name": "Aditya Ganeshan"
+        },
+        {
+          "id": "https://openalex.org/A5042032005",
+          "name": "Roma Patel"
+        },
+        {
+          "id": "https://openalex.org/A5003639695",
+          "name": "Ben Abbatematteo"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5059273574",
+          "name": "Stefanie Tellex"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3046248787",
+      "title": "Estimating Motion Codes from Demonstration Videos",
+      "year": 2020,
+      "date": "2020-10-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026314173",
+          "name": "Maxat Alibayev"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5107072461",
+          "name": "Yu Ming Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3165917330",
+      "title": "A Road-map to Robot Task Execution with the Functional Object-Oriented Network",
+      "year": 2021,
+      "date": "2021-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5051585666",
+          "name": "Alejandro Agostini"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        },
+        {
+          "id": "https://openalex.org/A5088081800",
+          "name": "Dongheui Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2843614838",
+      "title": "A Survey of Knowledge Representation and Retrieval for Learning in Service Robotics.",
+      "year": 2018,
+      "date": "2018-07-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2943541255",
+      "title": "Functional Object-Oriented Network: Considering Robot's Capability in Human-Robot Collaboration.",
+      "year": 2019,
+      "date": "2019-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5078794080",
+          "name": "Kelvin Sheng Pei Dong"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3170222945",
+      "title": "Evaluating Recipes Generated from Functional Object-Oriented Network",
+      "year": 2021,
+      "date": "2021-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5028530825",
+          "name": "Hailey Baez"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2911368631",
+      "title": "A Survey of Knowledge Representation for Learning in Service Robotics",
+      "year": 2018,
+      "date": "2018-07-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5060103563",
+          "name": "Sun Young Yu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2977289211",
+      "title": "A Weighted Functional Object-Oriented Network for Task Planning",
+      "year": 2019,
+      "date": "2019-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5078794080",
+          "name": "Kelvin Sheng Pei Dong"
+        },
+        {
+          "id": "https://openalex.org/A5101851094",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3111475796",
+      "title": "Developing Motion Code Embedding for Action Recognition in Videos",
+      "year": 2021,
+      "date": "2021-01-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4225892606",
+      "title": "Functional Task Tree Generation from a Knowledge Graph to Solve Unseen Problems",
+      "year": 2021,
+      "date": "2021-12-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5053234001",
+          "name": "Md. Sadman Sakib"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5107072461",
+          "name": "Yu Ming Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4226063948",
+      "title": "Grounding of the Functional Object-Oriented Network in Industrial Tasks",
+      "year": 2022,
+      "date": "2022-04-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046747723",
+          "name": "Rafik Ayari"
+        },
+        {
+          "id": "https://openalex.org/A5030822076",
+          "name": "Matteo Pantano"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416749549",
+      "title": "Least Commitment Planning for the Object Scouting Problem",
+      "year": 2025,
+      "date": "2025-10-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5045237639",
+          "name": "Max Merlin"
+        },
+        {
+          "id": "https://openalex.org/A5101576400",
+          "name": "Ziyi Yang"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4417011634",
+      "title": "SkillWrapper: Generative Predicate Invention for Task-level Robot Planning",
+      "year": 2025,
+      "date": "2025-11-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046318887",
+          "name": "Ziyi Yang"
+        },
+        {
+          "id": "https://openalex.org/A5016442648",
+          "name": "Benned Hedegaard"
+        },
+        {
+          "id": "https://openalex.org/A5113049315",
+          "name": "Ahmed Jaafar"
+        },
+        {
+          "id": "https://openalex.org/A5039914907",
+          "name": "Skye Thompson"
+        },
+        {
+          "id": "https://openalex.org/A5084369883",
+          "name": "Shreyas Sundara Raman"
+        },
+        {
+          "id": "https://openalex.org/A5015445968",
+          "name": "Haotian Fu"
+        },
+        {
+          "id": "https://openalex.org/A5059273574",
+          "name": "Stefanie Tellex"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5102284241",
+          "name": "Naman Shah"
+        }
+      ]
+    }
+  ]
+}

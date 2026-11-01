@@ -6,7 +6,7 @@
   "openalex_name": "Zhi Zheng",
   "affiliation": "Wuhan University",
   "works_count": 55,
-  "cited_by_count": 1303,
+  "cited_by_count": 1314,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 55,
   "works": [
@@ -215,38 +215,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2164800951",
-      "title": "Natural and Remote Sensing Image Segmentation Using Memetic Computing",
-      "year": 2010,
-      "date": "2010-04-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5050630882",
-          "name": "Licheng Jiao"
-        },
-        {
-          "id": "https://openalex.org/A5091227928",
-          "name": "Maoguo Gong"
-        },
-        {
-          "id": "https://openalex.org/A5065660222",
-          "name": "Shuang Wang"
-        },
-        {
-          "id": "https://openalex.org/A5043022387",
-          "name": "Biao Hou"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5084327356",
-          "name": "Qiaodi Wu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2519261326",
       "title": "A Robotic Coach Architecture for Elder Care (ROCARE) Based on Multi-User Engagement Models",
       "year": 2016,
@@ -279,6 +247,38 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2164800951",
+      "title": "Natural and Remote Sensing Image Segmentation Using Memetic Computing",
+      "year": 2010,
+      "date": "2010-04-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5050630882",
+          "name": "Licheng Jiao"
+        },
+        {
+          "id": "https://openalex.org/A5091227928",
+          "name": "Maoguo Gong"
+        },
+        {
+          "id": "https://openalex.org/A5065660222",
+          "name": "Shuang Wang"
+        },
+        {
+          "id": "https://openalex.org/A5043022387",
+          "name": "Biao Hou"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5084327356",
+          "name": "Qiaodi Wu"
         }
       ]
     },
@@ -767,6 +767,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2900367891",
+      "title": "Predicting Response to Joint Attention Performance in Human-Human Interaction Based on Human-Robot Interaction for Young Children with Autism Spectrum Disorder",
+      "year": 2018,
+      "date": "2018-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5022556655",
+          "name": "Jazette Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W13758144",
       "title": "Responses during Facial Emotional Expression Recognition Tasks Using Virtual Reality and Static IAPS Pictures for Adults with Schizophrenia",
       "year": 2014,
@@ -827,6 +863,30 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2956984870",
+      "title": "Facial Expression Recognition for Children: Can Existing Methods Tuned for Adults Be Adopted for Children?",
+      "year": 2019,
+      "date": "2019-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5012582320",
+          "name": "Jaclyn A. Barnes"
+        },
+        {
+          "id": "https://openalex.org/A5005991642",
+          "name": "Chung Hyuk Park"
+        },
+        {
+          "id": "https://openalex.org/A5034235916",
+          "name": "Myounghoon Jeon"
         }
       ]
     },
@@ -945,6 +1005,10 @@
       "date": "2025-01-01",
       "coauthors": [
         {
+          "id": "https://openalex.org/A5077751339",
+          "name": "Zhiwei Yu"
+        },
+        {
           "id": "https://openalex.org/A5000507898",
           "name": "Suzannah Iadarola"
         },
@@ -955,42 +1019,6 @@
         {
           "id": "https://openalex.org/A5065741205",
           "name": "Zhi Zheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2900367891",
-      "title": "Predicting Response to Joint Attention Performance in Human-Human Interaction Based on Human-Robot Interaction for Young Children with Autism Spectrum Disorder",
-      "year": 2018,
-      "date": "2018-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042012742",
-          "name": "Guangtao Nie"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5022556655",
-          "name": "Jazette Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
         }
       ]
     },
@@ -1055,30 +1083,6 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2956984870",
-      "title": "Facial Expression Recognition for Children: Can Existing Methods Tuned for Adults Be Adopted for Children?",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5012582320",
-          "name": "Jaclyn A. Barnes"
-        },
-        {
-          "id": "https://openalex.org/A5005991642",
-          "name": "Chung Hyuk Park"
-        },
-        {
-          "id": "https://openalex.org/A5034235916",
-          "name": "Myounghoon Jeon"
         }
       ]
     },
@@ -1621,6 +1625,10 @@
           "name": "Jingyi Hu"
         },
         {
+          "id": "https://openalex.org/A5157078008",
+          "name": "Rao Kuang"
+        },
+        {
           "id": "https://openalex.org/A5123044991",
           "name": "Ping Chen"
         },
@@ -1723,6 +1731,10 @@
         {
           "id": "https://openalex.org/A5057590058",
           "name": "Guohua Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5159968720",
+          "name": "Cong Yang"
         },
         {
           "id": "https://openalex.org/A5009950415",

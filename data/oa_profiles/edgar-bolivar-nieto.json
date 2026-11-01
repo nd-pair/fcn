@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5076214359",
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
-  "works_count": 35,
-  "cited_by_count": 438,
+  "works_count": 34,
+  "cited_by_count": 434,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
-  "num_works_fetched": 32,
+  "num_works_fetched": 31,
   "works": [
     {
       "id": "https://openalex.org/W2963106632",
@@ -23,26 +23,6 @@
         {
           "id": "https://openalex.org/A5065372242",
           "name": "Siavash Rezazadeh"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3194165539",
-      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026757426",
-          "name": "Shihao Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -75,6 +55,26 @@
         {
           "id": "https://openalex.org/A5061986744",
           "name": "Nicholas Gans"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3194165539",
+      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026757426",
+          "name": "Shihao Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
         }
       ]
     },
@@ -443,38 +443,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3210416003",
-      "title": "Lower-limb kinematics and kinetics during continuously varying human locomotion",
-      "year": 2021,
-      "date": "2021-08-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5039893489",
-          "name": "Emma Reznick"
-        },
-        {
-          "id": "https://openalex.org/A5021066997",
-          "name": "Kyle Embry"
-        },
-        {
-          "id": "https://openalex.org/A5038780671",
-          "name": "Ross M. Neuman"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5019540782",
-          "name": "Nicholas P. Fey"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3198500577",
       "title": "Lower-limb kinematics and kinetics during continuously varying human locomotion",
       "year": 2021,
@@ -555,30 +523,6 @@
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4289123201",
-      "title": "Robust Optimal Design of Energy Efficient Series Elastic Actuators: Application to a Powered Prosthetic Ankle",
-      "year": 2018,
-      "date": "2018-12-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5065372242",
-          "name": "Siavash Rezazadeh"
-        },
-        {
-          "id": "https://openalex.org/A5051772147",
-          "name": "Tyler Holt Summers"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
         }
       ]
     },
@@ -725,6 +669,10 @@
           "name": "Axel Gonz\u00e1lez Cornejo"
         },
         {
+          "id": "https://openalex.org/A5159980863",
+          "name": "Tianhao Yu"
+        },
+        {
           "id": "https://openalex.org/A5088885773",
           "name": "Chi Hwan Lee"
         },
@@ -791,6 +739,30 @@
         {
           "id": "https://openalex.org/A5088885773",
           "name": "Chi Hwan Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7222919580",
+      "title": "Task-Space Control for Powered Knee-Ankle Prostheses",
+      "year": 2026,
+      "date": "2026-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114522368",
+          "name": "David J. Kelly"
+        },
+        {
+          "id": "https://openalex.org/A5159074431",
+          "name": "Grace Henderson"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
         }
       ]
     }

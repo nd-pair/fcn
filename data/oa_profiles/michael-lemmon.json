@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5022295836",
   "openalex_name": "Michael D. Lemmon",
   "affiliation": "University of Notre Dame",
-  "works_count": 203,
-  "cited_by_count": 7422,
+  "works_count": 237,
+  "cited_by_count": 7484,
   "photo": "assets/faculty/michael-lemmon.jpg",
   "num_works_fetched": 198,
   "works": [
@@ -167,6 +167,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1559815321",
+      "title": "Hybrid system modeling and autonomous control systems",
+      "year": 1993,
+      "date": "1993-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5011661477",
+          "name": "James A. Stiver"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2084865983",
       "title": "On event design in event-triggered feedback systems",
       "year": 2011,
@@ -283,30 +303,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1559815321",
-      "title": "Hybrid system modeling and autonomous control systems",
-      "year": 1993,
-      "date": "1993-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5011661477",
-          "name": "James A. Stiver"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1548660701",
-      "title": "Optimal dropout compensation in networked control systems",
-      "year": 2004,
-      "date": "2004-07-08",
+      "id": "https://openalex.org/W1553787959",
+      "title": "Robust performance of soft real-time networked control systems with data dropouts",
+      "year": 2003,
+      "date": "2003-08-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -319,10 +319,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1553787959",
-      "title": "Robust performance of soft real-time networked control systems with data dropouts",
-      "year": 2003,
-      "date": "2003-08-27",
+      "id": "https://openalex.org/W1548660701",
+      "title": "Optimal dropout compensation in networked control systems",
+      "year": 2004,
+      "date": "2004-07-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007719477",
@@ -443,6 +443,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2047825672",
+      "title": "Stabilizing bit-rates in quantized event triggered control systems",
+      "year": 2012,
+      "date": "2012-04-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
+        },
+        {
+          "id": "https://openalex.org/A5100333260",
+          "name": "Xiaofeng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2078075313",
       "title": "LakeNet: An Integrated Sensor Network for Environmental Sensing in Lakes",
       "year": 2007,
@@ -467,26 +487,6 @@
         {
           "id": "https://openalex.org/A5109866428",
           "name": "Jeffrey W. Talley"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2047825672",
-      "title": "Stabilizing bit-rates in quantized event triggered control systems",
-      "year": 2012,
-      "date": "2012-04-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5100333260",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -655,6 +655,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1965585108",
+      "title": "Globally Coordinated Distributed Storm Water Management System",
+      "year": 2015,
+      "date": "2015-04-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5074199849",
+          "name": "Luis A. Montestruque"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2124226195",
       "title": "A Necessary and Sufficient Feedback Dropout Condition to Stabilize Quantized Linear Control Systems With Bounded Noise",
       "year": 2010,
@@ -676,22 +692,6 @@
       "year": 2008,
       "date": "2008-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1965585108",
-      "title": "Globally Coordinated Distributed Storm Water Management System",
-      "year": 2015,
-      "date": "2015-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074199849",
-          "name": "Luis A. Montestruque"
-        },
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
@@ -779,6 +779,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2050453521",
+      "title": "Resilient event triggered systems with limited communication",
+      "year": 2012,
+      "date": "2012-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
+        },
+        {
+          "id": "https://openalex.org/A5026465150",
+          "name": "Bin Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2036542986",
       "title": "Voltage stability of weak power distribution networks with inverter connected sources",
       "year": 2013,
@@ -815,26 +835,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2050453521",
-      "title": "Resilient event triggered systems with limited communication",
-      "year": 2012,
-      "date": "2012-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5026465150",
-          "name": "Bin Hu"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2065765108",
       "title": "Attentively efficient controllers for event-triggered feedback systems",
       "year": 2011,
@@ -854,7 +854,7 @@
       "id": "https://openalex.org/W2964515134",
       "title": "Reliable Dynamic Packet Scheduling over Lossy Real-Time Wireless Networks",
       "year": 2019,
-      "date": "2019-07-08",
+      "date": "2019-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5103234988",
@@ -1119,22 +1119,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2107811755",
-      "title": "An event-triggered distributed primal-dual algorithm for Network Utility maximization",
-      "year": 2009,
-      "date": "2009-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5030450582",
-          "name": "Pu Wan"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1626135997",
       "title": "Stability analysis of weak rural electrification microgrids with droop-controlled rotational and electronic distributed generators",
       "year": 2015,
@@ -1143,6 +1127,22 @@
         {
           "id": "https://openalex.org/A5100676984",
           "name": "Wang Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2107811755",
+      "title": "An event-triggered distributed primal-dual algorithm for Network Utility maximization",
+      "year": 2009,
+      "date": "2009-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030450582",
+          "name": "Pu Wan"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1463,26 +1463,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2062021735",
-      "title": "Stability analysis for wireless networked control system in unslotted IEEE 802.15.4 protocol",
-      "year": 2014,
-      "date": "2014-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2061969322",
       "title": "Polynomial approximation of optimal event triggers for state estimation problems using SOSTOOLS",
       "year": 2013,
@@ -1495,6 +1475,26 @@
         {
           "id": "https://openalex.org/A5100676984",
           "name": "Wang Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2062021735",
+      "title": "Stability analysis for wireless networked control system in unslotted IEEE 802.15.4 protocol",
+      "year": 2014,
+      "date": "2014-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -2075,6 +2075,18 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2138536041",
+      "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
+      "year": 1991,
+      "date": "1991-12-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -3103,18 +3115,6 @@
         {
           "id": "https://openalex.org/A5055345322",
           "name": "B. V. K. Vijaya Kumar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2138536041",
-      "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
-      "year": 1991,
-      "date": "1991-12-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
         }
       ]
     },
