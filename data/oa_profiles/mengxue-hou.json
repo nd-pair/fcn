@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5063884621",
   "openalex_name": "Mengxue Hou",
   "affiliation": "University of Notre Dame",
-  "works_count": 32,
-  "cited_by_count": 183,
+  "works_count": 30,
+  "cited_by_count": 226,
   "photo": "assets/faculty/mengxue-hou.jpg",
-  "num_works_fetched": 32,
+  "num_works_fetched": 30,
   "works": [
     {
       "id": "https://openalex.org/W4406864698",
@@ -71,6 +71,30 @@
         {
           "id": "https://openalex.org/A5103033393",
           "name": "Carl Vondrick"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2907924447",
+      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
+      "year": 2018,
+      "date": "2018-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032499799",
+          "name": "Qiuyang Tao"
+        },
+        {
+          "id": "https://openalex.org/A5070056911",
+          "name": "Jaeseok Cha"
+        },
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
         }
       ]
     },
@@ -215,30 +239,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2907924447",
-      "title": "Parameter Identification of Blimp Dynamics through Swinging Motion",
-      "year": 2018,
-      "date": "2018-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032499799",
-          "name": "Qiuyang Tao"
-        },
-        {
-          "id": "https://openalex.org/A5070056911",
-          "name": "Jaeseok Cha"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4294405895",
       "title": "Method of evolving junction on optimal path planning in flows fields",
       "year": 2022,
@@ -311,6 +311,30 @@
         {
           "id": "https://openalex.org/A5030894761",
           "name": "Catherine Edwards"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2980074322",
+      "title": "Partitioning ocean flow field for underwater vehicle path planning",
+      "year": 2019,
+      "date": "2019-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5063884621",
+          "name": "Mengxue Hou"
+        },
+        {
+          "id": "https://openalex.org/A5071027206",
+          "name": "Haoyan Zhai"
+        },
+        {
+          "id": "https://openalex.org/A5041983430",
+          "name": "Homin Zhou"
+        },
+        {
+          "id": "https://openalex.org/A5068994727",
+          "name": "Fumin Zhang"
         }
       ]
     },
@@ -423,30 +447,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2980074322",
-      "title": "Partitioning ocean flow field for underwater vehicle path planning",
-      "year": 2019,
-      "date": "2019-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5071027206",
-          "name": "Haoyan Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5041983430",
-          "name": "Homin Zhou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4366818296",
       "title": "Anomaly Detection of Underwater Gliders Verified by Deployment Data",
       "year": 2023,
@@ -547,30 +547,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2940457419",
-      "title": "Method of evolving junction on optimal path planning in flow fields",
-      "year": 2019,
-      "date": "2019-04-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5071027206",
-          "name": "Haoyan Zhai"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5102878627",
-          "name": "Haomin Zhou"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4206254691",
       "title": "Human Pointing Motion during Interaction with an Autonomous Blimp",
       "year": 2022,
@@ -603,26 +579,6 @@
         {
           "id": "https://openalex.org/A5032499799",
           "name": "Qiuyang Tao"
-        },
-        {
-          "id": "https://openalex.org/A5068994727",
-          "name": "Fumin Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4297983001",
-      "title": "Laplacian Regularized Motion Tomography for Underwater Vehicle Flow Mapping with Sporadic Localization Measurements",
-      "year": 2022,
-      "date": "2022-09-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5057337945",
-          "name": "Meriam Ouerghi"
-        },
-        {
-          "id": "https://openalex.org/A5063884621",
-          "name": "Mengxue Hou"
         },
         {
           "id": "https://openalex.org/A5068994727",

@@ -4,11 +4,11 @@
   "query_name": "Nikolaus Correll",
   "openalex_id": "https://openalex.org/A5047458039",
   "openalex_name": "Nikolaus Correll",
-  "affiliation": null,
+  "affiliation": "University of Notre Dame",
   "works_count": 160,
-  "cited_by_count": 6261,
+  "cited_by_count": 6747,
   "photo": "assets/faculty/nikolaus-correll.jpg",
-  "num_works_fetched": 160,
+  "num_works_fetched": 159,
   "works": [
     {
       "id": "https://openalex.org/W2618733545",
@@ -220,7 +220,7 @@
     },
     {
       "id": "https://openalex.org/W2170389705",
-      "title": "Organizing the Aggregate",
+      "title": "Organizing the Aggregate: Languages for Spatial Computing",
       "year": 2012,
       "date": "2012-09-21",
       "coauthors": [
@@ -259,54 +259,6 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2789884309",
-      "title": "A Robotic Skin for Collision Avoidance and Affective Touch Recognition",
-      "year": 2018,
-      "date": "2018-01-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5036897495",
-          "name": "Dana Hughes"
-        },
-        {
-          "id": "https://openalex.org/A5007277114",
-          "name": "JOHN LAMMIE"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2211031842",
-      "title": "Soft Autonomous Materials\u2014Using Active Elasticity and Embedded Distributed Computation",
-      "year": 2013,
-      "date": "2013-08-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5074479492",
-          "name": "Cagdas Denizel Onal"
-        },
-        {
-          "id": "https://openalex.org/A5018438162",
-          "name": "Haiyi Liang"
-        },
-        {
-          "id": "https://openalex.org/A5009374860",
-          "name": "Erik Schoenfeld"
-        },
-        {
-          "id": "https://openalex.org/A5066830185",
-          "name": "Daniela L. Rus"
         }
       ]
     },
@@ -363,8 +315,76 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2112718380",
+      "title": "Indoor robot gardening: design and implementation",
+      "year": 2010,
+      "date": "2010-08-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5068636555",
+          "name": "Nikos Ar\u00e9chiga"
+        },
+        {
+          "id": "https://openalex.org/A5074116020",
+          "name": "Adrienne Bolger"
+        },
+        {
+          "id": "https://openalex.org/A5108744531",
+          "name": "M. Bollini"
+        },
+        {
+          "id": "https://openalex.org/A5077463145",
+          "name": "Ben Charrow"
+        },
+        {
+          "id": "https://openalex.org/A5091247275",
+          "name": "Felipe Dominguez"
+        },
+        {
+          "id": "https://openalex.org/A5111450355",
+          "name": "Kenneth M. Donahue"
+        },
+        {
+          "id": "https://openalex.org/A5012441518",
+          "name": "Samuel Dyar"
+        },
+        {
+          "id": "https://openalex.org/A5062503127",
+          "name": "Luke B. Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5005332459",
+          "name": "Alexander Patrikalakis"
+        },
+        {
+          "id": "https://openalex.org/A5003757015",
+          "name": "Jeremy S. Smith"
+        },
+        {
+          "id": "https://openalex.org/A5003722925",
+          "name": "Daniel E. Soltero"
+        },
+        {
+          "id": "https://openalex.org/A5035084608",
+          "name": "Melissa M. Tanner"
+        },
+        {
+          "id": "https://openalex.org/A5102146877",
+          "name": "Lauren White"
+        },
+        {
+          "id": "https://openalex.org/A5066830185",
+          "name": "Daniela L. Rus"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3143860396",
-      "title": "Distributed Autonomous Robotic Systems",
+      "title": "Distributed Autonomous Robotic Systems: The 10th International Symposium",
       "year": 2012,
       "date": "2012-09-05",
       "coauthors": [
@@ -399,6 +419,54 @@
         {
           "id": "https://openalex.org/A5013743642",
           "name": "Kasper St\u00f8y"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2789884309",
+      "title": "A Robotic Skin for Collision Avoidance and Affective Touch Recognition",
+      "year": 2018,
+      "date": "2018-01-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5036897495",
+          "name": "Dana Hughes"
+        },
+        {
+          "id": "https://openalex.org/A5007277114",
+          "name": "JOHN LAMMIE"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2211031842",
+      "title": "Soft Autonomous Materials\u2014Using Active Elasticity and Embedded Distributed Computation",
+      "year": 2013,
+      "date": "2013-08-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5074479492",
+          "name": "Cagdas Denizel Onal"
+        },
+        {
+          "id": "https://openalex.org/A5018438162",
+          "name": "Haiyi Liang"
+        },
+        {
+          "id": "https://openalex.org/A5009374860",
+          "name": "Erik Schoenfeld"
+        },
+        {
+          "id": "https://openalex.org/A5066830185",
+          "name": "Daniela L. Rus"
         }
       ]
     },
@@ -475,30 +543,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2143128937",
-      "title": "SwisTrack: A Tracking Tool for Multi-Unit Robotic and Biological Systems",
-      "year": 2006,
-      "date": "2006-10-01",
+      "id": "https://openalex.org/W1982707864",
+      "title": "Multirobot inspection of industrial machinery",
+      "year": 2009,
+      "date": "2009-03-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5088003458",
-          "name": "Gr\u00e9gory Sempo"
-        },
-        {
-          "id": "https://openalex.org/A5012874394",
-          "name": "Y.L. de Meneses"
-        },
-        {
-          "id": "https://openalex.org/A5001500450",
-          "name": "Jos\u00e9 Halloy"
-        },
-        {
-          "id": "https://openalex.org/A5014436931",
-          "name": "Jean\u2010Louis Deneubourg"
         },
         {
           "id": "https://openalex.org/A5080713076",
@@ -523,22 +575,6 @@
         {
           "id": "https://openalex.org/A5108932755",
           "name": "David Coleman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1982707864",
-      "title": "Multirobot inspection of industrial machinery",
-      "year": 2009,
-      "date": "2009-03-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
         }
       ]
     },
@@ -671,26 +707,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2169944694",
-      "title": "Ad-hoc wireless network coverage with networked robots that cannot localize",
-      "year": 2009,
-      "date": "2009-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5088484890",
-          "name": "Jonathan R. Bachrach"
-        },
-        {
-          "id": "https://openalex.org/A5066830185",
-          "name": "Daniela L. Rus"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2799692011",
       "title": "Integrated proximity, contact and force sensing using elastomer-embedded commodity proximity sensors",
       "year": 2018,
@@ -799,90 +815,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2112718380",
-      "title": "Indoor robot gardening: design and implementation",
-      "year": 2010,
-      "date": "2010-08-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5068636555",
-          "name": "Nikos Ar\u00e9chiga"
-        },
-        {
-          "id": "https://openalex.org/A5074116020",
-          "name": "Adrienne Bolger"
-        },
-        {
-          "id": "https://openalex.org/A5108744531",
-          "name": "M. Bollini"
-        },
-        {
-          "id": "https://openalex.org/A5077463145",
-          "name": "Ben Charrow"
-        },
-        {
-          "id": "https://openalex.org/A5091247275",
-          "name": "Felipe Dominguez"
-        },
-        {
-          "id": "https://openalex.org/A5111450355",
-          "name": "Kenneth M. Donahue"
-        },
-        {
-          "id": "https://openalex.org/A5012441518",
-          "name": "Samuel Dyar"
-        },
-        {
-          "id": "https://openalex.org/A5062503127",
-          "name": "Luke B. Johnson"
-        },
-        {
-          "id": "https://openalex.org/A5005332459",
-          "name": "Alexander Patrikalakis"
-        },
-        {
-          "id": "https://openalex.org/A5003757015",
-          "name": "Jeremy S. Smith"
-        },
-        {
-          "id": "https://openalex.org/A5003722925",
-          "name": "Daniel E. Soltero"
-        },
-        {
-          "id": "https://openalex.org/A5035084608",
-          "name": "Melissa M. Tanner"
-        },
-        {
-          "id": "https://openalex.org/A5102146877",
-          "name": "Lauren White"
-        },
-        {
-          "id": "https://openalex.org/A5066830185",
-          "name": "Daniela L. Rus"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2409616265",
-      "title": "Integrated force and distance sensing using elastomer-embedded commodity proximity sensors",
-      "year": 2016,
-      "date": "2016-06-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022614297",
-          "name": "Radhen Patel"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3012297501",
       "title": "Identification and Control of a Nonlinear Soft Actuator and Sensor System",
       "year": 2020,
@@ -919,6 +851,22 @@
         {
           "id": "https://openalex.org/A5041822706",
           "name": "Mark E. Rentschler"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2409616265",
+      "title": "Integrated force and distance sensing using elastomer-embedded commodity proximity sensors",
+      "year": 2016,
+      "date": "2016-06-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022614297",
+          "name": "Radhen Patel"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -971,6 +919,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2398344989",
+      "title": "Shape Change Through Programmable Stiffness",
+      "year": 2015,
+      "date": "2015-11-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4285268956",
       "title": "Electro-Hydraulic Rolling Soft Wheel: Design, Hybrid Dynamic Modeling, and Model Predictive Control",
       "year": 2022,
@@ -1003,58 +963,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2398344989",
-      "title": "Shape Change Through Programmable Stiffness",
-      "year": 2015,
-      "date": "2015-11-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2410928708",
-      "title": "Distributed Autonomous Robotic Systems: The 10th International Symposium",
-      "year": 2012,
-      "date": "2012-09-06",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
-        },
-        {
-          "id": "https://openalex.org/A5024362147",
-          "name": "Francesco Mondada C"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5010160517",
-          "name": "Grgory Mermoud"
-        },
-        {
-          "id": "https://openalex.org/A5091125105",
-          "name": "Magnus Egerstedt"
-        },
-        {
-          "id": "https://openalex.org/A5059564619",
-          "name": "M. Ani Hsieh"
-        },
-        {
-          "id": "https://openalex.org/A5069251742",
-          "name": "Lynne E. Parker"
-        },
-        {
-          "id": "https://openalex.org/A5068789326",
-          "name": "Kasper Sty"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2793674688",
       "title": "Wireless Robotic Materials",
       "year": 2017,
@@ -1066,7 +974,7 @@
         },
         {
           "id": "https://openalex.org/A5035987149",
-          "name": "Prabal K. Dutta"
+          "name": "Prabal Dutta"
         },
         {
           "id": "https://openalex.org/A5085205626",
@@ -1075,6 +983,18 @@
         {
           "id": "https://openalex.org/A5085143303",
           "name": "Kristofer S. J. Pister"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2896753023",
+      "title": "Shape-Changing Materials Using Variable Stiffness and Distributed Control",
+      "year": 2018,
+      "date": "2018-10-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -1091,6 +1011,38 @@
         {
           "id": "https://openalex.org/A5066830185",
           "name": "Daniela L. Rus"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2143128937",
+      "title": "SwisTrack: A Tracking Tool for Multi-Unit Robotic and Biological Systems",
+      "year": 2006,
+      "date": "2006-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5088003458",
+          "name": "Gr\u00e9gory Sempo"
+        },
+        {
+          "id": "https://openalex.org/A5012874394",
+          "name": "Y.L. de Meneses"
+        },
+        {
+          "id": "https://openalex.org/A5001500450",
+          "name": "Jos\u00e9 Halloy"
+        },
+        {
+          "id": "https://openalex.org/A5014436931",
+          "name": "Jean\u2010Louis Deneubourg"
+        },
+        {
+          "id": "https://openalex.org/A5080713076",
+          "name": "Alcherio Martinoli"
         }
       ]
     },
@@ -1127,6 +1079,26 @@
         {
           "id": "https://openalex.org/A5080713076",
           "name": "Alcherio Martinoli"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2169944694",
+      "title": "Ad-hoc wireless network coverage with networked robots that cannot localize",
+      "year": 2009,
+      "date": "2009-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5088484890",
+          "name": "Jonathan R. Bachrach"
+        },
+        {
+          "id": "https://openalex.org/A5066830185",
+          "name": "Daniela L. Rus"
         }
       ]
     },
@@ -1219,22 +1191,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1810559892",
-      "title": "Modeling Self-Organized Aggregation in a Swarm of Miniature Robots",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2769044080",
       "title": "Will robots be bodies with brains or brains with bodies?",
       "year": 2017,
@@ -1259,42 +1215,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2149902396",
-      "title": "System Identification of Self-Organizing Robotic Swarms",
-      "year": 2007,
-      "date": "2007-06-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2157559538",
       "title": "Distributed boundary coverage with a team of networked miniature robots using a robust market-based algorithm",
       "year": 2008,
       "date": "2008-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2240328051",
-      "title": "Modeling and Optimization of a Swarm-Intelligent Inspection System",
-      "year": 2008,
-      "date": "2008-01-23",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
@@ -1328,7 +1252,7 @@
     },
     {
       "id": "https://openalex.org/W2028658459",
-      "title": "Flutter",
+      "title": "Flutter: An Exploration of an Assistive Garment Using Distributed Sensing, Computation and Actuation",
       "year": 2015,
       "date": "2015-01-12",
       "coauthors": [
@@ -1339,6 +1263,34 @@
         {
           "id": "https://openalex.org/A5014641617",
           "name": "Nicholas Farrow"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2941842768",
+      "title": "Multi-modal prosthetic fingertip sensor with proximity, contact, and force localization capabilities",
+      "year": 2019,
+      "date": "2019-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5079006320",
+          "name": "Jacob L. Segil"
+        },
+        {
+          "id": "https://openalex.org/A5022614297",
+          "name": "Radhen Patel"
+        },
+        {
+          "id": "https://openalex.org/A5009742991",
+          "name": "John Klingner"
+        },
+        {
+          "id": "https://openalex.org/A5038853127",
+          "name": "Richard F ff Weir"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -1387,30 +1339,46 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2941842768",
-      "title": "Multi-modal prosthetic fingertip sensor with proximity, contact, and force localization capabilities",
-      "year": 2019,
-      "date": "2019-04-01",
+      "id": "https://openalex.org/W3136513942",
+      "title": "Mobile Manipulation Hackathon: Moving into Real World Applications",
+      "year": 2021,
+      "date": "2021-03-17",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5079006320",
-          "name": "Jacob L. Segil"
+          "id": "https://openalex.org/A5048087019",
+          "name": "M\u00e1ximo A. Roa"
         },
         {
-          "id": "https://openalex.org/A5022614297",
-          "name": "Radhen Patel"
+          "id": "https://openalex.org/A5025603635",
+          "name": "Mehmet R. Do\u011far"
         },
         {
-          "id": "https://openalex.org/A5009742991",
-          "name": "John Klingner"
+          "id": "https://openalex.org/A5055593091",
+          "name": "Jordi Pag\u00e8s"
         },
         {
-          "id": "https://openalex.org/A5038853127",
-          "name": "Richard F ff Weir"
+          "id": "https://openalex.org/A5021954445",
+          "name": "Antonio Morales"
         },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5018457277",
+          "name": "Michael G\u00f6rner"
+        },
+        {
+          "id": "https://openalex.org/A5031235936",
+          "name": "Jan Rosell"
+        },
+        {
+          "id": "https://openalex.org/A5085721116",
+          "name": "Sergi Foix"
+        },
+        {
+          "id": "https://openalex.org/A5010583709",
+          "name": "Raphael Memmesheimer"
         }
       ]
     },
@@ -1483,46 +1451,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2909573358",
-      "title": "System Identification and Closed-Loop Control of a Hydraulically Amplified Self-Healing Electrostatic (HASEL) Actuator",
-      "year": 2018,
-      "date": "2018-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029096734",
-          "name": "Cosima Schunk"
-        },
-        {
-          "id": "https://openalex.org/A5026334856",
-          "name": "Levi Pearson"
-        },
-        {
-          "id": "https://openalex.org/A5021573797",
-          "name": "Eric Acome"
-        },
-        {
-          "id": "https://openalex.org/A5079040576",
-          "name": "Timothy G. Morrissey"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5005851458",
-          "name": "Christoph Keplinger"
-        },
-        {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
-        },
-        {
-          "id": "https://openalex.org/A5073287604",
-          "name": "James Sean Humbert"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1448371888",
       "title": "Probabilistic Modeling of Swarming Systems",
       "year": 2015,
@@ -1539,62 +1467,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2091994837",
-      "title": "Assembly path planning for stable robotic construction",
-      "year": 2014,
-      "date": "2014-04-01",
+      "id": "https://openalex.org/W2736506837",
+      "title": "Functionalized textiles for interactive soft robotics",
+      "year": 2017,
+      "date": "2017-05-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5091048049",
-          "name": "Erik E. Komendera"
+          "id": "https://openalex.org/A5014641617",
+          "name": "Nicholas Farrow"
+        },
+        {
+          "id": "https://openalex.org/A5033288286",
+          "name": "Lauren McIntire"
         },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3136513942",
-      "title": "Mobile Manipulation Hackathon: Moving into Real World Applications",
-      "year": 2021,
-      "date": "2021-03-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5048087019",
-          "name": "M\u00e1ximo A. Roa"
-        },
-        {
-          "id": "https://openalex.org/A5025603635",
-          "name": "Mehmet R. Do\u011far"
-        },
-        {
-          "id": "https://openalex.org/A5055593091",
-          "name": "Jordi Pag\u00e8s"
-        },
-        {
-          "id": "https://openalex.org/A5021954445",
-          "name": "Antonio Morales"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5018457277",
-          "name": "Michael G\u00f6rner"
-        },
-        {
-          "id": "https://openalex.org/A5031235936",
-          "name": "Jan Rosell"
-        },
-        {
-          "id": "https://openalex.org/A5085721116",
-          "name": "Sergi Foix"
-        },
-        {
-          "id": "https://openalex.org/A5010583709",
-          "name": "Raphael Memmesheimer"
         }
       ]
     },
@@ -1615,34 +1503,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2128635427",
-      "title": "Any-Com Multi-robot Path-Planning: Maximizing Collaboration for Variable Bandwidth",
-      "year": 2012,
-      "date": "2012-09-05",
+      "id": "https://openalex.org/W2091994837",
+      "title": "Assembly path planning for stable robotic construction",
+      "year": 2014,
+      "date": "2014-04-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5010568864",
-          "name": "Michael Otte"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2736506837",
-      "title": "Functionalized textiles for interactive soft robotics",
-      "year": 2017,
-      "date": "2017-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5014641617",
-          "name": "Nicholas Farrow"
-        },
-        {
-          "id": "https://openalex.org/A5033288286",
-          "name": "Lauren McIntire"
+          "id": "https://openalex.org/A5091048049",
+          "name": "Erik E. Komendera"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -1687,74 +1555,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W185570188",
-      "title": "A One-Hour Curriculum to Engage Middle School Students in Robotics and Computer Science Using Cubelets",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5023704322",
-          "name": "Chris Wailes"
-        },
-        {
-          "id": "https://openalex.org/A5006908310",
-          "name": "Scott Slaby"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2896753023",
-      "title": "Shape-Changing Materials Using Variable Stiffness and Distributed Control",
-      "year": 2018,
-      "date": "2018-10-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2953015979",
-      "title": "Consensus or Deadlock? Consequences of Simple Behavioral Rules for Coordination in Group Decisions",
-      "year": 2016,
-      "date": "2016-09-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5055446391",
-          "name": "Helen F. McCreery"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5010602694",
-          "name": "Michael D. Breed"
-        },
-        {
-          "id": "https://openalex.org/A5060686398",
-          "name": "Samuel M. Flaxman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2524922126",
-      "title": "Distributed Inverse Kinematics for Shape-changing Robotic Materials",
-      "year": 2016,
-      "date": "2016-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2989914320",
       "title": "Augmented reality for human\u2013swarm interaction in a swarm-robotic chemistry simulation",
       "year": 2022,
@@ -1775,26 +1575,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2056697427",
-      "title": "Establishing Multi-cast Groups in Computational Robotic Materials",
-      "year": 2012,
-      "date": "2012-11-01",
+      "id": "https://openalex.org/W2886057219",
+      "title": "Distributed camouflage for swarm robotics and smart materials",
+      "year": 2018,
+      "date": "2018-02-21",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5020369494",
-          "name": "Shang Ma"
+          "id": "https://openalex.org/A5100421782",
+          "name": "Yang Li"
         },
         {
-          "id": "https://openalex.org/A5102775579",
-          "name": "Homa Hosseinmardi"
-        },
-        {
-          "id": "https://openalex.org/A5014641617",
-          "name": "Nicholas Farrow"
-        },
-        {
-          "id": "https://openalex.org/A5085205626",
-          "name": "Richard Y. Han"
+          "id": "https://openalex.org/A5009742991",
+          "name": "John Klingner"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -1803,22 +1595,66 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4238428990",
-      "title": "Precise truss assembly using commodity parts and low precision welding",
-      "year": 2013,
-      "date": "2013-04-01",
+      "id": "https://openalex.org/W2766874801",
+      "title": "Materials That Make Robots Smart",
+      "year": 2019,
+      "date": "2019-11-28",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5091048049",
-          "name": "Erik E. Komendera"
-        },
-        {
-          "id": "https://openalex.org/A5063641281",
-          "name": "Dustin Reishus"
-        },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5009328815",
+          "name": "Christoffer Heckman"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1810559892",
+      "title": "Modeling Self-Organized Aggregation in a Swarm of Miniature Robots",
+      "year": 2007,
+      "date": "2007-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5080713076",
+          "name": "Alcherio Martinoli"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2149902396",
+      "title": "System Identification of Self-Organizing Robotic Swarms",
+      "year": 2007,
+      "date": "2007-06-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5080713076",
+          "name": "Alcherio Martinoli"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2240328051",
+      "title": "Modeling and Optimization of a Swarm-Intelligent Inspection System",
+      "year": 2008,
+      "date": "2008-01-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5080713076",
+          "name": "Alcherio Martinoli"
         }
       ]
     },
@@ -1875,14 +1711,54 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2294621665",
-      "title": "Precise assembly of 3D truss structures using MLE-based error prediction and correction",
-      "year": 2015,
-      "date": "2015-10-19",
+      "id": "https://openalex.org/W2909573358",
+      "title": "System Identification and Closed-Loop Control of a Hydraulically Amplified Self-Healing Electrostatic (HASEL) Actuator",
+      "year": 2018,
+      "date": "2018-10-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5091048049",
-          "name": "Erik E. Komendera"
+          "id": "https://openalex.org/A5029096734",
+          "name": "Cosima Schunk"
+        },
+        {
+          "id": "https://openalex.org/A5026334856",
+          "name": "Levi Pearson"
+        },
+        {
+          "id": "https://openalex.org/A5021573797",
+          "name": "Eric Acome"
+        },
+        {
+          "id": "https://openalex.org/A5079040576",
+          "name": "Timothy G. Morrissey"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5005851458",
+          "name": "Christoph Keplinger"
+        },
+        {
+          "id": "https://openalex.org/A5041822706",
+          "name": "Mark E. Rentschler"
+        },
+        {
+          "id": "https://openalex.org/A5073287604",
+          "name": "James Sean Humbert"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2128635427",
+      "title": "Any-Com Multi-robot Path-Planning: Maximizing Collaboration for Variable Bandwidth",
+      "year": 2012,
+      "date": "2012-09-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5010568864",
+          "name": "Michael Otte"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -1891,26 +1767,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2062077211",
-      "title": "Truss assembly and welding by Intelligent Precision Jigging Robots",
+      "id": "https://openalex.org/W185570188",
+      "title": "A One-Hour Curriculum to Engage Middle School Students in Robotics and Computer Science Using Cubelets",
       "year": 2014,
-      "date": "2014-04-01",
+      "date": "2014-01-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5091048049",
-          "name": "Erik E. Komendera"
-        },
-        {
-          "id": "https://openalex.org/A5111805662",
-          "name": "John T. Dorsey"
-        },
-        {
-          "id": "https://openalex.org/A5046947235",
-          "name": "William R. Doggett"
-        },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5023704322",
+          "name": "Chris Wailes"
+        },
+        {
+          "id": "https://openalex.org/A5006908310",
+          "name": "Scott Slaby"
         }
       ]
     },
@@ -1939,6 +1811,54 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2953015979",
+      "title": "Consensus or Deadlock? Consequences of Simple Behavioral Rules for Coordination in Group Decisions",
+      "year": 2016,
+      "date": "2016-09-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5055446391",
+          "name": "Helen F. McCreery"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5010602694",
+          "name": "Michael D. Breed"
+        },
+        {
+          "id": "https://openalex.org/A5060686398",
+          "name": "Samuel M. Flaxman"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2062077211",
+      "title": "Truss assembly and welding by Intelligent Precision Jigging Robots",
+      "year": 2014,
+      "date": "2014-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5091048049",
+          "name": "Erik E. Komendera"
+        },
+        {
+          "id": "https://openalex.org/A5111805662",
+          "name": "John T. Dorsey"
+        },
+        {
+          "id": "https://openalex.org/A5046947235",
+          "name": "William R. Doggett"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2116604920",
       "title": "Self-assembly of modular robots from finite number of modules using graph grammars",
       "year": 2011,
@@ -1952,6 +1872,18 @@
           "id": "https://openalex.org/A5036794332",
           "name": "Anne van Rossum"
         },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2524922126",
+      "title": "Distributed Inverse Kinematics for Shape-changing Robotic Materials",
+      "year": 2016,
+      "date": "2016-01-01",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
@@ -1983,22 +1915,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2025039669",
-      "title": "Trinocular visual odometry for divergent views with minimal overlap",
-      "year": 2013,
-      "date": "2013-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5110145100",
-          "name": "Jane Mulligan"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2580057948",
       "title": "Improving Grasp Performance Using In-Hand Proximity and Contact Sensing",
       "year": 2018,
@@ -2015,46 +1931,6 @@
         {
           "id": "https://openalex.org/A5079169569",
           "name": "Branden Romero"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2886057219",
-      "title": "Distributed camouflage for swarm robotics and smart materials",
-      "year": 2018,
-      "date": "2018-02-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100421782",
-          "name": "Yang Li"
-        },
-        {
-          "id": "https://openalex.org/A5009742991",
-          "name": "John Klingner"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2914987943",
-      "title": "Fault-Tolerant Covariance Intersection for Localizing Robot Swarms",
-      "year": 2019,
-      "date": "2019-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5009742991",
-          "name": "John Klingner"
-        },
-        {
-          "id": "https://openalex.org/A5100664008",
-          "name": "Nisar R. Ahmed"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2099,34 +1975,42 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4300594564",
-      "title": "Toward smart composites: Small-scale, untethered prediction and control for soft sensor/actuator systems",
-      "year": 2022,
-      "date": "2022-10-03",
+      "id": "https://openalex.org/W2025039669",
+      "title": "Trinocular visual odometry for divergent views with minimal overlap",
+      "year": 2013,
+      "date": "2013-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5046880071",
-          "name": "Sarah Aguasvivas Manzano"
+          "id": "https://openalex.org/A5110145100",
+          "name": "Jane Mulligan"
         },
         {
-          "id": "https://openalex.org/A5043334100",
-          "name": "Vani H. Sundaram"
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2056697427",
+      "title": "Establishing Multi-cast Groups in Computational Robotic Materials",
+      "year": 2012,
+      "date": "2012-11-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020369494",
+          "name": "Shang Ma"
         },
         {
-          "id": "https://openalex.org/A5062490060",
-          "name": "Artemis Xu"
+          "id": "https://openalex.org/A5102775579",
+          "name": "Homa Hosseinmardi"
         },
         {
-          "id": "https://openalex.org/A5040368638",
-          "name": "Khoi D. Ly"
+          "id": "https://openalex.org/A5014641617",
+          "name": "Nicholas Farrow"
         },
         {
-          "id": "https://openalex.org/A5041822706",
-          "name": "Mark E. Rentschler"
-        },
-        {
-          "id": "https://openalex.org/A5060384896",
-          "name": "Robert F. Shepherd"
+          "id": "https://openalex.org/A5085205626",
+          "name": "Richard Y. Han"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2175,14 +2059,42 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4389666012",
-      "title": "Optimal Decision Making in Robotic Assembly and Other Trial-and-Error Tasks",
-      "year": 2023,
-      "date": "2023-10-01",
+      "id": "https://openalex.org/W4238428990",
+      "title": "Precise truss assembly using commodity parts and low precision welding",
+      "year": 2013,
+      "date": "2013-04-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5091048049",
+          "name": "Erik E. Komendera"
+        },
+        {
+          "id": "https://openalex.org/A5063641281",
+          "name": "Dustin Reishus"
+        },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W31081183",
+      "title": "Object Transportation by Granular Convection Using Swarm Robots",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5110034977",
+          "name": "Ken Sugawara"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5063641281",
+          "name": "Dustin Reishus"
         }
       ]
     },
@@ -2211,22 +2123,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W31081183",
-      "title": "Object Transportation by Granular Convection Using Swarm Robots",
-      "year": 2014,
-      "date": "2014-01-01",
+      "id": "https://openalex.org/W2294621665",
+      "title": "Precise assembly of 3D truss structures using MLE-based error prediction and correction",
+      "year": 2015,
+      "date": "2015-10-19",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5110034977",
-          "name": "Ken Sugawara"
+          "id": "https://openalex.org/A5091048049",
+          "name": "Erik E. Komendera"
         },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5063641281",
-          "name": "Dustin Reishus"
         }
       ]
     },
@@ -2243,6 +2151,62 @@
         {
           "id": "https://openalex.org/A5080713076",
           "name": "Alcherio Martinoli"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4300594564",
+      "title": "Toward smart composites: Small-scale, untethered prediction and control for soft sensor/actuator systems",
+      "year": 2022,
+      "date": "2022-10-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046880071",
+          "name": "Sarah Aguasvivas Manzano"
+        },
+        {
+          "id": "https://openalex.org/A5043334100",
+          "name": "Vani H. Sundaram"
+        },
+        {
+          "id": "https://openalex.org/A5062490060",
+          "name": "Artemis Xu"
+        },
+        {
+          "id": "https://openalex.org/A5040368638",
+          "name": "Khoi D. Ly"
+        },
+        {
+          "id": "https://openalex.org/A5041822706",
+          "name": "Mark E. Rentschler"
+        },
+        {
+          "id": "https://openalex.org/A5060384896",
+          "name": "Robert F. Shepherd"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2039239091",
+      "title": "Gesture based distributed user interaction system for a reconfigurable self-organizing smart wall",
+      "year": 2014,
+      "date": "2014-02-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5014641617",
+          "name": "Nicholas Farrow"
+        },
+        {
+          "id": "https://openalex.org/A5079612946",
+          "name": "Naren Sivagnanadasan"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -2275,18 +2239,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2039239091",
-      "title": "Gesture based distributed user interaction system for a reconfigurable self-organizing smart wall",
-      "year": 2014,
-      "date": "2014-02-16",
+      "id": "https://openalex.org/W2914987943",
+      "title": "Fault-Tolerant Covariance Intersection for Localizing Robot Swarms",
+      "year": 2019,
+      "date": "2019-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5014641617",
-          "name": "Nicholas Farrow"
+          "id": "https://openalex.org/A5009742991",
+          "name": "John Klingner"
         },
         {
-          "id": "https://openalex.org/A5079612946",
-          "name": "Naren Sivagnanadasan"
+          "id": "https://openalex.org/A5100664008",
+          "name": "Nisar R. Ahmed"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2296,7 +2260,7 @@
     },
     {
       "id": "https://openalex.org/W2092077905",
-      "title": "SwitchBack",
+      "title": "SwitchBack: an on-body RF-based gesture input device",
       "year": 2014,
       "date": "2014-09-13",
       "coauthors": [
@@ -2311,6 +2275,78 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3119192122",
+      "title": "High-Bandwidth Nonlinear Control for Soft Actuators with Recursive Network Models",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046880071",
+          "name": "Sarah Aguasvivas Manzano"
+        },
+        {
+          "id": "https://openalex.org/A5047316415",
+          "name": "Patricia Xu"
+        },
+        {
+          "id": "https://openalex.org/A5040368638",
+          "name": "Khoi D. Ly"
+        },
+        {
+          "id": "https://openalex.org/A5060384896",
+          "name": "Robert F. Shepherd"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2896451911",
+      "title": "Robotic materials for robot autonomy",
+      "year": 2018,
+      "date": "2018-10-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389666012",
+      "title": "Optimal Decision Making in Robotic Assembly and Other Trial-and-Error Tasks",
+      "year": 2023,
+      "date": "2023-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1951605278",
+      "title": "Comparing Coordination Schemes for Miniature Robotic Swarms: A Case Study in Boundary Coverage of Regular Structures",
+      "year": 2008,
+      "date": "2008-01-29",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5005796321",
+          "name": "Samuel Rutishauser"
+        },
+        {
+          "id": "https://openalex.org/A5080713076",
+          "name": "Alcherio Martinoli"
         }
       ]
     },
@@ -2332,7 +2368,7 @@
     },
     {
       "id": "https://openalex.org/W2051292214",
-      "title": "HoneyComb",
+      "title": "HoneyComb: a platform for computational robotic materials",
       "year": 2013,
       "date": "2013-02-10",
       "coauthors": [
@@ -2347,6 +2383,22 @@
         {
           "id": "https://openalex.org/A5020369494",
           "name": "Shang Ma"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2902984537",
+      "title": "Merging Local and Global 3D Perception using Contact Sensing.",
+      "year": 2017,
+      "date": "2017-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5073825406",
+          "name": "Rebecca Cox"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -2387,22 +2439,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2902984537",
-      "title": "Merging Local and Global 3D Perception using Contact Sensing.",
-      "year": 2017,
-      "date": "2017-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5073825406",
-          "name": "Rebecca Cox"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2546421665",
       "title": "Simulating Chemical Reactions Using a Swarm of Miniature Robots",
       "year": 2016,
@@ -2419,90 +2455,6 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3119192122",
-      "title": "High-Bandwidth Nonlinear Control for Soft Actuators with Recursive Network Models",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046880071",
-          "name": "Sarah Aguasvivas Manzano"
-        },
-        {
-          "id": "https://openalex.org/A5047316415",
-          "name": "Patricia Xu"
-        },
-        {
-          "id": "https://openalex.org/A5040368638",
-          "name": "Khoi D. Ly"
-        },
-        {
-          "id": "https://openalex.org/A5060384896",
-          "name": "Robert F. Shepherd"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2766874801",
-      "title": "Materials That Make Robots Smart",
-      "year": 2019,
-      "date": "2019-11-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5009328815",
-          "name": "Christoffer Heckman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4377089301",
-      "title": "Distributed Tactile Sensors for Palmar Surfaces of Prosthetic Hands",
-      "year": 2023,
-      "date": "2023-04-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5113268159",
-          "name": "Hoang Truong"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5079006320",
-          "name": "Jacob L. Segil"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1951605278",
-      "title": "Comparing Coordination Schemes for Miniature Robotic Swarms: A Case Study in Boundary Coverage of Regular Structures",
-      "year": 2008,
-      "date": "2008-01-29",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5005796321",
-          "name": "Samuel Rutishauser"
-        },
-        {
-          "id": "https://openalex.org/A5080713076",
-          "name": "Alcherio Martinoli"
         }
       ]
     },
@@ -2575,14 +2527,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2896451911",
-      "title": "Robotic materials for robot autonomy",
-      "year": 2018,
-      "date": "2018-10-19",
+      "id": "https://openalex.org/W4377089301",
+      "title": "Distributed Tactile Sensors for Palmar Surfaces of Prosthetic Hands",
+      "year": 2023,
+      "date": "2023-04-24",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5113268159",
+          "name": "Hoang Truong"
+        },
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5079006320",
+          "name": "Jacob L. Segil"
         }
       ]
     },
@@ -2627,6 +2587,30 @@
         {
           "id": "https://openalex.org/A5036897495",
           "name": "Dana Hughes"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2129487045",
+      "title": "SikuliBot: automating physical interface using images",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032544422",
+          "name": "Jeeeun Kim"
+        },
+        {
+          "id": "https://openalex.org/A5091218128",
+          "name": "Mike Kasper"
+        },
+        {
+          "id": "https://openalex.org/A5070687718",
+          "name": "TOM P. YEH"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2688,7 +2672,7 @@
     },
     {
       "id": "https://openalex.org/W1991756220",
-      "title": "PCP",
+      "title": "PCP: the personal commute portal",
       "year": 2008,
       "date": "2008-11-05",
       "coauthors": [
@@ -2715,30 +2699,6 @@
         {
           "id": "https://openalex.org/A5066830185",
           "name": "Daniela L. Rus"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2129487045",
-      "title": "SikuliBot",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032544422",
-          "name": "Jeeeun Kim"
-        },
-        {
-          "id": "https://openalex.org/A5091218128",
-          "name": "Mike Kasper"
-        },
-        {
-          "id": "https://openalex.org/A5070687718",
-          "name": "TOM P. YEH"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -2791,6 +2751,26 @@
         {
           "id": "https://openalex.org/A5079495527",
           "name": "Neeti Wagle"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2818477978",
+      "title": "Wireless Online Impact Source Localization on a Composite",
+      "year": 2018,
+      "date": "2018-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046880071",
+          "name": "Sarah Aguasvivas Manzano"
+        },
+        {
+          "id": "https://openalex.org/A5036897495",
+          "name": "Dana Hughes"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2867,26 +2847,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2818477978",
-      "title": "Wireless Online Impact Source Localization on a Composite",
-      "year": 2018,
-      "date": "2018-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046880071",
-          "name": "Sarah Aguasvivas Manzano"
-        },
-        {
-          "id": "https://openalex.org/A5036897495",
-          "name": "Dana Hughes"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2964083861",
       "title": "Reducing the Barrier to Entry of Complex Robotic Software: a MoveIt! Case Study",
       "year": 2014,
@@ -2903,6 +2863,34 @@
         {
           "id": "https://openalex.org/A5057299610",
           "name": "Sachin Chitta"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4394655480",
+      "title": "Organizing the Aggregate: Languages for Spatial Computing",
+      "year": 2012,
+      "date": "2012-02-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020446837",
+          "name": "Jacob Beal"
+        },
+        {
+          "id": "https://openalex.org/A5076097134",
+          "name": "Stefan Dulman"
+        },
+        {
+          "id": "https://openalex.org/A5003604724",
+          "name": "Kyle Usbeck"
+        },
+        {
+          "id": "https://openalex.org/A5014225579",
+          "name": "Mirko Viroli D"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -2959,26 +2947,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4394655480",
-      "title": "Organizing the Aggregate: Languages for Spatial Computing",
-      "year": 2012,
-      "date": "2012-02-24",
+      "id": "https://openalex.org/W2346234316",
+      "title": "Morphological and Embedded Computation in a Self-contained Soft Robotic Hand",
+      "year": 2016,
+      "date": "2016-05-02",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5020446837",
-          "name": "Jacob Beal"
+          "id": "https://openalex.org/A5014641617",
+          "name": "Nicholas Farrow"
         },
         {
-          "id": "https://openalex.org/A5076097134",
-          "name": "Stefan Dulman"
-        },
-        {
-          "id": "https://openalex.org/A5003604724",
-          "name": "Kyle Usbeck"
-        },
-        {
-          "id": "https://openalex.org/A5014225579",
-          "name": "Mirko Viroli D"
+          "id": "https://openalex.org/A5100421251",
+          "name": "Yang Li"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -3019,74 +2999,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2346234316",
-      "title": "Morphological and Embedded Computation in a Self-contained Soft Robotic Hand",
-      "year": 2016,
-      "date": "2016-05-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5014641617",
-          "name": "Nicholas Farrow"
-        },
-        {
-          "id": "https://openalex.org/A5100421251",
-          "name": "Yang Li"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2953153883",
-      "title": "Analysis and Observations from the First Amazon Picking Challenge",
-      "year": 2016,
-      "date": "2016-01-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5010667333",
-          "name": "Kostas E. Bekris"
-        },
-        {
-          "id": "https://openalex.org/A5083082888",
-          "name": "Dmitry Berenson"
-        },
-        {
-          "id": "https://openalex.org/A5039143538",
-          "name": "Oliver Brock"
-        },
-        {
-          "id": "https://openalex.org/A5041513502",
-          "name": "Albert Causo"
-        },
-        {
-          "id": "https://openalex.org/A5027878263",
-          "name": "Kris K. Hauser"
-        },
-        {
-          "id": "https://openalex.org/A5101836795",
-          "name": "Kei Okada"
-        },
-        {
-          "id": "https://openalex.org/A5100657503",
-          "name": "Alberto Rodr\u00edguez"
-        },
-        {
-          "id": "https://openalex.org/A5086053479",
-          "name": "Joseph M. Romano"
-        },
-        {
-          "id": "https://openalex.org/A5008848329",
-          "name": "Peter R. Wurman"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2437757123",
       "title": "Distributed Machine Learning in Materials that Couple Sensing, Actuation, Computation and Communication",
       "year": 2016,
@@ -3095,6 +3007,26 @@
         {
           "id": "https://openalex.org/A5036897495",
           "name": "Dana Hughes"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392781413",
+      "title": "DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies",
+      "year": 2024,
+      "date": "2024-03-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019978536",
+          "name": "William Xie"
+        },
+        {
+          "id": "https://openalex.org/A5128696490",
+          "name": "Jensen Lavering"
         },
         {
           "id": "https://openalex.org/A5047458039",
@@ -3114,7 +3046,7 @@
         },
         {
           "id": "https://openalex.org/A5035987149",
-          "name": "Prabal K. Dutta"
+          "name": "Prabal Dutta"
         },
         {
           "id": "https://openalex.org/A5085205626",
@@ -3123,6 +3055,30 @@
         {
           "id": "https://openalex.org/A5085143303",
           "name": "Kristofer S. J. Pister"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4391766367",
+      "title": "A versatile robotic hand with 3D perception, force sensing for autonomous manipulation",
+      "year": 2024,
+      "date": "2024-02-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5091926440",
+          "name": "Dylan Kriegman"
+        },
+        {
+          "id": "https://openalex.org/A5112973528",
+          "name": "Stephen Otto"
+        },
+        {
+          "id": "https://openalex.org/A5018642090",
+          "name": "James Watson"
         }
       ]
     },
@@ -3163,22 +3119,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1992239833",
-      "title": "From swarm robotics to smart materials",
-      "year": 2010,
-      "date": "2010-08-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5030911949",
-          "name": "Roderich Gro\u00df"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2950267794",
       "title": "Improving grasp performance using in-hand proximity and contact sensing",
       "year": 2017,
@@ -3199,54 +3139,6 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2346563870",
-      "title": "6-DOF Visual Servoing Using the Lie Group of Affine Transformations",
-      "year": 2002,
-      "date": "2002-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2963579724",
-      "title": "Distributed Camouflage for Swarm Robotics and Smart Materials",
-      "year": 2017,
-      "date": "2017-09-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100421782",
-          "name": "Yang Li"
-        },
-        {
-          "id": "https://openalex.org/A5009742991",
-          "name": "John Klingner"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4200051702",
-      "title": "Interview with Nikolaus Correll: Robotic Materials",
-      "year": 2021,
-      "date": "2021-12-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5043749270",
-          "name": "Karin Krauthausen"
         }
       ]
     },
@@ -3279,26 +3171,270 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4391766367",
-      "title": "A versatile robotic hand with 3D perception, force sensing for autonomous manipulation",
+      "id": "https://openalex.org/W4403579179",
+      "title": "Just Add Force for Contact-Rich Robot Policies",
       "year": 2024,
-      "date": "2024-02-08",
+      "date": "2024-10-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019978536",
+          "name": "William Xie"
+        },
+        {
+          "id": "https://openalex.org/A5003811093",
+          "name": "Stefan Caldararu"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1992239833",
+      "title": "From swarm robotics to smart materials",
+      "year": 2010,
+      "date": "2010-08-08",
       "coauthors": [
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
         },
         {
-          "id": "https://openalex.org/A5091926440",
-          "name": "Dylan Kriegman"
+          "id": "https://openalex.org/A5030911949",
+          "name": "Roderich Gro\u00df"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4391211975",
+      "title": "Software Engineering for Robotics: Future Research Directions; Report from the 2023 Workshop on Software Engineering for Robotics",
+      "year": 2024,
+      "date": "2024-01-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5032356672",
+          "name": "Claire Le Goues"
         },
         {
-          "id": "https://openalex.org/A5112973528",
-          "name": "Stephen Otto"
+          "id": "https://openalex.org/A5025318877",
+          "name": "Sebastian G. Elbaum"
         },
         {
-          "id": "https://openalex.org/A5018642090",
-          "name": "James Watson"
+          "id": "https://openalex.org/A5058576840",
+          "name": "Mauricio Castillo\u2010Effen"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5064540250",
+          "name": "Pooyan Jamshidi"
+        },
+        {
+          "id": "https://openalex.org/A5013155801",
+          "name": "Morgan Quigley"
+        },
+        {
+          "id": "https://openalex.org/A5035658063",
+          "name": "Trenton Tabor"
+        },
+        {
+          "id": "https://openalex.org/A5020896290",
+          "name": "Qi Zhu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7158052700",
+      "title": "Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance",
+      "year": 2026,
+      "date": "2026-04-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5128231839",
+          "name": "Carson Kohlbrenner"
+        },
+        {
+          "id": "https://openalex.org/A5114413769",
+          "name": "Niraj Pudasaini"
+        },
+        {
+          "id": "https://openalex.org/A5019978536",
+          "name": "William Xie"
+        },
+        {
+          "id": "https://openalex.org/A5079612946",
+          "name": "Naren Sivagnanadasan"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5020277024",
+          "name": "Alessandro Roncone"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2346563870",
+      "title": "6-DOF Visual Servoing Using the Lie Group of Affine Transformations",
+      "year": 2002,
+      "date": "2002-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2949457334",
+      "title": "Experience-Based Planning with Sparse Roadmap Spanners",
+      "year": 2014,
+      "date": "2014-10-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5108932755",
+          "name": "David Coleman"
+        },
+        {
+          "id": "https://openalex.org/A5078911730",
+          "name": "Ioan Alexandru Sucan"
+        },
+        {
+          "id": "https://openalex.org/A5061397940",
+          "name": "Mark Moll"
+        },
+        {
+          "id": "https://openalex.org/A5101836795",
+          "name": "Kei Okada"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2963579724",
+      "title": "Distributed Camouflage for Swarm Robotics and Smart Materials",
+      "year": 2017,
+      "date": "2017-09-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100421782",
+          "name": "Yang Li"
+        },
+        {
+          "id": "https://openalex.org/A5009742991",
+          "name": "John Klingner"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415198452",
+      "title": "Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling",
+      "year": 2025,
+      "date": "2025-05-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5019978536",
+          "name": "William Xie"
+        },
+        {
+          "id": "https://openalex.org/A5100766525",
+          "name": "Yutong Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2544211228",
+      "title": "Sparser Sparse Roadmaps",
+      "year": 2016,
+      "date": "2016-10-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5108932755",
+          "name": "David Coleman"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200051702",
+      "title": "Interview with Nikolaus Correll: Robotic Materials",
+      "year": 2021,
+      "date": "2021-12-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5043749270",
+          "name": "Karin Krauthausen"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405033465",
+      "title": "A Machine Learning Approach to Contact Localization in Variable Density Three-Dimensional Tactile Artificial Skin",
+      "year": 2024,
+      "date": "2024-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5128231839",
+          "name": "Carson Kohlbrenner"
+        },
+        {
+          "id": "https://openalex.org/A5100766525",
+          "name": "Yutong Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5032046263",
+          "name": "Caleb Escobedo"
+        },
+        {
+          "id": "https://openalex.org/A5115003609",
+          "name": "Thomas Dunnington"
+        },
+        {
+          "id": "https://openalex.org/A5078707717",
+          "name": "Nicholas Stevenson"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        },
+        {
+          "id": "https://openalex.org/A5020277024",
+          "name": "Alessandro Roncone"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7147365941",
+      "title": "Liquid Networks with Mixture Density Heads for Efficient Imitation Learning",
+      "year": 2026,
+      "date": "2026-03-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -3343,50 +3479,6 @@
         {
           "id": "https://openalex.org/A5066830185",
           "name": "Daniela L. Rus"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2544211228",
-      "title": "Sparser Sparse Roadmaps",
-      "year": 2016,
-      "date": "2016-10-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5108932755",
-          "name": "David Coleman"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2949457334",
-      "title": "Experience-Based Planning with Sparse Roadmap Spanners",
-      "year": 2014,
-      "date": "2014-10-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5108932755",
-          "name": "David Coleman"
-        },
-        {
-          "id": "https://openalex.org/A5078911730",
-          "name": "Ioan Alexandru Sucan"
-        },
-        {
-          "id": "https://openalex.org/A5061397940",
-          "name": "Mark Moll"
-        },
-        {
-          "id": "https://openalex.org/A5101836795",
-          "name": "Kei Okada"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
         }
       ]
     },
@@ -3455,224 +3547,8 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4245184442",
-      "title": "List of contributors",
-      "year": 2018,
-      "date": "2018-10-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5090119956",
-          "name": "Nozomi Akashi"
-        },
-        {
-          "id": "https://openalex.org/A5061764240",
-          "name": "Iain A. Anderson"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5036208818",
-          "name": "Daniel M. Baechle"
-        },
-        {
-          "id": "https://openalex.org/A5029573750",
-          "name": "Remmi Baker"
-        },
-        {
-          "id": "https://openalex.org/A5033493083",
-          "name": "Anna C. Balazs"
-        },
-        {
-          "id": "https://openalex.org/A5050001381",
-          "name": "Allan M. Brooks"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5045997079",
-          "name": "Uranbileg Daalkhaijav"
-        },
-        {
-          "id": "https://openalex.org/A5111432487",
-          "name": "Kristopher A. Darling"
-        },
-        {
-          "id": "https://openalex.org/A5072707615",
-          "name": "Donglei Fan"
-        },
-        {
-          "id": "https://openalex.org/A5017457633",
-          "name": "Andrew T. Gaynor"
-        },
-        {
-          "id": "https://openalex.org/A5019868621",
-          "name": "Anit Kumar Giri"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5002641761",
-          "name": "Jianhe Guo"
-        },
-        {
-          "id": "https://openalex.org/A5033990176",
-          "name": "Christian M. Hubicki"
-        },
-        {
-          "id": "https://openalex.org/A5101577450",
-          "name": "Hiroshi Ishii"
-        },
-        {
-          "id": "https://openalex.org/A5002386258",
-          "name": "Volodymyr B. Koman"
-        },
-        {
-          "id": "https://openalex.org/A5032733080",
-          "name": "Daichi Kozawa"
-        },
-        {
-          "id": "https://openalex.org/A5100455349",
-          "name": "Tao Li"
-        },
-        {
-          "id": "https://openalex.org/A5062560087",
-          "name": "Zhaohan Li"
-        },
-        {
-          "id": "https://openalex.org/A5049281036",
-          "name": "Zexi Liang"
-        },
-        {
-          "id": "https://openalex.org/A5072061094",
-          "name": "Pingwei Liu"
-        },
-        {
-          "id": "https://openalex.org/A5051751309",
-          "name": "Albert Tianxiang Liu"
-        },
-        {
-          "id": "https://openalex.org/A5050506400",
-          "name": "Carmel Majidi"
-        },
-        {
-          "id": "https://openalex.org/A5108773682",
-          "name": "E.\u2010F. Markus Henke"
-        },
-        {
-          "id": "https://openalex.org/A5036242738",
-          "name": "Michael C. McAlpine"
-        },
-        {
-          "id": "https://openalex.org/A5013541627",
-          "name": "Y. Meng\u00fc\u00e7"
-        },
-        {
-          "id": "https://openalex.org/A5055942456",
-          "name": "Jeffrey Lawrence Moran"
-        },
-        {
-          "id": "https://openalex.org/A5113781270",
-          "name": "Randy A. Mrozek"
-        },
-        {
-          "id": "https://openalex.org/A5067725461",
-          "name": "Todd D. Murphey"
-        },
-        {
-          "id": "https://openalex.org/A5065659757",
-          "name": "Kohei Nakajima"
-        },
-        {
-          "id": "https://openalex.org/A5100701930",
-          "name": "Sung Hyun Park"
-        },
-        {
-          "id": "https://openalex.org/A5112303903",
-          "name": "Ron Pelrine"
-        },
-        {
-          "id": "https://openalex.org/A5086331402",
-          "name": "Ana Pervan"
-        },
-        {
-          "id": "https://openalex.org/A5048633771",
-          "name": "Kirstin H. Petersen"
-        },
-        {
-          "id": "https://openalex.org/A5030457024",
-          "name": "Jennifer M. Rieser"
-        },
-        {
-          "id": "https://openalex.org/A5070227326",
-          "name": "William Savoie"
-        },
-        {
-          "id": "https://openalex.org/A5060075972",
-          "name": "Ayusman Sen"
-        },
-        {
-          "id": "https://openalex.org/A5060384896",
-          "name": "Robert F. Shepherd"
-        },
-        {
-          "id": "https://openalex.org/A5025955586",
-          "name": "Oleg E. Shklyaev"
-        },
-        {
-          "id": "https://openalex.org/A5042077298",
-          "name": "Henry Shum"
-        },
-        {
-          "id": "https://openalex.org/A5021760092",
-          "name": "Geoffrey A. Slipher"
-        },
-        {
-          "id": "https://openalex.org/A5041330438",
-          "name": "Michael S. Strano"
-        },
-        {
-          "id": "https://openalex.org/A5073939955",
-          "name": "Ruitao Su"
-        },
-        {
-          "id": "https://openalex.org/A5035565554",
-          "name": "S. Walker"
-        },
-        {
-          "id": "https://openalex.org/A5112100670",
-          "name": "Shawn M. Walsh"
-        },
-        {
-          "id": "https://openalex.org/A5012796517",
-          "name": "Raymond A. Wildman"
-        },
-        {
-          "id": "https://openalex.org/A5057175644",
-          "name": "Jing Yang"
-        },
-        {
-          "id": "https://openalex.org/A5052051114",
-          "name": "Lining Yao"
-        },
-        {
-          "id": "https://openalex.org/A5009175888",
-          "name": "Osman Do\u011fan Yirmibe\u015fo\u011flu"
-        },
-        {
-          "id": "https://openalex.org/A5100326064",
-          "name": "Ge Zhang"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4256488142",
-      "title": "Self-Organized Robotic Systems",
+      "title": "Self-Organized Robotic Systems: Large-Scale Experiments in Aggregation and Self-Assembly Using Miniature Robots",
       "year": 2013,
       "date": "2013-05-23",
       "coauthors": [
@@ -3695,122 +3571,6 @@
         {
           "id": "https://openalex.org/A5080713076",
           "name": "Alcherio Martinoli"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4391211975",
-      "title": "Software Engineering for Robotics: Future Research Directions; Report from the 2023 Workshop on Software Engineering for Robotics",
-      "year": 2024,
-      "date": "2024-01-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5032356672",
-          "name": "Claire Le Goues"
-        },
-        {
-          "id": "https://openalex.org/A5025318877",
-          "name": "Sebastian G. Elbaum"
-        },
-        {
-          "id": "https://openalex.org/A5058576840",
-          "name": "Mauricio Castillo\u2010Effen"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5064540250",
-          "name": "Pooyan Jamshidi"
-        },
-        {
-          "id": "https://openalex.org/A5013155801",
-          "name": "Morgan Quigley"
-        },
-        {
-          "id": "https://openalex.org/A5035658063",
-          "name": "Trenton Tabor"
-        },
-        {
-          "id": "https://openalex.org/A5020896290",
-          "name": "Qi Zhu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4392781413",
-      "title": "DeliGrasp: Inferring Object Properties with LLMs for Adaptive Grasp Policies",
-      "year": 2024,
-      "date": "2024-03-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019978536",
-          "name": "William Xie"
-        },
-        {
-          "id": "https://openalex.org/A5128696490",
-          "name": "Jensen Lavering"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403579179",
-      "title": "Just Add Force for Contact-Rich Robot Policies",
-      "year": 2024,
-      "date": "2024-10-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019978536",
-          "name": "William Xie"
-        },
-        {
-          "id": "https://openalex.org/A5003811093",
-          "name": "Stefan Caldararu"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4405033465",
-      "title": "A Machine Learning Approach to Contact Localization in Variable Density Three-Dimensional Tactile Artificial Skin",
-      "year": 2024,
-      "date": "2024-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5128231839",
-          "name": "Carson Kohlbrenner"
-        },
-        {
-          "id": "https://openalex.org/A5100766525",
-          "name": "Yutong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5032046263",
-          "name": "Caleb Escobedo"
-        },
-        {
-          "id": "https://openalex.org/A5115003609",
-          "name": "Thomas Dunnington"
-        },
-        {
-          "id": "https://openalex.org/A5078707717",
-          "name": "Nicholas Stevenson"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5020277024",
-          "name": "Alessandro Roncone"
         }
       ]
     },
@@ -3847,70 +3607,6 @@
         {
           "id": "https://openalex.org/A5047458039",
           "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4415198452",
-      "title": "Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling",
-      "year": 2025,
-      "date": "2025-05-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5019978536",
-          "name": "William Xie"
-        },
-        {
-          "id": "https://openalex.org/A5100766525",
-          "name": "Yutong Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7147365941",
-      "title": "Liquid Networks with Mixture Density Heads for Efficient Imitation Learning",
-      "year": 2026,
-      "date": "2026-03-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7158052700",
-      "title": "Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance",
-      "year": 2026,
-      "date": "2026-04-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5128231839",
-          "name": "Carson Kohlbrenner"
-        },
-        {
-          "id": "https://openalex.org/A5114413769",
-          "name": "Niraj Pudasaini"
-        },
-        {
-          "id": "https://openalex.org/A5019978536",
-          "name": "William Xie"
-        },
-        {
-          "id": "https://openalex.org/A5079612946",
-          "name": "Naren Sivagnanadasan"
-        },
-        {
-          "id": "https://openalex.org/A5047458039",
-          "name": "Nikolaus Correll"
-        },
-        {
-          "id": "https://openalex.org/A5020277024",
-          "name": "Alessandro Roncone"
         }
       ]
     },
@@ -3971,6 +3667,50 @@
         {
           "id": "https://openalex.org/A5020277024",
           "name": "Alessandro Roncone"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7225389835",
+      "title": "Data and code for: Digital value stream mapping from operator-recorded events: observation length, operator compliance and automated line diagnosis",
+      "year": 2026,
+      "date": "2026-11-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7225991383",
+      "title": "Runtime Safety and Emergency Stops on a Full-Size Humanoid: Deployment Lessons and a Case for Graduated Force Authority",
+      "year": 2026,
+      "date": "2026-11-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5130218606",
+          "name": "Max Conway"
+        },
+        {
+          "id": "https://openalex.org/A5161895423",
+          "name": "YuTong Julia Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5148045765",
+          "name": "Allen Devaraj"
+        },
+        {
+          "id": "https://openalex.org/A5019978536",
+          "name": "William Xie"
+        },
+        {
+          "id": "https://openalex.org/A5020277024",
+          "name": "Alessandro Roncone"
+        },
+        {
+          "id": "https://openalex.org/A5047458039",
+          "name": "Nikolaus Correll"
         }
       ]
     }

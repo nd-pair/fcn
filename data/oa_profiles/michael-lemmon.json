@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5022295836",
   "openalex_name": "Michael D. Lemmon",
   "affiliation": "University of Notre Dame",
-  "works_count": 237,
-  "cited_by_count": 7484,
+  "works_count": 233,
+  "cited_by_count": 7505,
   "photo": "assets/faculty/michael-lemmon.jpg",
-  "num_works_fetched": 198,
+  "num_works_fetched": 197,
   "works": [
     {
       "id": "https://openalex.org/W2116601658",
@@ -167,26 +167,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1559815321",
-      "title": "Hybrid system modeling and autonomous control systems",
-      "year": 1993,
-      "date": "1993-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        },
-        {
-          "id": "https://openalex.org/A5011661477",
-          "name": "James A. Stiver"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2084865983",
       "title": "On event design in event-triggered feedback systems",
       "year": 2011,
@@ -303,6 +283,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1559815321",
+      "title": "Hybrid system modeling and autonomous control systems",
+      "year": 1993,
+      "date": "1993-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        },
+        {
+          "id": "https://openalex.org/A5011661477",
+          "name": "James A. Stiver"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1553787959",
       "title": "Robust performance of soft real-time networked control systems with data dropouts",
       "year": 2003,
@@ -387,22 +387,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2091839500",
-      "title": "Power Spectral Analysis of Networked Control Systems With Data Dropouts",
-      "year": 2004,
-      "date": "2004-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1591040101",
       "title": "On Self-triggered Full-Information H-Infinity Controllers",
       "year": 2007,
@@ -427,6 +411,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2091839500",
+      "title": "Power Spectral Analysis of Networked Control Systems With Data Dropouts",
+      "year": 2004,
+      "date": "2004-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2164889758",
       "title": "Model-based clock synchronization in networks with drifting clocks",
       "year": 2002,
@@ -439,26 +439,6 @@
         {
           "id": "https://openalex.org/A5085867442",
           "name": "Joydeep Ganguly"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2047825672",
-      "title": "Stabilizing bit-rates in quantized event triggered control systems",
-      "year": 2012,
-      "date": "2012-04-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5100333260",
-          "name": "Xiaofeng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -491,10 +471,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1952693090",
-      "title": "Decentralized Event-Triggered Broadcasts over Networked Control Systems",
-      "year": 2008,
-      "date": "2008-07-17",
+      "id": "https://openalex.org/W2413262495",
+      "title": "Efficiently Attentive Event-Triggered Systems With Limited Bandwidth",
+      "year": 2016,
+      "date": "2016-06-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -507,10 +487,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2413262495",
-      "title": "Efficiently Attentive Event-Triggered Systems With Limited Bandwidth",
-      "year": 2016,
-      "date": "2016-06-06",
+      "id": "https://openalex.org/W1952693090",
+      "title": "Decentralized Event-Triggered Broadcasts over Networked Control Systems",
+      "year": 2008,
+      "date": "2008-07-17",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100333260",
@@ -539,6 +519,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2554398590",
+      "title": "Weakly coupled event triggered output feedback control in wireless networked control systems",
+      "year": 2011,
+      "date": "2011-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2740090334",
       "title": "Formal Methods for Stability Analysis of Networked Control Systems With IEEE 802.15.4 Protocol",
       "year": 2017,
@@ -555,22 +551,6 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2554398590",
-      "title": "Weakly coupled event triggered output feedback control in wireless networked control systems",
-      "year": 2011,
-      "date": "2011-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -615,26 +595,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2143636443",
-      "title": "Firm real-time system scheduling based on a novel QoS constraint",
-      "year": 2006,
-      "date": "2006-03-01",
+      "id": "https://openalex.org/W2047825672",
+      "title": "Stabilizing bit-rates in quantized event triggered control systems",
+      "year": 2012,
+      "date": "2012-04-17",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5004057129",
-          "name": "Derong Liu"
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
         },
         {
-          "id": "https://openalex.org/A5100600905",
-          "name": "Xiaobo Sharon Hu"
+          "id": "https://openalex.org/A5100333260",
+          "name": "Xiaofeng Wang"
         },
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
         }
       ]
     },
@@ -647,22 +623,6 @@
         {
           "id": "https://openalex.org/A5046121646",
           "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1965585108",
-      "title": "Globally Coordinated Distributed Storm Water Management System",
-      "year": 2015,
-      "date": "2015-04-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5074199849",
-          "name": "Luis A. Montestruque"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -687,26 +647,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2049418934",
-      "title": "State Based Self-triggered Feedback Control Systems with \u21122 Stability",
-      "year": 2008,
-      "date": "2008-01-01",
+      "id": "https://openalex.org/W1965585108",
+      "title": "Globally Coordinated Distributed Storm Water Management System",
+      "year": 2015,
+      "date": "2015-04-03",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2033209892",
-      "title": "Weakly coupled event triggered output feedback system in wireless networked control systems",
-      "year": 2013,
-      "date": "2013-04-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
+          "id": "https://openalex.org/A5074199849",
+          "name": "Luis A. Montestruque"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -731,14 +679,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2130773823",
-      "title": "Swarming under Perfect Consensus using Integral Action",
-      "year": 2007,
-      "date": "2007-07-01",
+      "id": "https://openalex.org/W2033209892",
+      "title": "Weakly coupled event triggered output feedback system in wireless networked control systems",
+      "year": 2013,
+      "date": "2013-04-28",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5052553992",
-          "name": "Yashan Sun"
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -771,26 +719,6 @@
         {
           "id": "https://openalex.org/A5030450582",
           "name": "Pu Wan"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2050453521",
-      "title": "Resilient event triggered systems with limited communication",
-      "year": 2012,
-      "date": "2012-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5046121646",
-          "name": "Lichun Li"
-        },
-        {
-          "id": "https://openalex.org/A5026465150",
-          "name": "Bin Hu"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -883,78 +811,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3203035817",
-      "title": "Towards scalable, secure, and smart mission-critical IoT systems",
-      "year": 2021,
-      "date": "2021-09-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011794280",
-          "name": "Xiaolong Guo"
-        },
-        {
-          "id": "https://openalex.org/A5100623628",
-          "name": "Song Han"
-        },
-        {
-          "id": "https://openalex.org/A5100600905",
-          "name": "Xiaobo Sharon Hu"
-        },
-        {
-          "id": "https://openalex.org/A5016146461",
-          "name": "Xun Jiao"
-        },
-        {
-          "id": "https://openalex.org/A5017464942",
-          "name": "Yier Jin"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2015185921",
-      "title": "Using channel state feedback to achieve resilience to deep fades in wireless networked control systems",
-      "year": 2013,
-      "date": "2013-04-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026465150",
-          "name": "Bin Hu"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2022765575",
-      "title": "Formal methods for stability analysis of networked control systems with IEEE 802.15.4 protocol",
-      "year": 2014,
-      "date": "2014-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2129035339",
       "title": "Adaptive mixtures of local experts are source coding solutions",
       "year": 2002,
@@ -1031,6 +887,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2143636443",
+      "title": "Firm real-time system scheduling based on a novel QoS constraint",
+      "year": 2006,
+      "date": "2006-03-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5004057129",
+          "name": "Derong Liu"
+        },
+        {
+          "id": "https://openalex.org/A5100600905",
+          "name": "Xiaobo Sharon Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2049418934",
+      "title": "State Based Self-triggered Feedback Control Systems with \u21122 Stability",
+      "year": 2008,
+      "date": "2008-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2122679182",
       "title": "Distributed flow control using embedded sensor-actuator networks for the reduction of Combined Sewer Overflow (CSO) events",
       "year": 2007,
@@ -1039,6 +931,22 @@
         {
           "id": "https://openalex.org/A5030450582",
           "name": "Pu Wan"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2130773823",
+      "title": "Swarming under Perfect Consensus using Integral Action",
+      "year": 2007,
+      "date": "2007-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5052553992",
+          "name": "Yashan Sun"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1087,6 +995,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2050453521",
+      "title": "Resilient event triggered systems with limited communication",
+      "year": 2012,
+      "date": "2012-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5046121646",
+          "name": "Lichun Li"
+        },
+        {
+          "id": "https://openalex.org/A5026465150",
+          "name": "Bin Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1626135997",
+      "title": "Stability analysis of weak rural electrification microgrids with droop-controlled rotational and electronic distributed generators",
+      "year": 2015,
+      "date": "2015-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100676984",
+          "name": "Wang Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2028150779",
       "title": "Asymptotic stability in distributed event-triggered networked control systems with delays",
       "year": 2010,
@@ -1111,22 +1055,6 @@
         {
           "id": "https://openalex.org/A5007719477",
           "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1626135997",
-      "title": "Stability analysis of weak rural electrification microgrids with droop-controlled rotational and electronic distributed generators",
-      "year": 2015,
-      "date": "2015-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100676984",
-          "name": "Wang Zhao"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1171,6 +1099,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3203035817",
+      "title": "Towards scalable, secure, and smart mission-critical IoT systems: review and vision",
+      "year": 2021,
+      "date": "2021-09-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011794280",
+          "name": "Xiaolong Guo"
+        },
+        {
+          "id": "https://openalex.org/A5100623628",
+          "name": "Song Han"
+        },
+        {
+          "id": "https://openalex.org/A5100600905",
+          "name": "Xiaobo Sharon Hu"
+        },
+        {
+          "id": "https://openalex.org/A5016146461",
+          "name": "Xun Jiao"
+        },
+        {
+          "id": "https://openalex.org/A5017464942",
+          "name": "Yier Jin"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2059065724",
       "title": "Reducing Delay Jitter of Real-Time Control Tasks through Adaptive Deadline Adjustments",
       "year": 2010,
@@ -1183,6 +1147,22 @@
         {
           "id": "https://openalex.org/A5100600905",
           "name": "Xiaobo Sharon Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2015185921",
+      "title": "Using channel state feedback to achieve resilience to deep fades in wireless networked control systems",
+      "year": 2013,
+      "date": "2013-04-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026465150",
+          "name": "Bin Hu"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1207,6 +1187,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2022765575",
+      "title": "Formal methods for stability analysis of networked control systems with IEEE 802.15.4 protocol",
+      "year": 2014,
+      "date": "2014-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2135548223",
       "title": "Forecasting the resilience of networked dynamical systems under environmental perturbation",
       "year": 2014,
@@ -1223,18 +1223,50 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2588025565",
-      "title": "On the outage performance of an IEEE 802.11 broadcast scheme in vehicular Ad Hoc Networks",
-      "year": 2016,
-      "date": "2016-09-01",
+      "id": "https://openalex.org/W2150093018",
+      "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
+      "year": 2002,
+      "date": "2002-07-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5015955456",
-          "name": "Sahand Golnarian"
+          "id": "https://openalex.org/A5010488126",
+          "name": "Kaiyan He"
         },
         {
-          "id": "https://openalex.org/A5076363259",
-          "name": "J. Nicholas Laneman"
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1523125488",
+      "title": "Finite-gain L2 stability in distributed event-triggered networked control systems with data dropouts",
+      "year": 2009,
+      "date": "2009-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100333260",
+          "name": "Xiaofeng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2062021735",
+      "title": "Stability analysis for wireless networked control system in unslotted IEEE 802.15.4 protocol",
+      "year": 2014,
+      "date": "2014-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100672632",
+          "name": "Bo Wu"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1259,22 +1291,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2150093018",
-      "title": "Liveness-enforcing supervision of bounded ordinary Petri nets using partial order methods",
-      "year": 2002,
-      "date": "2002-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5010488126",
-          "name": "Kaiyan He"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2027451020",
       "title": "2-Degree-of-freedom Robot Path Planning using Cooperative Neural Fields",
       "year": 1991,
@@ -1283,6 +1299,26 @@
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1549769098",
+      "title": "Event identification and intelligent hybrid control",
+      "year": 1993,
+      "date": "1993-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5011661477",
+          "name": "James A. Stiver"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -1315,22 +1351,6 @@
         {
           "id": "https://openalex.org/A5108194644",
           "name": "Christopher J. Bett"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1523125488",
-      "title": "Finite-gain L2 stability in distributed event-triggered networked control systems with data dropouts",
-      "year": 2009,
-      "date": "2009-08-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100333260",
-          "name": "Xiaofeng Wang"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1423,22 +1443,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2045996677",
-      "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
-      "year": 2014,
-      "date": "2014-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101578562",
-          "name": "Bin Hu"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W1990626091",
       "title": "Phase-Locked-Loop Adaptive-Optic Controller and Simulated Shear Layer Correction",
       "year": 2013,
@@ -1463,6 +1467,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2045996677",
+      "title": "Event triggering in vehicular networked systems with limited bandwidth and deep fading",
+      "year": 2014,
+      "date": "2014-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101578562",
+          "name": "Bin Hu"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2061969322",
       "title": "Polynomial approximation of optimal event triggers for state estimation problems using SOSTOOLS",
       "year": 2013,
@@ -1475,26 +1495,6 @@
         {
           "id": "https://openalex.org/A5100676984",
           "name": "Wang Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2062021735",
-      "title": "Stability analysis for wireless networked control system in unslotted IEEE 802.15.4 protocol",
-      "year": 2014,
-      "date": "2014-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100672632",
-          "name": "Bo Wu"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         },
         {
           "id": "https://openalex.org/A5022295836",
@@ -1539,6 +1539,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2588025565",
+      "title": "On the outage performance of an IEEE 802.11 broadcast scheme in vehicular Ad Hoc Networks",
+      "year": 2016,
+      "date": "2016-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5015955456",
+          "name": "Sahand Golnarian"
+        },
+        {
+          "id": "https://openalex.org/A5076363259",
+          "name": "J. Nicholas Laneman"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2724330128",
       "title": "Using dynamical invariants in the analysis of hybrid dynamical systems",
       "year": 1999,
@@ -1555,10 +1575,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2160368942",
+      "title": "Self-Organizing Neural Networks for Multitarget Track Initiation",
+      "year": 1989,
+      "date": "1989-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3071979674",
       "title": "Achieving Ecological Resilience Through Regime Shift Management",
       "year": 2020,
       "date": "2020-08-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2153067097",
+      "title": "Performance-Rate Functions for Dynamically Quantized Feedback Systems",
+      "year": 2006,
+      "date": "2006-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
@@ -1583,26 +1627,6 @@
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1549769098",
-      "title": "Event identification and intelligent hybrid control",
-      "year": 1993,
-      "date": "1993-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5011661477",
-          "name": "James A. Stiver"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -1651,22 +1675,6 @@
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2095829232",
-      "title": "Control system performance under dynamic quantization: the scalar case",
-      "year": 2004,
-      "date": "2004-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
         }
       ]
     },
@@ -1720,18 +1728,6 @@
           "id": "https://openalex.org/A5077171773",
           "name": "Panos J. Antsaklis"
         },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2153067097",
-      "title": "Performance-Rate Functions for Dynamically Quantized Feedback Systems",
-      "year": 2006,
-      "date": "2006-01-01",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
@@ -1843,6 +1839,22 @@
         {
           "id": "https://openalex.org/A5041911210",
           "name": "Eric J. Jumper"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2148512359",
+      "title": "Stability of quantized linear systems with bounded noise under dynamic bit assignment",
+      "year": 2004,
+      "date": "2004-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -1959,6 +1971,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1568282822",
+      "title": "Hybrid systems and intelligent control",
+      "year": 2002,
+      "date": "2002-12-30",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W96222442",
       "title": "A Tutorial Introduction to Supervisory Hybrid Systems",
       "year": 1998,
@@ -1971,6 +1999,18 @@
         {
           "id": "https://openalex.org/A5013581554",
           "name": "Ivan Markovsky"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2137487543",
+      "title": "Inductive Inference of Invariant Subspaces",
+      "year": 1993,
+      "date": "1993-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -2000,6 +2040,18 @@
           "id": "https://openalex.org/A5052553992",
           "name": "Yashan Sun"
         },
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2138536041",
+      "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
+      "year": 1991,
+      "date": "1991-12-02",
+      "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
@@ -2079,14 +2131,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2138536041",
-      "title": "Oscillatory Neural Fields for Globally Optimal Path Planning",
-      "year": 1991,
-      "date": "1991-12-02",
+      "id": "https://openalex.org/W2227376638",
+      "title": "Distributed coordination of multi-agent systems based on estimation over ad-hoc communication networks",
+      "year": 2007,
+      "date": "2007-01-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5052553992",
+          "name": "Yashan Sun"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2281343780",
+      "title": "Using Elementary Flux Modes to Estimate the Distance to Regime Shifts in Kinetic Systems**The authors grateful acknowledge the partial financial support of Notre Dame's Environmental Change Initiative and the National Science Foundation (CNS-1239222)",
+      "year": 2015,
+      "date": "2015-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5025702566",
+          "name": "Tua A. Tamba"
         }
       ]
     },
@@ -2123,102 +2195,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4244978024",
-      "title": "Overload management in sensor-actuator networks used for spatially-distributed control systems",
-      "year": 2003,
-      "date": "2003-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5052553992",
-          "name": "Yashan Sun"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2140272029",
-      "title": "Optimal Dynamic Bit Assignment in Second-order Noise-free Quantized Linear Control Systems",
-      "year": 2006,
-      "date": "2006-10-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2148512359",
-      "title": "Stability of quantized linear systems with bounded noise under dynamic bit assignment",
-      "year": 2004,
-      "date": "2004-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007719477",
-          "name": "Qiang Ling"
-        },
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1568282822",
-      "title": "Hybrid systems and intelligent control",
-      "year": 2002,
-      "date": "2002-12-30",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2137487543",
-      "title": "Inductive Inference of Invariant Subspaces",
-      "year": 1993,
-      "date": "1993-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2227376638",
-      "title": "Distributed coordination of multi-agent systems based on estimation over ad-hoc communication networks",
-      "year": 2007,
-      "date": "2007-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5052553992",
-          "name": "Yashan Sun"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3213124734",
       "title": "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision : (Special Session Paper)",
       "year": 2021,
@@ -2251,6 +2227,26 @@
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4244978024",
+      "title": "Overload management in sensor-actuator networks used for spatially-distributed control systems",
+      "year": 2003,
+      "date": "2003-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
+        {
+          "id": "https://openalex.org/A5052553992",
+          "name": "Yashan Sun"
         }
       ]
     },
@@ -2311,11 +2307,43 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2095829232",
+      "title": "Control system performance under dynamic quantization: the scalar case",
+      "year": 2004,
+      "date": "2004-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W651584803",
       "title": "Competitively Inhibited Neural Networks for Adaptive Parameter Estimation",
       "year": 1991,
       "date": "1991-01-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2140272029",
+      "title": "Optimal Dynamic Bit Assignment in Second-order Noise-free Quantized Linear Control Systems",
+      "year": 2006,
+      "date": "2006-10-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007719477",
+          "name": "Qiang Ling"
+        },
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
@@ -2527,22 +2555,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2168331226",
-      "title": "A computationally efficient framework for hybrid controller design",
-      "year": 2002,
-      "date": "2002-12-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5077171773",
-          "name": "Panos J. Antsaklis"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2315307557",
       "title": "A Wireless Dead Reckoning Pedestrian Tracking System",
       "year": 2004,
@@ -2663,18 +2675,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2744528460",
-      "title": "Self-triggering in Vehicular Networked Systems with State-dependent Bursty Fading Channels",
-      "year": 2017,
-      "date": "2017-08-08",
+      "id": "https://openalex.org/W2168331226",
+      "title": "A computationally efficient framework for hybrid controller design",
+      "year": 2002,
+      "date": "2002-12-17",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5101578562",
-          "name": "Bin Hu"
-        },
         {
           "id": "https://openalex.org/A5022295836",
           "name": "Michael D. Lemmon"
+        },
+        {
+          "id": "https://openalex.org/A5077171773",
+          "name": "Panos J. Antsaklis"
         }
       ]
     },
@@ -3143,18 +3155,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2160368942",
-      "title": "Self-Organizing Neural Networks for Multitarget Track Initiation",
-      "year": 1989,
-      "date": "1989-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2168865282",
       "title": "Deadlock-free piecewise-linear controlled hybrid automata",
       "year": 2002,
@@ -3227,22 +3227,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2281343780",
-      "title": "Using Elementary Flux Modes to Estimate the Distance to Regime Shifts in Kinetic Systems**The authors grateful acknowledge the partial financial support of Notre Dame's Environmental Change Initiative and the National Science Foundation (CNS-1239222)",
-      "year": 2015,
-      "date": "2015-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
-        },
-        {
-          "id": "https://openalex.org/A5025702566",
-          "name": "Tua A. Tamba"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2290755730",
       "title": "Event-triggered distributed algorithms for network optimization",
       "year": 2010,
@@ -3282,7 +3266,7 @@
       "coauthors": [
         {
           "id": "https://openalex.org/A5024559779",
-          "name": "\u00dcmi\u0307t \u00d6zg\u00fcner"
+          "name": "\u00dcmit \u00d6zg\u00fcner"
         },
         {
           "id": "https://openalex.org/A5100441829",

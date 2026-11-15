@@ -5,10 +5,10 @@
   "openalex_id": "https://openalex.org/A5076214359",
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
-  "works_count": 34,
-  "cited_by_count": 434,
+  "works_count": 32,
+  "cited_by_count": 465,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
-  "num_works_fetched": 31,
+  "num_works_fetched": 29,
   "works": [
     {
       "id": "https://openalex.org/W2963106632",
@@ -23,6 +23,26 @@
         {
           "id": "https://openalex.org/A5065372242",
           "name": "Siavash Rezazadeh"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3194165539",
+      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026757426",
+          "name": "Shihao Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -59,26 +79,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3194165539",
-      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026757426",
-          "name": "Shihao Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4285150664",
       "title": "Modeling the Transitional Kinematics Between Variable-Incline Walking and Stair Climbing",
       "year": 2022,
@@ -95,26 +95,6 @@
         {
           "id": "https://openalex.org/A5077868749",
           "name": "Cara Gonzalez Welker"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2769825647",
-      "title": "A General Framework for Minimizing Energy Consumption of Series Elastic Actuators With Regeneration",
-      "year": 2017,
-      "date": "2017-10-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5065372242",
-          "name": "Siavash Rezazadeh"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -147,26 +127,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2946778909",
-      "title": "Mechanical Simplification of Variable-Stiffness Actuators Using Dielectric Elastomer Transducers",
-      "year": 2019,
-      "date": "2019-05-20",
+      "id": "https://openalex.org/W2769825647",
+      "title": "A General Framework for Minimizing Energy Consumption of Series Elastic Actuators With Regeneration",
+      "year": 2017,
+      "date": "2017-10-11",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5077577641",
-          "name": "David P. Allen"
-        },
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
-          "id": "https://openalex.org/A5071423058",
-          "name": "Sophie Farmer"
-        },
-        {
-          "id": "https://openalex.org/A5075556499",
-          "name": "Walter  E. Voit"
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -219,6 +191,34 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2946778909",
+      "title": "Mechanical Simplification of Variable-Stiffness Actuators Using Dielectric Elastomer Transducers",
+      "year": 2019,
+      "date": "2019-05-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077577641",
+          "name": "David P. Allen"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5071423058",
+          "name": "Sophie Farmer"
+        },
+        {
+          "id": "https://openalex.org/A5075556499",
+          "name": "Walter Voit"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2551071671",
       "title": "Towards a series elastic actuator with electrically modulated stiffness for Powered Ankle-Foot Orthoses",
       "year": 2016,
@@ -238,7 +238,7 @@
         },
         {
           "id": "https://openalex.org/A5075556499",
-          "name": "Walter  E. Voit"
+          "name": "Walter Voit"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -315,6 +315,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3193601395",
+      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
+      "year": 2021,
+      "date": "2021-08-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048122826",
+          "name": "Daphna Raz"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5054418471",
+          "name": "Necmiye \u00d6zay"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410022415",
+      "title": "Center of mass estimation during non-cyclic activities: Comparison of marker-based methods and their fusion with ground reaction forces",
+      "year": 2025,
+      "date": "2025-05-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083376323",
+          "name": "Mohsen Alizadeh Noghani"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4413415012",
       "title": "Predicting center of mass position in non-cyclic activities: The influence of acceleration, prediction horizon, and ground reaction forces",
       "year": 2025,
@@ -387,26 +427,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3193601395",
-      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
-      "year": 2021,
-      "date": "2021-08-09",
+      "id": "https://openalex.org/W7203469132",
+      "title": "Embroidered textile sensors for real-time multiaxial force mapping in prosthetics",
+      "year": 2026,
+      "date": "2026-08-14",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5048122826",
-          "name": "Daphna Raz"
+          "id": "https://openalex.org/A5090875881",
+          "name": "Tianhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5128867853",
+          "name": "Axel Gonz\u00e1lez Cornejo"
+        },
+        {
+          "id": "https://openalex.org/A5070883033",
+          "name": "Hyeonseo Joo"
+        },
+        {
+          "id": "https://openalex.org/A5108655539",
+          "name": "Ziheng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5101757403",
+          "name": "Yumin Dai"
         },
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
-          "id": "https://openalex.org/A5054418471",
-          "name": "Necmiye \u00d6zay"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
+          "id": "https://openalex.org/A5088885773",
+          "name": "Chi Hwan Lee"
         }
       ]
     },
@@ -415,22 +467,6 @@
       "title": "Prediction of Whole-Body Center of Mass Using Joint Angles and Ground Reaction Forces: A Framework for Human Intent Prediction",
       "year": 2024,
       "date": "2024-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5083376323",
-          "name": "Mohsen Alizadeh Noghani"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4410022415",
-      "title": "Center of mass estimation during non-cyclic activities: Comparison of marker-based methods and their fusion with ground reaction forces",
-      "year": 2025,
-      "date": "2025-05-02",
       "coauthors": [
         {
           "id": "https://openalex.org/A5083376323",
@@ -491,26 +527,6 @@
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2900961919",
-      "title": "Minimizing Energy Consumption and Peak Power of Series Elastic Actuators: a Convex Optimization Framework for Elastic Element Design",
-      "year": 2018,
-      "date": "2018-11-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5065372242",
-          "name": "Siavash Rezazadeh"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
         }
       ]
     },
@@ -623,22 +639,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4405029625",
-      "title": "Comparative analysis of whole-body center-of-mass estimation methods in dynamic and static activities using marker-based systems",
-      "year": 2024,
-      "date": "2024-11-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5083376323",
-          "name": "Mohsen Alizadeh Noghani"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W7126052509",
       "title": "Task-Space Control for Powered Knee-Ankle Prostheses: Subject Trial Repository",
       "year": 2026,
@@ -707,44 +707,8 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7203469132",
-      "title": "Embroidered textile sensors for real-time multiaxial force mapping in prosthetics",
-      "year": 2026,
-      "date": "2026-08-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5090875881",
-          "name": "Tianhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5128867853",
-          "name": "Axel Gonz\u00e1lez Cornejo"
-        },
-        {
-          "id": "https://openalex.org/A5070883033",
-          "name": "Hyeonseo Joo"
-        },
-        {
-          "id": "https://openalex.org/A5108655539",
-          "name": "Ziheng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5101757403",
-          "name": "Yumin Dai"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5088885773",
-          "name": "Chi Hwan Lee"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W7222919580",
-      "title": "Task-Space Control for Powered Knee-Ankle Prostheses",
+      "title": "Task-Space Control for Powered Knee\u2013Ankle Prostheses",
       "year": 2026,
       "date": "2026-01-01",
       "coauthors": [

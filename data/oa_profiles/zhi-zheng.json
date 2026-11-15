@@ -6,7 +6,7 @@
   "openalex_name": "Zhi Zheng",
   "affiliation": "Wuhan University",
   "works_count": 55,
-  "cited_by_count": 1314,
+  "cited_by_count": 1409,
   "photo": "assets/faculty/zhi-zheng.jpg",
   "num_works_fetched": 55,
   "works": [
@@ -83,70 +83,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1447379756",
-      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
-      "year": 2015,
-      "date": "2015-09-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5015239299",
-          "name": "Eric M. Young"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3005368745",
-      "title": "A Randomized Controlled Trial of an Intelligent Robotic Response to Joint Attention Intervention System",
-      "year": 2020,
-      "date": "2020-02-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5042012742",
-          "name": "Guangtao Nie"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3207599940",
       "title": "CheerBrush: A Novel Interactive Augmented Reality Coaching System for Toothbrushing Skills in Children with Autism Spectrum Disorder",
       "year": 2021,
@@ -159,6 +95,38 @@
         {
           "id": "https://openalex.org/A5102767106",
           "name": "Nandan Sarkar"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1447379756",
+      "title": "Robot-Mediated Imitation Skill Training for Children With Autism",
+      "year": 2015,
+      "date": "2015-09-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
         },
         {
           "id": "https://openalex.org/A5005610402",
@@ -207,6 +175,42 @@
         {
           "id": "https://openalex.org/A5050040186",
           "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1978132485",
+      "title": "Brief Report: Development of a Robotic Intervention Platform for Young Children with ASD",
+      "year": 2014,
+      "date": "2014-12-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5026965000",
+          "name": "Shuvajit Das"
+        },
+        {
+          "id": "https://openalex.org/A5015239299",
+          "name": "Eric M. Young"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
         },
         {
           "id": "https://openalex.org/A5076622286",
@@ -279,42 +283,6 @@
         {
           "id": "https://openalex.org/A5084327356",
           "name": "Qiaodi Wu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1978132485",
-      "title": "Brief Report: Development of a Robotic Intervention Platform for Young Children with ASD",
-      "year": 2014,
-      "date": "2014-12-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5026965000",
-          "name": "Shuvajit Das"
-        },
-        {
-          "id": "https://openalex.org/A5015239299",
-          "name": "Eric M. Young"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
         }
       ]
     },
@@ -411,6 +379,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3005368745",
+      "title": "A Randomized Controlled Trial of an Intelligent Robotic Response to Joint Attention Intervention System",
+      "year": 2020,
+      "date": "2020-02-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5042012742",
+          "name": "Guangtao Nie"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2076639588",
       "title": "Unsupervised evolutionary clustering algorithm for mixed type data",
       "year": 2010,
@@ -435,42 +435,6 @@
         {
           "id": "https://openalex.org/A5084327356",
           "name": "Qiaodi Wu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2086327118",
-      "title": "Impact of robot-mediated interaction system on joint attention skills for children with autism",
-      "year": 2013,
-      "date": "2013-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5101746657",
-          "name": "Zhang Lian"
-        },
-        {
-          "id": "https://openalex.org/A5086034336",
-          "name": "Esubalew Bekele"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5022146237",
-          "name": "Julie A. Crittendon"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
         }
       ]
     },
@@ -507,66 +471,6 @@
         {
           "id": "https://openalex.org/A5076622286",
           "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2508536227",
-      "title": "Design of an Autonomous Social Orienting Training System (ASOTS) for Young Children With Autism",
-      "year": 2016,
-      "date": "2016-08-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5002625566",
-          "name": "Huan Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2948031704",
-      "title": "An Exploration of Using Virtual Reality to Assess the Sensory Abnormalities in Children with Autism Spectrum Disorder",
-      "year": 2019,
-      "date": "2019-06-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5039297929",
-          "name": "Ankit Koirala"
-        },
-        {
-          "id": "https://openalex.org/A5049505887",
-          "name": "Hillary K. Schiltz"
-        },
-        {
-          "id": "https://openalex.org/A5080343367",
-          "name": "Amy Vaughan Van Hecke"
-        },
-        {
-          "id": "https://openalex.org/A5022360830",
-          "name": "Kathleen A. Koth"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
         }
       ]
     },
@@ -663,6 +567,102 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2086327118",
+      "title": "Impact of robot-mediated interaction system on joint attention skills for children with autism",
+      "year": 2013,
+      "date": "2013-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5101746657",
+          "name": "Zhang Lian"
+        },
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5022146237",
+          "name": "Julie A. Crittendon"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2508536227",
+      "title": "Design of an Autonomous Social Orienting Training System (ASOTS) for Young Children With Autism",
+      "year": 2016,
+      "date": "2016-08-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2948031704",
+      "title": "An Exploration of Using Virtual Reality to Assess the Sensory Abnormalities in Children with Autism Spectrum Disorder",
+      "year": 2019,
+      "date": "2019-06-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5039297929",
+          "name": "Ankit Koirala"
+        },
+        {
+          "id": "https://openalex.org/A5049505887",
+          "name": "Hillary K. Schiltz"
+        },
+        {
+          "id": "https://openalex.org/A5080343367",
+          "name": "Amy Vaughan Van Hecke"
+        },
+        {
+          "id": "https://openalex.org/A5022360830",
+          "name": "Kathleen A. Koth"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1022580395",
       "title": "Design of a Computer-Assisted System for Teaching Attentional Skills to Toddlers with ASD",
       "year": 2015,
@@ -727,6 +727,138 @@
         {
           "id": "https://openalex.org/A5088314846",
           "name": "Emily A. Dare"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W13758144",
+      "title": "Responses during Facial Emotional Expression Recognition Tasks Using Virtual Reality and Static IAPS Pictures for Adults with Schizophrenia",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5112574641",
+          "name": "Joel S. Peterman"
+        },
+        {
+          "id": "https://openalex.org/A5019834339",
+          "name": "Sohee Park"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2515165417",
+      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
+      "year": 2016,
+      "date": "2016-08-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5002625566",
+          "name": "Huan Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W91363840",
+      "title": "Multimodal Interfaces and Sensory Fusion in VR for Social Interactions",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5102979812",
+          "name": "Joshua W. Wade"
+        },
+        {
+          "id": "https://openalex.org/A5029522016",
+          "name": "Dayi Bian"
+        },
+        {
+          "id": "https://openalex.org/A5101928241",
+          "name": "Lian Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5111840299",
+          "name": "Medha Shukla Sarkar"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415002983",
+      "title": "A Screen-Based Multimodal Virtual Classroom Interface for Understanding Behavioral Sensory Responses in Autistic Adolescents: A Pilot Study",
+      "year": 2025,
+      "date": "2025-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5077751339",
+          "name": "Zhiwei Yu"
+        },
+        {
+          "id": "https://openalex.org/A5000507898",
+          "name": "Suzannah Iadarola"
+        },
+        {
+          "id": "https://openalex.org/A5026704750",
+          "name": "Samantha G. Daley"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
         }
       ]
     },
@@ -803,70 +935,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W13758144",
-      "title": "Responses during Facial Emotional Expression Recognition Tasks Using Virtual Reality and Static IAPS Pictures for Adults with Schizophrenia",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5086034336",
-          "name": "Esubalew Bekele"
-        },
-        {
-          "id": "https://openalex.org/A5029522016",
-          "name": "Dayi Bian"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5112574641",
-          "name": "Joel S. Peterman"
-        },
-        {
-          "id": "https://openalex.org/A5019834339",
-          "name": "Sohee Park"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2515165417",
-      "title": "Brief Report: Evaluation of an Intelligent Learning Environment for Young Children with Autism Spectrum Disorder",
-      "year": 2016,
-      "date": "2016-08-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5002625566",
-          "name": "Huan Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2956984870",
       "title": "Facial Expression Recognition for Children: Can Existing Methods Tuned for Adults Be Adopted for Children?",
       "year": 2019,
@@ -887,50 +955,6 @@
         {
           "id": "https://openalex.org/A5034235916",
           "name": "Myounghoon Jeon"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W91363840",
-      "title": "Multimodal Interfaces and Sensory Fusion in VR for Social Interactions",
-      "year": 2014,
-      "date": "2014-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5086034336",
-          "name": "Esubalew Bekele"
-        },
-        {
-          "id": "https://openalex.org/A5102979812",
-          "name": "Joshua W. Wade"
-        },
-        {
-          "id": "https://openalex.org/A5029522016",
-          "name": "Dayi Bian"
-        },
-        {
-          "id": "https://openalex.org/A5101928241",
-          "name": "Lian Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5111840299",
-          "name": "Medha Shukla Sarkar"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
         }
       ]
     },
@@ -995,30 +1019,6 @@
         {
           "id": "https://openalex.org/A5087302608",
           "name": "Yura Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4415002983",
-      "title": "A Screen-Based Multimodal Virtual Classroom Interface for Understanding Behavioral Sensory Responses in Autistic Adolescents: A Pilot Study",
-      "year": 2025,
-      "date": "2025-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5077751339",
-          "name": "Zhiwei Yu"
-        },
-        {
-          "id": "https://openalex.org/A5000507898",
-          "name": "Suzannah Iadarola"
-        },
-        {
-          "id": "https://openalex.org/A5026704750",
-          "name": "Samantha G. Daley"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
         }
       ]
     },
@@ -1151,6 +1151,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2736632162",
+      "title": "A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption",
+      "year": 2017,
+      "date": "2017-05-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5030318476",
+          "name": "Loren Bruns"
+        },
+        {
+          "id": "https://openalex.org/A5100654839",
+          "name": "Jiajie Li"
+        },
+        {
+          "id": "https://openalex.org/A5039872140",
+          "name": "Richard Sinnott"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4200306090",
       "title": "How Moderate Alcohol Consumption Impacts Married or Cohabiting Couples in Expressing Disagreements: An Automatic Computation Model and Analysis",
       "year": 2021,
@@ -1219,30 +1243,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2736632162",
-      "title": "A Mobile Application and Cloud Platform Supporting Research into Alcohol Consumption",
-      "year": 2017,
-      "date": "2017-05-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5030318476",
-          "name": "Loren Bruns"
-        },
-        {
-          "id": "https://openalex.org/A5100654839",
-          "name": "Jiajie Li"
-        },
-        {
-          "id": "https://openalex.org/A5039872140",
-          "name": "Richard Sinnott"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2758633649",
       "title": "Development and Usability Testing of a Remote Control App for An Interactive RoboT",
       "year": 2017,
@@ -1278,7 +1278,7 @@
       "id": "https://openalex.org/W2807438818",
       "title": "Non-invasive Gaze Direction Estimation from Head Orientation for Human-Machine Interaction",
       "year": 2018,
-      "date": "2018-01-01",
+      "date": "2018-05-31",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065741205",
@@ -1307,38 +1307,6 @@
       "title": "Chapter 19 The impact of robots on children with autism spectrum disorder",
       "year": 2016,
       "date": "2016-12-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5086034336",
-          "name": "Esubalew Bekele"
-        },
-        {
-          "id": "https://openalex.org/A5005610402",
-          "name": "Amy R. Swanson"
-        },
-        {
-          "id": "https://openalex.org/A5012357013",
-          "name": "Amy S. Weitlauf"
-        },
-        {
-          "id": "https://openalex.org/A5050040186",
-          "name": "Zachary E. Warren"
-        },
-        {
-          "id": "https://openalex.org/A5076622286",
-          "name": "Nilanjan Sarkar"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3199926313",
-      "title": "The impact of robots on children with autism spectrum disorder",
-      "year": 2017,
-      "date": "2017-01-06",
       "coauthors": [
         {
           "id": "https://openalex.org/A5065741205",
@@ -1407,6 +1375,62 @@
         {
           "id": "https://openalex.org/A5017683840",
           "name": "Chongxiang He"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3199926313",
+      "title": "The impact of robots on children with autism spectrum disorder",
+      "year": 2017,
+      "date": "2017-01-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5086034336",
+          "name": "Esubalew Bekele"
+        },
+        {
+          "id": "https://openalex.org/A5005610402",
+          "name": "Amy R. Swanson"
+        },
+        {
+          "id": "https://openalex.org/A5012357013",
+          "name": "Amy S. Weitlauf"
+        },
+        {
+          "id": "https://openalex.org/A5050040186",
+          "name": "Zachary E. Warren"
+        },
+        {
+          "id": "https://openalex.org/A5076622286",
+          "name": "Nilanjan Sarkar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406072862",
+      "title": "An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals",
+      "year": 2024,
+      "date": "2024-07-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5109766903",
+          "name": "G. F. Xu"
+        },
+        {
+          "id": "https://openalex.org/A5011529786",
+          "name": "Ruiyang Qin"
+        },
+        {
+          "id": "https://openalex.org/A5065741205",
+          "name": "Zhi Zheng"
+        },
+        {
+          "id": "https://openalex.org/A5109072378",
+          "name": "Yiyu Shi"
         }
       ]
     },
@@ -1583,30 +1607,6 @@
         {
           "id": "https://openalex.org/A5067170834",
           "name": "Cecilia Ovesdotter Alm"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4406072862",
-      "title": "An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals",
-      "year": 2024,
-      "date": "2024-07-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5109766903",
-          "name": "G. F. Xu"
-        },
-        {
-          "id": "https://openalex.org/A5011529786",
-          "name": "Ruiyang Qin"
-        },
-        {
-          "id": "https://openalex.org/A5065741205",
-          "name": "Zhi Zheng"
-        },
-        {
-          "id": "https://openalex.org/A5109072378",
-          "name": "Yiyu Shi"
         }
       ]
     },
