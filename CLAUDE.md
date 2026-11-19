@@ -169,10 +169,13 @@ Approved: [Conductor](https://conductor.nd.edu/), [sites.nd.edu](http://sites.nd
 University account, [WP Engine](https://wpengine.com/), [Netlify](https://www.netlify.com/),
 DreamHost, WordPress.com. Prohibited: *"Google Sites, Wix, Weebly, or Squarespace."*
 
-> **Open question for these repos.** They are on GitHub Pages, which appears on neither list. Confirm
-> with Notre Dame Creative before a QA review is scheduled. GitHub Pages also fixes
-> `Cache-Control: max-age=600` with no way to change headers, which costs points on the "efficient
-> cache lifetimes" audit; Netlify or AWS would not.
+These repos are on GitHub Pages, which appears on neither list. **Settled in practice for
+`correll`:** Notre Dame Creative approved that site to go live and assigned it the subdomain
+`correlllab.nd.edu` in October 2026, with the site still on Pages. `web` and `fcn` have had no such
+approval, so do not assume it carries over.
+
+GitHub Pages still fixes `Cache-Control: max-age=600` with no way to change headers, which costs
+points on the "efficient cache lifetimes" audit; Netlify or AWS would not.
 
 **nd.edu subdomains** are approved by the Office of Public Affairs & Communications —
 [creative.nd.edu/subdomains](https://creative.nd.edu/subdomains/). Five business days; never
