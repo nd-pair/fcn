@@ -6,7 +6,7 @@
   "openalex_name": "Patrick M. Wensing",
   "affiliation": "University of Notre Dame",
   "works_count": 140,
-  "cited_by_count": 5804,
+  "cited_by_count": 6888,
   "photo": "assets/faculty/patrick-wensing.jpg",
   "num_works_fetched": 133,
   "works": [
@@ -99,26 +99,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2593412525",
-      "title": "High-speed bounding with the MIT Cheetah 2: Control design and experiments",
-      "year": 2017,
-      "date": "2017-02-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5090151532",
-          "name": "Hae-Won Park"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5101912751",
-          "name": "Sangbae Kim"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4387682164",
       "title": "Optimization-Based Control for Dynamic Legged Robots",
       "year": 2023,
@@ -151,6 +131,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2593412525",
+      "title": "High-speed bounding with the MIT Cheetah 2: Control design and experiments",
+      "year": 2017,
+      "date": "2017-02-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5090151532",
+          "name": "Hae-Won Park"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5101912751",
+          "name": "Sangbae Kim"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2889693550",
       "title": "Contact Model Fusion for Event-Based Locomotion in Unstructured Terrains",
       "year": 2018,
@@ -171,22 +171,6 @@
         {
           "id": "https://openalex.org/A5101912751",
           "name": "Sangbae Kim"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2081683070",
-      "title": "Generation of dynamic humanoid behaviors through task-space control with conic optimization",
-      "year": 2013,
-      "date": "2013-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
         }
       ]
     },
@@ -227,6 +211,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2081683070",
+      "title": "Generation of dynamic humanoid behaviors through task-space control with conic optimization",
+      "year": 2013,
+      "date": "2013-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W1502718064",
       "title": "Online Planning for Autonomous Running Jumps Over Obstacles in High-Speed Quadrupeds",
       "year": 2015,
@@ -243,22 +243,6 @@
         {
           "id": "https://openalex.org/A5101912751",
           "name": "Sangbae Kim"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1661970104",
-      "title": "Improved Computation of the Humanoid Centroidal Dynamics and Application for Whole-Body Control",
-      "year": 2015,
-      "date": "2015-09-25",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
         }
       ]
     },
@@ -295,26 +279,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2771123153",
-      "title": "Policy-regularized model predictive control to stabilize diverse quadrupedal gaits for the MIT cheetah",
-      "year": 2017,
-      "date": "2017-09-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012676705",
-          "name": "Gerardo Bledt"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5101912751",
-          "name": "Sangbae Kim"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2975869184",
       "title": "MPC-based Controller with Terrain Insight for Dynamic Legged Locomotion",
       "year": 2020,
@@ -339,6 +303,26 @@
         {
           "id": "https://openalex.org/A5010033061",
           "name": "Claudio Semini"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2771123153",
+      "title": "Policy-regularized model predictive control to stabilize diverse quadrupedal gaits for the MIT cheetah",
+      "year": 2017,
+      "date": "2017-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012676705",
+          "name": "Gerardo Bledt"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5101912751",
+          "name": "Sangbae Kim"
         }
       ]
     },
@@ -411,6 +395,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2991963964",
+      "title": "Geometric Robot Dynamic Identification: A Convex Programming Approach",
+      "year": 2019,
+      "date": "2019-12-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102867268",
+          "name": "Taeyoon Lee"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5009036246",
+          "name": "Frank C. Park"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4404576594",
       "title": "Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework With Tuning-Free Whole-Body Control",
       "year": 2024,
@@ -451,6 +455,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4206919521",
+      "title": "Smooth Parameterization of Rigid-Body Inertia",
+      "year": 2022,
+      "date": "2022-01-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082291863",
+          "name": "D. Caleb Rucker"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1661970104",
+      "title": "Improved Computation of the Humanoid Centroidal Dynamics and Application for Whole-Body Control",
+      "year": 2015,
+      "date": "2015-09-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2601610124",
       "title": "Design of Dynamic Legged Robots",
       "year": 2017,
@@ -463,26 +499,6 @@
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2991963964",
-      "title": "Geometric Robot Dynamic Identification: A Convex Programming Approach",
-      "year": 2019,
-      "date": "2019-12-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5102867268",
-          "name": "Taeyoon Lee"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5009036246",
-          "name": "Frank C. Park"
         }
       ]
     },
@@ -563,30 +579,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1512173993",
-      "title": "Dynamic walking in a humanoid robot based on a 3D Actuated Dual-SLIP model",
-      "year": 2015,
-      "date": "2015-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100726692",
-          "name": "Yiping Liu"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
-        },
-        {
-          "id": "https://openalex.org/A5038727924",
-          "name": "Yuan F. Zheng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3197219002",
       "title": "Mini Cheetah, the Falling Cat: A Case Study in Machine Learning and Trajectory Optimization for Robot Acrobatics",
       "year": 2022,
@@ -607,6 +599,22 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1968294545",
+      "title": "Development of high-span running long jumps for humanoids",
+      "year": 2014,
+      "date": "2014-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
         }
       ]
     },
@@ -635,22 +643,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1968294545",
-      "title": "Development of high-span running long jumps for humanoids",
-      "year": 2014,
-      "date": "2014-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3003294786",
       "title": "One Robot for Many Tasks: Versatile Co-Design Through Stochastic Programming",
       "year": 2020,
@@ -667,6 +659,86 @@
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3091666534",
+      "title": "Numerical Methods to Compute the Coriolis Matrix and Christoffel Symbols for Rigid-Body Systems",
+      "year": 2021,
+      "date": "2021-05-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5067980793",
+          "name": "Sebastian Echeandia"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2102651715",
+      "title": "OPTIMIZING FOOT CENTERS OF PRESSURE THROUGH FORCE DISTRIBUTION IN A HUMANOID ROBOT",
+      "year": 2013,
+      "date": "2013-08-07",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5053864165",
+          "name": "Ghassan Bin Hammam"
+        },
+        {
+          "id": "https://openalex.org/A5031340269",
+          "name": "Behzad Dariush"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3162655786",
+      "title": "Efficient Analytical Derivatives of Rigid-Body Dynamics Using Spatial Vector Algebra",
+      "year": 2022,
+      "date": "2022-01-07",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101570823",
+          "name": "Shubham Kumar Singh"
+        },
+        {
+          "id": "https://openalex.org/A5049959252",
+          "name": "Ryan P. Russell"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3204383275",
+      "title": "Control Barrier Functions for Singularity Avoidance in Passivity-Based Manipulator Control",
+      "year": 2021,
+      "date": "2021-12-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -695,62 +767,6 @@
         {
           "id": "https://openalex.org/A5100441694",
           "name": "Wei Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4206919521",
-      "title": "Smooth Parameterization of Rigid-Body Inertia",
-      "year": 2022,
-      "date": "2022-01-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082291863",
-          "name": "D. Caleb Rucker"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4381327754",
-      "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
-      "year": 2023,
-      "date": "2023-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082932297",
-          "name": "Ryan R. Posh"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3162655786",
-      "title": "Efficient Analytical Derivatives of Rigid-Body Dynamics Using Spatial Vector Algebra",
-      "year": 2022,
-      "date": "2022-01-07",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101570823",
-          "name": "Shubham Kumar Singh"
-        },
-        {
-          "id": "https://openalex.org/A5049959252",
-          "name": "Ryan P. Russell"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
         }
       ]
     },
@@ -799,46 +815,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3200670713",
-      "title": "Robust Co-Design: Coupling Morphology and Feedback Design Through Stochastic Programming",
-      "year": 2021,
-      "date": "2021-09-16",
+      "id": "https://openalex.org/W4381327754",
+      "title": "Finite-State Impedance and Direct Myoelectric Control for Robotic Ankle Prostheses: Comparing Their Performance and Exploring Their Combination",
+      "year": 2023,
+      "date": "2023-01-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5069796761",
-          "name": "Gabriel Bravo-Palacios"
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
         },
         {
-          "id": "https://openalex.org/A5001888749",
-          "name": "Gianluigi Grandesso"
-        },
-        {
-          "id": "https://openalex.org/A5038165484",
-          "name": "Andrea Del Prete"
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
         },
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3204383275",
-      "title": "Control Barrier Functions for Singularity Avoidance in Passivity-Based Manipulator Control",
-      "year": 2021,
-      "date": "2021-12-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -855,6 +847,30 @@
         {
           "id": "https://openalex.org/A5049959252",
           "name": "Ryan P. Russell"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3200670713",
+      "title": "Robust Co-Design: Coupling Morphology and Feedback Design Through Stochastic Programming",
+      "year": 2021,
+      "date": "2021-09-16",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069796761",
+          "name": "Gabriel Bravo-Palacios"
+        },
+        {
+          "id": "https://openalex.org/A5001888749",
+          "name": "Gianluigi Grandesso"
+        },
+        {
+          "id": "https://openalex.org/A5038165484",
+          "name": "Andrea Del Prete"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -951,50 +967,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2102651715",
-      "title": "OPTIMIZING FOOT CENTERS OF PRESSURE THROUGH FORCE DISTRIBUTION IN A HUMANOID ROBOT",
-      "year": 2013,
-      "date": "2013-08-07",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5053864165",
-          "name": "Ghassan Bin Hammam"
-        },
-        {
-          "id": "https://openalex.org/A5031340269",
-          "name": "Behzad Dariush"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3091666534",
-      "title": "Numerical Methods to Compute the Coriolis Matrix and Christoffel Symbols for Rigid-Body Systems",
-      "year": 2021,
-      "date": "2021-05-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5067980793",
-          "name": "Sebastian Echeandia"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2207728075",
-      "title": "Trajectory generation for dynamic walking in a humanoid over uneven terrain using a 3D-actuated Dual-SLIP model",
+      "id": "https://openalex.org/W1512173993",
+      "title": "Dynamic walking in a humanoid robot based on a 3D Actuated Dual-SLIP model",
       "year": 2015,
-      "date": "2015-09-01",
+      "date": "2015-05-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5100726692",
@@ -1027,6 +1003,30 @@
         {
           "id": "https://openalex.org/A5057364155",
           "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2207728075",
+      "title": "Trajectory generation for dynamic walking in a humanoid over uneven terrain using a 3D-actuated Dual-SLIP model",
+      "year": 2015,
+      "date": "2015-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100726692",
+          "name": "Yiping Liu"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        },
+        {
+          "id": "https://openalex.org/A5038727924",
+          "name": "Yuan F. Zheng"
         }
       ]
     },
@@ -1071,6 +1071,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4312758030",
+      "title": "Large-Scale ADMM-based Co-Design of Legged Robots",
+      "year": 2022,
+      "date": "2022-10-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5069796761",
+          "name": "Gabriel Bravo-Palacios"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3190276978",
+      "title": "Instantaneous Capture Input for Balancing the Variable Height Inverted Pendulum",
+      "year": 2021,
+      "date": "2021-08-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5072062552",
+          "name": "Junwei Liu"
+        },
+        {
+          "id": "https://openalex.org/A5001058965",
+          "name": "Hua Chen"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5100441694",
+          "name": "Wei Zhang"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3106700483",
       "title": "Sequential semidefinite optimization for physically and statistically consistent robot identification",
       "year": 2020,
@@ -1111,14 +1151,46 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4312758030",
-      "title": "Large-Scale ADMM-based Co-Design of Legged Robots",
+      "id": "https://openalex.org/W2099628199",
+      "title": "Kinodynamically Consistent Motion Retargeting for Humanoids",
+      "year": 2015,
+      "date": "2015-04-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5053864165",
+          "name": "Ghassan Bin Hammam"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5031340269",
+          "name": "Behzad Dariush"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4313184935",
+      "title": "Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control",
       "year": 2022,
       "date": "2022-10-23",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5069796761",
-          "name": "Gabriel Bravo-Palacios"
+          "id": "https://openalex.org/A5100661194",
+          "name": "He Li"
+        },
+        {
+          "id": "https://openalex.org/A5015524477",
+          "name": "Wenhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5086928709",
+          "name": "Tingnan Zhang"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -1171,6 +1243,134 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4390481003",
+      "title": "Analytical Second-Order Derivatives of Rigid-Body Contact Dynamics: Application to Multi-Shooting DDP",
+      "year": 2023,
+      "date": "2023-12-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101570827",
+          "name": "Shubham Kumar Singh"
+        },
+        {
+          "id": "https://openalex.org/A5049959252",
+          "name": "Ryan P. Russell"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401416566",
+      "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
+      "year": 2024,
+      "date": "2024-05-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5092973312",
+          "name": "Jonathan A. Tittle"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404057712",
+      "title": "Center of mass kinematic reconstruction during steady-state walking using optimized template models",
+      "year": 2024,
+      "date": "2024-11-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5114522368",
+          "name": "David J. Kelly"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7123353085",
+      "title": "Coriolis Factorizations and Their Connections to Riemannian Geometry",
+      "year": 2026,
+      "date": "2026-01-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2034532151",
+      "title": "A reduced-order recursive algorithm for the computation of the operational-space inertia matrix",
+      "year": 2012,
+      "date": "2012-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5035226540",
+          "name": "Roy Featherstone"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2573443546",
+      "title": "Sparse Control for Dynamic Movement Primitives",
+      "year": 2017,
+      "date": "2017-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2759798195",
+      "title": "Cooperative Adaptive Control for Cloud-Based Robotics",
+      "year": 2018,
+      "date": "2018-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4200517107",
       "title": "Quadruped Robot Hopping on Two Legs",
       "year": 2021,
@@ -1195,26 +1395,86 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2099628199",
-      "title": "Kinodynamically Consistent Motion Retargeting for Humanoids",
+      "id": "https://openalex.org/W2029113688",
+      "title": "Efficient recursive dynamics algorithms for operational-space control with application to legged locomotion",
       "year": 2015,
-      "date": "2015-04-23",
+      "date": "2015-01-21",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5053864165",
-          "name": "Ghassan Bin Hammam"
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5110760099",
+          "name": "Luther R. Palmer"
+        },
+        {
+          "id": "https://openalex.org/A5057364155",
+          "name": "David E. Orin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3111221186",
+      "title": "Effects of User Intent Changes on Onboard Sensor Measurements During Exoskeleton-Assisted Walking",
+      "year": 2020,
+      "date": "2020-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5003051611",
+          "name": "Taylor M. Higgins"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4225670303",
+      "title": "Generalization in Supervised Learning Through Riemannian Contraction",
+      "year": 2022,
+      "date": "2022-01-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031353295",
+          "name": "Leo Kozachkov"
         },
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
         },
         {
-          "id": "https://openalex.org/A5031340269",
-          "name": "Behzad Dariush"
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2973459893",
+      "title": "Formal Connections between Template and Anchor Models via Approximate Simulation",
+      "year": 2019,
+      "date": "2019-10-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5021639238",
+          "name": "Vince Kurtz"
         },
         {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
+          "id": "https://openalex.org/A5005085816",
+          "name": "Rafael Rodrigues da Silva"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5045445273",
+          "name": "Hai Lin"
         }
       ]
     },
@@ -1259,242 +1519,6 @@
         {
           "id": "https://openalex.org/A5088087727",
           "name": "Richard J. Freuler"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4313184935",
-      "title": "Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control",
-      "year": 2022,
-      "date": "2022-10-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100661194",
-          "name": "He Li"
-        },
-        {
-          "id": "https://openalex.org/A5015524477",
-          "name": "Wenhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5086928709",
-          "name": "Tingnan Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4401416566",
-      "title": "Hybrid Volitional Control of a Robotic Transtibial Prosthesis using a Phase Variable Impedance Controller",
-      "year": 2024,
-      "date": "2024-05-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082932297",
-          "name": "Ryan R. Posh"
-        },
-        {
-          "id": "https://openalex.org/A5092973312",
-          "name": "Jonathan A. Tittle"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4390481003",
-      "title": "Analytical Second-Order Derivatives of Rigid-Body Contact Dynamics: Application to Multi-Shooting DDP",
-      "year": 2023,
-      "date": "2023-12-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101570827",
-          "name": "Shubham Kumar Singh"
-        },
-        {
-          "id": "https://openalex.org/A5049959252",
-          "name": "Ryan P. Russell"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4312970148",
-      "title": "Analytical Second-Order Partial Derivatives of Rigid-Body Inverse Dynamics",
-      "year": 2022,
-      "date": "2022-10-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101570823",
-          "name": "Shubham Kumar Singh"
-        },
-        {
-          "id": "https://openalex.org/A5049959252",
-          "name": "Ryan P. Russell"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404057712",
-      "title": "Center of mass kinematic reconstruction during steady-state walking using optimized template models",
-      "year": 2024,
-      "date": "2024-11-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5114522368",
-          "name": "David J. Kelly"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7123353085",
-      "title": "Coriolis Factorizations and Their Connections to Riemannian Geometry",
-      "year": 2026,
-      "date": "2026-01-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3190276978",
-      "title": "Instantaneous Capture Input for Balancing the Variable Height Inverted Pendulum",
-      "year": 2021,
-      "date": "2021-08-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5072062552",
-          "name": "Junwei Liu"
-        },
-        {
-          "id": "https://openalex.org/A5001058965",
-          "name": "Hua Chen"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5100441694",
-          "name": "Wei Zhang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2759798195",
-      "title": "Cooperative Adaptive Control for Cloud-Based Robotics",
-      "year": 2018,
-      "date": "2018-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2573443546",
-      "title": "Sparse Control for Dynamic Movement Primitives",
-      "year": 2017,
-      "date": "2017-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3111221186",
-      "title": "Effects of User Intent Changes on Onboard Sensor Measurements During Exoskeleton-Assisted Walking",
-      "year": 2020,
-      "date": "2020-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5003051611",
-          "name": "Taylor M. Higgins"
-        },
-        {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2029113688",
-      "title": "Efficient recursive dynamics algorithms for operational-space control with application to legged locomotion",
-      "year": 2015,
-      "date": "2015-01-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5110760099",
-          "name": "Luther R. Palmer"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3045568673",
-      "title": "Robust Approximate Simulation for Hierarchical Control of Linear Systems under Disturbances",
-      "year": 2020,
-      "date": "2020-07-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5021639238",
-          "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5045445273",
-          "name": "Hai Lin"
         }
       ]
     },
@@ -1595,6 +1619,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4312970148",
+      "title": "Analytical Second-Order Partial Derivatives of Rigid-Body Inverse Dynamics",
+      "year": 2022,
+      "date": "2022-10-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101570823",
+          "name": "Shubham Kumar Singh"
+        },
+        {
+          "id": "https://openalex.org/A5049959252",
+          "name": "Ryan P. Russell"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4390481077",
       "title": "Whole-Body Dynamic Telelocomotion: A Step-to-Step Dynamics Approach to Human Walking Reference Generation",
       "year": 2023,
@@ -1623,14 +1667,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4287888526",
-      "title": "Personalized Estimation of Intended Gait Speed for Lower-Limb Exoskeleton Users via Data Augmentation Using Mutual Information",
-      "year": 2022,
-      "date": "2022-07-25",
+      "id": "https://openalex.org/W4396712933",
+      "title": "3D Hopping in Discontinuous Terrain Using Impulse Planning With Mixed-Integer Strategies",
+      "year": 2024,
+      "date": "2024-05-07",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5080345129",
-          "name": "Roopak M. Karulkar"
+          "id": "https://openalex.org/A5116307716",
+          "name": "Nolan Fey"
+        },
+        {
+          "id": "https://openalex.org/A5002834635",
+          "name": "Robert J. Frei"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416750068",
+      "title": "Simultaneous Locomotion Mode Classification and Continuous Gait Phase Estimation for Transtibial Prostheses",
+      "year": 2025,
+      "date": "2025-10-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
+        {
+          "id": "https://openalex.org/A5028164463",
+          "name": "Shenggao Li"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -1655,26 +1723,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2034532151",
-      "title": "A reduced-order recursive algorithm for the computation of the operational-space inertia matrix",
-      "year": 2012,
-      "date": "2012-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5035226540",
-          "name": "Roy Featherstone"
-        },
-        {
-          "id": "https://openalex.org/A5057364155",
-          "name": "David E. Orin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W133482620",
       "title": "Control of Humanoid Hopping Based on a SLIP Model",
       "year": 2013,
@@ -1691,18 +1739,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2973459893",
-      "title": "Formal Connections between Template and Anchor Models via Approximate Simulation",
-      "year": 2019,
-      "date": "2019-10-01",
+      "id": "https://openalex.org/W2521503884",
+      "title": "Optimization and Control of Dynamic Humanoid Running and Jumping",
+      "year": 2014,
+      "date": "2014-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3045568673",
+      "title": "Robust Approximate Simulation for Hierarchical Control of Linear Systems under Disturbances",
+      "year": 2020,
+      "date": "2020-07-01",
       "coauthors": [
         {
           "id": "https://openalex.org/A5021639238",
           "name": "Vince Kurtz"
-        },
-        {
-          "id": "https://openalex.org/A5005085816",
-          "name": "Rafael Rodrigues da Silva"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -1711,6 +1767,42 @@
         {
           "id": "https://openalex.org/A5045445273",
           "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3094309285",
+      "title": "User Intent Identification in a Lower-Extremity Exoskeleton via the Mahalanobis Distance",
+      "year": 2020,
+      "date": "2020-10-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5003051611",
+          "name": "Taylor M. Higgins"
+        },
+        {
+          "id": "https://openalex.org/A5073029557",
+          "name": "James P. Schmiedeler"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4317813268",
+      "title": "Accelerating Hybrid Systems Differential Dynamic Programming",
+      "year": 2023,
+      "date": "2023-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5033623748",
+          "name": "John N. Nganga"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
         }
       ]
     },
@@ -1823,18 +1915,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4396712933",
-      "title": "3D Hopping in Discontinuous Terrain Using Impulse Planning With Mixed-Integer Strategies",
-      "year": 2024,
-      "date": "2024-05-07",
+      "id": "https://openalex.org/W4287888526",
+      "title": "Personalized Estimation of Intended Gait Speed for Lower-Limb Exoskeleton Users via Data Augmentation Using Mutual Information",
+      "year": 2022,
+      "date": "2022-07-25",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5116307716",
-          "name": "Nolan Fey"
-        },
-        {
-          "id": "https://openalex.org/A5002834635",
-          "name": "Robert J. Frei"
+          "id": "https://openalex.org/A5080345129",
+          "name": "Roopak M. Karulkar"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -1875,26 +1963,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4416750068",
-      "title": "Simultaneous Locomotion Mode Classification and Continuous Gait Phase Estimation for Transtibial Prostheses",
-      "year": 2025,
-      "date": "2025-10-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082932297",
-          "name": "Ryan R. Posh"
-        },
-        {
-          "id": "https://openalex.org/A5028164463",
-          "name": "Shenggao Li"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2135959801",
       "title": "Fuzzy controlled hopping in a biped robot",
       "year": 2011,
@@ -1919,11 +1987,15 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2521503884",
-      "title": "Optimization and Control of Dynamic Humanoid Running and Jumping",
-      "year": 2014,
-      "date": "2014-01-01",
+      "id": "https://openalex.org/W4401415875",
+      "title": "Task-space Control of a Powered Ankle Prosthesis",
+      "year": 2024,
+      "date": "2024-05-13",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5082932297",
+          "name": "Ryan R. Posh"
+        },
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
@@ -1931,22 +2003,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3094309285",
-      "title": "User Intent Identification in a Lower-Extremity Exoskeleton via the Mahalanobis Distance",
-      "year": 2020,
-      "date": "2020-10-15",
+      "id": "https://openalex.org/W4405787582",
+      "title": "Task-Space Riccati Feedback based Whole Body Control for Underactuated Legged Locomotion",
+      "year": 2024,
+      "date": "2024-10-14",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5003051611",
-          "name": "Taylor M. Higgins"
+          "id": "https://openalex.org/A5043901029",
+          "name": "Shunpeng Yang"
         },
         {
-          "id": "https://openalex.org/A5073029557",
-          "name": "James P. Schmiedeler"
+          "id": "https://openalex.org/A5063916855",
+          "name": "Zejun Hong"
+        },
+        {
+          "id": "https://openalex.org/A5100444240",
+          "name": "Sen Li"
         },
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5100441694",
+          "name": "Wei Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5001058965",
+          "name": "Hua Chen"
         }
       ]
     },
@@ -2043,6 +2127,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4300778410",
+      "title": "Design of Dynamic Legged Robots",
+      "year": 2017,
+      "date": "2017-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101912751",
+          "name": "Sangbae Kim"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4387885941",
       "title": "Balancing on a Rolling Contact",
       "year": 2023,
@@ -2079,74 +2179,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4317813268",
-      "title": "Accelerating Hybrid Systems Differential Dynamic Programming",
-      "year": 2023,
-      "date": "2023-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5033623748",
-          "name": "John N. Nganga"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4401415875",
-      "title": "Task-space Control of a Powered Ankle Prosthesis",
-      "year": 2024,
-      "date": "2024-05-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082932297",
-          "name": "Ryan R. Posh"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4405787582",
-      "title": "Task-Space Riccati Feedback based Whole Body Control for Underactuated Legged Locomotion",
-      "year": 2024,
-      "date": "2024-10-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043901029",
-          "name": "Shunpeng Yang"
-        },
-        {
-          "id": "https://openalex.org/A5063916855",
-          "name": "Zejun Hong"
-        },
-        {
-          "id": "https://openalex.org/A5100444240",
-          "name": "Sen Li"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5100441694",
-          "name": "Wei Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5001058965",
-          "name": "Hua Chen"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4412345974",
       "title": "The Impact of Phase Variable Accuracy on Continuous Controller Performance for Knee-Ankle Prostheses: A Case Study",
       "year": 2025,
       "date": "2025-05-12",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7167016107",
+      "title": "Adapting Rigid-Body Dynamics Derivatives for Constraint Embedding Closed-Chain Models",
+      "year": 2026,
+      "date": "2026-07-02",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5139878147",
+          "name": "Daniel J. Volpi"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7167835507",
+      "title": "Hamel\u2019s Equations From d\u2019Alembert\u2019s Principle and Frame Kinematics",
+      "year": 2026,
+      "date": "2026-07-09",
       "coauthors": [
         {
           "id": "https://openalex.org/A5029126529",
@@ -2179,30 +2243,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4300778410",
-      "title": "Design of Dynamic Legged Robots",
-      "year": 2017,
-      "date": "2017-01-01",
+      "id": "https://openalex.org/W3130216878",
+      "title": "Application of Interacting Models to Estimate the Gait Speed of an Exoskeleton User",
+      "year": 2020,
+      "date": "2020-10-24",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5101912751",
-          "name": "Sangbae Kim"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2750604372",
-      "title": "Proprioceptive Actuation Design for Dynamic Legged locomotion",
-      "year": 2016,
-      "date": "2016-03-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101912751",
-          "name": "Sangbae Kim"
+          "id": "https://openalex.org/A5080345129",
+          "name": "Roopak M. Karulkar"
         },
         {
           "id": "https://openalex.org/A5029126529",
@@ -2243,22 +2291,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3130216878",
-      "title": "Application of Interacting Models to Estimate the Gait Speed of an Exoskeleton User",
-      "year": 2020,
-      "date": "2020-10-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080345129",
-          "name": "Roopak M. Karulkar"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2953046228",
       "title": "Linear Matrix Inequalities for Physically Consistent Inertial Parameter Identification: A Statistical Perspective on the Mass Distribution",
       "year": 2017,
@@ -2271,46 +2303,6 @@
         {
           "id": "https://openalex.org/A5101912751",
           "name": "Sangbae Kim"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4225670303",
-      "title": "Generalization in Supervised Learning Through Riemannian Contraction",
-      "year": 2022,
-      "date": "2022-01-17",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031353295",
-          "name": "Leo Kozachkov"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2767341776",
-      "title": "Observability in Inertial Parameter Identification.",
-      "year": 2017,
-      "date": "2017-11-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5110098445",
-          "name": "G\u00fcnter Niemeyer"
         },
         {
           "id": "https://openalex.org/A5044026747",
@@ -2351,6 +2343,26 @@
         {
           "id": "https://openalex.org/A5100752965",
           "name": "Hua Chen"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2767341776",
+      "title": "Observability in Inertial Parameter Identification.",
+      "year": 2017,
+      "date": "2017-11-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5110098445",
+          "name": "G\u00fcnter Niemeyer"
+        },
+        {
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
         }
       ]
     },
@@ -2419,22 +2431,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2808430362",
-      "title": "Contraction Analysis of Geodesically Convex Optimization",
-      "year": 2018,
-      "date": "2018-06-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        },
-        {
-          "id": "https://openalex.org/A5044026747",
-          "name": "Jean-Jacques E. Slotine"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4308237514",
       "title": "Exploring the limits of a hybrid actuation system through Co-Design - Technical Report",
       "year": 2020,
@@ -2463,26 +2459,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4385261794",
-      "title": "Multi-Shooting Differential Dynamic Programming for Hybrid Systems using Analytical Derivatives",
-      "year": 2023,
-      "date": "2023-07-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101570827",
-          "name": "Shubham Kumar Singh"
-        },
-        {
-          "id": "https://openalex.org/A5049959252",
-          "name": "Ryan P. Russell"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4385328015",
       "title": "Towards Continuous Time Finite Horizon LQR Control in SE(3)",
       "year": 2023,
@@ -2503,6 +2479,70 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2307622176",
+      "title": "REAL-TIME COMPUTER CONTROL OF A PROTOTYPE BIPEDAL SYSTEM",
+      "year": 2009,
+      "date": "2009-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2750604372",
+      "title": "Proprioceptive Actuation Design for Dynamic Legged locomotion",
+      "year": 2016,
+      "date": "2016-03-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101912751",
+          "name": "Sangbae Kim"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2808430362",
+      "title": "Contraction Analysis of Geodesically Convex Optimization",
+      "year": 2018,
+      "date": "2018-06-18",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "id": "https://openalex.org/A5044026747",
+          "name": "Jean-Jacques E. Slotine"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4385261794",
+      "title": "Multi-Shooting Differential Dynamic Programming for Hybrid Systems using Analytical Derivatives",
+      "year": 2023,
+      "date": "2023-07-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101570827",
+          "name": "Shubham Kumar Singh"
+        },
+        {
+          "id": "https://openalex.org/A5049959252",
+          "name": "Ryan P. Russell"
+        },
+        {
+          "id": "https://openalex.org/A5029126529",
+          "name": "Patrick M. Wensing"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2012792976",
       "title": "Widening Horizons: The Present and Future of the RAS Student Activities Committee [Student's Corner]",
       "year": 2012,
@@ -2519,18 +2559,6 @@
         {
           "id": "https://openalex.org/A5023470200",
           "name": "Douwe Dresscher"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2307622176",
-      "title": "REAL-TIME COMPUTER CONTROL OF A PROTOTYPE BIPEDAL SYSTEM",
-      "year": 2009,
-      "date": "2009-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
         }
       ]
     },
@@ -2744,34 +2772,6 @@
           "id": "https://openalex.org/A5082291863",
           "name": "D. Caleb Rucker"
         },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7167016107",
-      "title": "Adapting Rigid-Body Dynamics Derivatives for Constraint Embedding Closed-Chain Models",
-      "year": 2026,
-      "date": "2026-07-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5139878147",
-          "name": "Daniel J. Volpi"
-        },
-        {
-          "id": "https://openalex.org/A5029126529",
-          "name": "Patrick M. Wensing"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7167835507",
-      "title": "Hamel\u2019s Equations From d\u2019Alembert\u2019s Principle and Frame Kinematics",
-      "year": 2026,
-      "date": "2026-07-09",
-      "coauthors": [
         {
           "id": "https://openalex.org/A5029126529",
           "name": "Patrick M. Wensing"

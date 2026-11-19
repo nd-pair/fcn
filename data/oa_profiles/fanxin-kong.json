@@ -6,7 +6,7 @@
   "openalex_name": "Fanxin Kong",
   "affiliation": "University of Notre Dame",
   "works_count": 84,
-  "cited_by_count": 3007,
+  "cited_by_count": 3366,
   "photo": "assets/faculty/fanxin-kong.jpg",
   "num_works_fetched": 84,
   "works": [
@@ -211,34 +211,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2171373685",
-      "title": "Sensor placement for lifetime maximization in monitoring oil pipelines",
-      "year": 2010,
-      "date": "2010-04-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5103623226",
-          "name": "Yifeng Guo"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5012210223",
-          "name": "Dakai K. Zhu"
-        },
-        {
-          "id": "https://openalex.org/A5079615374",
-          "name": "Ali \u015eaman Tosun"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2798493418",
       "title": "Cyber-Physical System Checkpointing and Recovery",
       "year": 2018,
@@ -279,6 +251,34 @@
         {
           "id": "https://openalex.org/A5100364988",
           "name": "Yi Wang"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2171373685",
+      "title": "Sensor placement for lifetime maximization in monitoring oil pipelines",
+      "year": 2010,
+      "date": "2010-04-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5103623226",
+          "name": "Yifeng Guo"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5012210223",
+          "name": "Dakai K. Zhu"
+        },
+        {
+          "id": "https://openalex.org/A5079615374",
+          "name": "Ali \u015eaman Tosun"
         },
         {
           "id": "https://openalex.org/A5001074845",
@@ -359,6 +359,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3181836960",
+      "title": "Real-Time Adaptive Sensor Attack Detection in Autonomous Cyber-Physical Systems",
+      "year": 2021,
+      "date": "2021-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5013819603",
+          "name": "Francis E. Akowuah"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2597605236",
       "title": "A Hierarchical Data Transmission Framework for Industrial Wireless Sensor and Actuator Networks",
       "year": 2017,
@@ -395,22 +411,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3181836960",
-      "title": "Real-Time Adaptive Sensor Attack Detection in Autonomous Cyber-Physical Systems",
-      "year": 2021,
-      "date": "2021-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5013819603",
-          "name": "Francis E. Akowuah"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2571097389",
       "title": "On-Line Event-Driven Scheduling for Electric Vehicle Charging via Park-and-Charge",
       "year": 2016,
@@ -431,6 +431,26 @@
         {
           "id": "https://openalex.org/A5100372152",
           "name": "Xue Liu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2056137948",
+      "title": "Energy Minimizing for Parallel Real-Time Tasks Based on Level-Packing",
+      "year": 2012,
+      "date": "2012-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5102121154",
+          "name": "Huiting Xu"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
         }
       ]
     },
@@ -499,66 +519,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4246560080",
-      "title": "Smart Rate Control and Demand Balancing for Electric Vehicle Charging",
-      "year": 2016,
-      "date": "2016-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100372157",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5048258685",
-          "name": "Zhonghao Sun"
-        },
-        {
-          "id": "https://openalex.org/A5100603536",
-          "name": "Qinglong Wang"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3188221837",
-      "title": "Physical Invariant Based Attack Detection for Autonomous Vehicles: Survey, Vision, and Challenges",
+      "id": "https://openalex.org/W3180026872",
+      "title": "Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks",
       "year": 2021,
-      "date": "2021-04-01",
+      "date": "2021-05-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5013819603",
-          "name": "Francis E. Akowuah"
+          "id": "https://openalex.org/A5100707154",
+          "name": "Ruixuan Wang"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3123597170",
-      "title": "A Data-Driven Model Predictive Control for Alleviating Thermal Overloads in the Presence of Possible False Data",
-      "year": 2021,
-      "date": "2021-01-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5009578306",
-          "name": "Rui Ma"
         },
         {
-          "id": "https://openalex.org/A5074477879",
-          "name": "Sagnik Basumallik"
+          "id": "https://openalex.org/A5046095947",
+          "name": "Hasshi Sudler"
         },
         {
-          "id": "https://openalex.org/A5069239725",
-          "name": "Sara Eftekharnejad"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
+          "id": "https://openalex.org/A5016146461",
+          "name": "Xun Jiao"
         }
       ]
     },
@@ -603,6 +583,46 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3188221837",
+      "title": "Physical Invariant Based Attack Detection for Autonomous Vehicles: Survey, Vision, and Challenges",
+      "year": 2021,
+      "date": "2021-04-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5013819603",
+          "name": "Francis E. Akowuah"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3123597170",
+      "title": "A Data-Driven Model Predictive Control for Alleviating Thermal Overloads in the Presence of Possible False Data",
+      "year": 2021,
+      "date": "2021-01-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5009578306",
+          "name": "Rui Ma"
+        },
+        {
+          "id": "https://openalex.org/A5074477879",
+          "name": "Sagnik Basumallik"
+        },
+        {
+          "id": "https://openalex.org/A5069239725",
+          "name": "Sara Eftekharnejad"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2131844888",
       "title": "Collision-free multichannel superframe scheduling for IEEE 802.15.4 cluster-tree networks",
       "year": 2014,
@@ -627,6 +647,42 @@
         {
           "id": "https://openalex.org/A5046618429",
           "name": "Yang Xiao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4393224642",
+      "title": "Recovery from Adversarial Attacks in Cyber-physical Systems: Shallow, Deep, and Exploratory Works",
+      "year": 2024,
+      "date": "2024-03-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5081521997",
+          "name": "Pengyuan Lu"
+        },
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5100761835",
+          "name": "Mengyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5043161001",
+          "name": "Kaustubh Sridhar"
+        },
+        {
+          "id": "https://openalex.org/A5082105260",
+          "name": "Oleg V. Sokolsky"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5030456600",
+          "name": "Insup Lee"
         }
       ]
     },
@@ -691,22 +747,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2056137948",
-      "title": "Energy Minimizing for Parallel Real-Time Tasks Based on Level-Packing",
-      "year": 2012,
-      "date": "2012-08-01",
+      "id": "https://openalex.org/W4246560080",
+      "title": "Smart Rate Control and Demand Balancing for Electric Vehicle Charging",
+      "year": 2016,
+      "date": "2016-04-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5102121154",
-          "name": "Huiting Xu"
-        },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
+          "id": "https://openalex.org/A5100372157",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5048258685",
+          "name": "Zhonghao Sun"
+        },
+        {
+          "id": "https://openalex.org/A5100603536",
+          "name": "Qinglong Wang"
         }
       ]
     },
@@ -727,26 +787,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3180026872",
-      "title": "Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks",
-      "year": 2021,
-      "date": "2021-05-01",
+      "id": "https://openalex.org/W4244788906",
+      "title": "GreenPlanning: Optimal Energy Source Selection and Capacity Planning for Green Datacenters",
+      "year": 2016,
+      "date": "2016-04-01",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5100707154",
-          "name": "Ruixuan Wang"
-        },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5046095947",
-          "name": "Hasshi Sudler"
-        },
-        {
-          "id": "https://openalex.org/A5016146461",
-          "name": "Xun Jiao"
+          "id": "https://openalex.org/A5100372152",
+          "name": "Xue Liu"
         }
       ]
     },
@@ -775,6 +827,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1515161911",
+      "title": "Geographical Job Scheduling in Data Centers with Heterogeneous Demands and Servers",
+      "year": 2015,
+      "date": "2015-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5054805245",
+          "name": "Xingjian Lu"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5069353502",
+          "name": "Jianwei Yin"
+        },
+        {
+          "id": "https://openalex.org/A5100372152",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5058941949",
+          "name": "Huiqun Yu"
+        },
+        {
+          "id": "https://openalex.org/A5034901082",
+          "name": "Guisheng Fan"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3202898377",
       "title": "Recovery-by-Learning: Restoring Autonomous Cyber-physical Systems from Sensor Attacks",
       "year": 2021,
@@ -799,18 +883,26 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4244788906",
-      "title": "GreenPlanning: Optimal Energy Source Selection and Capacity Planning for Green Datacenters",
-      "year": 2016,
-      "date": "2016-04-01",
+      "id": "https://openalex.org/W2028313909",
+      "title": "Energy-efficient scheduling for parallel real-time tasks based on level-packing",
+      "year": 2011,
+      "date": "2011-03-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5100372152",
-          "name": "Xue Liu"
+          "id": "https://openalex.org/A5002245169",
+          "name": "Nan Guan"
+        },
+        {
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
+        },
+        {
+          "id": "https://openalex.org/A5100748818",
+          "name": "Wang Yi"
         }
       ]
     },
@@ -903,58 +995,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2028313909",
-      "title": "Energy-efficient scheduling for parallel real-time tasks based on level-packing",
-      "year": 2011,
-      "date": "2011-03-21",
+      "id": "https://openalex.org/W3203035817",
+      "title": "Towards scalable, secure, and smart mission-critical IoT systems: review and vision",
+      "year": 2021,
+      "date": "2021-09-30",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
+          "id": "https://openalex.org/A5011794280",
+          "name": "Xiaolong Guo"
         },
         {
-          "id": "https://openalex.org/A5002245169",
-          "name": "Nan Guan"
+          "id": "https://openalex.org/A5100623628",
+          "name": "Song Han"
         },
         {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
+          "id": "https://openalex.org/A5100600905",
+          "name": "Xiaobo Sharon Hu"
         },
         {
-          "id": "https://openalex.org/A5100748818",
-          "name": "Wang Yi"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1515161911",
-      "title": "Geographical Job Scheduling in Data Centers with Heterogeneous Demands and Servers",
-      "year": 2015,
-      "date": "2015-06-01",
-      "coauthors": [
+          "id": "https://openalex.org/A5016146461",
+          "name": "Xun Jiao"
+        },
         {
-          "id": "https://openalex.org/A5054805245",
-          "name": "Xingjian Lu"
+          "id": "https://openalex.org/A5017464942",
+          "name": "Yier Jin"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5069353502",
-          "name": "Jianwei Yin"
-        },
-        {
-          "id": "https://openalex.org/A5100372152",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5058941949",
-          "name": "Huiqun Yu"
-        },
-        {
-          "id": "https://openalex.org/A5034901082",
-          "name": "Guisheng Fan"
+          "id": "https://openalex.org/A5022295836",
+          "name": "Michael D. Lemmon"
         }
       ]
     },
@@ -983,18 +1055,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2775898841",
-      "title": "Sustainable Transportation with Electric Vehicles",
-      "year": 2017,
-      "date": "2017-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2006629977",
       "title": "Blowing hard is not all we want: Quantity vs quality of wind power in the smart grid",
       "year": 2014,
@@ -1011,66 +1071,6 @@
         {
           "id": "https://openalex.org/A5025405598",
           "name": "Haibo Zeng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4393224642",
-      "title": "Recovery from Adversarial Attacks in Cyber-physical Systems: Shallow, Deep, and Exploratory Works",
-      "year": 2024,
-      "date": "2024-03-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5081521997",
-          "name": "Pengyuan Lu"
-        },
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100761835",
-          "name": "Mengyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5043161001",
-          "name": "Kaustubh Sridhar"
-        },
-        {
-          "id": "https://openalex.org/A5082105260",
-          "name": "Oleg V. Sokolsky"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5030456600",
-          "name": "Insup Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1999501606",
-      "title": "Intelligent joint spatio-temporal management of electric vehicle charging and data center power consumption",
-      "year": 2014,
-      "date": "2014-11-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5048258685",
-          "name": "Zhonghao Sun"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100372157",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5012961763",
-          "name": "Xingshe Zhou"
         }
       ]
     },
@@ -1099,30 +1099,6 @@
         {
           "id": "https://openalex.org/A5049487451",
           "name": "Haibing Guan"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4391583787",
-      "title": "Catch You if Pay Attention: Temporal Sensor Attack Diagnosis Using Attention Mechanisms for Cyber-Physical Systems",
-      "year": 2023,
-      "date": "2023-12-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101622957",
-          "name": "Zifan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5018468480",
-          "name": "Qinru Qiu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
         }
       ]
     },
@@ -1175,26 +1151,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2805401729",
-      "title": "Joint Rate Control and Demand Balancing for Electric Vehicle Charging",
-      "year": 2018,
-      "date": "2018-04-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5108088632",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5030456600",
-          "name": "Insup Lee"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3011776991",
       "title": "Recovery-based Model Predictive Control for Cascade Mitigation under Cyber-Physical Attacks",
       "year": 2020,
@@ -1219,38 +1175,58 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3203035817",
-      "title": "Towards scalable, secure, and smart mission-critical IoT systems: review and vision",
-      "year": 2021,
-      "date": "2021-09-30",
+      "id": "https://openalex.org/W2805401729",
+      "title": "Joint Rate Control and Demand Balancing for Electric Vehicle Charging",
+      "year": 2018,
+      "date": "2018-04-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5011794280",
-          "name": "Xiaolong Guo"
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5100623628",
-          "name": "Song Han"
+          "id": "https://openalex.org/A5108088632",
+          "name": "Xue Liu"
         },
         {
-          "id": "https://openalex.org/A5100600905",
-          "name": "Xiaobo Sharon Hu"
-        },
+          "id": "https://openalex.org/A5030456600",
+          "name": "Insup Lee"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2775898841",
+      "title": "Sustainable Transportation with Electric Vehicles",
+      "year": 2017,
+      "date": "2017-01-01",
+      "coauthors": [
         {
-          "id": "https://openalex.org/A5016146461",
-          "name": "Xun Jiao"
-        },
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1999501606",
+      "title": "Intelligent joint spatio-temporal management of electric vehicle charging and data center power consumption",
+      "year": 2014,
+      "date": "2014-11-01",
+      "coauthors": [
         {
-          "id": "https://openalex.org/A5017464942",
-          "name": "Yier Jin"
+          "id": "https://openalex.org/A5048258685",
+          "name": "Zhonghao Sun"
         },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
-          "id": "https://openalex.org/A5022295836",
-          "name": "Michael D. Lemmon"
+          "id": "https://openalex.org/A5100372157",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5012961763",
+          "name": "Xingshe Zhou"
         }
       ]
     },
@@ -1263,110 +1239,6 @@
         {
           "id": "https://openalex.org/A5100372152",
           "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2005523924",
-      "title": "Green power analysis for Geographical Load Balancing based datacenters",
-      "year": 2013,
-      "date": "2013-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5070447278",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5025405598",
-          "name": "Haibo Zeng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3014865799",
-      "title": "ADMM-Based Decentralized Electric Vehicle Charging with Trip Duration Limits",
-      "year": 2019,
-      "date": "2019-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5001077607",
-          "name": "Gaoqi He"
-        },
-        {
-          "id": "https://openalex.org/A5008700879",
-          "name": "Zhifu Chai"
-        },
-        {
-          "id": "https://openalex.org/A5054805245",
-          "name": "Xingjian Lu"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4378982095",
-      "title": "Optimal Checkpointing Strategy for Real-time Systems with Both Logical and Timing Correctness",
-      "year": 2023,
-      "date": "2023-06-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5101622957",
-          "name": "Zifan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2119278665",
-      "title": "Optimal energy source selection and capacity planning for green datacenters",
-      "year": 2014,
-      "date": "2014-06-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100372152",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5102903314",
-          "name": "Lei Rao"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4389612420",
-      "title": "AI-enabled Real-Time Sensor Attack Detection for Cyber-Physical Systems",
-      "year": 2023,
-      "date": "2023-08-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5100761835",
-          "name": "Mengyu Liu"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1423,6 +1295,134 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4391583787",
+      "title": "Catch You if Pay Attention: Temporal Sensor Attack Diagnosis Using Attention Mechanisms for Cyber-Physical Systems",
+      "year": 2023,
+      "date": "2023-12-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5101622957",
+          "name": "Zifan Wang"
+        },
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5018468480",
+          "name": "Qinru Qiu"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3014865799",
+      "title": "ADMM-Based Decentralized Electric Vehicle Charging with Trip Duration Limits",
+      "year": 2019,
+      "date": "2019-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5001077607",
+          "name": "Gaoqi He"
+        },
+        {
+          "id": "https://openalex.org/A5008700879",
+          "name": "Zhifu Chai"
+        },
+        {
+          "id": "https://openalex.org/A5054805245",
+          "name": "Xingjian Lu"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4378982095",
+      "title": "Optimal Checkpointing Strategy for Real-time Systems with Both Logical and Timing Correctness",
+      "year": 2023,
+      "date": "2023-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5101622957",
+          "name": "Zifan Wang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2005523924",
+      "title": "Green power analysis for Geographical Load Balancing based datacenters",
+      "year": 2013,
+      "date": "2013-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5070447278",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5025405598",
+          "name": "Haibo Zeng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389612420",
+      "title": "AI-enabled Real-Time Sensor Attack Detection for Cyber-Physical Systems",
+      "year": 2023,
+      "date": "2023-08-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5100761835",
+          "name": "Mengyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2119278665",
+      "title": "Optimal energy source selection and capacity planning for green datacenters",
+      "year": 2014,
+      "date": "2014-06-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100372152",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5102903314",
+          "name": "Lei Rao"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4206691989",
       "title": "Applying Machine Learning in Designing Distributed Auction for Multi-agent Task Allocation with Budget Constraints",
       "year": 2021,
@@ -1447,6 +1447,18 @@
         {
           "id": "https://openalex.org/A5018468480",
           "name": "Qinru Qiu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410556350",
+      "title": "Survey of signal temporal logic specification mining: techniques, applications, and future directions",
+      "year": 2025,
+      "date": "2025-05-21",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
         }
       ]
     },
@@ -1479,38 +1491,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4410556350",
-      "title": "Survey of signal temporal logic specification mining: techniques, applications, and future directions",
-      "year": 2025,
-      "date": "2025-05-21",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4312198976",
-      "title": "Work-in-Progress: Optimal Checkpointing Strategy for Real-time Systems with Both Logical and Timing Correctness",
-      "year": 2022,
-      "date": "2022-12-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100351950",
-          "name": "Lin Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5101622957",
-          "name": "Zifan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2615645683",
       "title": "Maximizing the lifetime of wireless sensor networks in trains for monitoring long-distance goods transportation",
       "year": 2017,
@@ -1531,26 +1511,6 @@
         {
           "id": "https://openalex.org/A5001074845",
           "name": "Qingxu Deng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3211373697",
-      "title": "Antenna Pattern Aware UAV Trajectory Planning Using Artificial Potential Field",
-      "year": 2021,
-      "date": "2021-10-03",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5042456946",
-          "name": "M. Hani Sulieman"
-        },
-        {
-          "id": "https://openalex.org/A5076753154",
-          "name": "M. Cenk Gursoy"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
         }
       ]
     },
@@ -1583,6 +1543,54 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2752269616",
+      "title": "System-wide Energy Minimization for Uni-processor Real-time Systems with Multiple Devices",
+      "year": 2013,
+      "date": "2013-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        },
+        {
+          "id": "https://openalex.org/A5100750693",
+          "name": "Yuhan Lin"
+        },
+        {
+          "id": "https://openalex.org/A5102121154",
+          "name": "Huiting Xu"
+        },
+        {
+          "id": "https://openalex.org/A5077563784",
+          "name": "Ren Biyan"
+        },
+        {
+          "id": "https://openalex.org/A5034412219",
+          "name": "Deng Qingxu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4312198976",
+      "title": "Work-in-Progress: Optimal Checkpointing Strategy for Real-time Systems with Both Logical and Timing Correctness",
+      "year": 2022,
+      "date": "2022-12-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100351950",
+          "name": "Lin Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5101622957",
+          "name": "Zifan Wang"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4381894256",
       "title": "Demo: Simulation and Security Toolbox for Cyber-Physical Systems",
       "year": 2023,
@@ -1595,6 +1603,26 @@
         {
           "id": "https://openalex.org/A5100761835",
           "name": "Mengyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3211373697",
+      "title": "Antenna Pattern Aware UAV Trajectory Planning Using Artificial Potential Field",
+      "year": 2021,
+      "date": "2021-10-03",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042456946",
+          "name": "M. Hani Sulieman"
+        },
+        {
+          "id": "https://openalex.org/A5076753154",
+          "name": "M. Cenk Gursoy"
         },
         {
           "id": "https://openalex.org/A5007560139",
@@ -1679,30 +1707,50 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2752269616",
-      "title": "System-wide Energy Minimization for Uni-processor Real-time Systems with Multiple Devices",
-      "year": 2013,
-      "date": "2013-01-01",
+      "id": "https://openalex.org/W4245750689",
+      "title": "Optimal energy source selection and capacity planning for green datacenters",
+      "year": 2014,
+      "date": "2014-06-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
         },
         {
+          "id": "https://openalex.org/A5100372152",
+          "name": "Xue Liu"
+        },
+        {
+          "id": "https://openalex.org/A5102903314",
+          "name": "Lei Rao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2320353173",
+      "title": "Minimizing Energy Consumption for Linear Speedup Parallel Real-Time Tasks",
+      "year": 2014,
+      "date": "2014-03-12",
+      "coauthors": [
+        {
           "id": "https://openalex.org/A5100750693",
           "name": "Yuhan Lin"
+        },
+        {
+          "id": "https://openalex.org/A5007560139",
+          "name": "Fanxin Kong"
         },
         {
           "id": "https://openalex.org/A5102121154",
           "name": "Huiting Xu"
         },
         {
-          "id": "https://openalex.org/A5077563784",
-          "name": "Ren Biyan"
+          "id": "https://openalex.org/A5046555671",
+          "name": "Xi Jin"
         },
         {
-          "id": "https://openalex.org/A5034412219",
-          "name": "Deng Qingxu"
+          "id": "https://openalex.org/A5001074845",
+          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1743,22 +1791,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4245750689",
-      "title": "Optimal energy source selection and capacity planning for green datacenters",
-      "year": 2014,
-      "date": "2014-06-16",
+      "id": "https://openalex.org/W4404789122",
+      "title": "Pinpointing Actuator Attacks: A Novel Diagnostic Framework for Cyber-Physical Systems",
+      "year": 2024,
+      "date": "2024-10-10",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5101622957",
+          "name": "Zifan Wang"
+        },
+        {
+          "id": "https://openalex.org/A5018468480",
+          "name": "Qinru Qiu"
+        },
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5100372152",
-          "name": "Xue Liu"
-        },
-        {
-          "id": "https://openalex.org/A5102903314",
-          "name": "Lei Rao"
         }
       ]
     },
@@ -1811,34 +1859,6 @@
         {
           "id": "https://openalex.org/A5007560139",
           "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2320353173",
-      "title": "Minimizing Energy Consumption for Linear Speedup Parallel Real-Time Tasks",
-      "year": 2014,
-      "date": "2014-03-12",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100750693",
-          "name": "Yuhan Lin"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        },
-        {
-          "id": "https://openalex.org/A5102121154",
-          "name": "Huiting Xu"
-        },
-        {
-          "id": "https://openalex.org/A5046555671",
-          "name": "Xi Jin"
-        },
-        {
-          "id": "https://openalex.org/A5001074845",
-          "name": "Qingxu Deng"
         }
       ]
     },
@@ -1919,26 +1939,6 @@
         {
           "id": "https://openalex.org/A5013819603",
           "name": "Francis E. Akowuah"
-        },
-        {
-          "id": "https://openalex.org/A5007560139",
-          "name": "Fanxin Kong"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404789122",
-      "title": "Pinpointing Actuator Attacks: A Novel Diagnostic Framework for Cyber-Physical Systems",
-      "year": 2024,
-      "date": "2024-10-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5101622957",
-          "name": "Zifan Wang"
-        },
-        {
-          "id": "https://openalex.org/A5018468480",
-          "name": "Qinru Qiu"
         },
         {
           "id": "https://openalex.org/A5007560139",

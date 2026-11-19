@@ -6,7 +6,7 @@
   "openalex_name": "Edgar Bol\u00edvar-Nieto",
   "affiliation": "University of Notre Dame",
   "works_count": 32,
-  "cited_by_count": 465,
+  "cited_by_count": 509,
   "photo": "assets/faculty/edgar-bolivar-nieto.jpg",
   "num_works_fetched": 29,
   "works": [
@@ -23,26 +23,6 @@
         {
           "id": "https://openalex.org/A5065372242",
           "name": "Siavash Rezazadeh"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3194165539",
-      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
-      "year": 2021,
-      "date": "2021-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5026757426",
-          "name": "Shihao Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
           "id": "https://openalex.org/A5051369788",
@@ -75,6 +55,26 @@
         {
           "id": "https://openalex.org/A5061986744",
           "name": "Nicholas Gans"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3194165539",
+      "title": "Real-Time Activity Recognition With Instantaneous Characteristic Features of Thigh Kinematics",
+      "year": 2021,
+      "date": "2021-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026757426",
+          "name": "Shihao Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
         }
       ]
     },
@@ -171,6 +171,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4294690890",
+      "title": "Convex Optimization for Spring Design of Parallel Elastic Actuators",
+      "year": 2022,
+      "date": "2022-06-08",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5043312150",
+          "name": "Sicong Guo"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4412605479",
       "title": "Extending the Benefits of Parallel Elasticity Across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach",
       "year": 2025,
@@ -219,6 +239,30 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3194305617",
+      "title": "A convex optimization framework for robust-feasible series elastic actuators",
+      "year": 2021,
+      "date": "2021-08-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5051772147",
+          "name": "Tyler Holt Summers"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
+        },
+        {
+          "id": "https://openalex.org/A5065372242",
+          "name": "Siavash Rezazadeh"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W2551071671",
       "title": "Towards a series elastic actuator with electrically modulated stiffness for Powered Ankle-Foot Orthoses",
       "year": 2016,
@@ -247,50 +291,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3194305617",
-      "title": "A convex optimization framework for robust-feasible series elastic actuators",
-      "year": 2021,
-      "date": "2021-08-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        },
-        {
-          "id": "https://openalex.org/A5051772147",
-          "name": "Tyler Holt Summers"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        },
-        {
-          "id": "https://openalex.org/A5065372242",
-          "name": "Siavash Rezazadeh"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4294690890",
-      "title": "Convex Optimization for Spring Design of Parallel Elastic Actuators",
-      "year": 2022,
-      "date": "2022-06-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5043312150",
-          "name": "Sicong Guo"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4200413691",
       "title": "Convex Optimization for Spring Design in Series Elastic Actuators: From Theory to Practice",
       "year": 2021,
@@ -315,26 +315,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3193601395",
-      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
-      "year": 2021,
-      "date": "2021-08-09",
+      "id": "https://openalex.org/W7203469132",
+      "title": "Embroidered textile sensors for real-time multiaxial force mapping in prosthetics",
+      "year": 2026,
+      "date": "2026-08-14",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5048122826",
-          "name": "Daphna Raz"
+          "id": "https://openalex.org/A5090875881",
+          "name": "Tianhao Yu"
+        },
+        {
+          "id": "https://openalex.org/A5128867853",
+          "name": "Axel Gonz\u00e1lez Cornejo"
+        },
+        {
+          "id": "https://openalex.org/A5070883033",
+          "name": "Hyeonseo Joo"
+        },
+        {
+          "id": "https://openalex.org/A5108655539",
+          "name": "Ziheng Wang"
+        },
+        {
+          "id": "https://openalex.org/A5101757403",
+          "name": "Yumin Dai"
         },
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
-          "id": "https://openalex.org/A5054418471",
-          "name": "Necmiye \u00d6zay"
-        },
-        {
-          "id": "https://openalex.org/A5051369788",
-          "name": "Robert D. Gregg"
+          "id": "https://openalex.org/A5088885773",
+          "name": "Chi Hwan Lee"
         }
       ]
     },
@@ -367,6 +379,30 @@
         {
           "id": "https://openalex.org/A5076214359",
           "name": "Edgar Bol\u00edvar-Nieto"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3193601395",
+      "title": "Toward Phase-Variable Control of Sit-to-Stand Motion with a Powered Knee-Ankle Prosthesis",
+      "year": 2021,
+      "date": "2021-08-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5048122826",
+          "name": "Daphna Raz"
+        },
+        {
+          "id": "https://openalex.org/A5076214359",
+          "name": "Edgar Bol\u00edvar-Nieto"
+        },
+        {
+          "id": "https://openalex.org/A5054418471",
+          "name": "Necmiye \u00d6zay"
+        },
+        {
+          "id": "https://openalex.org/A5051369788",
+          "name": "Robert D. Gregg"
         }
       ]
     },
@@ -419,42 +455,6 @@
         {
           "id": "https://openalex.org/A5059437431",
           "name": "Dong Rip Kim"
-        },
-        {
-          "id": "https://openalex.org/A5088885773",
-          "name": "Chi Hwan Lee"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7203469132",
-      "title": "Embroidered textile sensors for real-time multiaxial force mapping in prosthetics",
-      "year": 2026,
-      "date": "2026-08-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5090875881",
-          "name": "Tianhao Yu"
-        },
-        {
-          "id": "https://openalex.org/A5128867853",
-          "name": "Axel Gonz\u00e1lez Cornejo"
-        },
-        {
-          "id": "https://openalex.org/A5070883033",
-          "name": "Hyeonseo Joo"
-        },
-        {
-          "id": "https://openalex.org/A5108655539",
-          "name": "Ziheng Wang"
-        },
-        {
-          "id": "https://openalex.org/A5101757403",
-          "name": "Yumin Dai"
-        },
-        {
-          "id": "https://openalex.org/A5076214359",
-          "name": "Edgar Bol\u00edvar-Nieto"
         },
         {
           "id": "https://openalex.org/A5088885773",

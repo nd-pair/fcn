@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5031304323",
   "openalex_name": "Yasemin Ozkan-Aydin",
   "affiliation": "University of Notre Dame",
-  "works_count": 77,
-  "cited_by_count": 1290,
+  "works_count": 76,
+  "cited_by_count": 1436,
   "photo": "assets/faculty/yasemin-ozkan-aydin.jpeg",
   "num_works_fetched": 75,
   "works": [
@@ -195,30 +195,30 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4407556905",
-      "title": "Grand challenges for burrowing soft robots",
-      "year": 2025,
-      "date": "2025-02-13",
+      "id": "https://openalex.org/W2909034794",
+      "title": "Soft Robotic Burrowing Device with Tip-Extension and Granular Fluidization",
+      "year": 2018,
+      "date": "2018-10-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5009175888",
-          "name": "Osman Do\u011fan Yirmibe\u015fo\u011flu"
+          "id": "https://openalex.org/A5059463904",
+          "name": "Nicholas D. Naclerio"
         },
         {
-          "id": "https://openalex.org/A5034900098",
-          "name": "Sean Even"
-        },
-        {
-          "id": "https://openalex.org/A5057164678",
-          "name": "Trevor L. Buckner"
+          "id": "https://openalex.org/A5033990176",
+          "name": "Christian M. Hubicki"
         },
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5010640110",
-          "name": "Rebecca K. Kramer-Bottiglio"
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        },
+        {
+          "id": "https://openalex.org/A5088329417",
+          "name": "Elliot Wright Hawkes"
         }
       ]
     },
@@ -271,30 +271,98 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2909034794",
-      "title": "Soft Robotic Burrowing Device with Tip-Extension and Granular Fluidization",
-      "year": 2018,
-      "date": "2018-10-01",
+      "id": "https://openalex.org/W3036262498",
+      "title": "A systematic approach to creating terrain-capable hybrid soft/hard myriapod robots",
+      "year": 2020,
+      "date": "2020-05-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5059463904",
-          "name": "Nicholas D. Naclerio"
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5033990176",
-          "name": "Christian M. Hubicki"
+          "id": "https://openalex.org/A5082871520",
+          "name": "Baxi Chong"
+        },
+        {
+          "id": "https://openalex.org/A5075789903",
+          "name": "Enes Ayd\u0131n"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4229457810",
+      "title": "A general locomotion control framework for multi-legged locomotors",
+      "year": 2022,
+      "date": "2022-05-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082871520",
+          "name": "Baxi Chong"
         },
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
+          "id": "https://openalex.org/A5030457024",
+          "name": "Jennifer M. Rieser"
         },
         {
-          "id": "https://openalex.org/A5088329417",
-          "name": "Elliot Wright Hawkes"
+          "id": "https://openalex.org/A5069667034",
+          "name": "Guillaume Sartoretti"
+        },
+        {
+          "id": "https://openalex.org/A5100417415",
+          "name": "Tianyu Wang"
+        },
+        {
+          "id": "https://openalex.org/A5021292715",
+          "name": "Julian S. Whitman"
+        },
+        {
+          "id": "https://openalex.org/A5108734024",
+          "name": "Abdul Kaba"
+        },
+        {
+          "id": "https://openalex.org/A5075789903",
+          "name": "Enes Ayd\u0131n"
+        },
+        {
+          "id": "https://openalex.org/A5085630453",
+          "name": "Ciera McFarland"
+        },
+        {
+          "id": "https://openalex.org/A5085765881",
+          "name": "Kelimar Diaz"
+        },
+        {
+          "id": "https://openalex.org/A5003547666",
+          "name": "Jeffery W. Rankin"
+        },
+        {
+          "id": "https://openalex.org/A5004340480",
+          "name": "Krijn B. Michel"
+        },
+        {
+          "id": "https://openalex.org/A5053416345",
+          "name": "Alfredo G. Nicieza"
+        },
+        {
+          "id": "https://openalex.org/A5090028813",
+          "name": "John R. Hutchinson"
+        },
+        {
+          "id": "https://openalex.org/A5048906141",
+          "name": "Howie Choset"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
         }
       ]
     },
@@ -323,30 +391,6 @@
         {
           "id": "https://openalex.org/A5044726844",
           "name": "Frank L. Hammond"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3036262498",
-      "title": "A systematic approach to creating terrain-capable hybrid soft/hard myriapod robots",
-      "year": 2020,
-      "date": "2020-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5082871520",
-          "name": "Baxi Chong"
-        },
-        {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
         },
         {
           "id": "https://openalex.org/A5078622216",
@@ -451,74 +495,22 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4229457810",
-      "title": "A general locomotion control framework for multi-legged locomotors",
-      "year": 2022,
-      "date": "2022-05-09",
+      "id": "https://openalex.org/W4394564142",
+      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
+      "year": 2024,
+      "date": "2024-04-08",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5082871520",
-          "name": "Baxi Chong"
+          "id": "https://openalex.org/A5091946633",
+          "name": "Katalin Sch\u00e4ffer"
         },
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5030457024",
-          "name": "Jennifer M. Rieser"
-        },
-        {
-          "id": "https://openalex.org/A5069667034",
-          "name": "Guillaume Sartoretti"
-        },
-        {
-          "id": "https://openalex.org/A5100417415",
-          "name": "Tianyu Wang"
-        },
-        {
-          "id": "https://openalex.org/A5021292715",
-          "name": "Julian S. Whitman"
-        },
-        {
-          "id": "https://openalex.org/A5108734024",
-          "name": "Abdul Kaba"
-        },
-        {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
-        },
-        {
-          "id": "https://openalex.org/A5085630453",
-          "name": "Ciera McFarland"
-        },
-        {
-          "id": "https://openalex.org/A5085765881",
-          "name": "Kelimar Diaz"
-        },
-        {
-          "id": "https://openalex.org/A5003547666",
-          "name": "Jeffery W. Rankin"
-        },
-        {
-          "id": "https://openalex.org/A5004340480",
-          "name": "Krijn B. Michel"
-        },
-        {
-          "id": "https://openalex.org/A5053416345",
-          "name": "Alfredo G. Nicieza"
-        },
-        {
-          "id": "https://openalex.org/A5090028813",
-          "name": "John R. Hutchinson"
-        },
-        {
-          "id": "https://openalex.org/A5048906141",
-          "name": "Howie Choset"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
         }
       ]
     },
@@ -555,42 +547,6 @@
         {
           "id": "https://openalex.org/A5078622216",
           "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4394564142",
-      "title": "Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles",
-      "year": 2024,
-      "date": "2024-04-08",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5091946633",
-          "name": "Katalin Sch\u00e4ffer"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4392405426",
-      "title": "Utilizing Bioinspired Soft Modular Appendages for Grasping and Locomotion in Multi-Legged Robots on Ground and Underwater",
-      "year": 2024,
-      "date": "2024-03-04",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5018352007",
-          "name": "Abu Nayem Md. Asraf Siddiquee"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
         }
       ]
     },
@@ -635,6 +591,50 @@
         {
           "id": "https://openalex.org/A5056059212",
           "name": "Jianing Wu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392405426",
+      "title": "Utilizing Bioinspired Soft Modular Appendages for Grasping and Locomotion in Multi-Legged Robots on Ground and Underwater",
+      "year": 2024,
+      "date": "2024-03-04",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5018352007",
+          "name": "Abu Nayem Md. Asraf Siddiquee"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4407556905",
+      "title": "Grand challenges for burrowing soft robots",
+      "year": 2025,
+      "date": "2025-02-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5009175888",
+          "name": "Osman Do\u011fan Yirmibe\u015fo\u011flu"
+        },
+        {
+          "id": "https://openalex.org/A5034900098",
+          "name": "Sean Even"
+        },
+        {
+          "id": "https://openalex.org/A5057164678",
+          "name": "Trevor L. Buckner"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5010640110",
+          "name": "Rebecca K. Kramer-Bottiglio"
         }
       ]
     },
@@ -819,66 +819,10 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2968154301",
-      "title": "A Hierarchical Geometric Framework to Design Locomotive Gaits for Highly Articulated Robots",
-      "year": 2019,
-      "date": "2019-06-22",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5071976135",
-          "name": "Baxi Zhong"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5069667034",
-          "name": "Guillaume Sartoretti"
-        },
-        {
-          "id": "https://openalex.org/A5030457024",
-          "name": "Jennifer M. Rieser"
-        },
-        {
-          "id": "https://openalex.org/A5075440564",
-          "name": "Chaohui Gong"
-        },
-        {
-          "id": "https://openalex.org/A5023584186",
-          "name": "Haosen Xing"
-        },
-        {
-          "id": "https://openalex.org/A5048906141",
-          "name": "Howie Choset"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4389666140",
-      "title": "Locomotion and Obstacle Avoidance of a Worm-Like Soft Robot",
-      "year": 2023,
-      "date": "2023-10-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5034900098",
-          "name": "Sean Even"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W2735411003",
       "title": "Geometric Mechanics Applied to Tetrapod Locomotion on Granular Media",
       "year": 2017,
-      "date": "2017-01-01",
+      "date": "2017-07-15",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031304323",
@@ -923,26 +867,58 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2015817385",
-      "title": "Modeling the Compliance of a Variable Stiffness C-Shaped Leg Using Castigliano\u2019s Theorem",
-      "year": 2010,
-      "date": "2010-01-01",
+      "id": "https://openalex.org/W4389666140",
+      "title": "Locomotion and Obstacle Avoidance of a Worm-Like Soft Robot",
+      "year": 2023,
+      "date": "2023-10-01",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5034900098",
+          "name": "Sean Even"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2968154301",
+      "title": "A Hierarchical Geometric Framework to Design Locomotive Gaits for Highly Articulated Robots",
+      "year": 2019,
+      "date": "2019-06-22",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5071976135",
+          "name": "Baxi Zhong"
+        },
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5059667511",
-          "name": "Kevin C. Galloway"
+          "id": "https://openalex.org/A5069667034",
+          "name": "Guillaume Sartoretti"
         },
         {
-          "id": "https://openalex.org/A5076987817",
-          "name": "Yi\u011fit Yaz\u0131c\u0131o\u011flu"
+          "id": "https://openalex.org/A5030457024",
+          "name": "Jennifer M. Rieser"
         },
         {
-          "id": "https://openalex.org/A5082032878",
-          "name": "Daniel E. Koditschek"
+          "id": "https://openalex.org/A5075440564",
+          "name": "Chaohui Gong"
+        },
+        {
+          "id": "https://openalex.org/A5023584186",
+          "name": "Haosen Xing"
+        },
+        {
+          "id": "https://openalex.org/A5048906141",
+          "name": "Howie Choset"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
         }
       ]
     },
@@ -991,22 +967,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4392642104",
-      "title": "Harnessing Flagella Dynamics for Enhanced Robot Locomotion at Low Reynolds Number",
-      "year": 2024,
-      "date": "2024-03-11",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5012726821",
-          "name": "Nnamdi Chikere"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4401416886",
       "title": "Machine Learning-Driven Burrowing with a Snake-Like Robot",
       "year": 2024,
@@ -1023,6 +983,22 @@
         {
           "id": "https://openalex.org/A5026611490",
           "name": "Hoeseok Yang"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392642104",
+      "title": "Harnessing Flagella Dynamics for Enhanced Robot Locomotion at Low Reynolds Number",
+      "year": 2024,
+      "date": "2024-03-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5012726821",
+          "name": "Nnamdi Chikere"
         },
         {
           "id": "https://openalex.org/A5031304323",
@@ -1051,6 +1027,82 @@
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2015817385",
+      "title": "Modeling the Compliance of a Variable Stiffness C-Shaped Leg Using Castigliano\u2019s Theorem",
+      "year": 2010,
+      "date": "2010-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5059667511",
+          "name": "Kevin C. Galloway"
+        },
+        {
+          "id": "https://openalex.org/A5076987817",
+          "name": "Yi\u011fit Yaz\u0131c\u0131o\u011flu"
+        },
+        {
+          "id": "https://openalex.org/A5082032878",
+          "name": "Daniel E. Koditschek"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3131239306",
+      "title": "Optimizing coordinate choice for locomotion systems with toroidal shape spaces",
+      "year": 2020,
+      "date": "2020-10-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5038042986",
+          "name": "Bo Lin"
+        },
+        {
+          "id": "https://openalex.org/A5082871520",
+          "name": "Baxi Chong"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5075789903",
+          "name": "Enes Ayd\u0131n"
+        },
+        {
+          "id": "https://openalex.org/A5048906141",
+          "name": "Howie Choset"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1933039687",
+      "title": "Struggles For Integration Of The Technologies Into Learning Environment In Turkey",
+      "year": 2009,
+      "date": "2009-07-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5075285873",
+          "name": "Hasan Karal"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5015368686",
+          "name": "\u00d6mer Faruk Ursava\u015f"
         }
       ]
     },
@@ -1095,6 +1147,30 @@
         {
           "id": "https://openalex.org/A5078622216",
           "name": "Daniel I. Goldman"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1599000175",
+      "title": "Characterization of Dynamic Behaviors in a Hexapod Robot",
+      "year": 2013,
+      "date": "2013-08-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5082698570",
+          "name": "Haldun Komsuo\u1e21lu"
+        },
+        {
+          "id": "https://openalex.org/A5102792178",
+          "name": "Anirudha Majumdar"
+        },
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5082032878",
+          "name": "Daniel E. Koditschek"
         }
       ]
     },
@@ -1159,78 +1235,30 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1933039687",
-      "title": "Struggles For Integration Of The Technologies Into Learning Environment In Turkey",
-      "year": 2009,
-      "date": "2009-07-27",
+      "id": "https://openalex.org/W1993162280",
+      "title": "Optimal control of a half-circular compliant legged monopod",
+      "year": 2014,
+      "date": "2014-09-27",
       "coauthors": [
-        {
-          "id": "https://openalex.org/A5075285873",
-          "name": "Hasan Karal"
-        },
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5015368686",
-          "name": "\u00d6mer Faruk Ursava\u015f"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3131239306",
-      "title": "Optimizing coordinate choice for locomotion systems with toroidal shape spaces",
-      "year": 2020,
-      "date": "2020-10-24",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5038042986",
-          "name": "Bo Lin"
+          "id": "https://openalex.org/A5068719239",
+          "name": "Af\u015far Saranl\u0131"
         },
         {
-          "id": "https://openalex.org/A5082871520",
-          "name": "Baxi Chong"
+          "id": "https://openalex.org/A5076987817",
+          "name": "Yi\u011fit Yaz\u0131c\u0131o\u011flu"
         },
         {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
+          "id": "https://openalex.org/A5071461538",
+          "name": "Uluc\u0323 Saranl\u0131"
         },
         {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
-        },
-        {
-          "id": "https://openalex.org/A5048906141",
-          "name": "Howie Choset"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1599000175",
-      "title": "Characterization of Dynamic Behaviors in a Hexapod Robot",
-      "year": 2013,
-      "date": "2013-08-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082698570",
-          "name": "Haldun Komsuo\u1e21lu"
-        },
-        {
-          "id": "https://openalex.org/A5102792178",
-          "name": "Anirudha Majumdar"
-        },
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5082032878",
-          "name": "Daniel E. Koditschek"
+          "id": "https://openalex.org/A5013005701",
+          "name": "Kemal Leblebicio\u011flu"
         }
       ]
     },
@@ -1255,26 +1283,14 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1993162280",
-      "title": "Optimal control of a half-circular compliant legged monopod",
-      "year": 2014,
-      "date": "2014-09-27",
+      "id": "https://openalex.org/W2776236910",
+      "title": "A fast and practical grid based algorithm for point-feature label placement problem",
+      "year": 2017,
+      "date": "2017-12-16",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5068719239",
-          "name": "Af\u015far Saranl\u0131"
-        },
-        {
-          "id": "https://openalex.org/A5076987817",
-          "name": "Yi\u011fit Yaz\u0131c\u0131o\u011flu"
-        },
-        {
-          "id": "https://openalex.org/A5071461538",
-          "name": "Uluc\u0323 Saranl\u0131"
         },
         {
           "id": "https://openalex.org/A5013005701",
@@ -1315,18 +1331,46 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2776236910",
-      "title": "A fast and practical grid based algorithm for point-feature label placement problem",
-      "year": 2017,
-      "date": "2017-12-16",
+      "id": "https://openalex.org/W3029926405",
+      "title": "Collective protection and transport in entangled biological and robotic active matter",
+      "year": 2020,
+      "date": "2020-05-27",
       "coauthors": [
         {
           "id": "https://openalex.org/A5031304323",
           "name": "Yasemin Ozkan-Aydin"
         },
         {
-          "id": "https://openalex.org/A5013005701",
-          "name": "Kemal Leblebicio\u011flu"
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
+        },
+        {
+          "id": "https://openalex.org/A5056101663",
+          "name": "M. Saad Bhamla"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3125044361",
+      "title": "A systematic approach to creating terrain-capable hybrid soft/hard myriapod robots",
+      "year": 2020,
+      "date": "2020-03-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5031304323",
+          "name": "Yasemin Ozkan-Aydin"
+        },
+        {
+          "id": "https://openalex.org/A5075789903",
+          "name": "Enes Ayd\u0131n"
+        },
+        {
+          "id": "https://openalex.org/A5082871520",
+          "name": "Baxi Chong"
+        },
+        {
+          "id": "https://openalex.org/A5078622216",
+          "name": "Daniel I. Goldman"
         }
       ]
     },
@@ -1863,26 +1907,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3029926405",
-      "title": "Collective protection and transport in entangled biological and robotic active matter",
-      "year": 2020,
-      "date": "2020-05-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
-        },
-        {
-          "id": "https://openalex.org/A5056101663",
-          "name": "M. Saad Bhamla"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3093223294",
       "title": "Self-propulsion on spandex: general relativity inspired robot interaction dynamics in deformable environments",
       "year": 2020,
@@ -2007,30 +2031,6 @@
         {
           "id": "https://openalex.org/A5042704373",
           "name": "Isaiah W. Taylor"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3125044361",
-      "title": "A systematic approach to creating terrain-capable hybrid soft/hard myriapod robots",
-      "year": 2020,
-      "date": "2020-03-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5031304323",
-          "name": "Yasemin Ozkan-Aydin"
-        },
-        {
-          "id": "https://openalex.org/A5075789903",
-          "name": "Enes Ayd\u0131n"
-        },
-        {
-          "id": "https://openalex.org/A5082871520",
-          "name": "Baxi Chong"
-        },
-        {
-          "id": "https://openalex.org/A5078622216",
-          "name": "Daniel I. Goldman"
         }
       ]
     },

@@ -5,8 +5,8 @@
   "openalex_id": "https://openalex.org/A5066250773",
   "openalex_name": "Toros Arikan",
   "affiliation": "University of Notre Dame",
-  "works_count": 17,
-  "cited_by_count": 101,
+  "works_count": 16,
+  "cited_by_count": 112,
   "photo": "assets/faculty/toros-arikan.jpg",
   "num_works_fetched": 15,
   "works": [
@@ -71,30 +71,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1523298302",
-      "title": "Comparison of OFDM and single-carrier schemes for Doppler Tolerant Acoustic Communications",
-      "year": 2015,
-      "date": "2015-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066250773",
-          "name": "Toros Arikan"
-        },
-        {
-          "id": "https://openalex.org/A5000606323",
-          "name": "Thomas Riedl"
-        },
-        {
-          "id": "https://openalex.org/A5028083945",
-          "name": "Andrew C. Singer"
-        },
-        {
-          "id": "https://openalex.org/A5006258193",
-          "name": "James Younce"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3119897449",
       "title": "Receiver Designs for Low-Latency HF Communications",
       "year": 2020,
@@ -139,6 +115,30 @@
         {
           "id": "https://openalex.org/A5066172831",
           "name": "Gregory W. Wornell"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1523298302",
+      "title": "Comparison of OFDM and single-carrier schemes for Doppler Tolerant Acoustic Communications",
+      "year": 2015,
+      "date": "2015-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066250773",
+          "name": "Toros Arikan"
+        },
+        {
+          "id": "https://openalex.org/A5000606323",
+          "name": "Thomas Riedl"
+        },
+        {
+          "id": "https://openalex.org/A5028083945",
+          "name": "Andrew C. Singer"
+        },
+        {
+          "id": "https://openalex.org/A5006258193",
+          "name": "James Younce"
         }
       ]
     },

@@ -2,183 +2,575 @@
   "slug": "nishanth-gadiyar",
   "display": "Nishanth Gadiyar",
   "query_name": "Nishanth Gadiyar",
-  "openalex_id": "https://openalex.org/A5136202971",
+  "openalex_id": "https://openalex.org/A5034423437",
   "openalex_name": "Nishanth Gadiyar",
   "affiliation": "Oak Ridge National Laboratory",
-  "works_count": 5,
-  "cited_by_count": 3,
+  "works_count": 26,
+  "cited_by_count": 662,
   "photo": "assets/faculty/nishanth-gadiyar.jpg",
-  "num_works_fetched": 5,
+  "num_works_fetched": 26,
   "works": [
     {
-      "id": "https://openalex.org/W7161340809",
-      "title": "Multi-Objective Optimization Framework for the Design of Wireless Power Transfer Systems",
-      "year": 2026,
-      "date": "2026-02-09",
+      "id": "https://openalex.org/W4328007168",
+      "title": "A Review of Axial Flux Permanent Magnet Machine Technology",
+      "year": 2023,
+      "date": "2023-03-20",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5118648716",
-          "name": "Lidya Mussie Weldehawaryat"
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
         },
         {
-          "id": "https://openalex.org/A5136259553",
-          "name": "Subho Mukherjee"
+          "id": "https://openalex.org/A5058007268",
+          "name": "Joachim Van Verdeghem"
         },
         {
-          "id": "https://openalex.org/A5088254237",
-          "name": "Wajiha Shireen"
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4380520395",
+      "title": "Characterization of an Axial Flux Machine With an Additively Manufactured Stator",
+      "year": 2023,
+      "date": "2023-06-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
         },
         {
-          "id": "https://openalex.org/A5136202971",
+          "id": "https://openalex.org/A5030674238",
+          "name": "Alexander D. Goodall"
+        },
+        {
+          "id": "https://openalex.org/A5028128064",
+          "name": "Iain Todd"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4310449835",
+      "title": "Topology Optimization of Electric Machines: A Review",
+      "year": 2022,
+      "date": "2022-10-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5101505871",
+          "name": "Bingnan Wang"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405784964",
+      "title": "Development of Solid Synchronous Reluctance Rotors With Multi-Material Additive Manufacturing",
+      "year": 2024,
+      "date": "2024-12-25",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5113084387",
+          "name": "Dante Newman"
+        },
+        {
+          "id": "https://openalex.org/A5001341597",
+          "name": "Patrick Faue"
+        },
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5051088586",
+          "name": "Behzad Rankouhi"
+        },
+        {
+          "id": "https://openalex.org/A5035681768",
+          "name": "Frank E. Pfefferkorn"
+        },
+        {
+          "id": "https://openalex.org/A5066821697",
+          "name": "Dan J. Thoma"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3216698538",
+      "title": "Recent Advances in Analysis and Design of Axial Flux Permanent Magnet Electric Machines",
+      "year": 2021,
+      "date": "2021-10-10",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5058007268",
+          "name": "Joachim Van Verdeghem"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4285030661",
+      "title": "Development of an Integrated Electro-Hydraulic Machine to Electrify Off-highway Vehicles",
+      "year": 2022,
+      "date": "2022-07-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5042156106",
+          "name": "Garrett R. Bohach"
+        },
+        {
+          "id": "https://openalex.org/A5112342208",
+          "name": "Minal Nahin"
+        },
+        {
+          "id": "https://openalex.org/A5056703522",
+          "name": "James D. Van de Ven"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4364374906",
+      "title": "Loss performance of an additively manufactured axial flux machine stator with an eddy-current limiting structure",
+      "year": 2023,
+      "date": "2023-04-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5030674238",
+          "name": "Alexander D. Goodall"
+        },
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        },
+        {
+          "id": "https://openalex.org/A5028128064",
+          "name": "Iain Todd"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3168709084",
+      "title": "A Review of Thermal Analysis and Management of Power Dense Electric Machines",
+      "year": 2021,
+      "date": "2021-05-17",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5108279801",
+          "name": "Martin Willard Johnson"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388544012",
+      "title": "Design of Electric Machine Windings to Independently Control Multiple Airgap Harmonics",
+      "year": 2023,
+      "date": "2023-11-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5064929444",
+          "name": "Anvar Khamitov"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388937514",
+      "title": "Evaluation of Torque-Dense Electric Machine Technology for Off-Highway Vehicle Electrification",
+      "year": 2023,
+      "date": "2023-11-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5056703522",
+          "name": "James D. Van de Ven"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3094814444",
+      "title": "Design of an Axial Flux Machine With an Integrated Hydraulic Pump for Off-Highway Vehicle Electrification",
+      "year": 2020,
+      "date": "2020-10-11",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5042156106",
+          "name": "Garrett R. Bohach"
+        },
+        {
+          "id": "https://openalex.org/A5112342208",
+          "name": "Minal Nahin"
+        },
+        {
+          "id": "https://openalex.org/A5056703522",
+          "name": "James D. Van de Ven"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2990604398",
+      "title": "Design of a Highly Integrated Electric-Hydraulic Machine for Electrifying Off-Highway Vehicles",
+      "year": 2019,
+      "date": "2019-09-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5042156106",
+          "name": "Garrett R. Bohach"
+        },
+        {
+          "id": "https://openalex.org/A5056703522",
+          "name": "James D. Van de Ven"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3048255812",
+      "title": "Comparison of Linear and Rotary Electric Machine Topologies for a Hybrid Hydraulic Electric Architecture of Off-Highway Vehicles",
+      "year": 2020,
+      "date": "2020-06-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5064929444",
+          "name": "Anvar Khamitov"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4310450715",
+      "title": "Design of Multiphase Motor Windings for Control of Multiple Airgap Fields",
+      "year": 2022,
+      "date": "2022-10-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5064929444",
+          "name": "Anvar Khamitov"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2996233979",
+      "title": "Modeling and Optimization Study of a Tightly Integrated Rotary Electric Motor-Hydraulic Pump",
+      "year": 2019,
+      "date": "2019-10-07",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5042156106",
+          "name": "Garrett R. Bohach"
+        },
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        },
+        {
+          "id": "https://openalex.org/A5056703522",
+          "name": "James D. Van de Ven"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4284884570",
+      "title": "A Review of Torque-Dense Electric Drive Systems with Potential to Bridge the Gap with Hydraulics for Off-Highway Vehicle Electrification",
+      "year": 2022,
+      "date": "2022-06-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200051544",
+      "title": "Dynamic Modeling and Design of a Radial Hydrostatic Piston Pump for Integrated Pump-Motor",
+      "year": 2021,
+      "date": "2021-10-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5112342208",
+          "name": "Minal Nahin"
+        },
+        {
+          "id": "https://openalex.org/A5042156106",
+          "name": "Garrett R. Bohach"
+        },
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        },
+        {
+          "id": "https://openalex.org/A5056703522",
+          "name": "James D. Van de Ven"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4377972164",
+      "title": "Development of a Machine Learning Technique to Accurately Estimate Battery State of Charge",
+      "year": 2022,
+      "date": "2022-12-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5083968266",
+          "name": "Varsha Pendyala"
+        },
+        {
+          "id": "https://openalex.org/A5034423437",
           "name": "Nishanth Gadiyar"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W7165932578",
-      "title": "Toward Next-Generation AI Data Centers: Power Delivery Architecture Shifts, Emerging Technologies, and Challenges",
-      "year": 2026,
-      "date": "2026-06-23",
+      "id": "https://openalex.org/W4412030687",
+      "title": "Electromagnetic Modeling of Lattice Structures in Additively Manufactured Electric Machines",
+      "year": 2025,
+      "date": "2025-05-18",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5071046098",
-          "name": "Sangwhee Lee"
+          "id": "https://openalex.org/A5069088956",
+          "name": "Shi-Uk Chung"
         },
         {
-          "id": "https://openalex.org/A5018145987",
-          "name": "Rafal P. Wojda"
+          "id": "https://openalex.org/A5060658635",
+          "name": "Peng Han"
         },
         {
-          "id": "https://openalex.org/A5033612283",
-          "name": "Cheol-Hee Jo"
-        },
-        {
-          "id": "https://openalex.org/A5052947508",
-          "name": "Shuntaro Inoue"
-        },
-        {
-          "id": "https://openalex.org/A5016094821",
-          "name": "Pedro Ribeiro"
-        },
-        {
-          "id": "https://openalex.org/A5109238204",
-          "name": "Gui-Jia Su"
-        },
-        {
-          "id": "https://openalex.org/A5051611639",
-          "name": "Mostak Mohammad"
-        },
-        {
-          "id": "https://openalex.org/A5091048970",
-          "name": "Himel Barua"
-        },
-        {
-          "id": "https://openalex.org/A5136202971",
+          "id": "https://openalex.org/A5034423437",
           "name": "Nishanth Gadiyar"
         },
         {
-          "id": "https://openalex.org/A5062119928",
-          "name": "Praveen Kumar"
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
         },
         {
-          "id": "https://openalex.org/A5139322424",
-          "name": "Spencer Cochran"
+          "id": "https://openalex.org/A5023850262",
+          "name": "Pavani Gottipati"
         },
         {
-          "id": "https://openalex.org/A5136259553",
-          "name": "Subho Mukherjee"
-        },
+          "id": "https://openalex.org/A5006944747",
+          "name": "Mark Solveson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7168266899",
+      "title": "Brushless Excitation for Wound-field Synchronous Machines using Multi-harmonic Windings",
+      "year": 2026,
+      "date": "2026-06-01",
+      "coauthors": [
         {
-          "id": "https://openalex.org/A5088950090",
-          "name": "Whit Vinson"
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
         },
         {
           "id": "https://openalex.org/A5075868662",
           "name": "Vandana Rallabandi"
         },
         {
-          "id": "https://openalex.org/A5059388122",
-          "name": "Shajjad Chowdhury"
-        },
-        {
-          "id": "https://openalex.org/A5000404906",
-          "name": "Burak Ozpineci"
+          "id": "https://openalex.org/A5140711433",
+          "name": "Subhajyoti Mukherjee"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W7168258463",
-      "title": "Optimized Gear Selection to Maximize Energy Savings in Electric Traction Drives for Medium and Heavy Duty Vehicles",
-      "year": 2026,
-      "date": "2026-06-01",
+      "id": "https://openalex.org/W2791405360",
+      "title": "A study of load prediction and load flow patterns in an IoT enabled Smart Grid with a dynamic energy market",
+      "year": 2017,
+      "date": "2017-10-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5136202971",
+          "id": "https://openalex.org/A5029762372",
+          "name": "Kshama Dwarakanath"
+        },
+        {
+          "id": "https://openalex.org/A5072553168",
+          "name": "Rohan Rao"
+        },
+        {
+          "id": "https://openalex.org/A5034423437",
           "name": "Nishanth Gadiyar"
-        },
-        {
-          "id": "https://openalex.org/A5140739945",
-          "name": "Pedro Ribeiro"
-        },
-        {
-          "id": "https://openalex.org/A5075868662",
-          "name": "Vandana Rallabandi"
-        },
-        {
-          "id": "https://openalex.org/A5059388122",
-          "name": "Shajjad Chowdhury"
-        },
-        {
-          "id": "https://openalex.org/A5000404906",
-          "name": "Burak Ozpineci"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W7168280540",
-      "title": "Artificial Neural Networks for Electric Machine Efficiency and Flux Map Computation",
-      "year": 2026,
-      "date": "2026-06-01",
+      "id": "https://openalex.org/W2944082123",
+      "title": "Modular HF Link Inverter Topology",
+      "year": 2018,
+      "date": "2018-12-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5075868662",
-          "name": "Vandana Rallabandi"
-        },
-        {
-          "id": "https://openalex.org/A5140739945",
-          "name": "Pedro Ribeiro"
-        },
-        {
-          "id": "https://openalex.org/A5136202971",
+          "id": "https://openalex.org/A5034423437",
           "name": "Nishanth Gadiyar"
         },
         {
-          "id": "https://openalex.org/A5000404906",
-          "name": "Burak Ozpineci"
+          "id": "https://openalex.org/A5064177140",
+          "name": "C. Poongothai"
+        },
+        {
+          "id": "https://openalex.org/A5057426889",
+          "name": "Krishna Vasudevan"
         }
       ]
     },
     {
-      "id": "https://openalex.org/W7168281641",
-      "title": "Digital Twin Based Condition Monitoring of LCC-LCC Inductive Power Transfer Systems",
+      "id": "https://openalex.org/W4295680099",
+      "title": "Analysis of an Induction Machine Fed by a Space Vector Modulated VSI",
+      "year": 2022,
+      "date": "2022-09-06",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2799828578",
+      "title": "A survey of deployable tools and techniques for a smarter power grid",
+      "year": 2017,
+      "date": "2017-08-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5029762372",
+          "name": "Kshama Dwarakanath"
+        },
+        {
+          "id": "https://openalex.org/A5072553168",
+          "name": "Rohan Rao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416962252",
+      "title": "Electric Machine Torque Density Enhancement Using Spatial Harmonics",
+      "year": 2025,
+      "date": "2025-10-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5034423437",
+          "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7164921925",
+      "title": "Impact of eddy current minimizing stator teeth in additively manufactured electric machines",
       "year": 2026,
       "date": "2026-06-01",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5118648716",
-          "name": "Lidya Mussie Weldehawaryat"
-        },
-        {
-          "id": "https://openalex.org/A5136259553",
-          "name": "Subho Mukherjee"
-        },
-        {
-          "id": "https://openalex.org/A5088254237",
-          "name": "Wajiha Shireen"
-        },
-        {
-          "id": "https://openalex.org/A5136202971",
+          "id": "https://openalex.org/A5034423437",
           "name": "Nishanth Gadiyar"
+        },
+        {
+          "id": "https://openalex.org/A5030674238",
+          "name": "Alexander D. Goodall"
+        },
+        {
+          "id": "https://openalex.org/A5000789420",
+          "name": "Eric Loren Severson"
         }
       ]
     }

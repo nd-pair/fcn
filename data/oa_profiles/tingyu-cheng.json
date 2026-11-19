@@ -6,7 +6,7 @@
   "openalex_name": "Tingyu Cheng",
   "affiliation": "University of Notre Dame",
   "works_count": 43,
-  "cited_by_count": 824,
+  "cited_by_count": 945,
   "photo": "assets/faculty/tingyu-cheng.jpg",
   "num_works_fetched": 42,
   "works": [
@@ -14,7 +14,7 @@
       "id": "https://openalex.org/W2795511690",
       "title": "Thermorph: Democratizing 4D Printing of Self-Folding Materials and Interfaces",
       "year": 2018,
-      "date": "2018-04-20",
+      "date": "2018-04-21",
       "coauthors": [
         {
           "id": "https://openalex.org/A5101725557",
@@ -211,46 +211,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4366547558",
-      "title": "Functional Destruction: Utilizing Sustainable Materials\u2019 Physical Transiency for Electronics Applications",
-      "year": 2023,
-      "date": "2023-04-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5017520463",
-          "name": "Taylor Tabb"
-        },
-        {
-          "id": "https://openalex.org/A5082801999",
-          "name": "Jung Wook Park"
-        },
-        {
-          "id": "https://openalex.org/A5103127803",
-          "name": "Eric M. Gallo"
-        },
-        {
-          "id": "https://openalex.org/A5087924849",
-          "name": "Aditi Maheshwari"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
-        },
-        {
-          "id": "https://openalex.org/A5017602213",
-          "name": "Andreea Danielescu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3011343656",
       "title": "Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile Substrates",
       "year": 2020,
@@ -299,6 +259,94 @@
         {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4366547558",
+      "title": "Functional Destruction: Utilizing Sustainable Materials\u2019 Physical Transiency for Electronics Applications",
+      "year": 2023,
+      "date": "2023-04-19",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5017520463",
+          "name": "Taylor Tabb"
+        },
+        {
+          "id": "https://openalex.org/A5082801999",
+          "name": "Jung Wook Park"
+        },
+        {
+          "id": "https://openalex.org/A5103127803",
+          "name": "Eric M. Gallo"
+        },
+        {
+          "id": "https://openalex.org/A5087924849",
+          "name": "Aditi Maheshwari"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
+        },
+        {
+          "id": "https://openalex.org/A5017602213",
+          "name": "Andreea Danielescu"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2798402715",
+      "title": "Demonstrating Thermorph: Democratizing 4D Printing of Self-Folding Materials and Interfaces",
+      "year": 2018,
+      "date": "2018-04-20",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5058826825",
+          "name": "Ye Tao"
+        },
+        {
+          "id": "https://openalex.org/A5062660056",
+          "name": "Jianzhe Gu"
+        },
+        {
+          "id": "https://openalex.org/A5101725557",
+          "name": "Byoungkwon An"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5100441917",
+          "name": "Xiang 'Anthony' Chen"
+        },
+        {
+          "id": "https://openalex.org/A5100328162",
+          "name": "Xiaoxiao Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5022393623",
+          "name": "Wei Dong Zhao"
+        },
+        {
+          "id": "https://openalex.org/A5049871944",
+          "name": "Youngwook Do"
+        },
+        {
+          "id": "https://openalex.org/A5100372485",
+          "name": "Teng Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5052051114",
+          "name": "Lining Yao"
         }
       ]
     },
@@ -383,6 +431,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4387331316",
+      "title": "Privacy vs. Awareness: Relieving the Tension between Older Adults and Adult Children When Sharing In-home Activity Data",
+      "year": 2023,
+      "date": "2023-09-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5105760737",
+          "name": "Jiachen Li"
+        },
+        {
+          "id": "https://openalex.org/A5045792825",
+          "name": "Bingrui Zong"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5042069840",
+          "name": "Yunzhi Li"
+        },
+        {
+          "id": "https://openalex.org/A5074346094",
+          "name": "Elizabeth D. Mynatt"
+        },
+        {
+          "id": "https://openalex.org/A5073611411",
+          "name": "Ashutosh Dhekne"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4366550204",
       "title": "SwellSense: Creating 2.5D interactions with micro-capsule paper",
       "year": 2023,
@@ -427,38 +507,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4387331316",
-      "title": "Privacy vs. Awareness: Relieving the Tension between Older Adults and Adult Children When Sharing In-home Activity Data",
-      "year": 2023,
-      "date": "2023-09-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5105760737",
-          "name": "Jiachen Li"
-        },
-        {
-          "id": "https://openalex.org/A5045792825",
-          "name": "Bingrui Zong"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5042069840",
-          "name": "Yunzhi Li"
-        },
-        {
-          "id": "https://openalex.org/A5074346094",
-          "name": "Elizabeth D. Mynatt"
-        },
-        {
-          "id": "https://openalex.org/A5073611411",
-          "name": "Ashutosh Dhekne"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4224982745",
       "title": "FlexHaptics: A Design Method for Passive Haptic Inputs Using Planar Compliant Structures",
       "year": 2022,
@@ -491,30 +539,6 @@
         {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4385481771",
-      "title": "Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment",
-      "year": 2023,
-      "date": "2023-07-09",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
-        },
-        {
-          "id": "https://openalex.org/A5026852792",
-          "name": "Josiah D. Hester"
         }
       ]
     },
@@ -619,86 +643,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2798402715",
-      "title": "Demonstrating Thermorph: Democratizing 4D Printing of Self-Folding Materials and Interfaces",
-      "year": 2018,
-      "date": "2018-04-20",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5058826825",
-          "name": "Ye Tao"
-        },
-        {
-          "id": "https://openalex.org/A5062660056",
-          "name": "Jianzhe Gu"
-        },
-        {
-          "id": "https://openalex.org/A5101725557",
-          "name": "Byoungkwon An"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5100441917",
-          "name": "Xiang 'Anthony' Chen"
-        },
-        {
-          "id": "https://openalex.org/A5100328162",
-          "name": "Xiaoxiao Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5022393623",
-          "name": "Wei Dong Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5049871944",
-          "name": "Youngwook Do"
-        },
-        {
-          "id": "https://openalex.org/A5100372485",
-          "name": "Teng Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5052051114",
-          "name": "Lining Yao"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3124673099",
-      "title": "REVIEW OF MATERIALS AND STRUCTURES IN SOFT ROBOTICS",
-      "year": 2016,
-      "date": "2016-07-18",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5008715397",
-          "name": "Tiefeng Li"
-        },
-        {
-          "id": "https://openalex.org/A5108058909",
-          "name": "Guorui Li"
-        },
-        {
-          "id": "https://openalex.org/A5103190419",
-          "name": "Yiming Liang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5104010350",
-          "name": "Yang Xuxu"
-        },
-        {
-          "id": "https://openalex.org/A5014431257",
-          "name": "Huang Zhilong"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W3199565480",
       "title": "Duco: Autonomous Large-Scale Direct-Circuit-Writing (DCW) on Vertical Everyday Surfaces Using A Scalable Hanging Plotter",
       "year": 2021,
@@ -751,6 +695,30 @@
         {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4385481771",
+      "title": "Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment",
+      "year": 2023,
+      "date": "2023-07-09",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
+        },
+        {
+          "id": "https://openalex.org/A5026852792",
+          "name": "Josiah D. Hester"
         }
       ]
     },
@@ -867,6 +835,38 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4413019846",
+      "title": "From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens",
+      "year": 2025,
+      "date": "2025-07-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5106973417",
+          "name": "Xuesi Chen"
+        },
+        {
+          "id": "https://openalex.org/A5009379863",
+          "name": "Eren Y\u0131ld\u0131z"
+        },
+        {
+          "id": "https://openalex.org/A5055913950",
+          "name": "Ilan Mandel"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5026852792",
+          "name": "Josiah D. Hester"
+        },
+        {
+          "id": "https://openalex.org/A5035704218",
+          "name": "Udit Gupta"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4410427641",
       "title": "Bioinspired Camouflage Fibers with Computer Vision-Guided Chromatic Adaptation",
       "year": 2025,
@@ -923,78 +923,34 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4413019846",
-      "title": "From Component to System: Rethinking Edge Computing Design through a Carbon-Aware Lens",
-      "year": 2025,
-      "date": "2025-07-01",
+      "id": "https://openalex.org/W3124673099",
+      "title": "REVIEW OF MATERIALS AND STRUCTURES IN SOFT ROBOTICS",
+      "year": 2016,
+      "date": "2016-07-18",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5106973417",
-          "name": "Xuesi Chen"
+          "id": "https://openalex.org/A5008715397",
+          "name": "Tiefeng Li"
         },
         {
-          "id": "https://openalex.org/A5009379863",
-          "name": "Eren Y\u0131ld\u0131z"
+          "id": "https://openalex.org/A5108058909",
+          "name": "Guorui Li"
         },
         {
-          "id": "https://openalex.org/A5055913950",
-          "name": "Ilan Mandel"
+          "id": "https://openalex.org/A5103190419",
+          "name": "Yiming Liang"
         },
         {
           "id": "https://openalex.org/A5011017276",
           "name": "Tingyu Cheng"
         },
         {
-          "id": "https://openalex.org/A5026852792",
-          "name": "Josiah D. Hester"
+          "id": "https://openalex.org/A5104010350",
+          "name": "Yang Xuxu"
         },
         {
-          "id": "https://openalex.org/A5035704218",
-          "name": "Udit Gupta"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4205834318",
-      "title": "Applying Compute-Proximal Energy Harvesting to Develop Self-Sustained Systems for Automobiles",
-      "year": 2021,
-      "date": "2021-12-02",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5082801999",
-          "name": "Jung Wook Park"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5070875931",
-          "name": "Dingtian Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5069459679",
-          "name": "Yuhui Zhao"
-        },
-        {
-          "id": "https://openalex.org/A5091262280",
-          "name": "Rosa I. Arriaga"
-        },
-        {
-          "id": "https://openalex.org/A5045801671",
-          "name": "Thad E. Starner"
-        },
-        {
-          "id": "https://openalex.org/A5045020883",
-          "name": "Mohit Gupta"
-        },
-        {
-          "id": "https://openalex.org/A5100354637",
-          "name": "Yang Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
+          "id": "https://openalex.org/A5014431257",
+          "name": "Huang Zhilong"
         }
       ]
     },
@@ -1043,38 +999,46 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4407946080",
-      "title": "Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios",
-      "year": 2025,
-      "date": "2025-02-25",
+      "id": "https://openalex.org/W4205834318",
+      "title": "Applying Compute-Proximal Energy Harvesting to Develop Self-Sustained Systems for Automobiles",
+      "year": 2021,
+      "date": "2021-12-02",
       "coauthors": [
+        {
+          "id": "https://openalex.org/A5082801999",
+          "name": "Jung Wook Park"
+        },
         {
           "id": "https://openalex.org/A5011017276",
           "name": "Tingyu Cheng"
         },
         {
-          "id": "https://openalex.org/A5033581481",
-          "name": "Jinzhi Ye"
+          "id": "https://openalex.org/A5070875931",
+          "name": "Dingtian Zhang"
         },
         {
           "id": "https://openalex.org/A5069459679",
           "name": "Yuhui Zhao"
         },
         {
-          "id": "https://openalex.org/A5010295500",
-          "name": "Yiyang Wang"
+          "id": "https://openalex.org/A5091262280",
+          "name": "Rosa I. Arriaga"
         },
         {
-          "id": "https://openalex.org/A5044729803",
-          "name": "Haiqing Xu"
+          "id": "https://openalex.org/A5045801671",
+          "name": "Thad E. Starner"
         },
         {
-          "id": "https://openalex.org/A5031239936",
-          "name": "Abigale J. Stangl"
+          "id": "https://openalex.org/A5045020883",
+          "name": "Mohit Gupta"
         },
         {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
+          "id": "https://openalex.org/A5100354637",
+          "name": "Yang Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
         }
       ]
     },
@@ -1135,114 +1099,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7134177705",
-      "title": "Reimagining Upcycled Plastic Bags: Integrating Electronics Through Design for Disassembly",
-      "year": 2026,
-      "date": "2026-03-07",
+      "id": "https://openalex.org/W4407946080",
+      "title": "Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios",
+      "year": 2025,
+      "date": "2025-02-25",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5123842626",
-          "name": "HyunJoo Oh"
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
         },
         {
           "id": "https://openalex.org/A5033581481",
           "name": "Jinzhi Ye"
         },
         {
-          "id": "https://openalex.org/A5111149197",
-          "name": "Lisa Marks"
+          "id": "https://openalex.org/A5069459679",
+          "name": "Yuhui Zhao"
         },
         {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4225133258",
-      "title": "Travelogue: Representing Indoor Trajectories as Informative Art",
-      "year": 2022,
-      "date": "2022-04-27",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5100756426",
-          "name": "Yunzhi Li"
+          "id": "https://openalex.org/A5010295500",
+          "name": "Yiyang Wang"
         },
         {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
+          "id": "https://openalex.org/A5044729803",
+          "name": "Haiqing Xu"
         },
         {
-          "id": "https://openalex.org/A5073611411",
-          "name": "Ashutosh Dhekne"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4312324583",
-      "title": "Supporting Sustainability Through Minimalist Interaction Design Aesthetics",
-      "year": 2022,
-      "date": "2022-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5061116185",
-          "name": "Zaiqiao Ye"
-        },
-        {
-          "id": "https://openalex.org/A5101431232",
-          "name": "Zitao Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5024587876",
-          "name": "Eli Blevis"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4307485828",
-      "title": "Environmental physical intelligence: Seamlessly deploying sensors and actuators to our everyday life",
-      "year": 2022,
-      "date": "2022-10-28",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413468155",
-      "title": "On-demand RFID: Improving Privacy, Security, and User Trust in RFID Activation through Physically-Intuitive Design",
-      "year": 2025,
-      "date": "2025-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5049871944",
-          "name": "Youngwook Do"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5058926016",
-          "name": "Yuxi Wu"
+          "id": "https://openalex.org/A5031239936",
+          "name": "Abigale J. Stangl"
         },
         {
           "id": "https://openalex.org/A5080271962",
           "name": "Hyunjoo Oh"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5006053551",
-          "name": "Sauvik Das"
         }
       ]
     },
@@ -1291,6 +1179,118 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4312324583",
+      "title": "Supporting Sustainability Through Minimalist Interaction Design Aesthetics",
+      "year": 2022,
+      "date": "2022-11-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5061116185",
+          "name": "Zaiqiao Ye"
+        },
+        {
+          "id": "https://openalex.org/A5101431232",
+          "name": "Zitao Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5024587876",
+          "name": "Eli Blevis"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7134177705",
+      "title": "Reimagining Upcycled Plastic Bags: Integrating Electronics Through Design for Disassembly",
+      "year": 2026,
+      "date": "2026-03-07",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5123842626",
+          "name": "HyunJoo Oh"
+        },
+        {
+          "id": "https://openalex.org/A5033581481",
+          "name": "Jinzhi Ye"
+        },
+        {
+          "id": "https://openalex.org/A5111149197",
+          "name": "Lisa Marks"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4225133258",
+      "title": "Travelogue: Representing Indoor Trajectories as Informative Art",
+      "year": 2022,
+      "date": "2022-04-27",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5100756426",
+          "name": "Yunzhi Li"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5073611411",
+          "name": "Ashutosh Dhekne"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4307485828",
+      "title": "Environmental physical intelligence: Seamlessly deploying sensors and actuators to our everyday life",
+      "year": 2022,
+      "date": "2022-10-28",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413468155",
+      "title": "On-demand RFID: Improving Privacy, Security, and User Trust in RFID Activation through Physically-Intuitive Design",
+      "year": 2025,
+      "date": "2025-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5049871944",
+          "name": "Youngwook Do"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5058926016",
+          "name": "Yuxi Wu"
+        },
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5006053551",
+          "name": "Sauvik Das"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3213517745",
       "title": "A Simulation and Prototyping Toolkit for Airflow Energy Harvesting in Vehicles",
       "year": 2021,
@@ -1315,78 +1315,6 @@
         {
           "id": "https://openalex.org/A5017564609",
           "name": "Gregory D. Abowd"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4399758706",
-      "title": "Recy-ctronics: Designing Fully Recyclable Electronics With Varied Form Factors",
-      "year": 2024,
-      "date": "2024-06-13",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
-        },
-        {
-          "id": "https://openalex.org/A5101798382",
-          "name": "Zhihan Zhang"
-        },
-        {
-          "id": "https://openalex.org/A5101080144",
-          "name": "Han Huang"
-        },
-        {
-          "id": "https://openalex.org/A5101380907",
-          "name": "Yingting Gao"
-        },
-        {
-          "id": "https://openalex.org/A5080378077",
-          "name": "Wei Sun"
-        },
-        {
-          "id": "https://openalex.org/A5017564609",
-          "name": "Gregory D. Abowd"
-        },
-        {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
-        },
-        {
-          "id": "https://openalex.org/A5026852792",
-          "name": "Josiah D. Hester"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4385614497",
-      "title": "Making Computing Visible & Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
-      "year": 2022,
-      "date": "2022-01-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5080271962",
-          "name": "Hyunjoo Oh"
-        },
-        {
-          "id": "https://openalex.org/A5066343325",
-          "name": "Sherry Hsi"
-        },
-        {
-          "id": "https://openalex.org/A5045450647",
-          "name": "Noah Posner"
-        },
-        {
-          "id": "https://openalex.org/A5060937167",
-          "name": "Colin Dixon"
-        },
-        {
-          "id": "https://openalex.org/A5044620991",
-          "name": "Tymirra Smith"
-        },
-        {
-          "id": "https://openalex.org/A5011017276",
-          "name": "Tingyu Cheng"
         }
       ]
     },
@@ -1427,6 +1355,78 @@
         {
           "id": "https://openalex.org/A5052051114",
           "name": "Lining Yao"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4385614497",
+      "title": "Making Computing Visible & Tangible: A Paper Computing Construction Kit for Co-Creating Inclusive Instructional Materials",
+      "year": 2022,
+      "date": "2022-01-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
+        },
+        {
+          "id": "https://openalex.org/A5066343325",
+          "name": "Sherry Hsi"
+        },
+        {
+          "id": "https://openalex.org/A5045450647",
+          "name": "Noah Posner"
+        },
+        {
+          "id": "https://openalex.org/A5060937167",
+          "name": "Colin Dixon"
+        },
+        {
+          "id": "https://openalex.org/A5044620991",
+          "name": "Tymirra Smith"
+        },
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399758706",
+      "title": "Recy-ctronics: Designing Fully Recyclable Electronics With Varied Form Factors",
+      "year": 2024,
+      "date": "2024-06-13",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5011017276",
+          "name": "Tingyu Cheng"
+        },
+        {
+          "id": "https://openalex.org/A5101798382",
+          "name": "Zhihan Zhang"
+        },
+        {
+          "id": "https://openalex.org/A5101080144",
+          "name": "Han Huang"
+        },
+        {
+          "id": "https://openalex.org/A5101380907",
+          "name": "Yingting Gao"
+        },
+        {
+          "id": "https://openalex.org/A5080378077",
+          "name": "Wei Sun"
+        },
+        {
+          "id": "https://openalex.org/A5017564609",
+          "name": "Gregory D. Abowd"
+        },
+        {
+          "id": "https://openalex.org/A5080271962",
+          "name": "Hyunjoo Oh"
+        },
+        {
+          "id": "https://openalex.org/A5026852792",
+          "name": "Josiah D. Hester"
         }
       ]
     },

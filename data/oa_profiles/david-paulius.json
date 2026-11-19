@@ -6,7 +6,7 @@
   "openalex_name": "David Paulius",
   "affiliation": "Brown University",
   "works_count": 27,
-  "cited_by_count": 516,
+  "cited_by_count": 673,
   "photo": "assets/faculty/david-paulius.jpg",
   "num_works_fetched": 25,
   "works": [
@@ -63,6 +63,34 @@
         {
           "id": "https://openalex.org/A5008715111",
           "name": "Raymond J. Mooney"
+        },
+        {
+          "id": "https://openalex.org/A5059273574",
+          "name": "Stefanie Tellex"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405787079",
+      "title": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
+      "year": 2024,
+      "date": "2024-10-14",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5066563254",
+          "name": "Jason Xinyu Liu"
+        },
+        {
+          "id": "https://openalex.org/A5029694255",
+          "name": "Ankit Shah"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
         },
         {
           "id": "https://openalex.org/A5059273574",
@@ -135,6 +163,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4285044929",
+      "title": "Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking",
+      "year": 2022,
+      "date": "2022-07-15",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5088099151",
+          "name": "Md Sadman Sakib"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4380450920",
       "title": "Long-Horizon Planning and Execution With Functional Object-Oriented Networks",
       "year": 2023,
@@ -175,54 +223,6 @@
         {
           "id": "https://openalex.org/A5078124517",
           "name": "George Konidaris"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4405787079",
-      "title": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
-      "year": 2024,
-      "date": "2024-10-14",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5066563254",
-          "name": "Jason Xinyu Liu"
-        },
-        {
-          "id": "https://openalex.org/A5029694255",
-          "name": "Ankit Shah"
-        },
-        {
-          "id": "https://openalex.org/A5078124517",
-          "name": "George Konidaris"
-        },
-        {
-          "id": "https://openalex.org/A5059273574",
-          "name": "Stefanie Tellex"
-        },
-        {
-          "id": "https://openalex.org/A5040257276",
-          "name": "David Paulius"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4285044929",
-      "title": "Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking",
-      "year": 2022,
-      "date": "2022-07-15",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5088099151",
-          "name": "Md Sadman Sakib"
-        },
-        {
-          "id": "https://openalex.org/A5040257276",
-          "name": "David Paulius"
-        },
-        {
-          "id": "https://openalex.org/A5100772261",
-          "name": "Yu Sun"
         }
       ]
     },
@@ -287,6 +287,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3046248787",
+      "title": "Estimating Motion Codes from Demonstration Videos",
+      "year": 2020,
+      "date": "2020-10-24",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5026314173",
+          "name": "Maxat Alibayev"
+        },
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5107072461",
+          "name": "Yu Ming Sun"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W3165917330",
       "title": "A Road-map to Robot Task Execution with the Functional Object-Oriented Network",
       "year": 2021,
@@ -311,22 +331,38 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3046248787",
-      "title": "Estimating Motion Codes from Demonstration Videos",
-      "year": 2020,
-      "date": "2020-10-24",
+      "id": "https://openalex.org/W4416749549",
+      "title": "Least Commitment Planning for the Object Scouting Problem",
+      "year": 2025,
+      "date": "2025-10-19",
       "coauthors": [
         {
-          "id": "https://openalex.org/A5026314173",
-          "name": "Maxat Alibayev"
+          "id": "https://openalex.org/A5045237639",
+          "name": "Max Merlin"
+        },
+        {
+          "id": "https://openalex.org/A5101576400",
+          "name": "Ziyi Yang"
+        },
+        {
+          "id": "https://openalex.org/A5078124517",
+          "name": "George Konidaris"
         },
         {
           "id": "https://openalex.org/A5040257276",
           "name": "David Paulius"
-        },
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3111475796",
+      "title": "Developing Motion Code Embedding for Action Recognition in Videos",
+      "year": 2021,
+      "date": "2021-01-10",
+      "coauthors": [
         {
-          "id": "https://openalex.org/A5107072461",
-          "name": "Yu Ming Sun"
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
         }
       ]
     },
@@ -395,22 +431,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2843614838",
-      "title": "A Survey of Knowledge Representation and Retrieval for Learning in Service Robotics.",
-      "year": 2018,
-      "date": "2018-07-05",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5040257276",
-          "name": "David Paulius"
-        },
-        {
-          "id": "https://openalex.org/A5100772261",
-          "name": "Yu Sun"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4417011634",
       "title": "SkillWrapper: Generative Predicate Invention for Task-level Robot Planning",
       "year": 2025,
@@ -455,6 +475,22 @@
         {
           "id": "https://openalex.org/A5102284241",
           "name": "Naman Shah"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2843614838",
+      "title": "A Survey of Knowledge Representation and Retrieval for Learning in Service Robotics.",
+      "year": 2018,
+      "date": "2018-07-05",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5040257276",
+          "name": "David Paulius"
+        },
+        {
+          "id": "https://openalex.org/A5100772261",
+          "name": "Yu Sun"
         }
       ]
     },
@@ -519,18 +555,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3111475796",
-      "title": "Developing Motion Code Embedding for Action Recognition in Videos",
-      "year": 2021,
-      "date": "2021-01-10",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5040257276",
-          "name": "David Paulius"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4226063948",
       "title": "Grounding of the Functional Object-Oriented Network in Industrial Tasks",
       "year": 2022,
@@ -543,30 +567,6 @@
         {
           "id": "https://openalex.org/A5030822076",
           "name": "Matteo Pantano"
-        },
-        {
-          "id": "https://openalex.org/A5040257276",
-          "name": "David Paulius"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416749549",
-      "title": "Least Commitment Planning for the Object Scouting Problem",
-      "year": 2025,
-      "date": "2025-10-19",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5045237639",
-          "name": "Max Merlin"
-        },
-        {
-          "id": "https://openalex.org/A5101576400",
-          "name": "Ziyi Yang"
-        },
-        {
-          "id": "https://openalex.org/A5078124517",
-          "name": "George Konidaris"
         },
         {
           "id": "https://openalex.org/A5040257276",

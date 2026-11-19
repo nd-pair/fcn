@@ -4,9 +4,9 @@
   "query_name": "Margaret Coad",
   "openalex_id": "https://openalex.org/A5062756806",
   "openalex_name": "Margaret M. Coad",
-  "affiliation": null,
+  "affiliation": "University of Notre Dame",
   "works_count": 29,
-  "cited_by_count": 792,
+  "cited_by_count": 928,
   "photo": "assets/faculty/margaret-coad.jpg",
   "num_works_fetched": 26,
   "works": [
@@ -131,42 +131,6 @@
         {
           "id": "https://openalex.org/A5019438521",
           "name": "Jee-Hwan Ryu"
-        }
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2891930862",
-      "title": "Robotic Assistance-as-Needed for Enhanced Visuomotor Learning in Surgical Robotics Training: An Experimental Study",
-      "year": 2018,
-      "date": "2018-05-01",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5068873641",
-          "name": "Nima Enayati"
-        },
-        {
-          "id": "https://openalex.org/A5067958710",
-          "name": "Allison M. Okamura"
-        },
-        {
-          "id": "https://openalex.org/A5072099031",
-          "name": "Andrea Mariani"
-        },
-        {
-          "id": "https://openalex.org/A5113850371",
-          "name": "Edoardo Pellegrini"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5045080493",
-          "name": "Giancarlo Ferrigno"
-        },
-        {
-          "id": "https://openalex.org/A5083795699",
-          "name": "Elena De Momi"
         }
       ]
     },
@@ -311,6 +275,42 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3137862458",
+      "title": "Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints",
+      "year": 2022,
+      "date": "2022-05-23",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5020531381",
+          "name": "Ioannis Exarchos"
+        },
+        {
+          "id": "https://openalex.org/A5019479887",
+          "name": "Karen D. Wang"
+        },
+        {
+          "id": "https://openalex.org/A5033366751",
+          "name": "Brian H. Do"
+        },
+        {
+          "id": "https://openalex.org/A5054512048",
+          "name": "Fabio Stroppa"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5048338914",
+          "name": "C. Karen Liu"
+        }
+      ]
+    },
+    {
       "id": "https://openalex.org/W4390604411",
       "title": "Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment",
       "year": 2024,
@@ -351,42 +351,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3137862458",
-      "title": "Task-Specific Design Optimization and Fabrication for Inflated-Beam Soft Robots with Growable Discrete Joints",
-      "year": 2022,
-      "date": "2022-05-23",
-      "coauthors": [
-        {
-          "id": "https://openalex.org/A5020531381",
-          "name": "Ioannis Exarchos"
-        },
-        {
-          "id": "https://openalex.org/A5019479887",
-          "name": "Karen D. Wang"
-        },
-        {
-          "id": "https://openalex.org/A5033366751",
-          "name": "Brian H. Do"
-        },
-        {
-          "id": "https://openalex.org/A5054512048",
-          "name": "Fabio Stroppa"
-        },
-        {
-          "id": "https://openalex.org/A5062756806",
-          "name": "Margaret M. Coad"
-        },
-        {
-          "id": "https://openalex.org/A5067958710",
-          "name": "Allison M. Okamura"
-        },
-        {
-          "id": "https://openalex.org/A5048338914",
-          "name": "C. Karen Liu"
-        }
-      ]
-    },
-    {
       "id": "https://openalex.org/W4313016218",
       "title": "Self-Propelled Soft Everting Toroidal Robot for Navigation and Climbing in Confined Spaces",
       "year": 2022,
@@ -399,6 +363,42 @@
         {
           "id": "https://openalex.org/A5062756806",
           "name": "Margaret M. Coad"
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2891930862",
+      "title": "Robotic Assistance-as-Needed for Enhanced Visuomotor Learning in Surgical Robotics Training: An Experimental Study",
+      "year": 2018,
+      "date": "2018-05-01",
+      "coauthors": [
+        {
+          "id": "https://openalex.org/A5068873641",
+          "name": "Nima Enayati"
+        },
+        {
+          "id": "https://openalex.org/A5067958710",
+          "name": "Allison M. Okamura"
+        },
+        {
+          "id": "https://openalex.org/A5072099031",
+          "name": "Andrea Mariani"
+        },
+        {
+          "id": "https://openalex.org/A5113850371",
+          "name": "Edoardo Pellegrini"
+        },
+        {
+          "id": "https://openalex.org/A5062756806",
+          "name": "Margaret M. Coad"
+        },
+        {
+          "id": "https://openalex.org/A5045080493",
+          "name": "Giancarlo Ferrigno"
+        },
+        {
+          "id": "https://openalex.org/A5083795699",
+          "name": "Elena De Momi"
         }
       ]
     },
@@ -757,8 +757,8 @@
           "name": "Michael Thomas Tolley"
         },
         {
-          "id": "https://openalex.org/A5134132297",
-          "name": "Barry Trimmer"
+          "id": "https://openalex.org/A5031103460",
+          "name": "Barry Andrew Trimmer"
         },
         {
           "id": "https://openalex.org/A5126895015",
